@@ -197,8 +197,8 @@ const displayText = source === 'all'
 
         const isActive = source === activeSource ? 'active' : '';
 
-        return `<span class="tag ${isActive}" data-source="${source}">${esc(displayText)}</span>`;
-    }).join('');
+        const disabled = (counts[source] || 0) === 0 ? 'disabled' : '';
+return `<span class="tag ${isActive} ${disabled}" data-source="${source}">${esc(displayText)}</span>`;
 }
 
 /**
