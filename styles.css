@@ -1070,3 +1070,4 @@ button:hover {
         padding: 5px 10px;
     }
 }
+.tag.disabled { opacity: .45; pointer-events: none; }
