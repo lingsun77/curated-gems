@@ -83,7 +83,7 @@ function mountControls() {
 
     // 🔍 优化后的搜索框提示文字 - 更友好、更直观
     const placeholder = lang === 'zh'
-        ? '🔍 输入关键词搜索精彩内容...'
+        ? '👉 想搜点啥？试试看~'
         : '🔍 Enter keywords to search amazing content...';
 
     controlsEl.innerHTML = `
@@ -151,6 +151,10 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
+    // 彩蛋：输入 wow 出现礼花
+    if (query === 'wow') {
+        alert('🎉 你发现了彩蛋！');
+    }
 }
 
 /**
@@ -183,7 +187,7 @@ function render(items) {
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧',
+            zh: '🦄 咦？什么都没搜到，要不要换个词？',
             en: '😅 No relevant content found, try different keywords'
         };
 
