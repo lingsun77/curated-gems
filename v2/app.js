@@ -173,6 +173,8 @@ window.__countsForCurrentQuery = counts;
         return matchesQuery && matchesSource;
     });
 
+    renderSources(['all', ...new Set(raw.map(x => x.source))]);
+
     // 渲染结果
     render(view);
 }
@@ -181,13 +183,17 @@ window.__countsForCurrentQuery = counts;
  * 渲染数据源选择器
  */
 function renderSources(list) {
+    const counts = window.__countsForCurrentQuery || { all: raw.length };
     const lang = window.currentLang || 'zh';
 
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
-        const displayText = source === 'all'
-            ? (lang === 'zh' ? '📚 全部精选' : '📚 All Sources')
-            : `✨ ${source}`;
+        const n = counts[source] || 0;
+const displayText = source === 'all'
+  ? (lang === 'zh'
+      ? `📚 全部精选 (${n})`
+      : `📚 All Sources (${n})`)
+  : `✨ ${source} (${n})`;
 
         const isActive = source === activeSource ? 'active' : '';
 
