@@ -65,7 +65,19 @@ async function init() {
 
 async function loadData() {
   try {
-    const response = await fetch('../data.json');
+    // 动态构建data.json路径，支持GitHub Pages部署
+    const currentPath = window.location.pathname;
+    let dataPath;
+    
+    if (currentPath.includes('/curated-gems-1/')) {
+      // GitHub Pages环境：包含仓库名的路径
+      dataPath = currentPath.replace(/\/v3\/.*$/, '') + '/data.json';
+    } else {
+      // 本地开发环境或其他环境
+      dataPath = '../data.json';
+    }
+    
+    const response = await fetch(dataPath);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
