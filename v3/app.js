@@ -69,11 +69,15 @@ async function loadData() {
     const currentPath = window.location.pathname;
     let dataPath;
     
-    if (currentPath.includes('/curated-gems-1/')) {
-      // GitHub Pages环境：包含仓库名的路径
+    // 智能检测部署环境
+    const isGitHubPages = window.location.hostname.includes('github.io');
+    const hasSubPath = currentPath.split('/').length > 3; // 路径深度大于3说明可能在子目录中
+    
+    if (isGitHubPages || hasSubPath) {
+      // GitHub Pages或其他子目录部署环境
       dataPath = currentPath.replace(/\/v3\/.*$/, '') + '/data.json';
     } else {
-      // 本地开发环境或其他环境
+      // 本地开发环境或根目录部署
       dataPath = '../data.json';
     }
     
