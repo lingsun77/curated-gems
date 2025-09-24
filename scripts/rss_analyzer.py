@@ -9,6 +9,18 @@ import re
 import json
 from tag_optimizer import TagOptimizer
 
+# Optional Selenium imports for dynamic content
+try:
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+    from selenium.common.exceptions import TimeoutException, WebDriverException
+    SELENIUM_AVAILABLE = True
+except ImportError:
+    SELENIUM_AVAILABLE = False
+
 # Load .env file for local development
 try:
     from dotenv import load_dotenv
@@ -56,6 +68,11 @@ MAX_API_CALLS = 8         # Maximum model API calls for this run (failures also 
 MAX_PER_SOURCE = 5        # Maximum candidate items sampled per source (candidates only, not final success count)
 HTTP_TIMEOUT = 20         # Timeout seconds for web scraping/model calls
 REQUEST_SLEEP = 0.2       # Light sleep to reduce rate limiting probability
+
+# Dynamic content loading configuration
+CONTENT_LOAD_DELAY = 3    # Seconds to wait for dynamic content to load
+SELENIUM_TIMEOUT = 15     # Selenium WebDriver timeout
+MIN_CONTENT_RETRY_THRESHOLD = 500  # If content is shorter than this, try alternative methods
 
 # CSS selector list for extracting main content (优先尝试的内容选择器)
 CONTENT_SELECTORS = [
@@ -271,8 +288,148 @@ def optimize_content_length(text):
     
     return combined
 
+def extract_with_selenium(link):
+    """使用Selenium WebDriver提取动态加载的内容"""
+    if not SELENIUM_AVAILABLE:
+        return None, "Selenium not available"
+    
+    driver = None
+    try:
+        # 配置Chrome选项
+        chrome_options = Options()
+        chrome_options.add_argument('--headless')  # 无头模式
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--window-size=1920,1080')
+        chrome_options.add_argument('--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36')
+        
+        # 创建WebDriver实例
+        driver = webdriver.Chrome(options=chrome_options)
+        driver.set_page_load_timeout(SELENIUM_TIMEOUT)
+        
+        # 加载页面
+        driver.get(link)
+        
+        # 等待页面加载完成
+        time.sleep(CONTENT_LOAD_DELAY)
+        
+        # 尝试等待主要内容元素出现
+        try:
+            WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.TAG_NAME, "article"))
+            )
+        except TimeoutException:
+            # 如果没有article标签，等待body加载完成
+            try:
+                WebDriverWait(driver, 5).until(
+                    EC.presence_of_element_located((By.TAG_NAME, "body"))
+                )
+            except TimeoutException:
+                pass
+        
+        # 获取页面源码
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, 'html.parser')
+        
+        # 使用相同的内容提取逻辑
+        article_body = None
+        for selector in CONTENT_SELECTORS:
+            node = soup.select_one(selector)
+            if node:
+                article_body = node
+                break
+        
+        if not article_body:
+            # 兜底策略
+            fallback_candidates = []
+            for tag_name in ['article', 'div', 'section', 'main']:
+                elements = soup.find_all(tag_name)
+                for element in elements:
+                    temp_element = element.__copy__()
+                    for noise_tag in temp_element.find_all(['nav', 'footer', 'header', 'aside', 'script', 'style']):
+                        noise_tag.decompose()
+                    
+                    text_content = temp_element.get_text(separator='\n', strip=True)
+                    if text_content:
+                        fallback_candidates.append((element, len(text_content)))
+            
+            if fallback_candidates:
+                article_body = max(fallback_candidates, key=lambda x: x[1])[0]
+        
+        if article_body:
+            text = article_body.get_text(separator='\n', strip=True)
+            cleaned_text = clean_text_lines(text)
+            optimized_text = optimize_content_length(cleaned_text)
+            return optimized_text, "Content extracted successfully with Selenium!"
+        else:
+            return None, "Failed to extract content with Selenium"
+            
+    except Exception as e:
+        return None, f"Selenium extraction failed: {e}"
+    finally:
+        if driver:
+            try:
+                driver.quit()
+            except Exception:
+                pass
+
+def extract_with_delay(link):
+    """使用延迟等待的requests方法提取内容"""
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'}
+    
+    try:
+        # 第一次请求
+        resp = requests.get(link, headers=headers, timeout=HTTP_TIMEOUT)
+        resp.raise_for_status()
+        
+        # 等待一段时间，让服务器有时间渲染内容
+        time.sleep(CONTENT_LOAD_DELAY)
+        
+        # 第二次请求，有些网站可能需要多次请求才能获取完整内容
+        resp2 = requests.get(link, headers=headers, timeout=HTTP_TIMEOUT)
+        resp2.raise_for_status()
+        
+        # 使用第二次请求的结果
+        soup = BeautifulSoup(resp2.text, 'html.parser')
+        
+        # 使用相同的内容提取逻辑
+        article_body = None
+        for selector in CONTENT_SELECTORS:
+            node = soup.select_one(selector)
+            if node:
+                article_body = node
+                break
+        
+        if not article_body:
+            fallback_candidates = []
+            for tag_name in ['article', 'div', 'section', 'main']:
+                elements = soup.find_all(tag_name)
+                for element in elements:
+                    temp_element = element.__copy__()
+                    for noise_tag in temp_element.find_all(['nav', 'footer', 'header', 'aside', 'script', 'style']):
+                        noise_tag.decompose()
+                    
+                    text_content = temp_element.get_text(separator='\n', strip=True)
+                    if text_content:
+                        fallback_candidates.append((element, len(text_content)))
+            
+            if fallback_candidates:
+                article_body = max(fallback_candidates, key=lambda x: x[1])[0]
+        
+        if article_body:
+            text = article_body.get_text(separator='\n', strip=True)
+            cleaned_text = clean_text_lines(text)
+            optimized_text = optimize_content_length(cleaned_text)
+            return optimized_text, "Content extracted successfully with delayed requests!"
+        else:
+            return None, "Failed to extract content with delayed requests"
+            
+    except Exception as e:
+        return None, f"Delayed extraction failed: {e}"
+
 def extract_full_content(link, rss_content_html):
-    """Extract webpage content; if RSS already contains long content, use it directly; otherwise scrape webpage and extract content."""
+    """Extract webpage content with intelligent retry mechanism for dynamic content."""
     # First try RSS content (some sources have complete content)
     content_from_rss = ""
     if isinstance(rss_content_html, list) and rss_content_html:
@@ -285,62 +442,101 @@ def extract_full_content(link, rss_content_html):
         optimized_rss = optimize_content_length(cleaned_rss)
         return optimized_rss, "Content fully retrieved from RSS Feed."
 
-    # RSS content is short, try to scrape webpage
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    try:
-        resp = requests.get(link, headers=headers, timeout=HTTP_TIMEOUT)
-        resp.raise_for_status()
-    except Exception as e:
-        cleaned_rss = clean_text_lines(content_from_rss)
-        optimized_rss = optimize_content_length(cleaned_rss)
-        return optimized_rss, f"RSS content is summary, webpage scraping failed: {e}, fallback to RSS summary."
-
-    soup = BeautifulSoup(resp.text, 'html.parser')
-
-    # 优先尝试内容选择器
-    article_body = None
-    for selector in CONTENT_SELECTORS:
-        node = soup.select_one(selector)
-        if node:
-            article_body = node
-            break
-
-    # 兜底策略：从 article/div/section/main 中选文本最长的容器
-    if not article_body:
-        fallback_candidates = []
-        for tag_name in ['article', 'div', 'section', 'main']:
-            elements = soup.find_all(tag_name)
-            for element in elements:
-                # 移除导航、页脚、侧边栏等噪音元素
-                temp_element = element.__copy__()
-                for noise_tag in temp_element.find_all(['nav', 'footer', 'header', 'aside', 'script', 'style']):
-                    noise_tag.decompose()
+    # RSS content is short, try multiple extraction methods
+    extraction_methods = [
+        ("standard_requests", "Standard requests method"),
+        ("delayed_requests", "Delayed requests method"),
+        ("selenium", "Selenium WebDriver method")
+    ]
+    
+    best_content = ""
+    best_message = ""
+    
+    for method_name, method_description in extraction_methods:
+        try:
+            if method_name == "standard_requests":
+                # Original standard method
+                headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'}
+                resp = requests.get(link, headers=headers, timeout=HTTP_TIMEOUT)
+                resp.raise_for_status()
+                soup = BeautifulSoup(resp.text, 'html.parser')
                 
-                text_content = temp_element.get_text(separator='\n', strip=True)
-                if text_content:
-                    fallback_candidates.append((element, len(text_content)))
-        
-        # 选择文本最长的容器
-        if fallback_candidates:
-            article_body = max(fallback_candidates, key=lambda x: x[1])[0]
+                # Extract content using standard logic
+                article_body = None
+                for selector in CONTENT_SELECTORS:
+                    node = soup.select_one(selector)
+                    if node:
+                        article_body = node
+                        break
 
-    # 最后的兜底：清理后的body
-    if not article_body:
-        body = soup.find('body')
-        if body:
-            for tag in body.find_all(['nav', 'footer', 'header', 'aside', 'script', 'style']):
-                tag.decompose()
-            article_body = body
+                if not article_body:
+                    fallback_candidates = []
+                    for tag_name in ['article', 'div', 'section', 'main']:
+                        elements = soup.find_all(tag_name)
+                        for element in elements:
+                            temp_element = element.__copy__()
+                            for noise_tag in temp_element.find_all(['nav', 'footer', 'header', 'aside', 'script', 'style']):
+                                noise_tag.decompose()
+                            
+                            text_content = temp_element.get_text(separator='\n', strip=True)
+                            if text_content:
+                                fallback_candidates.append((element, len(text_content)))
+                    
+                    if fallback_candidates:
+                        article_body = max(fallback_candidates, key=lambda x: x[1])[0]
 
-    if article_body:
-        text = article_body.get_text(separator='\n', strip=True)
-        cleaned_text = clean_text_lines(text)
-        optimized_text = optimize_content_length(cleaned_text)
-        return optimized_text, "Content extraction successful!"
-    else:
-        cleaned_rss = clean_text_lines(content_from_rss)
-        optimized_rss = optimize_content_length(cleaned_rss)
-        return optimized_rss, "Warning: Failed to extract main content, will use RSS summary."
+                if not article_body:
+                    body = soup.find('body')
+                    if body:
+                        for tag in body.find_all(['nav', 'footer', 'header', 'aside', 'script', 'style']):
+                            tag.decompose()
+                        article_body = body
+
+                if article_body:
+                    text = article_body.get_text(separator='\n', strip=True)
+                    cleaned_text = clean_text_lines(text)
+                    optimized_text = optimize_content_length(cleaned_text)
+                    
+                    # If content is good enough, return immediately
+                    if len(optimized_text.strip()) >= MIN_CONTENT_RETRY_THRESHOLD:
+                        return optimized_text, f"Content extraction successful with {method_description}!"
+                    else:
+                        # Store as backup but try other methods
+                        if len(optimized_text.strip()) > len(best_content.strip()):
+                            best_content = optimized_text
+                            best_message = f"Content extracted with {method_description} (short content, tried alternatives)"
+                
+            elif method_name == "delayed_requests":
+                # Try delayed requests method
+                content, message = extract_with_delay(link)
+                if content and len(content.strip()) >= MIN_CONTENT_RETRY_THRESHOLD:
+                    return content, message
+                elif content and len(content.strip()) > len(best_content.strip()):
+                    best_content = content
+                    best_message = message + " (short content, tried alternatives)"
+                    
+            elif method_name == "selenium":
+                # Try Selenium method as last resort
+                if SELENIUM_AVAILABLE:
+                    content, message = extract_with_selenium(link)
+                    if content and len(content.strip()) >= MIN_CONTENT_RETRY_THRESHOLD:
+                        return content, message
+                    elif content and len(content.strip()) > len(best_content.strip()):
+                        best_content = content
+                        best_message = message + " (short content, no better alternatives)"
+                        
+        except Exception as e:
+            print(f"  {method_description} failed: {e}")
+            continue
+    
+    # If we have some content from any method, use the best one
+    if best_content.strip():
+        return best_content, best_message
+    
+    # All methods failed, fallback to RSS content
+    cleaned_rss = clean_text_lines(content_from_rss)
+    optimized_rss = optimize_content_length(cleaned_rss)
+    return optimized_rss, "Warning: All extraction methods failed, using RSS summary."
 
 
 def parse_json_safely(text):
@@ -662,11 +858,13 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
     print(f"Source: {source_name}")
     print(f"Link: {link}")
 
-    # Extract content
+    # Extract content with enhanced debugging
+    print("Attempting content extraction...")
     full_content, extract_msg = extract_full_content(
         link, latest_entry.get('content', [{'value': ''}])
     )
     print(f"Content extraction: {extract_msg}")
+    print(f"Content length: {len(full_content.strip())} characters")
 
     # Skip if content is too short (don't consume model calls)
     if len(full_content.strip()) < 200:
