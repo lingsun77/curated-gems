@@ -995,4 +995,121 @@
     "summary_zh": "这篇Wait But Why的文章介绍了一款与Kurzgesagt合作开发的名为“Universe in a Nutshell”的应用程序。它讲述了这段合作的缘起，源于对宇宙尺度可视化共同的着迷。作者将这款应用描述为一个“大得不可思议”且“高分辨率”的互动墙，展示了250个物体及三万多字的解释。最有意思的是，文章强调通过理解这些物体都存在于同一个二维平面上，来体验一种“震撼心灵”的效果，挑战我们对尺度的固有认知。这不仅是跨界合作的典范，也让我反思，如何能将深奥的科学概念以如此引人入胜的方式呈现给大众，激发更广泛的求知欲。",
     "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
     "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是这样，是因为你的大脑拒绝接受你所看到的实际尺寸的疯狂。通过反复提醒自己，所有这些物体都“画”在同一个二维墙上，你或许会体验到一些有趣的、令人脑洞大开的时刻。"
+  },{
+    "id": 81,
+    "title": "Put yourself first! 10 ways women can get a much better deal at work, home – and beyond",
+    "title_zh": "把自己放在第一位！10种方法让女性在工作、家庭及生活中获得更好的待遇",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/23/put-yourself-first-10-ways-women-can-get-a-much-better-deal-at-work-home-and-beyond",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "Corinne Low's personal journey reveals the profound challenges women face in balancing work, family, and personal well-being. Her insights highlight the systemic inequities in household labor and career progression, offering practical strategies for women to negotiate better deals in all aspects of life. The article critiques the 'have it all' myth and provides actionable advice on time management, relationship dynamics, and workplace negotiation. Low's economic perspective offers a unique lens on gender disparities, making a compelling case for systemic change and personal empowerment.",
+    "summary_zh": "科琳·洛的个人经历揭示了女性在工作、家庭与个人幸福之间的深层挑战。她的见解揭露了家务劳动与职业发展中的系统性不公，提供了切实可行的策略帮助女性在生活各个领域争取更好的待遇。文章批判了“事业家庭两不误”的神话，并给出了时间管理、关系处理与职场谈判的实际建议。洛从经济学角度分析性别差异，为系统性变革与个人赋能提出了有力论据。",
+    "best_quote_en": "I not only felt as though I didn’t 'have it all'; I felt as if I didn’t have anything.",
+    "best_quote_zh": "我不只是觉得自己没有做到'样样兼顾'，我甚至觉得自己一无所有。"
+  },
+  {
+    "id": 82,
+    "title": "An NFT That Saves Lives",
+    "title_zh": "一个拯救生命的NFT",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nft.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "tech-trends",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "技术趋势",
+      "数据驱动"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "This article explores an innovative use of NFT technology for social impact, highlighting Noora Health's initiative to save lives through maternal and infant care education in South Asia. The NFT, titled 'Save Thousands of Lives,' directly ties its value to measurable health outcomes, with proceeds funding programs that save 9 babies per 1,000 live births. The author emphasizes the transparency of tracking funds and impact, as well as the unique aspect where the NFT's value grows with its price, directly correlating to more lives saved. This case study demonstrates how blockchain technology can be leveraged for philanthropy in a novel and accountable way, challenging traditional perceptions of NFT utility.",
+    "summary_zh": "这篇文章探讨了NFT技术在社会影响领域的创新应用，聚焦Noora Health通过在南亚医院开展母婴护理教育节省生命的项目。名为“拯救数千生命”的NFT将价值直接与可衡量的健康成果挂钩，资金用于每1000名新生儿可拯救9个婴儿的项目。作者强调了资金追踪和影响力的透明度，以及NFT价值随价格上涨而提升的独特性，这直接意味着更多生命得以拯救。这一案例展示了区块链技术如何以新颖且负责任的方式用于慈善事业，挑战了对NFT实用性的传统认知。",
+    "best_quote_en": "The higher the price of this NFT goes, the more lives will be saved.",
+    "best_quote_zh": "这个NFT的价格越高，就能拯救更多的生命。"
+  },
+  {
+    "id": 83,
+    "title": "Can Progressive Mayors Redeem the Democratic Party?",
+    "title_zh": "进步市长能否拯救民主党？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-progressive-mayors-redeem-the-democratic-party",
+    "tags": [
+      "solve",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "The article explores how progressive mayors like Michelle Wu in Boston, Zohran Mamdani in New York, and Katie Wilson in Seattle are revitalizing democratic governance at the municipal level. These young, progressive leaders are distinguishing themselves by focusing on practical issues that matter to diverse voter bases, such as affordability, crime, and livability, rather than relying on traditional political tactics. Their success suggests a potential shift in Democratic Party strategy, moving away from federal-level struggles to more localized, competent governance. The piece highlights how these mayors are addressing real-world problems with innovative solutions, earning voter trust not through grand promises but through genuine effort and competence. The article also contrasts their approach with the broader challenges faced by the Democratic Party at the national level, suggesting that municipal leadership could be a source of renewed democratic vitality.",
+    "summary_zh": "文章探讨了进步市长如何在地方层面重塑民主治理。波士顿的米歇尔·武、纽约的佐兰·曼达尼和西雅图的凯蒂·威尔逊等年轻进步领导人，通过聚焦住房、治安等实际问题，赢得了多元选民的信任。他们的成功可能预示民主党战略转向地方治理，与联邦层面的困境形成对比。这些市长以务实的态度解决问题，展现了民主活力的可能。",
+    "best_quote_en": "Being mayor, in the end, is a role that rewards competence above all.",
+    "best_quote_zh": "最终，担任市长这一角色最看重的是能力。"
+  },
+  {
+    "id": 84,
+    "title": "You Won’t Believe My Morning",
+    "title_zh": "你不会相信我的早晨",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
+    "tags": [
+      "inspire",
+      "science",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2020-03-25",
+    "summary_en": "This whimsical yet profound story explores the concept of parallel worlds and the relativity of scale, blending science fiction with philosophical reflection on human existence. The narrator's journey from a microscopic village to an even smaller atomic world challenges our perceptions of reality and the interconnectedness of life. The tale serves as a metaphor for human struggles with wisdom, unity, and technological advancement, suggesting that external crises might be necessary to foster global cooperation. The author's playful tone and imaginative scenario make complex ideas accessible, while the underlying message about humanity's need for introspection and collective action resonates deeply.",
+    "summary_zh": "这个奇幻而深刻的故事探讨了平行世界和尺度相对性的概念，将科幻与人类存在的哲学思考相结合。叙述者从微观村庄到更小的原子世界的旅程挑战了我们对现实的认知和生命的相互关联。这则寓言暗示，外部危机可能是促进全球合作的必要手段。作者幽默的笔调和想象力使复杂的想法变得易于理解，而关于人类需要自我反省和集体行动的深层信息引人深思。",
+    "best_quote_en": "Your world is stubborn about growing up. And in the process of destroying yourselves, we believe you’ll destroy us as well.",
+    "best_quote_zh": "你们的世界固执地拒绝成长。在自我毁灭的过程中，我们相信你们也会毁灭我们。"
+  },
+  {
+    "id": 85,
+    "title": "Heart and Brain / Formica Forever",
+    "title_zh": "心与脑 / 永恒的福米加",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/heart-and-brain-formica-forever/",
+    "tags": [
+      "analyze",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "This content presents two distinct book reviews that offer unique perspectives on creativity and design. 'Heart and Brain' explores the charming dynamic between logic and emotion through humorous comics, capturing universal human experiences with remarkable authenticity. It serves as both an entertaining read and a subtle guide to understanding our inner conflicts. 'Formica Forever' is a nostrous celebration of a material that shaped mid-century design, blending history, visual artistry, and cultural commentary. Together, these reviews inspire appreciation for both emotional intelligence and material innovation, demonstrating how art can elevate everyday experiences.",
+    "summary_zh": "这篇内容包含两本截然不同书籍的评论，为创意与设计提供了独特视角。《心与脑》通过幽默漫画探索了逻辑与情感之间的动人互动，真实捕捉了普遍人类体验。它既是娱乐读物，也是理解内心冲突的指南。而《永恒的福米加》则是对塑造中世纪设计材料的热情赞美，融合了历史、视觉艺术和文化评论。这两篇评论共同激发了对情感智慧和材料创新的欣赏，展示了艺术如何提升日常体验。",
+    "best_quote_en": "Heart and Brain is a wonderful collection of the lovable characters from Nick Seluk's The Awkward Yeti webcomic.",
+    "best_quote_zh": "心与脑是尼克·塞鲁克《笨拙的雪怪》网络漫画中可爱的角色的精彩合集。"
   }]
