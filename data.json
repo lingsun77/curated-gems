@@ -1461,4 +1461,49 @@
     "summary_zh": "该研究聚焦于变压器如何构建和利用世界模型，特别针对RRXOR数据生成过程。发现之前的约束信念更新假设无法推广至RRXOR，但实证结果显示部分早期研究的模式依然存在。研究揭示了变压器平行架构与最优递归预测之间的张力，为理解这些模型如何克服架构限制提供了初步见解。这项工作为AI安全领域的大型语言模型世界模型形成机制奠定了基础，强调了更通用理论和更强大的实证验证的必要性。",
     "best_quote_en": "The picture of successive evolution through the transformer – from geometry associated to approximate then optimal prediction – is elegant and elucidating; however, we know it cannot exactly hold in general settings.",
     "best_quote_zh": "变压器中从近似预测到最优预测的几何演化图景优雅且富有启发性，但我们知道它在一般情况下并不能完全成立。"
+  },{
+    "id": 101,
+    "title": "把秋天含在嘴里｜九月咖啡订阅计划",
+    "title_zh": "把秋天含在嘴里｜九月咖啡订阅计划",
+    "source": "看理想",
+    "link": "https://mp.weixin.qq.com/s/EH9NsA1rCQWAu322ENIgXw",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "This coffee subscription plan from '看理想' offers a sensory and narrative experience that transcends mere beverage consumption. The September offering, 'Stories Will Tell', combines Brazilian and Yunnan coffee beans with rum, cocoa, and roasted nut flavors, evoking a nostalgic atmosphere reminiscent of cozy storytelling by the fireplace. The content cleverly blends product promotion with literary and sensory storytelling, creating a multi-dimensional experience that appeals to both coffee enthusiasts and those seeking immersive content. The '狼狗时光' metaphor beautifully captures the liminal quality of dawn and dusk, paralleling the mysterious and evocative nature of storytelling itself.",
+    "summary_zh": "看理想的咖啡订阅计划不仅是品饮，更是一种沉浸式的体验。九月的「故事便利店」主题咖啡，通过巴西与云南豆的拼配，营造出朗姆酒、可可和烤坚果的温暖质感，唤起人们对童年故事时光的回忆。内容巧妙地将产品推广与文学、感官体验结合，创造出多维度的用户互动。狼狗时光的比喻，恰如其分地描绘了黄昏与清晨的朦胧状态，恰似故事本身的神秘与难以捉摸。",
+    "best_quote_en": "'狼狗时光' is that ambiguous time between day and night when things are not quite clear - it's the perfect metaphor for the magical quality of storytelling.",
+    "best_quote_zh": "「狼狗时光」大约是在早晨五六点，天将明未明之际，或者黄昏六点多之间，那种暧昧、神秘，事物看不分明，光与影的幻日线的状态。"
+  },
+  {
+    "id": 102,
+    "title": "‘The closest I came to making life was the closest I came to death’: Florence Welch on sexism, screaming and the lost pregnancy that nearly killed her",
+    "title_zh": "‘我离生最近的时刻也是我离死最近的时刻’：佛罗伦斯·韦尔奇谈性别歧视、尖叫与几乎夺去她生命的流产",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2025/sep/27/florence-welch-sexism-screaming-lost-pregnancy-nearly-killed-her",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "Florence Welch's raw and revealing interview delves into the profound physical and emotional trauma of her ectopic pregnancy, which nearly cost her life. Her new album, Everybody Scream, channels this experience into a powerful exploration of grief, resilience, and the double standards women face in the music industry. Welch's candid reflections on her near-death experience, the healing power of nature, and her struggles with public perception offer a poignant commentary on the intersection of personal trauma and artistic expression. The interview also highlights her evolving perspective on fame, creativity, and the pressures of being a woman in music, making it a compelling read for anyone interested in the complex interplay between personal suffering and artistic creation.",
+    "summary_zh": "佛罗伦斯·韦尔奇在采访中坦诚揭露了宫外孕几乎夺去她生命的经历，新专辑《Everybody Scream》将这种创伤转化为关于悲伤、韧性和音乐行业中性别双重标准的深刻探索。她对近死体验、自然治愈力量以及公众认知的反思，为个人创伤与艺术表达的复杂关系提供了深刻的评论。采访还凸显了她对名声、创造力和作为女性在音乐界面临压力的不断变化的看法，使其成为任何对个人痛苦与艺术创作复杂互动感兴趣的人的引人入胜的阅读材料。",
+    "best_quote_en": "The closest I came to making life was the closest I came to death.",
+    "best_quote_zh": "我离生最近的时刻也是我离死最近的时刻。"
   }]
