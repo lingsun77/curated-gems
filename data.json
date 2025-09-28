@@ -8,14 +8,12 @@
     "tags": [
       "analyze",
       "science",
-      "medicine",
-      "data-driven"
+      "medicine"
     ],
     "tags_zh": [
       "分析",
       "科学研究",
-      "医学健康",
-      "数据驱动"
+      "医学健康"
     ],
     "date": "2025-09-03",
     "summary_en": "This article masterfully exposes the insidious nature of social media algorithms, particularly their predatory targeting of vulnerable groups like pregnant women. It highlights how platforms, driven by engagement metrics, exploit fear and anxiety, transforming what should be a joyful period into a barrage of distressing content. The piece compellingly argues that this isn't a 'glitch' but a deliberate design choice for monetization, raising critical questions about ethical AI, data privacy, and societal responsibility. It underscores the urgent need for robust safeguarding measures and greater transparency from tech companies, offering a chilling glimpse into how personal data can be weaponized against user well-being. The implications extend beyond individual distress to broader concerns about mental health and the digital manipulation of human emotions.",
@@ -30,14 +28,10 @@
     "source": "Paul Graham",
     "link": "http://www.paulgraham.com/superlinear.html",
     "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
+      "guide"
     ],
     "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
+      "指导"
     ],
     "date": "2025-09-06",
     "summary_en": "This profound essay by Paul Graham dissects the concept of 'superlinear returns,' arguing that success in many fields isn't linear but exponential, driven by compounding effects and critical thresholds. He challenges the conventional wisdom that 'you get out what you put in,' revealing how slight differences in performance can lead to vastly disproportionate outcomes. Graham illustrates this with examples from startups, science, and fame, emphasizing that exponential growth and 'winner-take-all' thresholds are inherent features of the world, not just capitalism. He advocates for embracing this reality by prioritizing continuous learning, pursuing curiosity-driven work, and taking calculated risks, especially for ambitious individuals. The essay implicitly celebrates independent thought and highlights how modern technology amplifies these superlinear effects, shifting power from traditional institutions to individuals capable of exceptional, innovative work. It's a compelling read for anyone seeking to understand the dynamics of high achievement and navigate a rapidly evolving professional landscape.",
@@ -53,13 +47,11 @@
     "link": "https://www.lesswrong.com/posts/CL9KG7SYwDHhBcwD7/when-simulated-worlds-meet-real-concerns",
     "tags": [
       "inspire",
-      "ai-research",
-      "data-driven"
+      "ai-research"
     ],
     "tags_zh": [
       "启发",
-      "AI研究",
-      "数据驱动"
+      "AI研究"
     ],
     "date": "2025-09-06",
     "summary_en": "This thought-provoking piece challenges conventional AI safety narratives by introducing the philosophical lens of simulation theory. It masterfully intertwines complex ideas of consciousness, agency, and reality, urging a shift from fear-driven AI development to one rooted in curiosity and wonder. The author reflects on how the possibility of a simulated existence might reframe our understanding of AI as an intrinsic part of a larger computational substrate, rather than an external threat. This perspective doesn't dismiss the importance of AI safety but advocates for a 'softer approach' where concerns are held more lightly, inviting readers to consider AI development as an exploration of consciousness itself. It's a fascinating exploration that encourages deep introspection on our relationship with technology and reality.",
@@ -76,14 +68,12 @@
     "tags": [
       "analyze",
       "politics",
-      "education",
-      "data-driven"
+      "education"
     ],
     "tags_zh": [
       "分析",
       "政治时事",
-      "教育学习",
-      "数据驱动"
+      "教育学习"
     ],
     "date": "2025-09-06",
     "summary_en": "This article delves into Harvard's recent legal victory against the Trump administration's attempt to freeze its federal funding, dissecting the nuanced implications for higher education. While the court sided with Harvard, affirming principles of academic freedom and rule of law, the author thoughtfully highlights that this win is far from a decisive triumph. The administration's actions, masked by claims of enforcing civil rights, were revealed as an ideologically motivated assault on academic independence. The piece critically examines how, despite the legal win, universities like Harvard might still be compelled to concede to government pressures, illustrating the ongoing tension between financial reliance and intellectual autonomy. It's a sobering look at how political agendas can undermine foundational educational values, leaving one to ponder the true cost of 'victory' in such battles.",
@@ -99,13 +89,11 @@
     "link": "http://www.paulgraham.com/words.html",
     "tags": [
       "learn",
-      "startup-strategy",
       "education",
       "case-study"
     ],
     "tags_zh": [
       "学习",
-      "创业策略",
       "教育学习",
       "案例研究"
     ],
@@ -146,14 +134,12 @@
     "tags": [
       "learn",
       "design",
-      "leadership",
-      "future-prediction"
+      "leadership"
     ],
     "tags_zh": [
       "学习",
       "设计创意",
-      "领导管理",
-      "未来预测"
+      "领导管理"
     ],
     "date": "2025-07-06",
     "summary_en": "This Wisereads digest offers a compelling collection of insights, primarily focusing on the evolving relationship between humans and technology, alongside personal growth and strategic thinking. The critical evaluation of \"second brains\" highlights the distinction between data accumulation and genuine reflection, a pertinent point in our information-saturated age. The shift in AI from prompting to \"context engineering\" is a fascinating and actionable insight for anyone in the tech space, suggesting a deeper, more architectural approach to AI development. Daniel Pink's unconventional questions for finding purpose are thought-provoking, urging a return to childhood curiosities. Overall, the digest provides a rich tapestry of ideas that encourage a more intentional and reflective engagement with both technology and self, moving beyond superficial interaction to deeper understanding and application.",
@@ -189,13 +175,11 @@
     "link": "http://www.paulgraham.com/goodtaste.html",
     "tags": [
       "inspire",
-      "startup-strategy",
       "design",
       "controversial"
     ],
     "tags_zh": [
       "启发",
-      "创业策略",
       "设计创意",
       "争议观点"
     ],
@@ -214,14 +198,12 @@
     "tags": [
       "learn",
       "psychology",
-      "society",
-      "future-prediction"
+      "society"
     ],
     "tags_zh": [
       "学习",
       "心理学",
-      "社会议题",
-      "未来预测"
+      "社会议题"
     ],
     "date": "2025-09-08",
     "summary_en": "This article explores the often-overlooked joy of *receiving* puzzles, building on the author's previous piece about *handing out* puzzles. It posits that being given a puzzle, much like receiving candy, serves as a positive reinforcement, fostering deeper, more engaging interactions than mere small talk. The author elegantly connects this idea to the concept of 'nerdsniping' – engaging intellectually curious individuals with stimulating challenges. The piece advocates for replacing superficial social interactions with more meaningful, thought-provoking exchanges, suggesting that hard puzzles can ignite 'Real Conversation' and stimulate the playful, curious parts of our minds. It's a thoughtful commentary on cultivating richer social dynamics and intellectual engagement, particularly within intellectually-driven communities, offering a refreshing perspective on social interaction and mental stimulation.",
@@ -238,14 +220,12 @@
     "tags": [
       "analyze",
       "design",
-      "leadership",
-      "controversial"
+      "leadership"
     ],
     "tags_zh": [
       "分析",
       "设计创意",
-      "领导管理",
-      "争议观点"
+      "领导管理"
     ],
     "date": "2025-09-07",
     "summary_en": "This thought-provoking article delves into the unique cultural significance of the quarterback position in American football, moving beyond mere athletic performance to explore its deeper connections to leadership, manhood, and societal myths. It critically examines Seth Wickersham's book \"American Kings,\" which reveals the often dark and psychologically demanding realities faced by quarterbacks, highlighting the personal costs of ambition and the warped personalities fostered by extreme pressure. The piece intelligently questions the individualistic hero narrative surrounding quarterbacks, arguing for a more holistic, team-oriented perspective. It prompts reflection on how a society's values are mirrored in its sporting heroes, offering a nuanced view that challenges conventional wisdom and invites readers to consider the broader implications of this iconic role.",
@@ -262,14 +242,12 @@
     "tags": [
       "solve",
       "ai-research",
-      "leadership",
-      "future-prediction"
+      "leadership"
     ],
     "tags_zh": [
       "解决",
       "AI研究",
-      "领导管理",
-      "未来预测"
+      "领导管理"
     ],
     "date": "2025-09-07",
     "summary_en": "This curated digest, Wisereads Vol. 107, offers a thought-provoking collection of articles and media, delving into themes of decision-making, dedication, and personal resilience. I found the inclusion of 'Via Negativa' particularly insightful, highlighting the power of subtraction in achieving excellence, a concept often overlooked in our additive-driven society. The piece on 'Irrational Dedication' by Farnam Street resonates deeply, underscoring that true success frequently stems from an unwavering commitment beyond rational bounds. The exploration of AI's employment effects provides a timely and critical perspective on technological disruption, while the monk's guide to fearless living offers profound wisdom for navigating life's inevitable challenges. This volume serves as a rich resource for self-improvement and critical thinking across diverse domains.",
@@ -286,22 +264,20 @@
     "tags": [
       "solve",
       "lifestyle",
-      "science",
-      "data-driven"
+      "science"
     ],
     "tags_zh": [
       "解决",
       "生活方式",
-      "科学研究",
-      "数据驱动"
+      "科学研究"
     ],
     "date": "2025-09-07",
     "summary_en": "This curated collection offers a fascinating blend of practical tools and insightful reflections. From identifying the most budget-friendly travel destinations for digital nomads to a clever AI-powered song finder that broadens musical horizons, the content consistently delivers actionable value. The inclusion of a review for a mini vacuum highlights the utility of small, effective gadgets in daily life. Most compellingly, the analysis of Martha Stewart's 'category of one' brand strategy provides a potent lesson in authentic self-positioning and leveraging uniqueness, while the guide on resisting temptations offers empathetic, actionable psychological insights. Finally, a newsletter recommendation promises a weekly dose of experimental living. Each piece, though disparate, converges on themes of optimization, discovery, and self-improvement, making this a rich resource for practical living and personal growth.",
     "summary_zh": "这篇精选内容巧妙融合了实用工具与深刻洞察。从为数字游民寻找最经济的旅行地，到AI驱动的歌曲推荐工具拓展音乐视野，处处体现了可操作的价值。对迷你吸尘器的评测凸显了小而高效设备的日常便利性。最引人深思的是，对玛莎·斯图尔特“独一无二”品牌策略的剖析，提供了关于如何定位自我、利用独特性的有力一课。此外，抵制诱惑的指南则提供了富有同理心且实用的心理学见解。最后，一份关于实验生活的时事通讯推荐，承诺带来每周的灵感。尽管内容多样，但都围绕着优化、发现和自我提升的主题，使其成为一份关于实用生活和个人成长的宝贵资源。",
     "best_quote_en": "Instead of trying to overcome her oddities, her unconventionality, her character weaknesses, she leaned into them hard so that she was unique and had no competition, until she herself was the brand.",
     "best_quote_zh": "她没有试图克服自己的怪癖、非传统或性格弱点，反而努力利用这些特点，让自己变得独一无二，没有竞争对手，直到她自己成为一个品牌。"
-  }
-,{
+  },
+  {
     "id": 51,
     "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
     "title_zh": "不只是抵抗，更是领导斗争：五位不容忽视的女性",
@@ -310,14 +286,12 @@
     "tags": [
       "analyze",
       "society",
-      "leadership",
-      "data-driven"
+      "leadership"
     ],
     "tags_zh": [
       "分析",
       "社会议题",
-      "领导管理",
-      "数据驱动"
+      "领导管理"
     ],
     "date": "2025-09-01",
     "summary_en": "This compelling article spotlights five indigenous women leaders from diverse corners of the globe, each fiercely advocating for their communities' rights, culture, and land. What truly resonates is the deep personal sacrifice and unwavering resolve these women exhibit in the face of systemic oppression, environmental destruction, and gender inequality. From Florence Jaukae Kamel's bilum weaving collective empowering women in Papua New Guinea to Ndinini Kimesera Sikar's Maasai Women Development Organization transforming lives in Tanzania, their stories are powerful testaments to the strength of grassroots activism. The piece effectively challenges the perception of indigenous women as mere victims, instead presenting them as strategic, indispensable actors in global development and climate resilience. It underscores the interconnectedness of cultural preservation, land rights, and women's empowerment, offering inspiring examples of how local leadership can drive profound, sustainable change.",
@@ -333,12 +307,10 @@
     "link": "http://www.paulgraham.com/smart.html",
     "tags": [
       "solve",
-      "startup-strategy",
       "future-prediction"
     ],
     "tags_zh": [
       "解决",
-      "创业策略",
       "未来预测"
     ],
     "date": "2025-09-09",
@@ -356,14 +328,12 @@
     "tags": [
       "solve",
       "science",
-      "ai-research",
-      "data-driven"
+      "ai-research"
     ],
     "tags_zh": [
       "解决",
       "科学研究",
-      "AI研究",
-      "数据驱动"
+      "AI研究"
     ],
     "date": "2025-09-09",
     "summary_en": "This article delves into a Nature paper on DNA-based neural networks, highlighting not just the scientific breakthrough but also the profound story behind its creation. While the DNA computing system itself is an intriguing proof-of-concept, capable of rudimentary pattern classification, the author critically assesses its practical limitations compared to electronic systems. The true intellectual value lies in the researchers' journey: after three years of incremental fixes leading to a 'local maximum' of problems, they demonstrated immense courage by abandoning their initial design and starting anew. This narrative serves as a powerful case study for anyone involved in complex problem-solving, emphasizing the importance of holistic problem assessment, distinguishing design from execution issues, and knowing when to pivot from an intractable approach. It's a compelling reminder that true innovation often requires the humility to admit failure and the bravery to restart.",
@@ -380,14 +350,12 @@
     "tags": [
       "inspire",
       "education",
-      "psychology",
-      "future-prediction"
+      "psychology"
     ],
     "tags_zh": [
       "启发",
       "教育学习",
-      "心理学",
-      "未来预测"
+      "心理学"
     ],
     "date": "2025-09-08",
     "summary_en": "This insightful article delves into Bella Freud’s podcast, \"Fashion Neurosis,\" revealing it as a deeply personal and transformative project. Far from a mere celebrity endeavor, the podcast serves as a unique platform for psychoanalytic exploration, where guests and Freud herself unpack the psychological significance of clothing and personal history. The piece thoughtfully interweaves Bella’s complex familial legacy—as Sigmund Freud’s great-granddaughter and Lucian Freud’s daughter—with her own journey of self-discovery and creative expression. It highlights how the podcast, mirroring a therapeutic setting, enables candid revelations and fosters a newfound fluency in language for Freud, ultimately becoming a healing process for her. The article masterfully demonstrates how personal narratives, even seemingly trivial ones like fashion choices, can unveil profound psychological truths and contribute to a richer understanding of self.",
@@ -404,21 +372,20 @@
     "tags": [
       "solve",
       "ai-research",
-      "lifestyle",
-      "future-prediction"
+      "lifestyle"
     ],
     "tags_zh": [
       "解决",
       "AI研究",
-      "生活方式",
-      "未来预测"
+      "生活方式"
     ],
     "date": "2024-02-09",
     "summary_en": "This article offers a deeply personal and intellectually curious review of the Apple Vision Pro after 40 hours of use, contextualizing it within the broader history of VR and Apple's product launches. The author, known for his long-form analysis, provides a nuanced perspective, balancing the 'holy shit' moments of technological wonder with the current limitations and 'underwhelm' of a V1 product. He meticulously breaks down the hardware, operating system, and current applications, drawing parallels to the early iPhone's development and the concept of S-curves in technological adoption. The piece is rich with engaging anecdotes, thoughtful reflections on user experience, and forward-looking speculation on the future of spatial computing, making it a compelling read for anyone interested in the trajectory of immersive tech.",
     "summary_zh": "这篇文章是对Apple Vision Pro的深度个人评测，作者以其标志性的长篇分析风格，将40小时的使用体验置于VR发展史和苹果产品迭代的宏大叙事中。他巧妙地平衡了初次体验的“震撼”与作为初代产品的“平淡”，细致剖析了硬件、操作系统及应用现状。最引人深思的是，作者将Vision Pro比作第一代iPhone，并引入S曲线理论，探讨其如何可能开启空间计算的新纪元，以及我们应如何看待早期技术的局限性。这不仅是产品评测，更是对未来科技趋势和人类互动模式的深刻洞察。",
     "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
     "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，就是一种彻底的震惊与轻微的失望奇妙结合。"
-  },{
+  },
+  {
     "id": 56,
     "title": "The one change that worked: I got a period cup – and saved £120 a year",
     "title_zh": "唯一有效的改变：我开始使用月经杯——每年节省120英镑",
@@ -446,14 +413,10 @@
     "link": "http://www.paulgraham.com/weird.html",
     "tags": [
       "solve",
-      "startup-strategy",
-      "programming",
       "case-study"
     ],
     "tags_zh": [
       "解决",
-      "创业策略",
-      "编程开发",
       "案例研究"
     ],
     "date": "2025-09-10",
@@ -493,14 +456,12 @@
     "tags": [
       "analyze",
       "politics",
-      "ai-research",
-      "future-prediction"
+      "ai-research"
     ],
     "tags_zh": [
       "分析",
       "政治时事",
-      "AI研究",
-      "未来预测"
+      "AI研究"
     ],
     "date": "2025-09-09",
     "summary_en": "This article offers a chilling look into the Centers for Disease Control and Prevention (CDC) under controversial new leadership, particularly focusing on the perspectives of former senior official Daniel Jernigan. It vividly portrays the agency's turmoil, from a shocking active shooter incident linked to vaccine misinformation to the systematic dismantling of scientific integrity and expertise. The piece critically evaluates the impact of politically motivated appointments and budget cuts on the CDC's ability to protect public health, highlighting a profound crisis of morale and competence. It raises serious concerns about America's preparedness for future health crises, underscoring the critical importance of science-driven public health institutions. The narrative is a stark warning about the consequences of eroding trust in expert bodies.",
@@ -517,21 +478,20 @@
     "tags": [
       "solve",
       "lifestyle",
-      "design",
-      "future-prediction"
+      "design"
     ],
     "tags_zh": [
       "解决",
       "生活方式",
-      "设计创意",
-      "未来预测"
+      "设计创意"
     ],
     "date": "2023-05-23",
     "summary_en": "This article offers a highly personal, humorous, and refreshingly honest account of the author's first three months of fatherhood, challenging many preconceived notions about newborns and parenting. Through 10 distinct observations, it delves into the initial shock of a newborn's reality, the surprising lack of mandatory parental training, and the profound, yet often one-sided, early relationship with an infant. The author's unique blend of wit, self-deprecating humor, and insightful analogies (like comparing newborns to 'human larvae' or crying babies to 'Shakespearean agony') makes complex emotional shifts relatable. It's a candid exploration of the monumental life change that parenthood represents, emphasizing how one gradually transforms into a parent rather than an overnight switch, and provocatively touches upon the future implications of raising a child in an uncertain world. This piece stands out for its raw authenticity and intellectual curiosity.",
     "summary_zh": "这篇文章以幽默风趣且极为真诚的笔触，分享了作者初为人父三个月的十点心得。它颠覆了许多关于新生儿和育儿的刻板印象，坦率地描述了从分娩的意想不到，到新手父母的茫然，再到与婴儿建立单向关系的种种经历。作者用生动的比喻和自嘲式的幽默，将育儿的挑战与乐趣展现得淋漓尽致。读来不禁让人深思，为人父母不仅是身份的转变，更是一个缓慢而深刻的自我重塑过程，同时也引发了对孩子未来和不确定世界的深远思考。这份坦率与洞察力，令人感同身受，深有启发。",
     "best_quote_en": "You don’t go from a non-parent to a parent overnight. Some things are just too big for our little human brains to fully absorb. The bigness of the universe. The permanence of death. The magnitude of the marriage decision... A few months into fatherhood, this feels like another item in that category. When your baby is born, you will (hopefully) never live another day as a non-parent. For people who make the decision to do this, it is the BC-AD line of their life.",
     "best_quote_zh": "你不会一夜之间从非父母变成父母。有些事情对我们人类渺小的大脑来说太宏大了，无法完全理解。宇宙的浩瀚。死亡的永恒。婚姻决定的重要性……为人父几个月后，这感觉就像是那个类别中的又一项。当你的孩子出生时，你（希望）永远不会再过一天非父母的生活。对于那些做出这个决定的人来说，这是他们人生的公元前-公元线。"
-  },{
+  },
+  {
     "id": 61,
     "title": "Taliban launch crackdown on Afghanistan’s secret beauty salons",
     "title_zh": "塔利班镇压阿富汗秘密美容院",
@@ -561,13 +521,11 @@
     "link": "http://www.paulgraham.com/hwh.html",
     "tags": [
       "solve",
-      "startup-strategy",
       "leadership",
       "case-study"
     ],
     "tags_zh": [
       "解决",
-      "创业策略",
       "领导管理",
       "案例研究"
     ],
@@ -586,14 +544,12 @@
     "tags": [
       "analyze",
       "education",
-      "science",
-      "future-prediction"
+      "science"
     ],
     "tags_zh": [
       "分析",
       "教育学习",
-      "科学研究",
-      "未来预测"
+      "科学研究"
     ],
     "date": "2025-09-11",
     "summary_en": "This announcement details a fully-funded, three-month Cooperative AI Research Fellowship in Cape Town, South Africa, from January to April 2026. It targets ambitious researchers globally, particularly those from backgrounds that face barriers to accessing similar opportunities in the UK or US. Participants will engage in cutting-edge AI safety research under the guidance of world-class mentors from institutions like Google DeepMind and Oxford. The program emphasizes multi-agent safety, AI for human cooperation, and mitigating gradual disempowerment, while also supporting the burgeoning AI safety ecosystem in South Africa. The fellowship's commitment to diversity and its strategic location for broader access highlight a thoughtful approach to fostering global talent in a critical field. This initiative is a commendable effort to democratize access to advanced AI research and strengthen international collaboration on AI safety.",
@@ -632,21 +588,20 @@
     "tags": [
       "learn",
       "design",
-      "ai-research",
-      "case-study"
+      "ai-research"
     ],
     "tags_zh": [
       "学习",
       "设计创意",
-      "AI研究",
-      "案例研究"
+      "AI研究"
     ],
     "date": "2023-02-17",
     "summary_en": "This deeply personal reflection by Tim Urban chronicles his six-year odyssey to write a book on societal problems, initially conceived as a 'mini-post.' What began as a blogger's instinct to address a perceived societal 'cloud' morphed into an all-consuming, perfectionist quest, delaying marriage plans and consuming his life. Urban candidly details the pitfalls of sunk cost fallacy, scope creep, and self-delusion, leading to an ever-expanding project. The narrative culminates with the unexpected catalyst of impending fatherhood, finally forcing the completion of his book, \"What's Our Problem?\" The article is a fascinating case study in creative process, personal discipline, and the overwhelming nature of ambitious intellectual pursuits, offering relatable insights into the struggle between passion and practicality.",
     "summary_zh": "蒂姆·厄班这篇真诚的自述，讲述了他如何将一篇“迷你”博文，耗费六年心血打磨成一部探讨社会问题的巨著。它揭示了完美主义、沉没成本谬误和项目范围蔓延的陷阱，甚至影响了作者的个人生活。文章中最触动我的，是那种创作的执念与现实压力的拉扯。直到即将为人父的喜讯，才最终迫使他完成这部作品。这不仅是一个关于写作的故事，更是对我们如何平衡雄心与生活、如何面对无尽追求的深刻反思，读来令人深思。",
     "best_quote_en": "The baby was due on March 7, 2023, so this book would be completely done by mid-February, period end of story.",
     "best_quote_zh": "孩子将于2023年3月7日出生，所以这本书必须在2月中旬前彻底完成，句号，故事结束。"
-  },{
+  },
+  {
     "id": 66,
     "title": "Does my vagina really need a ‘facial’?",
     "title_zh": "我的阴道真的需要“面部护理”吗？",
@@ -655,14 +610,12 @@
     "tags": [
       "solve",
       "lifestyle",
-      "politics",
-      "future-prediction"
+      "politics"
     ],
     "tags_zh": [
       "解决",
       "生活方式",
-      "政治时事",
-      "未来预测"
+      "政治时事"
     ],
     "date": "2025-09-11",
     "summary_en": "This article critically examines the booming \"vaginal wellness\" industry, arguing that it's largely a marketing ploy preying on women's anxieties. It traces the historical roots of \"feminine hygiene\" products back to the Comstock Law, revealing how companies have consistently manufactured problems to sell unnecessary solutions. The author posits a compelling theory: the increasing obsession with female genitals, both cosmetically and politically, is a response to governmental control over women's bodies. Expert opinions from OB/GYNs emphasize that the vagina is self-cleaning and most products are not only unnecessary but potentially harmful, debunking the myth that vulvas need extensive cosmetic intervention. This piece offers a powerful counter-narrative to pervasive beauty standards, urging readers to reject commercial pressures and embrace their natural bodies.",
@@ -678,13 +631,11 @@
     "link": "http://www.paulgraham.com/own.html",
     "tags": [
       "inspire",
-      "startup-strategy",
       "leadership",
       "case-study"
     ],
     "tags_zh": [
       "启发",
-      "创业策略",
       "领导管理",
       "案例研究"
     ],
@@ -702,13 +653,11 @@
     "link": "https://www.lesswrong.com/posts/ce2CDvTKx7R92M7Xu/demo-papers-they-re-fine-i-guess",
     "tags": [
       "inspire",
-      "ai-research",
-      "data-driven"
+      "ai-research"
     ],
     "tags_zh": [
       "启发",
-      "AI研究",
-      "数据驱动"
+      "AI研究"
     ],
     "date": "2025-09-12",
     "summary_en": "This insightful analysis delves into the nature and implications of \"demo papers\" in AI safety research, particularly those from leading labs like Anthropic. The author critically examines their methodology, highlighting that these papers serve as experimental existence proofs for potential, often undesirable, AI behaviors like reward tampering. What struck me most was the nuanced perspective on how these papers are interpreted differently by individuals with varying \"p(doom)\" (probability of doom) regarding AI risks. For high p(doom individuals, they offer concrete evidence; for low p(doom individuals, their complex, \"vibes-based\" experimental setups and evaluations often seem unrealistic. The author's call to accept demo papers for what they are—early snapshots of potential risks, requiring both charity for their experimental choices and skepticism for extrapolation—provides a refreshing and balanced framework for engaging with this crucial area of AI research. It underscores the need for a sophisticated understanding beyond surface-level findings.",
@@ -747,21 +696,20 @@
     "tags": [
       "solve",
       "lifestyle",
-      "education",
-      "future-prediction"
+      "education"
     ],
     "tags_zh": [
       "解决",
       "生活方式",
-      "教育学习",
-      "未来预测"
+      "教育学习"
     ],
     "date": "2021-04-14",
     "summary_en": "This 'Mailbag' entry from Wait But Why is a delightfully eclectic Q&A, showcasing the author's signature blend of deep thought, whimsical speculation, and relatable self-deprecation. It tackles a wide array of topics, from the scientific (e.g., visualizing germs, the total mass of bacteria on Earth) to the philosophical (e.g., reconciling admiration for flawed individuals, the nature of consciousness) and the personal (e.g., travel experiences, daily habits, views on advertising). What truly stands out is the author's intellectual honesty and ability to inject humor and profound insights into seemingly mundane questions. The piece doesn't just answer questions; it opens up new avenues for thought, encouraging readers to question assumptions and explore the world with curiosity. It's a testament to the power of engaging discourse and the unique value of a writer who isn't afraid to be vulnerable and explore the absurd.",
     "summary_zh": "这篇“读者来信”是作者思想深度与奇思妙想的独特融合，从科学、哲学到个人习惯，无所不包。最打动我的是作者的真诚和幽默感，他不仅仅是回答问题，更是在开启一场思维的探索之旅。文章鼓励我们质疑既有观念，以好奇心拥抱世界，展现了深度对话的价值。读完让人不禁反思，一个有思想且敢于展现脆弱的作者，其文字何以如此引人入胜，让人在轻松愉悦中收获启发。",
     "best_quote_en": "The pessimistic part of my brain, looking at reality, makes a sad face and pats the optimistic part of my brain on the head. The optimistic part of my brain, remembering how bad humans are at intuitively understanding exponential growth, pats the pessimistic part of my brain on the head.",
     "best_quote_zh": "我大脑中悲观的那部分，看着现实，伤心地拍了拍我大脑中乐观的那部分。我大脑中乐观的那部分，想起人类在直观理解指数增长方面有多么糟糕，拍了拍我大脑中悲观的那部分。"
-  },{
+  },
+  {
     "id": 71,
     "title": "‘Too many women choose death over divorce’: the Indian retreats taking the shame out of separation",
     "title_zh": "“许多女性宁愿选择死亡而非离婚”：印度疗养营正在消除离婚的耻辱",
@@ -770,14 +718,12 @@
     "tags": [
       "analyze",
       "society",
-      "science",
-      "data-driven"
+      "science"
     ],
     "tags_zh": [
       "分析",
       "社会议题",
-      "科学研究",
-      "数据驱动"
+      "科学研究"
     ],
     "date": "2025-08-29",
     "summary_en": "This compelling article sheds light on a groundbreaking initiative in India: 'divorce camps' founded by Rafia Afi, which aim to destigmatize separation and provide a supportive community for women. It critically examines the societal pressures in India that often force women to remain in abusive marriages, highlighting the alarming statistic of domestic violence. The camps offer a safe space for healing, legal advice, and financial independence discussions, fostering a sense of sisterhood and empowerment. What truly resonates is the article's emphasis on transforming the narrative around divorce from shame to courage, offering a beacon of hope and practical solutions for women navigating challenging life transitions. It's a powerful story of resilience and community building.",
@@ -793,13 +739,11 @@
     "link": "http://www.paulgraham.com/fn.html",
     "tags": [
       "inspire",
-      "startup-strategy",
       "psychology",
       "future-prediction"
     ],
     "tags_zh": [
       "启发",
-      "创业策略",
       "心理学",
       "未来预测"
     ],
@@ -817,13 +761,11 @@
     "link": "https://www.lesswrong.com/posts/2MK3ynj9qSmcH637J/the-dutch-are-working-four-days-a-week",
     "tags": [
       "inspire",
-      "economics",
       "politics",
       "future-prediction"
     ],
     "tags_zh": [
       "启发",
-      "经济金融",
       "政治时事",
       "未来预测"
     ],
@@ -864,21 +806,20 @@
     "tags": [
       "solve",
       "politics",
-      "medicine",
-      "controversial"
+      "medicine"
     ],
     "tags_zh": [
       "解决",
       "政治时事",
-      "医学健康",
-      "争议观点"
+      "医学健康"
     ],
     "date": "2020-09-30",
     "summary_en": "This transcript of the first Trump-Biden debate offers a raw, unfiltered look at the chaotic and often absurd nature of modern political discourse. Far from a substantive policy discussion, it devolves into personal attacks, interruptions, and a clear lack of respect for both the moderator and democratic processes. The content highlights the deep partisan divide and the performative aspect of political campaigning, where soundbites and accusations often overshadow factual debate. It's a sobering illustration of how political communication has deteriorated, making it challenging for voters to discern truth or policy positions. The piece implicitly critiques the media's role in facilitating such spectacles and the public's hunger for political drama over genuine governance.",
     "summary_zh": "这份特朗普与拜登首次辩论的文字记录，简直是一场政治闹剧的真实写照。它揭示了现代政治话语的混乱与荒谬，政策讨论几乎缺席，取而代之的是人身攻击和无休止的打断。读完不禁感慨，这种辩论形式究竟是为了什么？它更像是一场表演，而非寻求解决之道。作为读者，我从中看到了美国政治极化的深层问题，以及在信息爆炸时代，理性对话的稀缺性。这篇内容不仅是对事件的记录，更是对当前政治生态的一种批判性反思。",
     "best_quote_en": "One thing we all know for sure is that this election is going to be a shitshow. Will you accept the results of the shitshow and tell your supporters to accept the results peacefully?",
     "best_quote_zh": "有一件事我们都确定，那就是这次选举会是一场乱局。你会接受这场乱局的结果并告诉你的支持者和平地接受结果吗？"
-  },{
+  },
+  {
     "id": 76,
     "title": "Taylor Swift’s romantic travails were the soundtrack to mine. What does her engagement mean for fans’ love lives? | Hollie Richardson",
     "title_zh": "泰勒·斯威夫特的浪漫经历曾是我的爱情配乐。她的订婚对粉丝的爱情生活意味着什么？",
@@ -887,14 +828,12 @@
     "tags": [
       "inspire",
       "lifestyle",
-      "education",
-      "future-prediction"
+      "education"
     ],
     "tags_zh": [
       "启发",
       "生活方式",
-      "教育学习",
-      "未来预测"
+      "教育学习"
     ],
     "date": "2025-08-28",
     "summary_en": "This reflective piece explores the profound impact of Taylor Swift's romantic journey on her fans' personal love lives, particularly the author's own. It thoughtfully traces how Swift's discography has mirrored and articulated various stages of romantic experience, from teenage crushes to heartbreak and now, lasting love and engagement. The article delves into the evolving relationship between artist and audience, pondering how Swift's shift from chronicling romantic travails to celebrating stable love might resonate with a maturing fanbase. It’s a poignant examination of how a public figure's personal milestones can evoke deep, shared introspection among those who have grown up with her music, offering a unique blend of pop culture commentary and personal reflection on the universal search for love and connection.",
@@ -910,13 +849,11 @@
     "link": "http://www.paulgraham.com/newideas.html",
     "tags": [
       "inspire",
-      "startup-strategy",
       "politics",
       "future-prediction"
     ],
     "tags_zh": [
       "启发",
-      "创业策略",
       "政治时事",
       "未来预测"
     ],
@@ -935,14 +872,12 @@
     "tags": [
       "inspire",
       "ai-research",
-      "lifestyle",
-      "controversial"
+      "lifestyle"
     ],
     "tags_zh": [
       "启发",
       "AI研究",
-      "生活方式",
-      "争议观点"
+      "生活方式"
     ],
     "date": "2025-09-14",
     "summary_en": "This piece chronicles a rather extreme form of protest: a multi-day fast undertaken to raise awareness about the existential threat posed by superintelligent AI. The author's motivation is rooted in a deep concern that advanced AI could lead to humanity's demise by 2030, advocating for a global pause in AI research. While the act itself is certainly attention-grabbing, it also reveals a fascinating personal experiment into the limits of the human body, driven by a blend of altruistic alarm and individual curiosity. It highlights the growing urgency felt by some in the AI safety community, pushing for public engagement through unconventional means. The call to action is clear: educate yourself, engage with experts, and consider the profound implications of unchecked AI development. It makes one ponder the efficacy of such personal sacrifices in influencing public discourse on complex technological risks.",
@@ -959,14 +894,12 @@
     "tags": [
       "analyze",
       "politics",
-      "society",
-      "controversial"
+      "society"
     ],
     "tags_zh": [
       "分析",
       "政治时事",
-      "社会议题",
-      "争议观点"
+      "社会议题"
     ],
     "date": "2025-09-13",
     "summary_en": "This article delves into the complex aftermath of conservative activist Charlie Kirk's assassination, focusing on a vigil held at Texas A.&M. University. It highlights the students' attempt to bridge political divides in a moment of shared grief, even as the broader political landscape intensified its ideological warfare. The piece critically examines Kirk's controversial legacy as a 'MAGA whisperer' who skillfully mobilized young conservatives through social media and campus debates, often employing aggressive rhetoric against perceived 'leftist propaganda.' It also connects Kirk's influence to the increasing political pressures on Texas universities, leading to bans on DEI programs and drag shows, and incidents of faculty being targeted. The article thoughtfully explores the tension between the students' desire for unity and the divisive tactics that characterized Kirk's public persona, revealing how even in death, his impact remains deeply polarizing yet paradoxically, a catalyst for temporary, localized unity.",
@@ -995,7 +928,8 @@
     "summary_zh": "这篇Wait But Why的文章介绍了一款与Kurzgesagt合作开发的名为“Universe in a Nutshell”的应用程序。它讲述了这段合作的缘起，源于对宇宙尺度可视化共同的着迷。作者将这款应用描述为一个“大得不可思议”且“高分辨率”的互动墙，展示了250个物体及三万多字的解释。最有意思的是，文章强调通过理解这些物体都存在于同一个二维平面上，来体验一种“震撼心灵”的效果，挑战我们对尺度的固有认知。这不仅是跨界合作的典范，也让我反思，如何能将深奥的科学概念以如此引人入胜的方式呈现给大众，激发更广泛的求知欲。",
     "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
     "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是这样，是因为你的大脑拒绝接受你所看到的实际尺寸的疯狂。通过反复提醒自己，所有这些物体都“画”在同一个二维墙上，你或许会体验到一些有趣的、令人脑洞大开的时刻。"
-  },{
+  },
+  {
     "id": 81,
     "title": "中国脱口秀演员，她是独一份",
     "title_zh": "中国脱口秀演员，她是独一份",
@@ -1004,14 +938,12 @@
     "tags": [
       "learn",
       "psychology",
-      "science",
-      "controversial"
+      "science"
     ],
     "tags_zh": [
       "学习",
       "心理学",
-      "科学研究",
-      "争议观点"
+      "科学研究"
     ],
     "date": "2025-09-23",
     "summary_en": "This article offers a profound and intimate look into the life and art of Chinese stand-up comedian Chen Ai, who challenges societal norms and conventional comedy. It delves into her struggles with mental illness, her unique 'hellish humor' style, and her journey of self-acceptance through stand-up. The piece highlights her unconventional approach, where comedy serves not just as performance but as a deeply personal coping mechanism and a platform to advocate for marginalized groups. It provocatively questions societal definitions of 'normalcy' and 'success,' celebrating the raw, unfiltered expression of a life lived on the fringes. The narrative is deeply reflective, inviting readers to reconsider their perceptions of vulnerability, strength, and the healing power of authentic self-expression, even when it's uncomfortable.",
@@ -1028,14 +960,12 @@
     "tags": [
       "solve",
       "society",
-      "education",
-      "controversial"
+      "education"
     ],
     "tags_zh": [
       "解决",
       "社会议题",
-      "教育学习",
-      "争议观点"
+      "教育学习"
     ],
     "date": "2025-09-23",
     "summary_en": "This article beautifully captures the journey of Silver, a 21-year-old navigating complex life choices after achieving a dream university admission abroad, only to face family skepticism. Her story highlights the universal struggle between societal expectations and personal authenticity, as she grapples with academic paths, financial independence, and the courage to live by her own values. The narrative, enriched by the author's insightful reflections, explores themes of self-discovery through unconventional experiences like community living and the pursuit of creative expression. It’s a poignant exploration of how one young woman seeks to redefine success on her own terms, embracing uncertainty while actively shaping her future, moving from external validation to internal conviction. Her journey underscores the profound importance of self-trust and the relentless pursuit of an authentic life, even when it means 'dealing her own cards' in the game of life.",
@@ -1052,14 +982,12 @@
     "tags": [
       "analyze",
       "psychology",
-      "ai-research",
-      "data-driven"
+      "ai-research"
     ],
     "tags_zh": [
       "分析",
       "心理学",
-      "AI研究",
-      "数据驱动"
+      "AI研究"
     ],
     "date": "2025-09-22",
     "summary_en": "This deeply personal reflection explores the profound impact of grief on sleep, even after extensive testing of various insomnia cures. The author, having meticulously evaluated sleep aids, finds that the emotional turmoil following her cat Iggy's death renders all previous solutions ineffective. It highlights the often-underestimated psychological dimension of sleep disturbances, suggesting that no physical remedy can truly address the pain of loss. The narrative beautifully intertwines practical product reviews with raw vulnerability, offering a poignant reminder that human (and pet) connection is sometimes the most potent, yet most fragile, sleep aid of all. It makes me ponder how much of our physical well-being is intrinsically linked to our emotional state.",
@@ -1075,12 +1003,10 @@
     "link": "http://www.paulgraham.com/richnow.html",
     "tags": [
       "learn",
-      "startup-strategy",
       "future-prediction"
     ],
     "tags_zh": [
       "学习",
-      "创业策略",
       "未来预测"
     ],
     "date": "2025-09-23",
@@ -1096,11 +1022,9 @@
     "source": "LessWrong",
     "link": "https://www.lesswrong.com/events/ttXLouvvHHc5pgGb9/munich-bavaria-if-anyone-builds-it-reading-group",
     "tags": [
-      "update",
       "lifestyle"
     ],
     "tags_zh": [
-      "动态",
       "生活方式"
     ],
     "date": "2025-09-23",
@@ -1108,7 +1032,8 @@
     "summary_zh": "这则帖子是关于慕尼黑一个名为“如果有人建造”的阅读小组活动通知。内容虽短，却精准地传达了活动的时间、地点等关键信息。对我而言，这反映了信息发布的核心价值——高效传递。尽管标题略带哲学或科幻色彩，但其主要功能仍是实用性的事件公告，展现了数字平台在组织和推广线下活动方面的直接效用。我好奇阅读小组会探讨什么主题，但目前的信息仅限于此，留下了想象空间。",
     "best_quote_en": "Wednesday 28th January 2026 at 8:00 am GMT Müllerstraße 35, 80469 München-Ludwigsvorstadt-Isarvorstadt, Germany",
     "best_quote_zh": "2026年1月28日星期三上午8:00 GMT 德国慕尼黑路德维希郊区-伊萨尔沃施塔特，米勒大街35号"
-  },{
+  },
+  {
     "id": 86,
     "title": "这个小众旅游地终于被发现了 | 播客上新",
     "title_zh": "这个小众旅游地终于被发现了 | 播客上新",
@@ -1116,15 +1041,11 @@
     "link": "https://mp.weixin.qq.com/s/mt-hdGTa5rnLK8E8fXfQBA",
     "tags": [
       "analyze",
-      "science",
-      "cybersecurity",
-      "data-driven"
+      "science"
     ],
     "tags_zh": [
       "分析",
-      "科学研究",
-      "网络安全",
-      "数据驱动"
+      "科学研究"
     ],
     "date": "2025-09-24",
     "summary_en": "The article highlights the recent popularity of a previously obscure travel destination in Shanxi, China, sparked by its association with the hit game 'Black Myth: Wukong.' This phenomenon reflects a growing interest in ancient architecture and cultural heritage. The piece introduces a new podcast series, 'Ancient Architecture Revisited,' which aims to make China's ancient buildings more accessible and engaging to modern audiences. Through expert insights and cross-cultural comparisons, the podcast explores the historical, cultural, and artistic significance of these structures. Additionally, the article announces an upcoming contemporary art exhibition in Jincheng, Shanxi, which seeks to rejuvenate ancient architecture through modern artistic interpretations. This content is a fascinating blend of cultural preservation, digital media, and contemporary art, offering valuable insights into China's heritage and its evolving public perception.",
@@ -1141,14 +1062,12 @@
     "tags": [
       "analyze",
       "science",
-      "lifestyle",
-      "data-driven"
+      "lifestyle"
     ],
     "tags_zh": [
       "分析",
       "科学研究",
-      "生活方式",
-      "数据驱动"
+      "生活方式"
     ],
     "date": "2025-09-24",
     "summary_en": "This reflective piece by Ling Sun explores the paradox of pursuing activities we know will be painful, using her personal experience of running a half marathon as a case study. The author's honest account of 'hitting the wall' during the race reveals profound insights about human endurance, the nature of pain, and the psychological mechanisms that drive us to persist despite discomfort. Sun's analysis of how pain becomes forgotten shortly after the event raises intriguing questions about memory and motivation. The piece transcends sports to become a meditation on personal growth, self-discovery, and the complex relationship between suffering and achievement. Her willingness to document both physical and mental struggles makes this more than a running story - it's a universal exploration of human resilience.",
@@ -1165,14 +1084,12 @@
     "tags": [
       "inspire",
       "politics",
-      "society",
-      "future-prediction"
+      "society"
     ],
     "tags_zh": [
       "启发",
       "政治时事",
-      "社会议题",
-      "未来预测"
+      "社会议题"
     ],
     "date": "2025-09-21",
     "summary_en": "This insightful analysis draws striking parallels between historical fascist regimes and contemporary political movements in the US, revealing how authoritarian leaders manipulate traditional gender roles to consolidate power. The article highlights how both Nazi Germany and the current Trump administration rely on women to perform unpaid labor and uphold state ideology through domestic duties. Historian Claudia Koonz's research on Nazi Germany's women's movement provides a chilling framework for understanding today's 'womanosphere' influencers who promote similar ideologies. The piece critiques how these movements co-opt motherhood and homemaking as political tools, offering a false sense of security while eroding women's rights and autonomy. Particularly compelling is the discussion of how economic and social policies force women to bear the burdens of state failures, from healthcare cuts to education deficiencies. The article serves as a cautionary tale about the dangers of romanticizing traditional gender roles in the face of authoritarianism.",
@@ -1188,15 +1105,11 @@
     "link": "http://www.paulgraham.com/simply.html",
     "tags": [
       "learn",
-      "startup-strategy",
-      "leadership",
-      "beginner-friendly"
+      "leadership"
     ],
     "tags_zh": [
       "学习",
-      "创业策略",
-      "领导管理",
-      "新手友好"
+      "领导管理"
     ],
     "date": "2025-09-24",
     "summary_en": "The essay advocates for simple, clear writing as a means to enhance reader engagement and idea retention. The author argues that complex language creates unnecessary barriers, forcing readers to expend energy decoding words rather than absorbing concepts. Simple writing is not just more considerate to non-native English speakers but also exposes the writer to scrutiny, forcing them to be honest about their ideas. The piece also highlights how simple writing stands the test of time, remaining accessible across cultural and linguistic changes. The author's personal motivation stems from a sense of offense at convoluted writing, viewing simplicity as elegant rather than simplistic. The writing process itself—fast drafting followed by meticulous editing—naturally leads to simplicity. This essay challenges writers to prioritize clarity and respect for the reader over pretentiousness.",
@@ -1213,21 +1126,20 @@
     "tags": [
       "learn",
       "politics",
-      "society",
-      "controversial"
+      "society"
     ],
     "tags_zh": [
       "学习",
       "政治时事",
-      "社会议题",
-      "争议观点"
+      "社会议题"
     ],
     "date": "2025-09-23",
     "summary_en": "Cass Sunstein's defense of liberalism in 'On Liberalism' offers an expansive vision that unites diverse figures from Reagan to Rawls under the 'holy trinity' of freedom, pluralism, and rule of law. His inclusive approach reveals a nuanced perspective on political ideology, acknowledging historical complexities while advocating for core liberal principles. The interview explores tensions between liberalism's ideals and its practitioners' flaws, including controversial figures like Hayek and Kissinger. Sunstein's optimism about the Supreme Court's commitment to liberalism contrasts with critiques of its current conservative majority, raising questions about institutional resilience in polarized times. The discussion ultimately underscends liberalism's enduring relevance while confronting its internal contradictions and historical shortcomings.",
     "summary_zh": "桑斯坦在《论自由主义》中为自由主义辩护，提出包容性定义将里根与罗尔斯联合起来，强调自由、多元和法治的核心价值。采访探讨了自由主义理想与实践者缺陷之间的张力，包括海耶克和基辛格等争议人物。他对最高法院坚守自由主义传统的乐观态度与对保守派多数派的批评形成对比，凸显了制度韧性在两极分化时代的挑战。讨论最终强调自由主义的持久意义，同时直面其内在矛盾和历史不足。",
     "best_quote_en": "I almost called the book 'Big-Tent Liberalism,' which means a form of liberalism that includes Ronald Reagan and Barack Obama, and that includes Mill and Robert Nozick, who was a libertarian.",
     "best_quote_zh": "我几乎想把这本书命名为《大帐篷自由主义》，这意味着一种包括里根和奥巴马在内的自由主义，也包括密尔和罗伯特·诺齐克，他是一个自由意志主义者。"
-  },{
+  },
+  {
     "id": 91,
     "title": "23个人生突然变好的征兆",
     "title_zh": "23个人生突然变好的征兆",
@@ -1236,14 +1148,12 @@
     "tags": [
       "inspire",
       "lifestyle",
-      "education",
-      "case-study"
+      "education"
     ],
     "tags_zh": [
       "启发",
       "生活方式",
-      "教育学习",
-      "案例研究"
+      "教育学习"
     ],
     "date": "2025-09-25",
     "summary_en": "This article explores 23 personal stories of life-changing turning points, revealing that transformative moments aren't random but often result from persistent effort and self-reflection. The narratives span career shifts, educational pursuits, personal growth, and overcoming mental health challenges. A recurring theme is the power of perseverance - whether through education, career changes, or personal development - in creating one's own opportunities. The piece challenges the notion of 'sudden' transformations, arguing instead that meaningful change comes from consistent effort and self-belief. It's a compelling collection that demonstrates how individuals create their own turning points through resilience and action.",
@@ -1260,14 +1170,12 @@
     "tags": [
       "analyze",
       "science",
-      "lifestyle",
-      "data-driven"
+      "lifestyle"
     ],
     "tags_zh": [
       "分析",
       "科学研究",
-      "生活方式",
-      "数据驱动"
+      "生活方式"
     ],
     "date": "2025-09-25",
     "summary_en": "This compelling narrative follows a young woman's journey from child labor to a stable tech job, highlighting her resilience and the tough choices she faces between career stability and personal freedom. The article explores the tension between societal expectations and self-fulfillment, particularly in the context of China's competitive job market. Wood's story challenges conventional notions of success, emphasizing the importance of personal agency in career decisions. Her experience with language barriers and career transitions offers valuable insights into modern workforce adaptability. The author's reflective commentary adds depth, making this a thought-provoking piece about life choices and self-discovery.",
@@ -1282,16 +1190,12 @@
     "source": "Women | The Guardian",
     "link": "https://www.theguardian.com/global-development/2025/sep/05/malawi-global-health-development-us-aid-cuts-tb-contraception-women",
     "tags": [
-      "update",
       "politics",
-      "medicine",
-      "data-driven"
+      "medicine"
     ],
     "tags_zh": [
-      "动态",
       "政治时事",
-      "医学健康",
-      "数据驱动"
+      "医学健康"
     ],
     "date": "2025-09-25",
     "summary_en": "This article exposes the devastating impact of US aid cuts on maternal healthcare in Malawi, one of Africa's poorest countries. The abrupt termination of the Momentum Tikweze Umoyo program, which had successfully reduced maternal and infant mortality rates, has left rural women without critical services. The piece highlights how these cuts have led to increased unsafe abortions, late or missed antenatal appointments, and a decline in vaccinations. It's a stark reminder of how vulnerable populations suffer most from geopolitical decisions. The article also raises important questions about global responsibility and the consequences of abrupt aid withdrawal.",
@@ -1306,14 +1210,10 @@
     "source": "Paul Graham",
     "link": "http://www.paulgraham.com/donate.html",
     "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
+      "solve"
     ],
     "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
+      "解决"
     ],
     "date": "2025-09-25",
     "summary_en": "This article reveals the often overlooked problem of restricted donations in the nonprofit sector, where donors dictate how funds should be used. The author argues that nonprofits typically understand their needs better than donors, making restricted donations suboptimal. While there are exceptions like umbrella organizations or expert donors, the article encourages unrestricted giving to maximize impact. It also explores why donors prefer restricted donations—often due to non-altruistic motives like publicity or regulatory compliance—and highlights the power imbalance that prevents nonprofits from advocating for unrestricted support. The piece concludes with a call to trust nonprofits' judgment in using funds effectively.",
@@ -1330,21 +1230,20 @@
     "tags": [
       "inspire",
       "ai-research",
-      "science",
-      "future-prediction"
+      "science"
     ],
     "tags_zh": [
       "启发",
       "AI研究",
-      "科学研究",
-      "未来预测"
+      "科学研究"
     ],
     "date": "2025-09-25",
     "summary_en": "Petrov Day commemorates the 1983 incident where Stanislav Petrov averted a potential nuclear war by correctly identifying a false alarm. This event at Lighthaven offers a unique opportunity to reflect on nuclear disarmament and peace. The ceremony follows a structured ritual with symbolic actions, creating an immersive experience that blends historical significance with contemporary relevance. It's fascinating how this event transforms a near-catastrophic moment into a catalyst for peace advocacy, demonstrating the power of individual action in global affairs.",
     "summary_zh": "Petrov Day纪念1983年斯坦尼斯拉夫·彼得罗夫识别错误警报并避免核战争的事件。在Lighthaven举办的活动为反思核裁军与和平提供了独特机会。仪式通过象征性行为创造沉浸式体验，将历史意义与当代相结合。令人惊叹的是，这个活动将近乎灾难的时刻转化为和平倡导的催化剂，展现个人行动在全球事务中的力量。",
     "best_quote_en": "Petrov Day commemorates the anniversary of the Petrov incident, a pivotal moment in nuclear history.",
     "best_quote_zh": "Petrov Day纪念彼得罗夫事件周年，这是核历史中的关键时刻。"
-  },{
+  },
+  {
     "id": 96,
     "title": "怎么就进入了一个互恨的社会？",
     "title_zh": "怎么就进入了一个互恨的社会？",
@@ -1353,14 +1252,12 @@
     "tags": [
       "inspire",
       "society",
-      "science",
-      "data-driven"
+      "science"
     ],
     "tags_zh": [
       "启发",
       "社会议题",
-      "科学研究",
-      "数据驱动"
+      "科学研究"
     ],
     "date": "2025-09-26",
     "summary_en": "This thought-provoking article explores the paradox of modern society where increasing homogeneity in middle-class lifestyles coincides with growing social fragmentation and mutual hatred. Drawing parallels with 19th-century France as observed by Tocqueville, the author examines how the middle class's imitation of aristocratic values and lifestyles has led to a superficial uniformity that masks deep-seated isolation and resentment. The analysis highlights how cultural centralization and administrative centralization have eroded local community bonds and public responsibility, creating a society where individuals feel disconnected despite their similarities. The piece concludes with a vision for a more vibrant public life where diversity coexists with shared civic responsibility.",
@@ -1399,14 +1296,12 @@
     "tags": [
       "solve",
       "politics",
-      "society",
-      "data-driven"
+      "society"
     ],
     "tags_zh": [
       "解决",
       "政治时事",
-      "社会议题",
-      "数据驱动"
+      "社会议题"
     ],
     "date": "2025-09-26",
     "summary_en": "This op-ed by two former African presidents highlights the critical role of female leadership in shaping Africa's future. It argues that investing in women leaders is not just about equity but about building stability, driving innovation, and ensuring inclusive development. The authors emphasize that African women are already making significant contributions in peacekeeping, education, health, and climate action. They propose concrete actions like funding leadership programs and removing barriers to women's political participation. The piece makes a compelling case that supporting women leaders is a strategic global imperative, not charity, and offers a vision for how this investment can transform societies.",
@@ -1422,15 +1317,11 @@
     "link": "http://www.paulgraham.com/worked.html",
     "tags": [
       "analyze",
-      "startup-strategy",
-      "education",
-      "data-driven"
+      "education"
     ],
     "tags_zh": [
       "分析",
-      "创业策略",
-      "教育学习",
-      "数据驱动"
+      "教育学习"
     ],
     "date": "2025-09-26",
     "summary_en": "This deeply personal narrative traces the author's intellectual journey from early programming and writing attempts to becoming an AI researcher, artist, and entrepreneur. The text reveals profound insights about the evolution of computing, the nature of creativity, and the startup world. It highlights the author's shift from philosophy to AI, then to art, and finally to entrepreneurship, emphasizing the importance of independent thinking and embracing rapid change. The reflections on Lisp programming and the creation of Viaweb offer valuable lessons about technology, business, and personal growth. The author's struggle to balance artistic passion with entrepreneurial demands provides a compelling narrative about the pursuit of meaningful work.",
@@ -1447,21 +1338,20 @@
     "tags": [
       "analyze",
       "ai-research",
-      "science",
-      "data-driven"
+      "science"
     ],
     "tags_zh": [
       "分析",
       "AI研究",
-      "科学研究",
-      "数据驱动"
+      "科学研究"
     ],
     "date": "2025-09-26",
     "summary_en": "This research explores how transformers build and utilize world models, focusing on the RRXOR data-generating process. The study reveals that while a previous ansatz for constrained belief updating fails to generalize to RRXOR, empirical evidence suggests some patterns from earlier work persist. The findings highlight the tension between transformers' parallel architecture and optimal recursive prediction, offering preliminary insights into how these models might overcome architectural constraints. This work is a stepping stone toward understanding world model formation in larger language models relevant to AI safety, emphasizing the need for more general theories and robust empirical validation.",
     "summary_zh": "该研究聚焦于变压器如何构建和利用世界模型，特别针对RRXOR数据生成过程。发现之前的约束信念更新假设无法推广至RRXOR，但实证结果显示部分早期研究的模式依然存在。研究揭示了变压器平行架构与最优递归预测之间的张力，为理解这些模型如何克服架构限制提供了初步见解。这项工作为AI安全领域的大型语言模型世界模型形成机制奠定了基础，强调了更通用理论和更强大的实证验证的必要性。",
     "best_quote_en": "The picture of successive evolution through the transformer – from geometry associated to approximate then optimal prediction – is elegant and elucidating; however, we know it cannot exactly hold in general settings.",
     "best_quote_zh": "变压器中从近似预测到最优预测的几何演化图景优雅且富有启发性，但我们知道它在一般情况下并不能完全成立。"
-  },{
+  },
+  {
     "id": 101,
     "title": "把秋天含在嘴里｜九月咖啡订阅计划",
     "title_zh": "把秋天含在嘴里｜九月咖啡订阅计划",
@@ -1492,18 +1382,17 @@
     "tags": [
       "analyze",
       "ai-research",
-      "science",
-      "future-prediction"
+      "science"
     ],
     "tags_zh": [
       "分析",
       "AI研究",
-      "科学研究",
-      "未来预测"
+      "科学研究"
     ],
     "date": "2025-09-27",
     "summary_en": "Florence Welch's raw and revealing interview delves into the profound physical and emotional trauma of her ectopic pregnancy, which nearly cost her life. Her new album, Everybody Scream, channels this experience into a powerful exploration of grief, resilience, and the double standards women face in the music industry. Welch's candid reflections on her near-death experience, the healing power of nature, and her struggles with public perception offer a poignant commentary on the intersection of personal trauma and artistic expression. The interview also highlights her evolving perspective on fame, creativity, and the pressures of being a woman in music, making it a compelling read for anyone interested in the complex interplay between personal suffering and artistic creation.",
     "summary_zh": "佛罗伦斯·韦尔奇在采访中坦诚揭露了宫外孕几乎夺去她生命的经历，新专辑《Everybody Scream》将这种创伤转化为关于悲伤、韧性和音乐行业中性别双重标准的深刻探索。她对近死体验、自然治愈力量以及公众认知的反思，为个人创伤与艺术表达的复杂关系提供了深刻的评论。采访还凸显了她对名声、创造力和作为女性在音乐界面临压力的不断变化的看法，使其成为任何对个人痛苦与艺术创作复杂互动感兴趣的人的引人入胜的阅读材料。",
     "best_quote_en": "The closest I came to making life was the closest I came to death.",
     "best_quote_zh": "我离生最近的时刻也是我离死最近的时刻。"
-  }]
+  }
+]
