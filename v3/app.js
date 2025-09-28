@@ -65,23 +65,7 @@ async function init() {
 
 async function loadData() {
   try {
-    // 动态构建data.json路径，支持GitHub Pages部署
-    const currentPath = window.location.pathname;
-    let dataPath;
-    
-    // 智能检测部署环境
-    const isGitHubPages = window.location.hostname.includes('github.io');
-    const hasSubPath = currentPath.split('/').length > 3; // 路径深度大于3说明可能在子目录中
-    
-    if (isGitHubPages || hasSubPath) {
-      // GitHub Pages或其他子目录部署环境
-      dataPath = currentPath.replace(/\/v3\/.*$/, '') + '/data.json';
-    } else {
-      // 本地开发环境或根目录部署
-      dataPath = '../data.json';
-    }
-    
-    const response = await fetch(dataPath);
+    const response = await fetch('../data.json');
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
