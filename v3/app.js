@@ -438,13 +438,13 @@ function renderTags(list) {
   const tags = [allText, ...allTags];
   
   // TODO: 学员任务 - 实现标签数量显示功能
-  const count = isAll ? list.length : (tagCounts[t] || 0);
   // 提示：需要在标签后面显示使用次数，格式如 "AI (15)"
   $('#tags').innerHTML = tags.map(t => {
     const isAll = t === allText;
     const tagValue = isAll ? 'all' : t;
     const isActive = activeTags.has(tagValue);
     // TODO: 在这里添加标签数量显示逻辑
+    const count = isAll ? list.length : (tagCounts[t] || 0);
     return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
       ${esc(t)} <span class="tag-count">(${count})</span>
     </span>`;
