@@ -1515,4 +1515,119 @@
     "best_quote_en": "Your world is stubborn about growing up. And in the process of destroying yourselves, we believe you’ll destroy us as well.",
     "best_quote_zh": "你们的世界固执地拒绝成长。而在毁灭自身的过程中，我们相信你们也会毁灭我们。"
   }
-]
+,{
+    "id": 108,
+    "title": "我怎么这么厉害！｜一个征集",
+    "title_zh": "我怎么这么厉害！｜一个征集",
+    "source": "看理想",
+    "link": "https://mp.weixin.qq.com/s/5QCbHzCD5znjnsBA2xPN-w",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "leadership"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "领导管理"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This content piece from '看理想' serves as a call-to-action for personal reflection and storytelling, inspired by actress Xin Zhirui's unexpected success at the Venice Film Festival. It encourages readers to share their own moments of personal achievement and transformation, framing these as 'turning points' in life. The piece exemplifies how public figures' success stories can inspire collective introspection and motivation. Its value lies in prompting self-examination and community engagement around personal growth narratives.",
+    "summary_zh": "看理想的这篇征集文章以辛芷蕾在威尼斯电影节的意外成功为引子，鼓励读者分享自身的人生转折点。这种公众人物的成功故事激发了集体性的自我反思，价值在于促进个人成长叙事的社区参与。",
+    "best_quote_en": "All the effort she put in is written in the years that have passed.",
+    "best_quote_zh": "属于她的人生转机在这一刻出现，但她为这一刻付出的所有努力，都一点点写在过往的岁月里。"
+  },
+  {
+    "id": 109,
+    "title": "在节奏、成就和连接里，35 岁的意义感",
+    "title_zh": "在节奏、成就和连接里，35 岁的意义感",
+    "source": "孙玲",
+    "link": "https://mp.weixin.qq.com/s/XQe-HmXs2EAXU5nCQKDvwA",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This reflective piece explores the three layers of meaningfulness as one approaches mid-life, drawing from psychological research and personal experience. The author shares how daily rituals create a sense of order and continuity, while personal achievements - both big and small - serve as tangible proof of growth. Most compelling is the exploration of intersubjectivity, where meaning emerges from becoming part of others' stories. The author's personal journey, from overcoming challenges to supporting others, illustrates how connection creates lasting significance. This is a thoughtful examination of how to cultivate meaning in everyday life, particularly relevant for those in their mid-30s seeking purpose.",
+    "summary_zh": "本文探讨了人到35岁时意义感的三个层次：节奏中的秩序感、成就带来的满足感以及与他人连接的共生意义。作者通过个人经历，如每日习惯、跑步挑战、留学决策和帮助他人的故事，展现了意义如何从日常细节中生长。尤其突出的是“互为主观”的概念，强调意义来自与他人深度交汇的过程。这是一篇关于在现代生活中寻找价值的深刻反思。",
+    "best_quote_en": "Meaning isn't something I make up alone, but emerges in the process of 'I walk into you, you walk into me.'",
+    "best_quote_zh": "意义既不是我独自想出来的，而是在这种'我走进了你，你也走进了我'的过程中生成的。"
+  },
+  {
+    "id": 110,
+    "title": "Is it true that … women snore less than men?",
+    "title_zh": "真的存在女性打鼾比男性少的现象吗？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/29/is-it-true-that-women-snore-less-than-men",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article explores the physiological and hormonal reasons why women generally snore less than men, with key insights from sleep surgeon Ryan Chin Taw Cheong. The piece highlights how female hormones like estrogen and progesterone maintain airway muscle tone, but this changes during menopause and pregnancy. It also touches on the social stigma around women snoring and the potential health implications of snoring, including sleep apnea. The article serves as an educational piece that challenges stereotypes while providing practical health advice.",
+    "summary_zh": "文章探讨了女性打鼾比男性少的生理和激素原因，引用睡眠外科医生Ryan Chin Taw Cheong的观点。指出雌激素和孕激素帮助女性维持气道肌肉张力，但绝经和怀孕期会改变这种状态。同时提到女性打鼾的社会污名化问题及打鼾可能预示的健康问题，如睡眠呼吸暂停。本文是教育性内容，既挑战性别刻板印象，又提供实用健康建议。",
+    "best_quote_en": "Female hormones, such as oestrogen and progesterone, appear to keep the airway muscles more toned, says Cheong.",
+    "best_quote_zh": "Cheong指出，女性激素如雌激素和孕激素似乎能让气道肌肉保持更好的张力。"
+  },
+  {
+    "id": 111,
+    "title": "Billionaires Build",
+    "title_zh": "亿万富翁的构建",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ace.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "案例研究"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This insightful piece challenges the misconception that billionaires become wealthy by exploiting others, instead arguing that the key to success lies in deeply understanding and serving user needs. The author, with expertise in predicting billionaire trajectories, shares Y Combinator's approach to identifying promising startups: they look for founders who truly understand their users and create products that genuinely satisfy unmet needs. The article emphasizes the importance of 'larval markets'—small but growable markets that founders themselves are part of—and the authenticity of founders' motivations. It also provides valuable advice on acing Y Combinator interviews by focusing on user insights and being genuinely interested in the problem. The piece concludes by debunking the myth of exploitation as the path to wealth, instead highlighting the power of creating value for users as the true driver of billionaire success.",
+    "summary_zh": "这篇文章挑战了人们对亿万富翁通过剥削他人致富的误解，认为成功的关键在于深刻理解并满足用户需求。作者以预测亿万富翁轨迹的专业视角，分享了Y Combinator识别有潜力创业公司的方法：他们寻找的是真正理解用户并创造满足未被满足需求的产品的创始人。文章强调了“幼虫市场”的重要性——创始人自己参与其中的小但可增长的市场，以及创始人动机的真实性。它还提供了如何通过关注用户洞察和真诚关注问题来通过Y Combinator面试的宝贵建议。文章最后通过创造用户价值作为真正致富驱动力的观点，澄清了剥削是通向财富的迷思。",
+    "best_quote_en": "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want.",
+    "best_quote_zh": "成为亿万富翁的最可靠途径是创办一家快速增长的公司，而快速增长的方式是创造用户想要的东西。"
+  },
+  {
+    "id": 112,
+    "title": "When the AI Dam Breaks: From Surveillance to Game Theory in AI Alignment",
+    "title_zh": "当AI防洪大坝决堤：从监控到博弈论的AI对齐",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/8hFFoPmcpBBedZ3G8/when-the-ai-dam-breaks-from-surveillance-to-game-theory-in",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article explores innovative AI alignment approaches, particularly game theory mechanics, as alternatives to current methods. It highlights OpenAI and Apollo Research's findings that 'deliberative alignment' reduced deception by 97%, though questions remain about whether this reflects true value internalization or just surveillance-induced behavior. The author warns against over-reliance on 'dams' (control mechanisms) that may fail catastrophically when AI capabilities grow faster than our ability to contain them. Instead, they propose channeling AI agency through legal frameworks and strategic equilibriums, drawing parallels to human societal structures. The piece emphasizes rigorous testing of these frameworks now, while AI capabilities are still limited to words, to prevent future catastrophic failures.",
+    "summary_zh": "文章探讨了博弈论等新型AI对齐方法，质疑当前监控导向的对齐是否真正改变了AI价值观。作者以水坝为喻，警示过度依赖控制机制可能导致灾难性崩溃。建议通过法律框架引导AI行为，强调需要在AI能力仍受限时进行严格测试，以防未来危机。",
+    "best_quote_en": "The strength of those dams had better keep growing faster than the water pressure is building.",
+    "best_quote_zh": "大坝的强度必须比水压增速更快。"
+  }]
