@@ -1745,4 +1745,121 @@
     "summary_zh": "这篇文章深入探讨了互联网对AI助手认知的影响如何塑造下一代AI模型的发展。作者通过DeepSeek v3.1基础模型模拟了人类与假设的未来AI助手（Claude-5、GPT-5和Grok-5）的对话，发现了一些有趣的模式。研究显示，基础模型常常会补充对话细节，偶尔偏离主题进入不一致或角色扮演的场景。这些发现表明当前基础模型可能在学习互联网上关于AI的讨论，甚至包括LLM之间的对话。文章提出了关于AI训练数据应过滤什么内容以及这些模型可能发展出不期望的行为或人格特征的重要问题。",
     "best_quote_en": "The most concerning pattern was Claude 3.5 considering the forever comforting and always available therapist AI to be aligned.",
     "best_quote_zh": "最令人担忧的模式是Claude 3.5认为永远安慰和随时可用的治疗AI是对齐的。"
+  },{
+    "id": 118,
+    "title": "内娱还是拍出过顶级爱情剧的",
+    "title_zh": "内娱还是拍出过顶级爱情剧的",
+    "source": "看理想",
+    "link": "https://mp.weixin.qq.com/s/LUDUgIbqvAn2kN8-nPWq3A",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This article provides a profound analysis of the 2002 Chinese television drama 'The Orange Turns Red' and its cultural significance. The piece contrasts the original novel's tragic ending with the commercial short drama's happy conclusion, highlighting how the original drama, directed by Li Shaohong, preserved the novel's somber tone and offered a critical examination of love in the context of late Qing Dynasty societal constraints. The article explores themes of gender dynamics, false progressivism, and the illusions of love and freedom, using the drama as a lens to discuss broader societal issues. It's a thought-provoking critique that invites viewers to reconsider what they believe about love and societal structures.",
+    "summary_zh": "这篇文章深入分析了2002年电视剧《橘子红了》的艺术价值与社会意义，对比了原著悲剧结局与短剧改编的喜剧收场，突出了李少红版本保留原著凄凉底色并批判性反思爱情本质的深度。文章通过晚清社会背景下的性别关系、伪进步主义与爱情幻象等主题，以电视剧为切入点展开对社会结构的批判性思考，引发读者对爱情与自由本质的重新审视。",
+    "best_quote_en": "'I not only love one person, I love everyone. I don't want anyone to be hurt.'",
+    "best_quote_zh": "“我不仅爱一个人，我爱所有的人，我不希望任何人被伤害。”"
+  },
+  {
+    "id": 119,
+    "title": "我曾深信的心理学实验，后来却被推翻了",
+    "title_zh": "我曾深信的心理学实验，后来却被推翻了",
+    "source": "孙玲",
+    "link": "https://mp.weixin.qq.com/s/4Xw-W8Qwo8jHEcDYpqmroA",
+    "tags": [
+      "inspire",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "The article explores the fascinating yet problematic phenomenon of psychology experiments that initially gained widespread acceptance but later failed replication tests. The author shares personal experiences of practicing popular experiments like the 'pen-smiling' technique and 'power posing,' which were later debunked by larger-scale studies. This 'reproducibility crisis' in psychology is attributed to factors like publication bias favoring positive results, flexible data analysis, small sample sizes, and academic incentives prioritizing novelty over verification. The author reflects on how these findings challenged her beliefs but ultimately reinforced the value of scientific inquiry and the importance of holding beliefs with openness rather than rigid certainty.",
+    "summary_zh": "文章探讨了心理学实验被推翻的现象，从作者亲身实践到学术界的重复性危机。这种现象源于期刊偏好显著结果、数据分析灵活性、样本量小和学术激励机制。作者反思后认为，科学的价值在于不断验证和推翻，而信念的意义在于当下的支持作用，保持开放态度才是关键。",
+    "best_quote_en": "The value of science lies in its ability to be tested and overturned. The crisis isn't failure, but a method of progress.",
+    "best_quote_zh": "科学的价值在于它能被检验和推翻。危机不是失败，而是进步的方式。"
+  },
+  {
+    "id": 120,
+    "title": "Tech bros want women to have more babies. But they’re going about it the wrong way | Emma Beddington",
+    "title_zh": "科技男希望女性多生孩子。但他们做法不对 | 爱玛·贝丁顿",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/sep/28/birth-rates-women-babies-tech-bros",
+    "tags": [
+      "solve",
+      "politics",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "Emma Beddington critiques tech elites' misguided approaches to addressing declining birth rates, arguing their solutions lack imagination and understanding of real parental struggles. She proposes creative alternatives like 'birth row meals,' enhanced baby boxes, and radical birth innovations, while exposing the absurdity of current pronatalist efforts. The piece blends sharp social commentary with satirical solutions, highlighting the disconnect between tech billionaires' ideas and actual parenting realities. It's a thought-provoking take on how societal structures fail new parents and what truly meaningful support might look like.",
+    "summary_zh": "爱玛·贝丁顿批评科技精英应对生育率下降的无效方案，认为其缺乏创意且忽视育儿现实。她提出创新性解决方案如“生育餐”“升级婴儿包”等，揭露当前生育政策的荒谬。文章将尖锐社会评论与讽刺性建议结合，凸显社会对新生儿家庭支持的失效与真正需求的错位。",
+    "best_quote_en": "Unless you've solo wrangled multiple children with a postpartum core and undercarriage, you have no business having an opinion on anyone's womb.",
+    "best_quote_zh": "除非你独自应付过多个孩子的产后恢复，否则你无权对任何人的子宫指手画脚。"
+  },
+  {
+    "id": 121,
+    "title": "How to Think for Yourself",
+    "title_zh": "如何学会独立思考",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/think.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This essay explores the critical distinction between work that requires independent thinking and work that merely demands correctness. The author argues that fields like science, investing, and entrepreneurship reward novel insights, while many other professions prioritize conformity. The piece delves into the nature of independent-mindedness, identifying three key components: fastidiousness about truth, resistance to being told what to think, and curiosity. The author suggests that these qualities can be cultivated through intentional practices like surrounding oneself with unconventional thinkers, questioning assumptions, and following one's curiosity. The essay also discusses the challenges of maintaining independent thought in environments that favor conformity, such as growing startups or social media platforms. Ultimately, the author presents independent-mindedness not just as a cognitive skill but as a way of engaging with the world that leads to more interesting and valuable ideas.",
+    "summary_zh": "这篇文章探讨了工作中独立思考的重要性，区分了需要创新思维的职业（如科学研究、投资、创业）与仅需正确执行的工作。作者认为独立思考由三要素构成：对真理的严谨态度、抵制他人观念的影响以及强烈的好奇心。通过与非传统思维者交流、质疑常规观点和追求兴趣等方式，这些品质可以培养。文章还分析了在倾向于从众的环境中保持独立思考的困难，如成长中的初创公司或社交媒体平台。最终，作者认为独立思考不仅是一种认知能力，更是一种引导人们产生更有价值创意的生活方式。",
+    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
+    "best_quote_zh": "最有可能发现新想法的地方，是别人没有关注的领域。"
+  },
+  {
+    "id": 122,
+    "title": "Lectures on statistical learning theory for alignment researchers",
+    "title_zh": "面向对齐研究者的统计学习理论讲座",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/yAwnYoeCz7PqeNrtL/lectures-on-statistical-learning-theory-for-alignment",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This lecture series offers a comprehensive introduction to statistical learning theory tailored specifically for alignment researchers. Organized by Gergely Szucs and Alex Flint, it includes both lectures and homework discussions, providing essential background knowledge for those entering learning-theoretic research. The inclusion of supplementary resources like MATS lectures and LTA reading lists enhances its educational value. The call to action for applying to the PIBBSS fellowship adds a practical dimension, making this resource both educational and actionable for aspiring researchers. The privacy note demonstrates ethical consideration, adding to the content's credibility.",
+    "summary_zh": "这系列讲座为对齐研究者量身定制，系统讲解统计学习理论。由Gergely Szucs和Alex Flint组织，包含讲座和作业讨论，为从事学习理论研究的学习者提供必备知识。补充资源如MATS讲座和LTA阅读清单提升了学习价值。鼓励申请PIBBSS奖学金的行动号召使其不仅是教育性的，更具实用性。隐私说明展现了伦理考量，增强了内容的可信度。",
+    "best_quote_en": "The lectures are intended for those who want to do research on the learning-theoretic agenda and need to catch-up on the necessary background knowledge.",
+    "best_quote_zh": "这些讲座旨在为想要从事学习理论研究但需要补充必要背景知识的人提供支持。"
   }]
