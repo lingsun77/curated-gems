@@ -2096,4 +2096,123 @@
     "summary_zh": "2025年秋季开放讨论帖为LessWrong用户提供了一个分享零散想法、自我介绍和反馈的平台，无需撰写完整文章。对新人尤其有价值，指引他们了解序列精选、图书馆等资源。它鼓励个人分享与社区互动，是探索理性主义思想的轻量入口。其核心价值在于促进联系并降低参与门槛，但内容深度有限。",
     "best_quote_en": "If it’s worth saying, but not worth its own post, here's a place to put it.",
     "best_quote_zh": "若值得一说，却不值单独撰文，这里就是它的归宿。"
+  },{
+    "id": 133,
+    "title": "旅行日记 - 从地中海的热浪，到阿尔卑斯的凉风，再到爱尔兰的细雨",
+    "title_zh": "旅行日记 - 从地中海的热浪，到阿尔卑斯的凉风，再到爱尔兰的细雨",
+    "source": "孙玲",
+    "link": "https://mp.weixin.qq.com/s/gPrAAyQu7FV1WNm7Knzd_A",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This travelogue offers a vivid three-part journey through Europe, capturing the distinct atmospheres of Greece, Switzerland, and Ireland. The author shares personal reflections on cultural immersion, from the vibrant Mediterranean to the cool Alpine landscapes and the misty charm of Ireland. Beyond mere sightseeing, the narrative emphasizes travel as an educational experience, highlighting how physical presence creates lasting memories and cultural understanding. The inclusion of wedding celebrations adds a human touch, contrasting the grandeur of historic sites like Trim Castle with intimate moments of connection. The piece serves as both a personal journal and a subtle guide to mindful travel, inviting readers to see places not just as destinations but as opportunities for growth.",
+    "summary_zh": "这篇旅行日记以地中海的热情、阿尔卑斯的清凉和爱尔兰的细雨为线索，展现了作者对欧洲三国文化的深刻体悟。从希腊的阳光海滩到瑞士的冰川湖泊，再到爱尔兰的古堡雨天，每一站都记录了不同的节奏与心情。婚礼的参与为行程增添了人情味，让历史建筑与个人故事交织。旅行不仅是风景的积累，更是文化的沉浸。回到西雅图后，作者发现心态已悄然改变，证明旅行是最生动的学习方式。",
+    "best_quote_en": "Travel is a form of learning. Only by actually going to a place can you remember its image, and even those place names you couldn't pronounce before will leave a clear imprint in your heart after seeing and hearing them firsthand.",
+    "best_quote_zh": "旅行是一种学习方式。只有真的走到一个地方，才会记住它的样子，甚至那些出发前念不准的地名，也因为亲眼所见、亲耳所听，而在心里留下清晰的印记。"
+  },
+  {
+    "id": 134,
+    "title": "Meet the 75-year-old powerlifter headed to the world championships",
+    "title_zh": "认识这位75岁的举重运动员，她即将参加世界锦标赛",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/sep/26/powerlifting-kate-evert-world-championships",
+    "tags": [
+      "analyze",
+      "design",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "Kate Evert's journey from reluctant gym-goer to world-class powerlifter at 75 challenges stereotypes about aging and competition. Her story reveals the transformative power of fitness, the importance of community in niche sports, and the mental benefits of focused physical challenges. Evert's confidence in her strength and ability to compete internationally offers inspiring insights into lifelong learning and the pursuit of personal excellence. Her experience also highlights how sports can provide structure and purpose, even when facing minimal competition. The article serves as a powerful reminder that age is just a number when it comes to achieving physical and mental growth.",
+    "summary_zh": "凯特·埃弗特从不情愿的健身爱好者到75岁的世界级举重运动员，她的故事挑战了关于老龄化和竞争的刻板印象。她的经历展示了健身的转变力量，小众运动中的社区重要性，以及专注的身体挑战带来的心理益处。埃弗特对自身力量和国际比赛的信心，为终身学习和追求个人卓越提供了激励性见解。她的经历也凸显了体育如何提供结构和目的，即使面对极少的竞争。这篇文章强有力地提醒我们，年龄只是数字，在实现身体和心理成长方面。",
+    "best_quote_en": "The thing about competition at my age is that there aren’t very many competitors. Like, hardly any.",
+    "best_quote_zh": "关于我这个年纪的比赛，参赛者非常少，几乎没有。"
+  },
+  {
+    "id": 135,
+    "title": "The Four Quadrants of Conformism",
+    "title_zh": "四种顺从类型",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/conformism.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This insightful piece classifies people based on their conformism, creating a framework that reveals how personalities shape societal roles and historical outcomes. The author argues that aggressively conventional-minded individuals often cause societal harm, while independent-minded people drive progress. The essay warns about the erosion of free inquiry protections and the dangers of suppressing 'bad' ideas, as this stifles innovation and creates unintended consequences. The author expresses concern about universities losing their role as safe havens for independent thought but remains hopeful that independent-minded individuals will create new institutions. The piece combines psychological insight with historical analysis to make a compelling case for protecting intellectual freedom.",
+    "summary_zh": "本文通过顺从度将人分为四类，揭示性格如何塑造社会角色和历史进程。作者认为，强烈遵从传统者常带来社会危害，而独立思考者推动进步。文章警示自由探索保护机制的削弱及禁言",
+    "best_quote_en": "The aggressively conventional-minded aren't responsible for all the trouble in the world. Another big source of trouble is the sort of charismatic leader who gains power by appealing to them.",
+    "best_quote_zh": "强烈遵从传统者并非世界上所有麻烦的源头。另一个主要麻烦来源是那种通过迎合他们获得权力的魅力型领袖。"
+  },
+  {
+    "id": 136,
+    "title": "How New Mexico Became a Sanctuary State for Health Care",
+    "title_zh": "新墨西哥州如何成为医疗庇护州",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-southwest/how-new-mexico-became-a-sanctuary-state-for-health-care",
+    "tags": [
+      "analyze",
+      "politics",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "New Mexico's transformation into a healthcare sanctuary offers a compelling case study in progressive policymaking amid national restrictions. The state's strategic approach to abortion access, gender-affirming care, and universal childcare demonstrates how local governance can address national policy voids. The article highlights the unique cultural and political landscape of New Mexico, where despite religious conservatism, a strong tradition of personal autonomy prevails. The state's initiatives not only serve out-of-state patients but also aim to improve local healthcare outcomes, addressing chronic shortages and economic disparities. The resistance faced in conservative eastern counties reveals the ongoing national struggle over reproductive rights, while the state's legal victories offer a blueprint for progressive healthcare advocacy.",
+    "summary_zh": "新墨西哥州通过医疗庇护政策展现了地方政府在联邦政策真空下的创新能力。其对堕胎权、性别确认治疗和全民育儿的全面保障，不仅帮助外州患者，也改善本地医疗资源短缺和经济不平等。尽管面临保守派东部县的抵抗，州政府的法律胜利为进步主义医疗倡导提供了范例。这一案例凸显了个人自主权传统在宗教保守地区的独特性，以及医疗权利斗争的持续性。",
+    "best_quote_en": "We're purplish, but we're more blue relative to abortion care.",
+    "best_quote_zh": "我们可能是紫色州，但相对于堕胎权问题，我们更倾向蓝色阵营。"
+  },
+  {
+    "id": 137,
+    "title": "It’s 2020 and you’re in the future",
+    "title_zh": "我们已经进入2020年代",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
+    "tags": [
+      "inspire",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-01-02",
+    "summary_en": "This reflective piece uses historical perspective to highlight how quickly time passes and how our perception of the past evolves. By comparing current temporal distances to historical events with those of the past, the author creates a thought-provoking narrative about generational shifts and the relativity of time. The content serves as a reminder of how our personal timelines are constantly expanding, with younger generations experiencing historical events in ways that differ fundamentally from previous ones. The article's strength lies in its ability to make abstract temporal concepts tangible through concrete examples, inviting readers to reflect on their own place in history.",
+    "summary_zh": "这篇文章通过历史视角，展示了时间流逝的速度和我们对过去认知的变化。通过将当代与历史事件的时间距离与过去相比较，作者构建了一个关于世代变迁和时间相对性的深刻叙事。内容提醒我们个人时间线不断延伸，年轻一代以全新方式经历历史事件。文章巧妙将抽象时间概念具体化，邀请读者反思自身在历史长河中的位置。",
+    "best_quote_en": "The weirdest thing about kids today: most of them will live to see the 2100s.",
+    "best_quote_zh": "当代孩子最奇怪的地方在于：他们中的大多数人将活到2100年代。"
   }]
