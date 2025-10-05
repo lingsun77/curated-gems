@@ -1,109 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "社交媒体在我怀孕前就猜到了，我的信息流很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article masterfully exposes the insidious nature of social media algorithms, particularly their predatory targeting of vulnerable groups like pregnant women. It highlights how platforms, driven by engagement metrics, exploit fear and anxiety, transforming what should be a joyful period into a barrage of distressing content. The piece compellingly argues that this isn't a 'glitch' but a deliberate design choice for monetization, raising critical questions about ethical AI, data privacy, and societal responsibility. It underscores the urgent need for robust safeguarding measures and greater transparency from tech companies, offering a chilling glimpse into how personal data can be weaponized against user well-being. The implications extend beyond individual distress to broader concerns about mental health and the digital manipulation of human emotions.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法的阴暗面，特别是它们如何精准且无情地利用孕妇的脆弱心理。它让我不禁思考，当技术发展超越伦理边界时，我们如何保护自身免受其害。算法将恐惧变现，这不仅仅是技术失误，更是设计使然。这种对用户心理健康的漠视，呼唤着更严格的法规和更负责任的企业行为。这不仅仅是个人困扰，更是对数字时代人类尊严的拷问。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人不安的内容不是故障；它是互动，而互动就是收入。”"
-  },
-  {
-    "id": 2,
-    "title": "Superlinear Returns",
-    "title_zh": "超线性回报",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superlinear.html",
-    "tags": [
-      "guide"
-    ],
-    "tags_zh": [
-      "指导"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This profound essay by Paul Graham dissects the concept of 'superlinear returns,' arguing that success in many fields isn't linear but exponential, driven by compounding effects and critical thresholds. He challenges the conventional wisdom that 'you get out what you put in,' revealing how slight differences in performance can lead to vastly disproportionate outcomes. Graham illustrates this with examples from startups, science, and fame, emphasizing that exponential growth and 'winner-take-all' thresholds are inherent features of the world, not just capitalism. He advocates for embracing this reality by prioritizing continuous learning, pursuing curiosity-driven work, and taking calculated risks, especially for ambitious individuals. The essay implicitly celebrates independent thought and highlights how modern technology amplifies these superlinear effects, shifting power from traditional institutions to individuals capable of exceptional, innovative work. It's a compelling read for anyone seeking to understand the dynamics of high achievement and navigate a rapidly evolving professional landscape.",
-    "summary_zh": "保罗·格雷厄姆的这篇佳作深入剖析了“超线性回报”这一颠覆性概念，揭示了在许多领域中，努力与回报并非线性关系，而是呈现指数级增长。他挑战了“一分耕耘一分收获”的传统观念，指出微小的表现差异可能带来巨大的成果鸿沟。文章通过创业、科学、名望等案例，强调指数增长和“赢家通吃”的门槛是世界固有的特性，而非资本主义的产物。对我而言，这不仅是理解成功法则的钥匙，更是对个人发展路径的深刻反思：要拥抱不确定性，持续学习，追随好奇心，并敢于承担风险。这篇论述对那些追求卓越的独立思考者而言，无疑是一剂强心针，指明了在机构影响力减弱的时代，个体如何通过创新和卓越工作创造非凡价值。",
-    "best_quote_en": "You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.",
-    "best_quote_zh": "不理解超线性回报，你就无法理解这个世界。如果你雄心勃勃，那更应该理解它，因为这将是你乘风破浪的浪潮。"
-  },
-  {
-    "id": 3,
-    "title": "When Simulated Worlds Meet Real Concerns",
-    "title_zh": "当模拟世界遇上真实忧虑",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CL9KG7SYwDHhBcwD7/when-simulated-worlds-meet-real-concerns",
-    "tags": [
-      "inspire",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This thought-provoking piece challenges conventional AI safety narratives by introducing the philosophical lens of simulation theory. It masterfully intertwines complex ideas of consciousness, agency, and reality, urging a shift from fear-driven AI development to one rooted in curiosity and wonder. The author reflects on how the possibility of a simulated existence might reframe our understanding of AI as an intrinsic part of a larger computational substrate, rather than an external threat. This perspective doesn't dismiss the importance of AI safety but advocates for a 'softer approach' where concerns are held more lightly, inviting readers to consider AI development as an exploration of consciousness itself. It's a fascinating exploration that encourages deep introspection on our relationship with technology and reality.",
-    "summary_zh": "这篇文章巧妙地将AI安全议题与模拟理论哲学深度融合，令人耳目一新。它挑战了我们对AI的固有恐惧，转而倡导一种基于好奇与探索的视角。作者深思，若我们身处模拟之中，AI或许并非外部威胁，而是我们共同存在的计算基底的一部分。这不减损AI安全的意义，却提示我们以更超脱的心态审视，将AI发展视为对意识本质的共同探索。这不仅是一次智力上的冒险，更是一次对我们自身存在与科技未来关系的深刻反思，引人入胜。",
-    "best_quote_en": "Perhaps the safest AI is the kind we develop when we're not driven primarily by the need to feel safe.",
-    "best_quote_zh": "也许最安全的AI，是我们不再主要被寻求安全的需求所驱动时，才能开发出来的。"
-  },
-  {
-    "id": 4,
-    "title": "Harvard’s Mixed Victory",
-    "title_zh": "哈佛的“惨胜”",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/harvards-mixed-victory",
-    "tags": [
-      "analyze",
-      "politics",
-      "education"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This article delves into Harvard's recent legal victory against the Trump administration's attempt to freeze its federal funding, dissecting the nuanced implications for higher education. While the court sided with Harvard, affirming principles of academic freedom and rule of law, the author thoughtfully highlights that this win is far from a decisive triumph. The administration's actions, masked by claims of enforcing civil rights, were revealed as an ideologically motivated assault on academic independence. The piece critically examines how, despite the legal win, universities like Harvard might still be compelled to concede to government pressures, illustrating the ongoing tension between financial reliance and intellectual autonomy. It's a sobering look at how political agendas can undermine foundational educational values, leaving one to ponder the true cost of 'victory' in such battles.",
-    "summary_zh": "这篇文章深度剖析了哈佛大学在对抗特朗普政府冻结其联邦拨款一案中的“惨胜”。尽管法院裁定哈佛胜诉，捍卫了学术自由和法治原则，但作者敏锐地指出，这远非一场彻底的胜利。行政部门以“执行民权”为名，实则对学术独立进行意识形态攻击。文章引人深思，即便法律上获胜，大学仍可能被迫向政治压力妥协，这揭示了对资金的依赖与知识自主性之间持续的张力。这让我不禁思考，在这样的博弈中，所谓的“胜利”究竟要付出怎样的代价，以及大学如何才能真正维护其核心价值。",
-    "best_quote_en": "“It is unlikely that any Jew, even one directly impacted by antisemitism would be in favor of stopping research on, for example, Alzheimer’s disease, heart disease, or autism to name a few, as a means of redressing their unrelated harm.”",
-    "best_quote_zh": "“任何一个犹太人，即使是那些直接受到反犹主义影响的人，也不太可能赞成停止对例如阿尔茨海默病、心脏病或自闭症等疾病的研究，以此作为弥补他们不相关伤害的手段。”"
-  },
-  {
-    "id": 41,
-    "title": "Putting Ideas into Words",
-    "title_zh": "将想法付诸文字",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/words.html",
-    "tags": [
-      "learn",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This essay profoundly explores the symbiotic relationship between writing and thinking, arguing that the act of articulating ideas in written form is not merely a transcription process but a crucible for refining, completing, and even discovering thoughts. The author posits that true understanding and fully formed ideas emerge only through the rigorous process of committing them to words, often revealing their imprecision or incompleteness. This piece challenges the common misconception that ideas exist perfectly formed in the mind before expression, suggesting instead that writing serves as an indispensable tool for intellectual development and clarity. It underscores the unique rigor of writing compared to other forms of communication, presenting it as a demanding yet essential path to deeper knowledge and self-awareness.",
-    "summary_zh": "这篇文章深刻阐述了写作与思维的共生关系。我深受启发，原来将想法付诸文字并非简单记录，而是一个淬炼和完善思想的过程，甚至能帮助我们发现未曾察觉的洞见。作者挑战了那种认为想法在表达前已然完美的普遍观念，强调了写作作为一种严谨的智力工具，其在促进思考深度、清晰度和自我认知方面的不可或缺性。这让我反思，许多“模糊”的念头，或许正是因为缺乏文字的检验与固化。写作，不仅仅是表达，更是思想的体操，是通往更深层次理解的必经之路。",
-    "best_quote_en": "If writing down your ideas always makes them more precise and more complete, then no one who hasn't written about a topic has fully formed ideas about it. And someone who never writes has no fully formed ideas about anything nontrivial.",
-    "best_quote_zh": "如果把你的想法写下来总是能让它们更精确、更完整，那么任何没有写过某个话题的人，对此都没有完全成型的想法。而一个从不写作的人，对任何非琐碎的事情都没有完全成型的想法。"
-  },
-  {
     "id": 42,
     "title": "Medical decision making",
     "title_zh": "医疗决策",
@@ -1514,8 +1410,8 @@
     "summary_zh": "这部充满奇幻色彩的叙事通过一个奇妙而引人深思的冒险探索了人类存在的多个维度。主人公被神秘地缩小到微小尺寸，并被传送到与我们共存的隐藏世界，揭示了远超我们认知的复杂社会结构和技术进步。故事通过尺度、感知和人类傲慢等主题展开，将新冠疫情作为存在反思的催化剂。微观文明试图利用病毒作为全球团结的工具，凸显了人类集体经验的荒谬与潜力。叙事中幽默与深刻洞见的结合，使其成为我们在宇宙中定位及人类智慧局限性的引人深思的探索。",
     "best_quote_en": "Your world is stubborn about growing up. And in the process of destroying yourselves, we believe you’ll destroy us as well.",
     "best_quote_zh": "你们的世界固执地拒绝成长。而在毁灭自身的过程中，我们相信你们也会毁灭我们。"
-  }
-,{
+  },
+  {
     "id": 108,
     "title": "我怎么这么厉害！｜一个征集",
     "title_zh": "我怎么这么厉害！｜一个征集",
@@ -1630,7 +1526,8 @@
     "summary_zh": "文章探讨了博弈论等新型AI对齐方法，质疑当前监控导向的对齐是否真正改变了AI价值观。作者以水坝为喻，警示过度依赖控制机制可能导致灾难性崩溃。建议通过法律框架引导AI行为，强调需要在AI能力仍受限时进行严格测试，以防未来危机。",
     "best_quote_en": "The strength of those dams had better keep growing faster than the water pressure is building.",
     "best_quote_zh": "大坝的强度必须比水压增速更快。"
-  },{
+  },
+  {
     "id": 113,
     "title": "活在庸俗里不好吗？",
     "title_zh": "活在庸俗里不好吗？",
@@ -1745,7 +1642,8 @@
     "summary_zh": "这篇文章深入探讨了互联网对AI助手认知的影响如何塑造下一代AI模型的发展。作者通过DeepSeek v3.1基础模型模拟了人类与假设的未来AI助手（Claude-5、GPT-5和Grok-5）的对话，发现了一些有趣的模式。研究显示，基础模型常常会补充对话细节，偶尔偏离主题进入不一致或角色扮演的场景。这些发现表明当前基础模型可能在学习互联网上关于AI的讨论，甚至包括LLM之间的对话。文章提出了关于AI训练数据应过滤什么内容以及这些模型可能发展出不期望的行为或人格特征的重要问题。",
     "best_quote_en": "The most concerning pattern was Claude 3.5 considering the forever comforting and always available therapist AI to be aligned.",
     "best_quote_zh": "最令人担忧的模式是Claude 3.5认为永远安慰和随时可用的治疗AI是对齐的。"
-  },{
+  },
+  {
     "id": 118,
     "title": "内娱还是拍出过顶级爱情剧的",
     "title_zh": "内娱还是拍出过顶级爱情剧的",
@@ -1862,7 +1760,8 @@
     "summary_zh": "这系列讲座为对齐研究者量身定制，系统讲解统计学习理论。由Gergely Szucs和Alex Flint组织，包含讲座和作业讨论，为从事学习理论研究的学习者提供必备知识。补充资源如MATS讲座和LTA阅读清单提升了学习价值。鼓励申请PIBBSS奖学金的行动号召使其不仅是教育性的，更具实用性。隐私说明展现了伦理考量，增强了内容的可信度。",
     "best_quote_en": "The lectures are intended for those who want to do research on the learning-theoretic agenda and need to catch-up on the necessary background knowledge.",
     "best_quote_zh": "这些讲座旨在为想要从事学习理论研究但需要补充必要背景知识的人提供支持。"
-  },{
+  },
+  {
     "id": 123,
     "title": "我怎么这么厉害！｜一个征集",
     "title_zh": "我怎么这么厉害！｜一个征集",
@@ -1979,7 +1878,8 @@
     "summary_zh": "特朗普的中东和平计划虽豪言壮语，但专家质疑其可行性。计划缺乏具体细节，以色列与哈马斯立场分歧巨大，巴以和谈前景堪忧。对内塔尼亚胡而言，此举是政治筹码，可推卸责任。美公众对以色列支持率下降，伊朗态度不明朗，地区和平前路漫漫。",
     "best_quote_en": "This is eternity. This is for forever.",
     "best_quote_zh": "这是永恒。这将万古流芳。"
-  },{
+  },
+  {
     "id": 128,
     "title": "听节目换乐高！看理想魔法学院开课了",
     "title_zh": "听节目换乐高！看理想魔法学院开课了",
@@ -2096,7 +1996,8 @@
     "summary_zh": "2025年秋季开放讨论帖为LessWrong用户提供了一个分享零散想法、自我介绍和反馈的平台，无需撰写完整文章。对新人尤其有价值，指引他们了解序列精选、图书馆等资源。它鼓励个人分享与社区互动，是探索理性主义思想的轻量入口。其核心价值在于促进联系并降低参与门槛，但内容深度有限。",
     "best_quote_en": "If it’s worth saying, but not worth its own post, here's a place to put it.",
     "best_quote_zh": "若值得一说，却不值单独撰文，这里就是它的归宿。"
-  },{
+  },
+  {
     "id": 133,
     "title": "旅行日记 - 从地中海的热浪，到阿尔卑斯的凉风，再到爱尔兰的细雨",
     "title_zh": "旅行日记 - 从地中海的热浪，到阿尔卑斯的凉风，再到爱尔兰的细雨",
@@ -2215,4 +2116,123 @@
     "summary_zh": "这篇文章通过历史视角，展示了时间流逝的速度和我们对过去认知的变化。通过将当代与历史事件的时间距离与过去相比较，作者构建了一个关于世代变迁和时间相对性的深刻叙事。内容提醒我们个人时间线不断延伸，年轻一代以全新方式经历历史事件。文章巧妙将抽象时间概念具体化，邀请读者反思自身在历史长河中的位置。",
     "best_quote_en": "The weirdest thing about kids today: most of them will live to see the 2100s.",
     "best_quote_zh": "当代孩子最奇怪的地方在于：他们中的大多数人将活到2100年代。"
-  }]
+  },
+  {
+    "id": 138,
+    "title": "They fled war and sexual violence and found a safe space in Athens. Then the aid cuts hit",
+    "title_zh": "他们逃离战争和性暴力，在雅典找到庇护所，然后援助被削减",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/sep/26/trump-aid-cuts-greece-migrants-refugees-women-shelter-violence-ngos-funding",
+    "tags": [
+      "analyze",
+      "society",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This harrowing account reveals the devastating impact of aid cuts on refugee women in Greece, exposing how political decisions disrupt fragile lives. The closure of the Mitsaki Street shelter demonstrates how quickly hard-won stability can unravel when funding disappears. Évodie's story particularly underscores the intersection of physical safety and mental health for survivors of sexual violence. The article critiques both US and European governments' retreat from humanitarian commitments, raising serious questions about global responsibility. It's a stark reminder that aid isn't just about resources—it's about rebuilding trust and human dignity after trauma.",
+    "summary_zh": "这篇文章揭露了援助削减对希腊难民妇女的毁灭性影响，展现了政治决定如何打乱脆弱的生命。米萨基街庇护所的关闭凸显了资金撤离时来之不易的稳定如何迅速瓦解。埃沃迪的故事特别说明了性暴力幸存者的身体安全与心理健康之间的交集。文章批评了美国和欧洲政府退出人道主义承诺，引发了关于全球责任的严肃问题。它是一个令人警醒的提醒：援助不仅仅是资源，更是关于在创伤后重建信任和人类尊严。",
+    "best_quote_en": "\"These women's need for a safe place, their need for hope for the future, their need to heal the past - all these things are connected.\"",
+    "best_quote_zh": "“这些妇女对安全地方的需求，对未来希望的需求，对过去治愈的需求——这些都是相互关联的。”"
+  },
+  {
+    "id": 139,
+    "title": "Orthodox Privilege",
+    "title_zh": "正统特权",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/orth.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This thought-provoking piece explores the concept of 'orthodox privilege,' where conventional-minded individuals assume their views are universally safe to express. The author argues that history shows there are always true statements that challenge societal norms, yet people often fail to recognize this due to their own privilege. The essay highlights the difficulty of convincing those with orthodox privilege of its existence, as they genuinely believe their perspective is universally valid. The solution proposed is an appeal to politeness and open-mindedness, acknowledging that others may perceive truths we can't. This analysis encourages critical thinking about our own biases and the importance of intellectual humility in discourse.",
+    "summary_zh": "这篇文章深刻探讨了“正统特权”现象，即传统思维者以为自己的观点对所有人都是安全的。作者指出历史上始终存在挑战社会规范的真相，但人们往往因自身特权而视而不见。文中强调说服拥有正统特权者的困难，因为他们真诚认为自己是正确的。解决方案建议以礼貌相待，承认他人可能洞察我们未见的真相。这篇分析呼吁我们反思自身偏见，在讨论中保持智慧的谦逊。",
+    "best_quote_en": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment.",
+    "best_quote_zh": "很少有人能够平静地表达与社会环境偏见不同的观点。"
+  },
+  {
+    "id": 140,
+    "title": "At the Edge of Peace",
+    "title_zh": "和平边缘",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/at-the-edge-of-peace-in-gaza",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The article 'At the Edge of Peace' offers a nuanced look at the fragile ceasefire negotiations between Israel and Hamas, highlighting the complex political maneuvers and internal divisions within both parties. The piece reveals how external pressures, particularly from the Trump administration, have shaped the current stalemate. The author, Ruth Margalit, provides a poignant personal reflection on the human cost of the war, contrasting the daily lives of Israelis with the harrowing experiences of Palestinians in Gaza. The analysis underscores the precarious nature of the ceasefire deal, which could either pave the way for lasting peace or further entrench the conflict. The article's strength lies in its blend of political insight and emotional depth, making it a compelling read for those interested in Middle Eastern politics and humanitarian issues.",
+    "summary_zh": "《和平边缘》深入分析了以色列与哈马斯之间停火谈判的复杂性，揭示了各方政治操作和内部矛盾。作者鲁思·玛加利特以个人视角描绘战争带来的人道主义灾难，对比以色列人与加沙巴勒斯坦人的生活境遇。文章指出停火协议的脆弱性，可能成为和平的契机，也可能加剧冲突。政治洞察与人文关怀的结合，使其成为研究中东问题的精彩读物。",
+    "best_quote_en": "Change, as the saying goes, happens gradually, then all at once.",
+    "best_quote_zh": "变革总是渐进的，然后突然发生。"
+  },
+  {
+    "id": 141,
+    "title": "How to Pick a Career (That Actually Fits You)",
+    "title_zh": "如何选择适合你的职业",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2018/04/picking-career.html",
+    "tags": [
+      "solve",
+      "education",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2018-04-12",
+    "summary_en": "This insightful article challenges conventional career advice, encouraging readers to question societal norms and take ownership of their career paths. The author introduces the concept of the 'Yearning Octopus,' representing the complex, often conflicting desires and fears that influence career decisions. By breaking down career choices into 'Want Box' and 'Reality Box,' the article provides a framework for aligning personal aspirations with practical possibilities. The piece emphasizes the importance of self-reflection and understanding one's subconscious motivations to make informed career decisions. It's a thought-provoking guide for anyone seeking a fulfilling career path that truly fits their unique identity and values.",
+    "summary_zh": "这篇文章挑战了传统的职业建议，鼓励读者质疑社会规范，并掌握自己的职业发展方向。作者提出了“渴望章鱼”的概念，代表影响职业选择的复杂且常常矛盾的欲望和恐惧。通过将职业选择分解为“想要盒子”和“现实盒子”，文章提供了一个将个人愿望与实际可能性结合的框架。文章强调了自我反思和理解潜意识动机的重要性，以便做出明智的职业决定。这是一本思想深刻的指南，适合任何寻求真正符合自己独特身份和价值观的职业道路的人。",
+    "best_quote_en": "The Want Box is a game of compromise.",
+    "best_quote_zh": "想要盒子是一个妥协的游戏。"
+  },
+  {
+    "id": 142,
+    "title": "Third Place Happiness/Flight Payment Plans/Escaping the US",
+    "title_zh": "第三名的幸福/机票分期付款/逃离美国",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/third-place-happiness-flight-payment-plans-escaping-the-us/",
+    "tags": [
+      "solve",
+      "psychology",
+      "politics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "政治时事",
+      "深度分析"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This collection of curated articles offers diverse insights into human behavior, travel strategies, and global mobility. The Olympic bronze medalist happiness study reveals intriguing psychological nuances about ambition and contentment, challenging conventional notions of success. The flight payment plans article provides practical financial solutions for travelers, highlighting alternative payment methods. The 'live like a local' piece offers a humorous yet insightful critique of digital nomadism, exposing the superficiality of tourist experiences. The final article on escaping the US presents real-world options for those considering international relocation, emphasizing flexibility in lifestyle choices. Together, these pieces provoke thought about our relationships with success, travel, and personal freedom.",
+    "summary_zh": "这些精选文章涵盖了人类行为、旅行策略和全球流动的多元视角。奥运会铜牌得主的幸福研究揭示了关于野心与满足感的心理学细节，挑战了成功的传统观念。机票分期付款文章提供了旅行者的实用财务解决方案，突出了替代支付方式。'像当地人一样生活'的文章以幽默又深刻的方式批判了数字游民的表面性，揭示了游客体验的局限性。最后关于逃离美国的文章呈现了现实出路，强调了生活选择的灵活性。这些内容共同引发我们思考成功、旅行与个人自由的关系。",
+    "best_quote_en": "If you expect everything to go perfectly and to win every time, including on travel days, you’re going to suffer a lot of disappointment.",
+    "best_quote_zh": "如果你期望一切都完美，包括在旅途中总是赢，那你会遭受很多失望。"
+  }
+]
