@@ -1,113 +1,5 @@
 [
   {
-    "id": 42,
-    "title": "Medical decision making",
-    "title_zh": "医疗决策",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rR4n7iqfRdxMYbdMs/medical-decision-making",
-    "tags": [
-      "solve",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This insightful piece from Lesswrong Sydney delves into the complexities of medical decision-making, offering a critical perspective on navigating the healthcare system. It emphasizes the need for personal agency, advocating for patients to be proactive, seek second opinions, and even challenge medical orthodoxy. The content highlights the inherent conflicts of interest within the medical and pharmaceutical industries, and the limitations of doctors' statistical knowledge. It's a pragmatic guide for patients to optimize for quality of life, stressing the importance of gathering information, understanding risks (like the '5-year rule' for new drugs), and having advance care directives. The article ultimately encourages self-responsibility and preventive health, providing actionable advice for anyone facing significant health choices.",
-    "summary_zh": "Lesswrong Sydney这篇关于医疗决策的文章，读来令人深思。它犀利地指出医疗系统并非完美，患者必须主动出击，质疑权威，甚至寻求多方意见。文章揭示了医疗行业中潜在的利益冲突，并提醒我们，即便是专业医生也可能存在知识盲区。它鼓励我们掌握自己的健康命运，提前规划，并警惕新药风险。这不仅仅是关于如何看病，更是关于如何在信息不对称的复杂环境中，为自己做出最佳选择，最终回归到自我负责与健康生活方式的根本。",
-    "best_quote_en": "No one is more responsible to you than you are. It would be nice if they cared as much as you, but they simply cannot.",
-    "best_quote_zh": "没有人比你自己更对你负责。如果他们能像你一样关心你，那当然很好，但他们根本做不到。"
-  },
-  {
-    "id": 44,
-    "title": "Wisereads Vol. 98 – The Magic of Code by Samuel Arbesman, Daniel Pink on finding purpose, and more",
-    "title_zh": "Wisereads 第98期 – Samuel Arbesman 的《代码的魔力》、Daniel Pink 谈寻找人生目标等",
-    "source": "Weekly Wisereads",
-    "link": "https://wise.readwise.io/issues/wisereads-vol-98/",
-    "tags": [
-      "learn",
-      "design",
-      "leadership"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "领导管理"
-    ],
-    "date": "2025-07-06",
-    "summary_en": "This Wisereads digest offers a compelling collection of insights, primarily focusing on the evolving relationship between humans and technology, alongside personal growth and strategic thinking. The critical evaluation of \"second brains\" highlights the distinction between data accumulation and genuine reflection, a pertinent point in our information-saturated age. The shift in AI from prompting to \"context engineering\" is a fascinating and actionable insight for anyone in the tech space, suggesting a deeper, more architectural approach to AI development. Daniel Pink's unconventional questions for finding purpose are thought-provoking, urging a return to childhood curiosities. Overall, the digest provides a rich tapestry of ideas that encourage a more intentional and reflective engagement with both technology and self, moving beyond superficial interaction to deeper understanding and application.",
-    "summary_zh": "这期Wisereads文摘内容丰富，触及了人与科技关系的深刻演变，也探讨了个人成长与战略思维。其中对“第二大脑”的反思，一针见血地指出信息堆积与深度思考的本质区别，令人警醒。AI领域从“提示词工程”转向“上下文工程”的洞见，更是为我打开了新思路，预示着AI应用将走向更深层次的架构设计。Daniel Pink关于寻找人生目标的提问，也引发了我对童年好奇心的重新审视。这是一份能激发思考、促进行动的宝贵资源，超越了表层信息，直抵知识与自我探索的核心。",
-    "best_quote_en": "\"In trying to remember everything, I outsourced the act of reflection. I didn’t revisit ideas. I didn’t interrogate them. I filed them away and trusted the structure. But a structure is not thinking. A tag is not an insight. And an idea not re-encountered might as well have never been had.\"",
-    "best_quote_zh": "“在试图记住一切的过程中，我把反思的行为外包了。我没有重新审视想法。我没有质疑它们。我只是把它们归档，并信任这个结构。但结构不是思考。标签不是洞察。一个没有被重新遇到的想法，可能根本就从未存在过。”"
-  },
-  {
-    "id": 45,
-    "title": "African Trips",
-    "title_zh": "非洲之旅",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/african-trips/",
-    "tags": [
-      "guide",
-      "design"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意"
-    ],
-    "date": "2025-08-25",
-    "summary_en": "This article reviews two essential resources for overland travel in Africa: 'Sahara Overland' and 'African Adventure Atlas'. 'Sahara Overland' is lauded as the definitive guide for navigating the challenging Sahara desert, offering comprehensive practical advice on vehicles, supplies, itineraries, and dangers. It emphasizes the importance of self-reliance and preparedness over blind trust in local guides. The 'African Adventure Atlas' is presented as an unparalleled cartographic resource for the entire continent, providing crucial details like border crossings, park entrances, and mileage markers, which are typically absent from other maps in developing regions. Together, these resources empower adventurous travelers with the knowledge to undertake challenging expeditions, highlighting the unique blend of danger and discovery inherent in African overland journeys. The article implicitly suggests a mindset of robust preparation and adaptability for such endeavors.",
-    "summary_zh": "这篇文章深度评测了两本非洲陆路旅行的“圣经”：《撒哈拉陆路行》和《非洲探险地图集》。前者是穿越撒哈拉的终极指南，强调详尽的实用知识和独立思考；后者则是非洲大陆无与伦比的地图集，提供其他地图难以企及的细节。读罢深感，真正的探险并非盲目冲动，而是源于周密的准备和对未知世界的敬畏。这些工具不仅是旅行的辅助，更是精神的指引，提醒我们在追求刺激的同时，不忘尊重自然、依靠智慧。这让我反思，无论何种“探险”，知识和工具都是抵达目的地的基石，而内心的勇气和应变能力，才是最宝贵的财富。",
-    "best_quote_en": "The Sahara is a desert as large as the United States filled with emptiness, ancient cultures, and natural wonders. America has its own recreational deserts in the west, but for Africa and Europe, the Sahara is where you go to test yourself.",
-    "best_quote_zh": "撒哈拉沙漠大如美国，充满虚无、古老文化和自然奇观。美国西部有自己的休闲沙漠，但对非洲和欧洲而言，撒哈拉是你去考验自己的地方。"
-  },
-  {
-    "id": 46,
-    "title": "Is There Such a Thing as Good Taste?",
-    "title_zh": "品味是否存在？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/goodtaste.html",
-    "tags": [
-      "inspire",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "This essay provocatively argues for the existence of \"good taste,\" particularly in art, by using a reductio ad absurdum. The author challenges the relativist notion that all preferences are equal, asserting that denying good taste necessitates denying good art and, by extension, the very concept of skill in artistic creation. He addresses common objections, such as disagreement in taste and the subjective nature of aesthetic experience, by positing that art's purpose is to act upon a human audience with shared commonalities. The analogy of a vaccine's effectiveness, despite individual immune system variations, cleverly illustrates how an object can possess inherent \"goodness\" even if its effect is mediated by the observer. This piece encourages a deeper, more nuanced understanding of aesthetic judgment, moving beyond simplistic subjective/objective binaries.",
-    "summary_zh": "这篇探讨品味的文章，以反证法精彩论证了“好品味”的存在，尤其在艺术领域。作者挑战了那种认为所有偏好皆等同的相对主义观点，指出若否定好品味，便不得不否定好艺术及艺术创作中的技艺。他巧妙回应了关于品味分歧和审美主观性的常见质疑，通过疫苗的例子，阐明了艺术品如何能拥有内在的“好”，即便其效果依赖于观者。这不仅是一次智力上的挑战，更启发我们重新审视审美判断的复杂性，超越非此即彼的简单二元论。",
-    "best_quote_en": "If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong.",
-    "best_quote_zh": "如果我们从没有好品味这个前提出发，我们会得出显而易见的错误结论，因此这个前提必然是错的。"
-  },
-  {
-    "id": 47,
-    "title": "Being Handed Puzzles",
-    "title_zh": "被递上谜题",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/fe2zc6wKbFvjChrkg/being-handed-puzzles",
-    "tags": [
-      "learn",
-      "psychology",
-      "society"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "社会议题"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "This article explores the often-overlooked joy of *receiving* puzzles, building on the author's previous piece about *handing out* puzzles. It posits that being given a puzzle, much like receiving candy, serves as a positive reinforcement, fostering deeper, more engaging interactions than mere small talk. The author elegantly connects this idea to the concept of 'nerdsniping' – engaging intellectually curious individuals with stimulating challenges. The piece advocates for replacing superficial social interactions with more meaningful, thought-provoking exchanges, suggesting that hard puzzles can ignite 'Real Conversation' and stimulate the playful, curious parts of our minds. It's a thoughtful commentary on cultivating richer social dynamics and intellectual engagement, particularly within intellectually-driven communities, offering a refreshing perspective on social interaction and mental stimulation.",
-    "summary_zh": "这篇文章深入探讨了“被递上谜题”的乐趣，这真是一个绝妙的视角！作者巧妙地将这种体验比作收到糖果，认为它能带来比泛泛而谈更深层次的互动。我特别欣赏他提出用智力挑战来取代无聊社交的理念，这不仅能激发“真正的对话”，还能滋养我们内在的好奇心和玩乐精神。这篇思考让我反思，我们是不是太习惯于肤浅的社交，而忽略了智性碰撞带来的真正愉悦和连接？在信息爆炸的时代，这种提倡深度互动和心智滋养的观点，显得尤为珍贵和引人深思。",
-    "best_quote_en": "I think a lot of people around here could stand to spend less time at social events small-talking (or doom-talking) and more time being curious and gifting curiosity to others, to nurture each other's minds and have ultimately more fun.",
-    "best_quote_zh": "我认为这里很多人都应该在社交场合少花点时间闲聊（或“末日”话题），多花点时间保持好奇心，并将好奇心馈赠给他人，以滋养彼此的心灵，最终获得更多乐趣。"
-  },
-  {
     "id": 48,
     "title": "Consider the Quarterback",
     "title_zh": "思考四分卫",
@@ -2234,5 +2126,125 @@
     "summary_zh": "这些精选文章涵盖了人类行为、旅行策略和全球流动的多元视角。奥运会铜牌得主的幸福研究揭示了关于野心与满足感的心理学细节，挑战了成功的传统观念。机票分期付款文章提供了旅行者的实用财务解决方案，突出了替代支付方式。'像当地人一样生活'的文章以幽默又深刻的方式批判了数字游民的表面性，揭示了游客体验的局限性。最后关于逃离美国的文章呈现了现实出路，强调了生活选择的灵活性。这些内容共同引发我们思考成功、旅行与个人自由的关系。",
     "best_quote_en": "If you expect everything to go perfectly and to win every time, including on travel days, you’re going to suffer a lot of disappointment.",
     "best_quote_zh": "如果你期望一切都完美，包括在旅途中总是赢，那你会遭受很多失望。"
+  },
+  {
+    "id": 143,
+    "title": "Solo trips abroad take off among women who seek break from work – and their families",
+    "title_zh": "独自出行热潮：女性寻求摆脱工作与家庭的解脱",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/business/2025/oct/06/solo-trips-travel-women-break-work-family",
+    "tags": [
+      "analyze",
+      "society",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This article highlights a growing trend of women, particularly those in their 40s-60s, booking solo international trips to escape both work pressures and family responsibilities. The rise in solo travel among women is driven by a desire for personal freedom and self-discovery, with many opting for cultural immersion or active adventures. Travel operators note that these women value the independence of exploring on their own terms while still enjoying the social aspects of group travel. The trend reflects broader societal shifts towards prioritizing personal well-being and self-exploration, challenging traditional notions of travel as a family-oriented activity.",
+    "summary_zh": "越来越多女性选择独自出行，尤其是40-60岁的女性，她们希望摆脱工作和家庭的束缚。这种趋势反映了人们对个人自由和自我探索的追求，许多女性选择沉浸式文化体验或户外冒险。旅行社表示，这些女性渴望按自己的方式探索世界，同时享受团队旅行的社交乐趣。这一现象反映了社会对个人幸福的重视，挑战了传统的家庭旅行观念。",
+    "best_quote_en": "Consumers booking their own solo holidays is about 'choosing how you want to experience the world'.",
+    "best_quote_zh": "选择独自旅行是关于'按自己的方式体验世界'。"
+  },
+  {
+    "id": 144,
+    "title": "Sora update #1",
+    "title_zh": "Sora更新#1",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-update-number-1",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "The Sora team is rapidly iterating based on user feedback and rightsholder input, implementing two major changes soon. First, they're introducing more granular controls for rightsholders over character generation, acknowledging the unique cultural significance of Japanese content. Second, they're exploring revenue sharing models with rightsholders for user-generated videos. The team emphasizes their commitment to rapid iteration and learning from both successes and missteps, drawing parallels to ChatGPT's early development. This update reveals their balancing act between creative freedom, cultural sensitivity, and sustainable business models in AI-generated content.",
+    "summary_zh": "Sora团队正在根据用户反馈和权利方意见快速迭代，即将实施两项重大变更。首先，他们将为权利方提供更细致的角色生成控制功能，特别承认日本内容的独特文化价值。其次，他们正在探索与权利方分享用户生成视频收益的模式。团队强调他们致力于快速迭代，从成功和失误中学习，并将类比ChatGPT早期发展。这一更新揭示了他们在创作自由、文化敏感性与可持续商业模式之间的平衡。",
+    "best_quote_en": "We are struck by how deep the connection between users and Japanese content is!",
+    "best_quote_zh": "我们深感用户与日本内容之间有着多么深厚的联系！"
+  },
+  {
+    "id": 145,
+    "title": "How to Make Yourself Unbreakable | DJ Shipley",
+    "title_zh": "如何让自己变得不可战胜 | DJ Shipley",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/make-yourself-unbreakable-dj-shipley",
+    "tags": [
+      "solve",
+      "psychology",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This episode with DJ Shipley, a former Navy SEAL and performance expert, offers profound insights into building mental and physical resilience. Shipley shares practical tools like morning routines and 'stacking small wins' that transcend military applications, offering universal value for personal development. The discussion covers his experiences with trauma, addiction treatments like ibogaine and 5-MeO-DMT, and the importance of intentional mindset. Particularly compelling is his approach to compartmentalization and controlling what you can control, which resonates deeply with anyone facing challenges. The episode blends expert insight with actionable advice, making it valuable for those seeking both inspiration and practical methods to improve their lives.",
+    "summary_zh": "这期节目中，前海豹突击队员DJ Shipley分享了他打造心理与身体韧性的实用方法，包括晨间例行公事和'小胜积累'等技巧。他深入讨论了创伤经历、成瘾治疗（如伊波伽因和5-MeO-DMT）以及专注可控事物的重要性。这些内容不仅适用于军人，对普通人提升自我也同样有益。节目既提供专业见解，又给出实用建议，对寻求激励和改善生活的人们极具价值。",
+    "best_quote_en": "Control the controllable - this simple but profound mindset shift can change how you approach every challenge in life.",
+    "best_quote_zh": "专注于可控之事——这个简单却深刻的心态转变能改变你面对生活中每一个挑战的方式。"
+  },
+  {
+    "id": 146,
+    "title": "The Tim Ferriss Show Transcripts: James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance (#829)",
+    "title_zh": "《蒂姆·费里斯播客》转录：詹姆斯·内斯特 — 重启健康、修复睡眠和提升表现的呼吸协议 (#829)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/30/james-nestor-breath-transcript/",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "This transcript of Tim Ferriss's interview with James Nestor, author of 'Breath: The New Science of a Lost Art,' dives deep into the transformative power of breathing techniques. Nestor shares his personal journey from chronic respiratory issues to health restoration through breathwork, highlighting the science-backed benefits of nasal breathing, mouth taping, and specific protocols like Sudarshan Kriya and Tummo. The conversation also touches on the intersection of sleep disorders and ADHD in children, the impact of CO₂ levels on cognitive function, and the cultural overcomplication of breathwork. Nestor emphasizes the importance of foundational breathing habits over trendy practices, offering practical advice for improving sleep and overall health. The discussion is a compelling blend of personal anecdotes, scientific insights, and actionable tips, making a strong case for breathwork as a powerful tool for health optimization.",
+    "summary_zh": "詹姆斯·内斯特在蒂姆·费里斯的播客中分享了呼吸对健康的改变力量，从个人经历谈到通过呼吸训练改善慢性呼吸问题。他强调鼻呼吸、口部封闭胶带和特定呼吸技巧的科学依据，探讨了儿童睡眠障碍与ADHD的关联，以及CO₂水平对认知功能的影响。内斯特批评呼吸训练的过度复杂化，建议从基础呼吸习惯开始改善睡眠和健康。对话融合了个人故事、科学洞察和实用建议，展现了呼吸训练作为健康优化工具的潜力。",
+    "best_quote_en": "ADHD does not exist. What you're looking at are sleep-deprived kids. And the most shocking thing to me is that a kid that presents with ADHD, they're never assessed for their breathing. They're never assessed for their sleep. They're given drugs and put on their way, and I think it's criminal.",
+    "best_quote_zh": "ADHD并不存在。你所看到的只是睡眠不足的孩子。最令我震惊的是，当孩子表现出ADHD症状时，他们从未被评估过呼吸情况，也从未被评估过睡眠质量。他们只是被给予药物并被打发走，我认为这是犯罪。"
+  },
+  {
+    "id": 147,
+    "title": "“骑破车，挨臭骂，赚臭钱”",
+    "title_zh": "骑破车，挨臭骂，赚臭钱",
+    "source": "看理想",
+    "link": "https://mp.weixin.qq.com/s/0jraOLMBQ53sf7-tZjLa1A",
+    "tags": [
+      "learn",
+      "economics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "经济金融",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The article critiques modern work culture through the lens of a comedian's joke about shared bicycle riders enduring hardships for meager pay. It explores the philosophical and economic dimensions of meaningful work, drawing on anthropologist David Graeber's concept of 'bullshit jobs' - work that serves no obvious social purpose. The piece contrasts high-paying but socially harmful professions (like finance and advertising) with low-paying essential jobs (like sanitation workers), examining their societal impact through economic externalities. It argues that market economies often prioritize profit over genuine social value, leading to a distorted perception of meaningful work. The author questions whether current education systems adequately prepare people for meaningful careers and critiques the erosion of humanities education in favor of marketable skills. The piece concludes by advocating for a societal re-evaluation of work's purpose and the creation of systems that properly value socially beneficial labor.",
+    "summary_zh": "这篇文章通过一段关于共享单车的喜剧表演引发对现代工作意义的深刻反思。作者借用人类学家大卫·格雷伯的“狗屁工作”理论，对比了金融、广告等高薪但可能损害社会的工作与环卫工等低薪却造福社会的职业。文中通过经济学的外部性理论分析了不同工作对社会的实际影响，并探讨了市场经济中工作意义被扭曲的现象。文章最后提出，现代社会需要重新审视工作的价值标准，建立能够公平回报有社会价值工作的体系。",
+    "best_quote_en": "If a type of work disappeared, our lives would be better without it, then that work is meaningless bullshit work.",
+    "best_quote_zh": "如果一种工作消失了，我们的生活没有什么变化，甚至还变好了，那这种工作就是没有意义的狗屁工作。"
   }
 ]
