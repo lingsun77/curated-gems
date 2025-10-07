@@ -1,113 +1,5 @@
 [
   {
-    "id": 48,
-    "title": "Consider the Quarterback",
-    "title_zh": "思考四分卫",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/consider-the-quarterback",
-    "tags": [
-      "analyze",
-      "design",
-      "leadership"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "领导管理"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This thought-provoking article delves into the unique cultural significance of the quarterback position in American football, moving beyond mere athletic performance to explore its deeper connections to leadership, manhood, and societal myths. It critically examines Seth Wickersham's book \"American Kings,\" which reveals the often dark and psychologically demanding realities faced by quarterbacks, highlighting the personal costs of ambition and the warped personalities fostered by extreme pressure. The piece intelligently questions the individualistic hero narrative surrounding quarterbacks, arguing for a more holistic, team-oriented perspective. It prompts reflection on how a society's values are mirrored in its sporting heroes, offering a nuanced view that challenges conventional wisdom and invites readers to consider the broader implications of this iconic role.",
-    "summary_zh": "这篇文章对美式橄榄球四分卫的文化意义进行了深刻剖析，超越了简单的体育竞技层面，触及了领导力、男子气概和社会神话的深层联结。它引人深思地揭示了这一光鲜角色背后，个人所承受的巨大心理压力与代价。读完不禁反思，我们社会对“英雄”的定义，是否也无形中塑造了某些扭曲的人格特质？作者最后提出，四分卫并非孤立的个体，而是团队的一员，这无疑是对传统个人英雄主义叙事的有力挑战，也引发了对集体协作价值的再认识。",
-    "best_quote_en": "“The very idea of the quarterback was and remains bound up with who we are and how we see ourselves on a national scale.”",
-    "best_quote_zh": "“四分卫这个概念过去是，现在依然是，与我们是谁以及我们如何看待自己在国家层面上的形象紧密相连的。”"
-  },
-  {
-    "id": 49,
-    "title": "Wisereads Vol. 107 — Handbook for Hard Times by Gelong Thubten, Farnam Street on Irrational Dedication, and more",
-    "title_zh": "Wisereads 第107期 — 格隆·图布丹的《艰难时刻手册》、法纳姆街的非理性奉献等等",
-    "source": "Weekly Wisereads",
-    "link": "https://wise.readwise.io/issues/wisereads-vol-107/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "leadership"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "领导管理"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This curated digest, Wisereads Vol. 107, offers a thought-provoking collection of articles and media, delving into themes of decision-making, dedication, and personal resilience. I found the inclusion of 'Via Negativa' particularly insightful, highlighting the power of subtraction in achieving excellence, a concept often overlooked in our additive-driven society. The piece on 'Irrational Dedication' by Farnam Street resonates deeply, underscoring that true success frequently stems from an unwavering commitment beyond rational bounds. The exploration of AI's employment effects provides a timely and critical perspective on technological disruption, while the monk's guide to fearless living offers profound wisdom for navigating life's inevitable challenges. This volume serves as a rich resource for self-improvement and critical thinking across diverse domains.",
-    "summary_zh": "这期Wisereads文摘内容丰富且发人深省。我尤其欣赏对“负向方法论”的探讨，它提醒我们，有时减去不必要的比增加新的更重要，这是一种反直觉但高效的智慧。法纳姆街关于“非理性奉献”的观点也触动了我，真正的成就往往源于一种近乎偏执的坚持，这在浮躁的时代显得尤为珍贵。AI对就业市场的影响分析则提供了冷静的思考，而僧侣的指南则为我们如何在逆境中保持内心平静指明了方向。这份合集不仅是知识的汲取，更是对人生哲学的深度探索。",
-    "best_quote_en": "Behind every seemingly effortless success lies a landscape of invisible battles: endless meetings, self-doubts, and moments of near-total collapse. What truly separates people isn’t some magical talent, but an almost irrational commitment to pushing through pain that would break most people.",
-    "best_quote_zh": "在每一个看似轻松的成功背后，都隐藏着一片无形的战场：无休止的会议、自我怀疑，以及濒临崩溃的时刻。真正区分人们的不是什么神奇的天赋，而是一种近乎非理性的承诺，去穿越大多数人无法承受的痛苦。"
-  },
-  {
-    "id": 50,
-    "title": "Cheapest destinations/Similar song finder/Mini vacuum",
-    "title_zh": "最便宜的目的地/相似歌曲查找器/迷你吸尘器",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/cheapest-destinations-similar-song-finder-mini-vacuum/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "science"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "科学研究"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This curated collection offers a fascinating blend of practical tools and insightful reflections. From identifying the most budget-friendly travel destinations for digital nomads to a clever AI-powered song finder that broadens musical horizons, the content consistently delivers actionable value. The inclusion of a review for a mini vacuum highlights the utility of small, effective gadgets in daily life. Most compellingly, the analysis of Martha Stewart's 'category of one' brand strategy provides a potent lesson in authentic self-positioning and leveraging uniqueness, while the guide on resisting temptations offers empathetic, actionable psychological insights. Finally, a newsletter recommendation promises a weekly dose of experimental living. Each piece, though disparate, converges on themes of optimization, discovery, and self-improvement, making this a rich resource for practical living and personal growth.",
-    "summary_zh": "这篇精选内容巧妙融合了实用工具与深刻洞察。从为数字游民寻找最经济的旅行地，到AI驱动的歌曲推荐工具拓展音乐视野，处处体现了可操作的价值。对迷你吸尘器的评测凸显了小而高效设备的日常便利性。最引人深思的是，对玛莎·斯图尔特“独一无二”品牌策略的剖析，提供了关于如何定位自我、利用独特性的有力一课。此外，抵制诱惑的指南则提供了富有同理心且实用的心理学见解。最后，一份关于实验生活的时事通讯推荐，承诺带来每周的灵感。尽管内容多样，但都围绕着优化、发现和自我提升的主题，使其成为一份关于实用生活和个人成长的宝贵资源。",
-    "best_quote_en": "Instead of trying to overcome her oddities, her unconventionality, her character weaknesses, she leaned into them hard so that she was unique and had no competition, until she herself was the brand.",
-    "best_quote_zh": "她没有试图克服自己的怪癖、非传统或性格弱点，反而努力利用这些特点，让自己变得独一无二，没有竞争对手，直到她自己成为一个品牌。"
-  },
-  {
-    "id": 51,
-    "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
-    "title_zh": "不只是抵抗，更是领导斗争：五位不容忽视的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/01/indigenous-women-protecting-land-culture-communities",
-    "tags": [
-      "analyze",
-      "society",
-      "leadership"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "领导管理"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "This compelling article spotlights five indigenous women leaders from diverse corners of the globe, each fiercely advocating for their communities' rights, culture, and land. What truly resonates is the deep personal sacrifice and unwavering resolve these women exhibit in the face of systemic oppression, environmental destruction, and gender inequality. From Florence Jaukae Kamel's bilum weaving collective empowering women in Papua New Guinea to Ndinini Kimesera Sikar's Maasai Women Development Organization transforming lives in Tanzania, their stories are powerful testaments to the strength of grassroots activism. The piece effectively challenges the perception of indigenous women as mere victims, instead presenting them as strategic, indispensable actors in global development and climate resilience. It underscores the interconnectedness of cultural preservation, land rights, and women's empowerment, offering inspiring examples of how local leadership can drive profound, sustainable change.",
-    "summary_zh": "这篇报道深入描绘了五位来自全球各地的原住民女性领袖，她们不仅在抵抗压迫，更积极引领社区争取文化、土地和权利。我深受她们个人牺牲与坚定决心的触动，她们在系统性压迫、环境破坏和性别不平等的重重挑战下，依然展现出非凡的韧性。从巴布亚新几内亚弗洛伦斯·乔卡·卡梅尔通过编织手袋赋能女性，到坦桑尼亚恩迪尼尼·基梅塞拉·西卡尔创立马赛妇女发展组织改变生活，这些故事都生动诠释了草根行动的巨大力量。文章成功地将原住民女性塑造成全球发展和气候韧性中不可或缺的战略角色，而非仅仅是受害者。它深刻揭示了文化传承、土地权利与女性赋权之间紧密相连的关系，为我们提供了地方领导力如何推动深远而持久变革的鼓舞人心案例。",
-    "best_quote_en": "“If we women don’t work, there is no progress.”",
-    "best_quote_zh": "“如果我们女性不努力，就不会有进步。”"
-  },
-  {
-    "id": 52,
-    "title": "Beyond Smart",
-    "title_zh": "超越智能",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/smart.html",
-    "tags": [
-      "solve",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "未来预测"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "This thought-provoking essay challenges the pervasive societal belief that intelligence is the ultimate determinant of success and novelty. Instead, it posits that the true measure lies in the ability to generate new ideas, a process that requires a constellation of cultivated traits beyond mere intellect. The author explores 'other ingredients' like obsessive interest, independent-mindedness, learned techniques, and even writing ability, arguing that these are not inborn but can be developed. This reframes the pursuit of intellectual achievement from a fatalistic acceptance of innate ability to an empowering journey of deliberate cultivation. It's a compelling argument for shifting focus from 'being smart' to 'discovering new things,' offering a more optimistic and actionable path for personal and societal progress.",
-    "summary_zh": "这篇文章深刻挑战了我们对“聪明”的传统崇拜。它揭示，真正的价值在于产生新思想，而这并非智力单一决定。作者巧妙地引导我们思考，除了智商，还有哪些可培养的“配方”能孕育创新？痴迷兴趣、独立思考、甚至写作能力，都成了发现新知的关键。这让我反思，我们是否过度强调了天赋，而忽视了后天塑造与探索的无限可能。这种视角转变，无疑为个人成长和知识创新打开了更广阔的视野，令人茅塞顿开。",
-    "best_quote_en": "Whereas if intelligence isn't what matters, but only one of several ingredients in what does, and many of those aren't inborn, things get more interesting. You have a lot more control, but the problem of how to arrange your life becomes that much more complicated.",
-    "best_quote_zh": "如果智力并非最重要的，而只是众多要素之一，且其中许多并非与生俱来，那事情就变得更有趣了。你拥有更多的掌控权，但如何规划生活的问题也随之变得复杂许多。"
-  },
-  {
     "id": 53,
     "title": "A profile in courage:\nOn DNA computation and escaping a local maximum",
     "title_zh": "勇气的典范：关于DNA计算和逃离局部最优",
@@ -2246,5 +2138,121 @@
     "summary_zh": "这篇文章通过一段关于共享单车的喜剧表演引发对现代工作意义的深刻反思。作者借用人类学家大卫·格雷伯的“狗屁工作”理论，对比了金融、广告等高薪但可能损害社会的工作与环卫工等低薪却造福社会的职业。文中通过经济学的外部性理论分析了不同工作对社会的实际影响，并探讨了市场经济中工作意义被扭曲的现象。文章最后提出，现代社会需要重新审视工作的价值标准，建立能够公平回报有社会价值工作的体系。",
     "best_quote_en": "If a type of work disappeared, our lives would be better without it, then that work is meaningless bullshit work.",
     "best_quote_zh": "如果一种工作消失了，我们的生活没有什么变化，甚至还变好了，那这种工作就是没有意义的狗屁工作。"
+  },
+  {
+    "id": 148,
+    "title": "A mastectomy broke my body. CrossFit reminded me I was still alive",
+    "title_zh": "乳腺切除术摧毁了我的身体，跨训让我重新感受到生命",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/sep/25/breast-cancer-recovery-weightlifting-crossfit",
+    "tags": [
+      "solve",
+      "medicine",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This deeply personal narrative explores the author's journey through breast cancer treatment and recovery, highlighting how CrossFit became an unexpected source of physical and emotional rehabilitation. The piece challenges stereotypes about both CrossFit and cancer survivorship, emphasizing the importance of community support and strength training in recovery. Edelstein's candid reflections on body image, medical expectations, and the unanticipated benefits of fitness offer valuable insights into post-cancer life and the broader significance of physical activity in health maintenance.",
+    "summary_zh": "这篇文章讲述了作者通过乳腺癌治疗和恢复的个人经历，展现了跨训如何成为意想不到的身体和心理康复方式。作者挑战了关于跨训和癌症幸存者的刻板印象，强调社区支持和力量训练在康复中的重要性。她对身体形象、医疗预期以及体育锻炼在健康维护中的意外益处的坦诚反思，为我们提供了关于癌症后生活的有价值见解。",
+    "best_quote_en": "The thing that I like most about CrossFit is that I have never felt as if I am trying to compete against anyone else in the gym.",
+    "best_quote_zh": "我最喜欢跨训的一点是，我从来没有觉得是在和健身房里的任何人竞争。"
+  },
+  {
+    "id": 149,
+    "title": "Coronavirus and Credibility",
+    "title_zh": "冠状病毒与可信度",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cred.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This piece offers a sharp critique of public figures' credibility during the early stages of the COVID-19 pandemic. The author observes how politicians and journalists made reckless comparisons to the flu, revealing a pattern of confident ignorance. The epidemic uniquely exposed these false predictions quickly and unequivocally, serving as a litmus test for credibility. The piece suggests we should remember these lessons as they represent an unprecedented opportunity to evaluate who we can trust. It's a thought-provoking examination of accountability in public discourse, highlighting how crises reveal true expertise.",
+    "summary_zh": "本文尖锐批评了公众人物在新冠疫情初期的言论可信度。作者指出政客和记者轻率地将病毒与流感相提并论，揭示了他们的自信源于对后果的无知。疫情以惊人的速度和明确性揭穿了这些错误预测，成为评估可信度的试金石。文章建议我们应牢记这一教训，因为这是评估可信度的罕见机会。这是一次深刻的公共话语责任审视，展示了危机如何揭露真正的专业性。",
+    "best_quote_en": "\"It's only when the tide goes out that you learn who's been swimming naked.\"",
+    "best_quote_zh": "“只有当潮水退去时，你才会发现谁在裸泳。”"
+  },
+  {
+    "id": 150,
+    "title": "Why Israel and Hamas Might Finally Have a Deal",
+    "title_zh": "以色列和哈马斯可能最终达成协议的原因",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-israel-and-hamas-might-finally-have-a-deal",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This analysis delves into the complex geopolitical dynamics that may finally bring an end to the two-year war between Israel and Hamas. The key factors include Hamas's shifting priorities from ideology to political survival, Qatar's pivotal role as a mediator under pressure from Israeli strikes, and Donald Trump's unprecedented pressure on Benjamin Netanyahu. The conversation reveals how Trump's transactional approach and personal investment in the outcome have created a unique moment for negotiation. While a deal may be imminent, the analysis questions its long-term sustainability, particularly regarding Hamas's disarmament and Israeli withdrawal. The discussion also highlights the broader implications for regional stability and the elusive prospect of a Palestinian state, offering a nuanced perspective on the limitations of current diplomatic efforts.",
+    "summary_zh": "这篇分析探讨了可能最终结束以色列和哈马斯两年战争的复杂地缘政治动态。关键因素包括哈马斯从意识形态转向政治生存的优先级调整，卡塔尔在受到以色列袭击压力下的中介角色，以及唐纳德·特朗普对本雅明·内塔尼亚胡前所未有的施压。对话揭示了特朗普的交易式方法和个人投入如何创造了一个独特的谈判时机。尽管协议可能即将达成，但分析质疑其长期可持续性，特别是关于哈马斯的解除武装和以色列撤军。讨论还强调了对地区稳定的更广泛影响以及巴勒斯坦国家前景的难以捉摸，为当前外交努力的局限性提供了深刻的见解。",
+    "best_quote_en": "Hamas's goal on October 7th was not just to block Israeli-Saudi normalization or this fantasy that somehow they would trigger involvement from Iran, Hezbollah, the Houthis, and militias in Iraq and Syria; it was a bid to control the Palestinian national movement.",
+    "best_quote_zh": "哈马斯10月7日的目标不仅仅是阻止以色列-沙特的正常化或这种幻想，即他们 somehow会触发伊朗、真主党、胡塞武装和伊拉克、叙利亚的民兵的介入；而是试图控制巴勒斯坦民族运动。"
+  },
+  {
+    "id": 151,
+    "title": "North America Adventures",
+    "title_zh": "北美冒险指南",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/north-america-adventures/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This comprehensive guide offers invaluable insights into off-the-beaten-path travel in Mexico and Alaska, emphasizing practical advice and cultural immersion. The People's Guide to Mexico, now in its 14th edition, is particularly noteworthy for its focus on lesser-known destinations and authentic cultural experiences. It provides essential tips for driving, navigating local customs, and staying healthy while traveling. Similarly, The Milepost serves as an indispensable resource for Alaska road trips, offering detailed mile-by-mile road conditions and seasonal travel advice. Both guides demonstrate the value of expert knowledge in enhancing travel experiences and ensuring safety.",
+    "summary_zh": "这部全面的指南为墨西哥和阿拉斯加的偏僻旅行提供了宝贵的见解，强调了实用建议和文化沉浸。墨西哥人民指南现已出版第14版，以其关注不为人知的目的地和真实文化体验而特别值得注意。它提供了驾驶、适应当地习俗和旅行期间保持健康的重要建议。同样，The Milepost是阿拉斯加公路旅行的必不可少的资源，提供了详细的里程路况和季节性旅行建议。这两本指南都展示了专家知识在提升旅行体验和确保安全方面的价值。",
+    "best_quote_en": "It's the operating manual for people in Mexico.",
+    "best_quote_zh": "这是墨西哥人的操作手册。"
+  },
+  {
+    "id": 152,
+    "title": "James Nestor — Breathing Protocols to Reboot Your Health, Fix Your Sleep, and Boost Performance (#829)",
+    "title_zh": "詹姆斯·内斯特尔——通过呼吸协议重启健康、修复睡眠和提升表现",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/09/30/james-nestor-breath/",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "James Nestor, author of the bestseller 'Breath: The New Science of a Lost Art,' shares groundbreaking insights on how proper breathing can transform health, sleep, and performance. His research reveals alarming connections between breathing disorders and ADHD in children, challenging conventional medical practices. Nestor's personal journey of overcoming chronic respiratory issues through breathwork, including techniques like Sudarshan Kriya and the Wim Hof Method, offers practical solutions for modern health challenges. The episode delves into the science of coherent breathing, the impact of CO2 levels in our environment, and the surprising dysfunction in athletes' breathing patterns. Nestor's critique of breathwork culture and his emphasis on 'normal breathing' as a universal solution make this conversation both enlightening and actionable. His story of quitting a corporate job to pursue writing and the creative process behind his books adds a layer of inspiration for those seeking to overcome obstacles and find their true calling.",
+    "summary_zh": "詹姆斯·内斯特尔，畅销书《呼吸：失传的艺术》的作者，分享了关于正确呼吸如何改变健康、睡眠和表现的突破性见解。他的研究揭示了呼吸障碍与儿童ADHD之间令人警惕的联系，挑战了传统医学实践。内斯特尔通过呼吸练习，包括Sudarshan Kriya和Wim Hof方法，克服了慢性呼吸问题，为现代健康挑战提供了实际解决方案。本集探讨了共振呼吸的科学原理、环境中CO2水平的影响以及运动员呼吸模式的惊人失调。内斯特尔对呼吸文化的批评以及他对“正常呼吸”作为普遍解决方案的强调，使这场对话既启发人心又富有实用价值。他辞去公司工作追求写作的故事以及他创作书籍的过程，为那些希望克服障碍并找到真正使命的人增添了灵感。",
+    "best_quote_en": "\"What many researchers are saying is that ADHD does not exist. What you're looking at are sleep-deprived kids. And the most shocking thing to me is that a kid who presents with ADHD, they're never assessed for their breathing. They're never assessed for their sleep. They're given drugs and put on their way, and I think it's criminal.\"",
+    "best_quote_zh": "许多研究人员说，ADHD并不存在。你所看到的只是睡眠不足的孩子。最令我震惊的是，当一个孩子出现ADHD症状时，他们从未被评估过呼吸情况，也从未被评估过睡眠质量。他们只是被给予药物然后离开，我认为这是犯罪行为。"
   }
 ]
