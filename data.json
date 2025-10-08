@@ -1,49 +1,5 @@
 [
   {
-    "id": 53,
-    "title": "A profile in courage:\nOn DNA computation and escaping a local maximum",
-    "title_zh": "勇气的典范：关于DNA计算和逃离局部最优",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/dbkAw25xbgN6ENERA/a-profile-in-courage-on-dna-computation-and-escaping-a-local",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "This article delves into a Nature paper on DNA-based neural networks, highlighting not just the scientific breakthrough but also the profound story behind its creation. While the DNA computing system itself is an intriguing proof-of-concept, capable of rudimentary pattern classification, the author critically assesses its practical limitations compared to electronic systems. The true intellectual value lies in the researchers' journey: after three years of incremental fixes leading to a 'local maximum' of problems, they demonstrated immense courage by abandoning their initial design and starting anew. This narrative serves as a powerful case study for anyone involved in complex problem-solving, emphasizing the importance of holistic problem assessment, distinguishing design from execution issues, and knowing when to pivot from an intractable approach. It's a compelling reminder that true innovation often requires the humility to admit failure and the bravery to restart.",
-    "summary_zh": "这篇文章不仅探讨了DNA神经网络的科学进展，更深入剖析了其背后的人文故事。虽然DNA计算系统本身是一个有趣的设想，但其与电子系统相比的局限性也引人深思。对我而言，最受启发的是研究团队在三年困境后，毅然放弃旧设计、从头开始的勇气。这不仅是科学研究的典范，更是人生智慧的缩影——它提醒我们，面对复杂问题，不能只盯着局部修补，有时需要宏观审视，甚至推倒重来。这种敢于承认失败、重新出发的精神，正是创新和突破的基石。",
-    "best_quote_en": "Beyond the science presented in this paper, we cannot over emphasize the philosophy that all challenges must be considered as a whole and that the most extraordinary courage is needed at the most desperate time.",
-    "best_quote_zh": "除了本文所呈现的科学之外，我们不能过分强调这样一个理念：所有挑战都必须作为一个整体来考虑，并且在最绝望的时候需要非凡的勇气。"
-  },
-  {
-    "id": 54,
-    "title": "Bella Freud’s Podcast, “Fashion Neurosis,” Offers a Talking Cure",
-    "title_zh": "贝拉·弗洛伊德的播客《时尚神经症》：一场谈话疗法",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/15/bella-freuds-podcast-offers-a-talking-cure",
-    "tags": [
-      "inspire",
-      "education",
-      "psychology"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "心理学"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "This insightful article delves into Bella Freud’s podcast, \"Fashion Neurosis,\" revealing it as a deeply personal and transformative project. Far from a mere celebrity endeavor, the podcast serves as a unique platform for psychoanalytic exploration, where guests and Freud herself unpack the psychological significance of clothing and personal history. The piece thoughtfully interweaves Bella’s complex familial legacy—as Sigmund Freud’s great-granddaughter and Lucian Freud’s daughter—with her own journey of self-discovery and creative expression. It highlights how the podcast, mirroring a therapeutic setting, enables candid revelations and fosters a newfound fluency in language for Freud, ultimately becoming a healing process for her. The article masterfully demonstrates how personal narratives, even seemingly trivial ones like fashion choices, can unveil profound psychological truths and contribute to a richer understanding of self.",
-    "summary_zh": "这篇文章深入剖析了贝拉·弗洛伊德的播客《时尚神经症》，将其视为一场深刻的自我探索与疗愈。播客不仅是名流间的闲谈，更像是一个充满洞见的心理分析现场，通过时尚这一媒介，揭示了个人历史与心理的深层联结。文中巧妙地将贝拉作为弗洛伊德家族后代的复杂身份，与她追求独立表达的历程交织，展现了她如何通过播客这一“谈话疗法”形式，突破自我束缚，找到语言的自由。读罢此文，我不禁思考，或许真正的成长，正是在那些看似寻常的对话中，逐渐显露出生命的纹理与色彩。",
-    "best_quote_en": "“My access to language is faster, and I can say things about things that matter a lot, and they will come out, instead of being frozen with the weight of what I want to say.”",
-    "best_quote_zh": "“我对语言的运用变得更快了，我可以把那些很重要的事情说出来，而不是被我想要表达的沉重感所冻结。”"
-  },
-  {
     "id": 55,
     "title": "All My Thoughts After 40 Hours in the Vision Pro",
     "title_zh": "Vision Pro 40小时使用体验全记录",
@@ -2254,5 +2210,53 @@
     "summary_zh": "詹姆斯·内斯特尔，畅销书《呼吸：失传的艺术》的作者，分享了关于正确呼吸如何改变健康、睡眠和表现的突破性见解。他的研究揭示了呼吸障碍与儿童ADHD之间令人警惕的联系，挑战了传统医学实践。内斯特尔通过呼吸练习，包括Sudarshan Kriya和Wim Hof方法，克服了慢性呼吸问题，为现代健康挑战提供了实际解决方案。本集探讨了共振呼吸的科学原理、环境中CO2水平的影响以及运动员呼吸模式的惊人失调。内斯特尔对呼吸文化的批评以及他对“正常呼吸”作为普遍解决方案的强调，使这场对话既启发人心又富有实用价值。他辞去公司工作追求写作的故事以及他创作书籍的过程，为那些希望克服障碍并找到真正使命的人增添了灵感。",
     "best_quote_en": "\"What many researchers are saying is that ADHD does not exist. What you're looking at are sleep-deprived kids. And the most shocking thing to me is that a kid who presents with ADHD, they're never assessed for their breathing. They're never assessed for their sleep. They're given drugs and put on their way, and I think it's criminal.\"",
     "best_quote_zh": "许多研究人员说，ADHD并不存在。你所看到的只是睡眠不足的孩子。最令我震惊的是，当一个孩子出现ADHD症状时，他们从未被评估过呼吸情况，也从未被评估过睡眠质量。他们只是被给予药物然后离开，我认为这是犯罪行为。"
+  },
+  {
+    "id": 153,
+    "title": "A moment that changed me: I stopped restraining myself – and found the love of my life",
+    "title_zh": "改变我的时刻：我停止掩饰自己——并找到了我的真爱",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/08/a-moment-that-changed-me-i-stopped-restraining-myself-and-found-the-love-of-my-life",
+    "tags": [
+      "update",
+      "ai-research",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Francesca Hornak's personal essay reveals a profound insight about authenticity in relationships. The author recounts how years of performing perfection for male approval nearly derailed her chance at genuine love. A simple, unguarded moment of pain—stubbing her toe—became a catalyst for self-liberation. This incident shattered her carefully constructed facade and allowed her to embrace her true self with her partner. The piece explores societal expectations of women in relationships and how conforming to outdated stereotypes can be self-sabotaging. Hornak's story is a powerful reminder that vulnerability and authenticity are the foundation of lasting love. Her reflection on raising her sons with these values adds a generational perspective, making the piece resonate beyond personal anecdote.",
+    "summary_zh": "弗朗西斯卡·霍纳克的个人散文揭示了关系中真诚的深刻见解。作者讲述了多年来为了迎合男性审美而表现完美几乎破坏了她真爱的机会。一次简单的疼痛——撞到脚趾——成了自我解放的催化剂。这件事打破了她精心构建的面具，让她能够在伴侣面前做真实的自己。文章探讨了社会对关系中女性的期望，以及遵循过时的性别刻板印象可能如何自我毁灭。霍纳克的故事是一个强有力的提醒：脆弱和真诚是持久爱情的基础。她对养育儿子时传递这些价值观的反思，使这篇文章超越了个人轶事，具有更广泛的意义。",
+    "best_quote_en": "'Slowly I let the unedited version of myself break free'",
+    "best_quote_zh": "“慢慢地，我让未经过修饰的自己得以释放”"
+  },
+  {
+    "id": 154,
+    "title": "How to Write Usefully",
+    "title_zh": "如何有用地写作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/useful.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This essay explores the essence of useful writing, advocating for content that is true, important, novel, and strongly stated. The author emphasizes the importance of precision and correctness, balancing bold claims with absolute accuracy. The piece offers practical advice on achieving these qualities through careful revision and self-editing, while acknowledging the potential backlash from readers uncomfortable with new or challenging ideas. The author's approach, influenced by Robert Morris, involves rigorous self-criticism and the elimination of any content that doesn't meet high standards. The essay also discusses the strategic use of qualification in writing and the importance of simplicity. Ultimately, the author argues that the internet has opened up new possibilities for essay writing, with many important ideas still waiting to be discovered through this medium.",
+    "summary_zh": "这篇文章探讨了有用写作的本质，主张内容应真实、重要、新颖且表述强烈。作者强调精确性和正确性，在大胆陈述与绝对准确之间寻求平衡。文章提供了通过仔细修改和自我编辑实现这些品质的实用建议，同时承认读者可能对新颖或具有挑战性的观点产生不满。作者的方法受罗伯特·莫里斯影响，涉及严格的自我批判和淘汰任何不达标的内容。文章还讨论了写作中资格的战略性使用和简洁性的重要性。最终，作者认为互联网为散文写作开辟了新的可能性，许多重要的观点仍有待通过这种媒介被发现。",
+    "best_quote_en": "Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.",
+    "best_quote_zh": "有用的写作告诉人们他们之前不知道的真实而重要的信息，并且尽可能明确地表达。"
   }
 ]
