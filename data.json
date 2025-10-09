@@ -1,111 +1,5 @@
 [
   {
-    "id": 55,
-    "title": "All My Thoughts After 40 Hours in the Vision Pro",
-    "title_zh": "Vision Pro 40小时使用体验全记录",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式"
-    ],
-    "date": "2024-02-09",
-    "summary_en": "This article offers a deeply personal and intellectually curious review of the Apple Vision Pro after 40 hours of use, contextualizing it within the broader history of VR and Apple's product launches. The author, known for his long-form analysis, provides a nuanced perspective, balancing the 'holy shit' moments of technological wonder with the current limitations and 'underwhelm' of a V1 product. He meticulously breaks down the hardware, operating system, and current applications, drawing parallels to the early iPhone's development and the concept of S-curves in technological adoption. The piece is rich with engaging anecdotes, thoughtful reflections on user experience, and forward-looking speculation on the future of spatial computing, making it a compelling read for anyone interested in the trajectory of immersive tech.",
-    "summary_zh": "这篇文章是对Apple Vision Pro的深度个人评测，作者以其标志性的长篇分析风格，将40小时的使用体验置于VR发展史和苹果产品迭代的宏大叙事中。他巧妙地平衡了初次体验的“震撼”与作为初代产品的“平淡”，细致剖析了硬件、操作系统及应用现状。最引人深思的是，作者将Vision Pro比作第一代iPhone，并引入S曲线理论，探讨其如何可能开启空间计算的新纪元，以及我们应如何看待早期技术的局限性。这不仅是产品评测，更是对未来科技趋势和人类互动模式的深刻洞察。",
-    "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
-    "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，就是一种彻底的震惊与轻微的失望奇妙结合。"
-  },
-  {
-    "id": 56,
-    "title": "The one change that worked: I got a period cup – and saved £120 a year",
-    "title_zh": "唯一有效的改变：我开始使用月经杯——每年节省120英镑",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/01/the-one-change-that-worked-i-got-a-period-cup-and-saved-120-a-year",
-    "tags": [
-      "solve",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "This article offers a compelling personal narrative about the author's positive experience switching to a menstrual cup. It effectively highlights the practical benefits, such as significant cost savings (£120 annually), environmental advantages by reducing waste, and improved personal comfort and health (reduced cramps, no toxic chemicals). The author's initial skepticism and eventual conversion provide a relatable journey, emphasizing the ease of use after a brief learning curve. This piece serves as a practical guide and persuasive argument for adopting menstrual cups, addressing common concerns while showcasing the long-term value and convenience, especially for eco-conscious individuals and travelers. It's a testament to how small, conscious choices can lead to substantial personal and environmental benefits.",
-    "summary_zh": "这篇文章以真诚的个人视角，分享了作者使用月经杯的转变与心得。它不仅细致入微地描绘了从怀疑到接受的过程，更深刻揭示了这一选择在经济、环保和个人舒适度上的多重价值。每年节省百镑，减少塑料垃圾，告别传统产品的诸多不适，这些实实在在的益处，足以让人重新审视女性生理期护理的未来。这不仅仅是一篇使用体验分享，更是一份关于可持续生活方式的启发，体现了小改变如何带来大不同，令人深思。",
-    "best_quote_en": "Switching to a menstrual cup has turned my once stressful period into something so simple that I hardly notice it, and I haven’t looked back since.",
-    "best_quote_zh": "改用月经杯，把我曾经压力重重的经期变成了如此简单的事情，以至于我几乎没有察觉到它的存在，从那时起我就再也没有回头。"
-  },
-  {
-    "id": 57,
-    "title": "Weird Languages",
-    "title_zh": "怪异的语言",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/weird.html",
-    "tags": [
-      "solve",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "案例研究"
-    ],
-    "date": "2025-09-10",
-    "summary_en": "This essay provocatively challenges the conventional view that all programming languages are fundamentally similar, arguing that such a perspective often stems from exposure only to 'glue programming'—the 99.5% of coding that involves linking library functions. The author champions 'weird languages' as gateways to understanding the more profound, less explored 0.5% of programming, which involves meta-programming and language design. Using Lisp macros as a prime example, the piece illustrates how these unconventional features enable programmers to transcend mere application development, venturing into the realm of creating domain-specific languages. This intellectual journey, the author suggests, not only expands one's technical capabilities but also reshapes cognitive processes, fostering new ways of thinking about problem-solving. It's a compelling argument for intellectual curiosity and venturing beyond the familiar to unlock deeper insights into the nature of computation.",
-    "summary_zh": "这篇文章颠覆了对编程语言的普遍认知，指出多数人仅限于“胶水编程”。它独到地倡导探索“怪异语言”，认为它们是通往编程深层奥秘的钥匙，如Lisp宏，能启发我们超越传统应用开发，进入元编程和语言设计的广阔天地。这不仅仅是技术能力的提升，更是一场思维范式的重塑。我深以为然，真正的创新往往诞生于对“怪异”的拥抱，它促使我们跳出舒适区，以全新的视角审视问题，从而实现认知的跃迁。",
-    "best_quote_en": "If you want to expand your concept of what programming can be, one way to do it is by learning weird languages. Pick a language that most programmers consider weird but whose median user is smart, and then focus on the differences between this language and the intersection of popular languages.",
-    "best_quote_zh": "如果你想扩展你对编程可能性的认知，学习怪异的语言是其中一种方法。选择一种大多数程序员认为怪异但其中位数用户很聪明的语言，然后专注于这种语言与流行语言交集之间的差异。"
-  },
-  {
-    "id": 58,
-    "title": "Nvidia Comes Out Swinging as Congress Weighs Limits on China Chip Sales",
-    "title_zh": "英伟达在国会权衡对华芯片销售限制之际强势出击",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ncMkbwdTvfXNyHAhy/nvidia-comes-out-swinging-as-congress-weighs-limits-on-china",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-09-10",
-    "summary_en": "This article delves into Nvidia's aggressive lobbying against proposed U.S. congressional restrictions on AI chip sales to China. It highlights the complex interplay between national security concerns, economic interests, and the philosophical divide within the AI community (accelerationists vs. doomers). Nvidia's strategy, particularly its framing of restrictions as 'left-wing paranoia,' is a fascinating and controversial move that has effectively muddied the policy waters. The piece masterfully exposes how corporate self-interest can intersect with and even manipulate broader geopolitical and philosophical debates, forcing readers to question the true drivers behind policy advocacy. It's a compelling look at the high stakes involved in the tech-geopolitics nexus.",
-    "summary_zh": "这篇文章揭示了英伟达如何强势游说，以对抗美国国会拟议的对华AI芯片销售限制。它不仅展现了国家安全、经济利益与AI社群内部哲学分歧（加速主义者与末日论者）之间的复杂交织，更令人深思的是，英伟达将限制描述为“左翼偏执”的策略，着实搅浑了政策辩论的清水。这不禁让我思考，当商业巨头的利益与地缘政治议题碰撞时，话语权的争夺会如何影响公众认知与政策走向。这不仅仅是芯片销售，更是关于技术主导权和未来愿景的深刻博弈。",
-    "best_quote_en": "“There’s nothing more ‘America First’ than making sure that our chips don’t go to our enemies to use against us.”",
-    "best_quote_zh": "“没有什么比确保我们的芯片不被我们的敌人用来对付我们更能体现‘美国优先’了。”"
-  },
-  {
-    "id": 59,
-    "title": "Inside the Chaos at the C.D.C.",
-    "title_zh": "美国疾控中心内部的混乱",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/inside-the-chaos-at-the-cdc",
-    "tags": [
-      "analyze",
-      "politics",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "AI研究"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "This article offers a chilling look into the Centers for Disease Control and Prevention (CDC) under controversial new leadership, particularly focusing on the perspectives of former senior official Daniel Jernigan. It vividly portrays the agency's turmoil, from a shocking active shooter incident linked to vaccine misinformation to the systematic dismantling of scientific integrity and expertise. The piece critically evaluates the impact of politically motivated appointments and budget cuts on the CDC's ability to protect public health, highlighting a profound crisis of morale and competence. It raises serious concerns about America's preparedness for future health crises, underscoring the critical importance of science-driven public health institutions. The narrative is a stark warning about the consequences of eroding trust in expert bodies.",
-    "summary_zh": "这篇文章揭示了美国疾控中心（CDC）在充满争议的新领导层下的混乱局面。通过前高官丹尼尔·杰尼根的视角，我们看到了一个曾是全球公共卫生灯塔的机构如何被政治干预和反科学思潮侵蚀。从疫苗谣言引发的枪击案到专业人员的流失，字里行间充满了对科学被架空、公共卫生基石动摇的深切忧虑。这不禁让人反思，当专业被偏见取代，我们又将如何应对未来的未知挑战？其深远影响令人不安。",
-    "best_quote_en": "“I don’t know what this Administration expects. If every state health department is supposed to be doing what the C.D.C. has been doing, those departments—the vast majority of their communicable-diseases budgets are paid for with C.D.C. dollars! If you cut the people at C.D.C. and their expertise, and you cut the funding that goes to states, you undermine the institution. What are you left with?”",
-    "best_quote_zh": "“我不知道这届政府期待什么。如果每个州卫生部门都要做疾控中心一直在做的事情，那些部门——他们绝大多数传染病预算都是由疾控中心的资金支付的！如果你削减疾控中心的人员和他们的专业知识，并且削减流向各州的资金，你就是在破坏这个机构。那你还剩下什么？”"
-  },
-  {
     "id": 60,
     "title": "10 Thoughts From the Fourth Trimester",
     "title_zh": "第四孕期十日谈",
@@ -2258,5 +2152,121 @@
     "summary_zh": "这篇文章探讨了有用写作的本质，主张内容应真实、重要、新颖且表述强烈。作者强调精确性和正确性，在大胆陈述与绝对准确之间寻求平衡。文章提供了通过仔细修改和自我编辑实现这些品质的实用建议，同时承认读者可能对新颖或具有挑战性的观点产生不满。作者的方法受罗伯特·莫里斯影响，涉及严格的自我批判和淘汰任何不达标的内容。文章还讨论了写作中资格的战略性使用和简洁性的重要性。最终，作者认为互联网为散文写作开辟了新的可能性，许多重要的观点仍有待通过这种媒介被发现。",
     "best_quote_en": "Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.",
     "best_quote_zh": "有用的写作告诉人们他们之前不知道的真实而重要的信息，并且尽可能明确地表达。"
+  },
+  {
+    "id": 155,
+    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
+    "title_zh": "铁娘子评论：激励人心的矿工罢工前线女性纪录片",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This documentary offers a powerful and inspiring look at the often-overlooked role of women during the 1984-85 miners' strike in the UK. The film highlights how working-class women, many of them miners' wives, organized under Women Against Pit Closures (WAPC) to support the strike through picketing, fundraising, and political activism. Their stories reveal the transformative power of collective action and how this experience politicized many of them, leading to lifelong engagement in community leadership. The documentary challenges the dominant narrative of the strike, which often centers on male miners, and provides a nuanced perspective on working-class women's history. It's a poignant reminder of how grassroots movements can empower individuals and communities, and how political engagement can begin from the most personal of motivations - feeding one's children. The film also serves as a critique of Thatcher's policies and the lasting impact they had on these women's lives.",
+    "summary_zh": "这部纪录片深入展现了1984-85年英国矿工大罢工期间女性的重要作用，她们组织起来，支持罢工，开展政治活动。影片揭示了集体行动的力量和草根运动如何赋予普通女性力量，让她们走上政治道路。这部纪录片不仅是对工人阶级女性历史的补充，也是对撒切尔政策影响的批判。",
+    "best_quote_en": "'We were just women who wanted to know how to feed their kids.'",
+    "best_quote_zh": "“我们只是想知道如何养活孩子的普通女人。”"
+  },
+  {
+    "id": 156,
+    "title": "Being a Noob",
+    "title_zh": "做新手",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/noob.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This reflective piece explores the universal experience of feeling like a novice in new situations. The author challenges the negative connotation of being a 'noob,' arguing that the discomfort of feeling incompetent actually indicates growth and learning. By examining the evolutionary roots of our aversion to feeling ignorant, the piece suggests that in our rapidly changing modern world, embracing the 'noob' feeling is essential for personal and intellectual development. The author's personal anecdotes and cross-cultural observations make this a compelling read about lifelong learning and the value of stepping outside one's comfort zone.",
+    "summary_zh": "这篇文章探讨了我们在面对新事物时常常感到自己是新手的普遍经历。作者质疑了“新手”这一标签的负面含义，认为这种不适感实际上标志着成长与学习。通过分析我们对无知感的厌恶的进化根源，文章指出在快速变化的现代世界中，拥抱“新手”感是个人和智力发展的必然。作者的个人轶事和跨文化观察使这篇文章成为关于终身学习和突破舒适区的引人深思之作。",
+    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
+    "best_quote_zh": "你在本地越是新手，在全球范围内就越不新手。"
+  },
+  {
+    "id": 157,
+    "title": "Who Can Lead the Democrats?",
+    "title_zh": "谁能领导民主党？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/who-can-lead-the-democrats",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Kamala Harris's memoir '107 Days' offers a candid but ultimately divisive look at her brief 2024 presidential campaign. While she faced immense challenges including misogyny and racism, her constant criticism of colleagues, staff, and even her husband creates a tone that feels petty rather than humanizing. The book's most striking revelation may be Harris's admission that she passed over Pete Buttigieg as VP because she doubted America's readiness for a ticket with both a Black woman and a gay man. Her critique of Biden's campaign struggles feels muted compared to her harsh judgments of others. The memoir's greatest failure is its lack of generosity toward fellow Democrats at a time when unity is crucial. In focusing on personal grievances, Harris misses an opportunity to present herself as the unifying leader her party desperately needs in the face of Trump's dangerous second term.",
+    "summary_zh": "哈里斯的回忆录《107天》直白但最终分裂地展现了她短暂的2024年总统竞选。尽管她面临着巨大挑战，包括性别歧视和种族歧视，但她对同事、工作人员甚至丈夫的不断批评使其语气显得小气而非真实。书中最引人注目的揭露可能是哈里斯承认自己没有选择彼得·巴蒂格为副手，因为她怀疑美国是否准备好接受一个由黑人女性和同性恋组成的竞选搭档。对拜登竞选困境的批评与评价他人时的严厉相比显得温和。这本回忆录最大的失败在于缺乏对其他民主党人的宽容，而在特朗普危险的第二任期面前，团结至关重要。哈里斯在专注于个人恩怨时，错失了将自己塑造为民主党急需的团结领导人的机会。",
+    "best_quote_en": "'We can't turn on each other.' The truth of those words landed on me like a bucket of ice water.",
+    "best_quote_zh": "“我们不能互相攻击。”这句话的真相像一桶冰水一样砸在了我身上。"
+  },
+  {
+    "id": 158,
+    "title": "Sora 2",
+    "title_zh": "Sora 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-2",
+    "tags": [
+      "solve",
+      "ai-research",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "The launch of Sora 2 marks a significant moment in creative AI, akin to the impact of ChatGPT on text generation. This new app combines an advanced model with an intuitive platform for video creation, sharing, and viewing, potentially sparking a Cambrian explosion in creativity. The 'cameo' feature, allowing users to insert themselves and others into videos, represents an innovative way to connect and express creativity. However, the developers acknowledge potential risks, including addiction and misuse, and have implemented safeguards against deepfakes, disturbing content, and negative impacts on user well-being. Their principles focus on long-term user satisfaction, user control over content feeds, encouragement of creation, and alignment with long-term user goals. This thoughtful approach balances innovation with responsibility, setting a precedent for ethical AI development in creative spaces.",
+    "summary_zh": "Sora 2的推出标志着创意AI领域的重要里程碑，类似于ChatGPT对文本生成的影响。这款新应用将先进模型与直观的视频创作、分享和观看平台结合，可能引发创意领域的爆炸式增长。'cameo'功能允许用户将自己和他人插入视频中，开创了新的连接和表达方式。然而，开发者也承认潜在风险，包括成瘾和滥用，并实施了针对深度伪造、令人不安内容和用户心理健康影响的防护措施。他们的原则侧重于长期用户满意度、用户对内容的控制权、创作鼓励和与用户长期目标的对齐。这种深思熟虑的平衡开创了创意领域AI伦理发展的新标准。",
+    "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
+    "best_quote_zh": "创造力可能即将经历一次剑尾鱼大爆发，而艺术和娱乐的质量也能得到显著提升。"
+  },
+  {
+    "id": 159,
+    "title": "Essentials: Time Perception, Memory & Focus",
+    "title_zh": "Essentials: 时间感知、记忆与专注力",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
+    "tags": [
+      "update",
+      "lifestyle",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This episode of Huberman Lab Essentials dives deep into the fascinating science of time perception, offering practical tools to optimize our daily rhythms. Dr. Huberman explains how biological clocks align with light cycles to regulate hormones affecting energy and mood, providing actionable strategies for improving focus through exercise timing and light exposure. The discussion on neurotransmitters like dopamine and serotonin reveals how they shape our experience of time, with compelling insights into how novelty and emotion create memorable moments. The episode's blend of neuroscience and practical applications makes it invaluable for anyone seeking to enhance productivity and understand the mechanisms behind our perception of time.",
+    "summary_zh": "本集Huberman Lab Essentials探讨了时间感知的科学原理，提供优化日常节奏的实用工具。Huberman博士解释了生物钟如何与光周期同步调节影响能量和情绪的激素，并给出了通过运动时间和光照调整专注力的可行策略。关于多巴胺和血清素如何塑造时间感知的讨论，揭示了新奇体验和情绪如何创造难忘瞬间。这集兼具神经科学与实用价值，对希望提升生产力并理解时间感知机制的人士至关重要。",
+    "best_quote_en": "Novelty and emotion create more vivid memories, making time seem to pass more slowly during these experiences.",
+    "best_quote_zh": "新奇和情绪会创造更鲜明的记忆，使时间在这些体验中似乎过得更慢。"
   }
 ]
