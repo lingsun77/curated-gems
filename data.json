@@ -1,113 +1,5 @@
 [
   {
-    "id": 65,
-    "title": "A Short History of My Last Six Years",
-    "title_zh": "我过去六年的简史",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/02/last-six-years.html",
-    "tags": [
-      "learn",
-      "design",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "AI研究"
-    ],
-    "date": "2023-02-17",
-    "summary_en": "This deeply personal reflection by Tim Urban chronicles his six-year odyssey to write a book on societal problems, initially conceived as a 'mini-post.' What began as a blogger's instinct to address a perceived societal 'cloud' morphed into an all-consuming, perfectionist quest, delaying marriage plans and consuming his life. Urban candidly details the pitfalls of sunk cost fallacy, scope creep, and self-delusion, leading to an ever-expanding project. The narrative culminates with the unexpected catalyst of impending fatherhood, finally forcing the completion of his book, \"What's Our Problem?\" The article is a fascinating case study in creative process, personal discipline, and the overwhelming nature of ambitious intellectual pursuits, offering relatable insights into the struggle between passion and practicality.",
-    "summary_zh": "蒂姆·厄班这篇真诚的自述，讲述了他如何将一篇“迷你”博文，耗费六年心血打磨成一部探讨社会问题的巨著。它揭示了完美主义、沉没成本谬误和项目范围蔓延的陷阱，甚至影响了作者的个人生活。文章中最触动我的，是那种创作的执念与现实压力的拉扯。直到即将为人父的喜讯，才最终迫使他完成这部作品。这不仅是一个关于写作的故事，更是对我们如何平衡雄心与生活、如何面对无尽追求的深刻反思，读来令人深思。",
-    "best_quote_en": "The baby was due on March 7, 2023, so this book would be completely done by mid-February, period end of story.",
-    "best_quote_zh": "孩子将于2023年3月7日出生，所以这本书必须在2月中旬前彻底完成，句号，故事结束。"
-  },
-  {
-    "id": 66,
-    "title": "Does my vagina really need a ‘facial’?",
-    "title_zh": "我的阴道真的需要“面部护理”吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2025/sep/11/vagina-wellness-products-feminine-intimate-care",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "politics"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "政治时事"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This article critically examines the booming \"vaginal wellness\" industry, arguing that it's largely a marketing ploy preying on women's anxieties. It traces the historical roots of \"feminine hygiene\" products back to the Comstock Law, revealing how companies have consistently manufactured problems to sell unnecessary solutions. The author posits a compelling theory: the increasing obsession with female genitals, both cosmetically and politically, is a response to governmental control over women's bodies. Expert opinions from OB/GYNs emphasize that the vagina is self-cleaning and most products are not only unnecessary but potentially harmful, debunking the myth that vulvas need extensive cosmetic intervention. This piece offers a powerful counter-narrative to pervasive beauty standards, urging readers to reject commercial pressures and embrace their natural bodies.",
-    "summary_zh": "这篇文章对蓬勃发展的“阴道健康”产业进行了深刻的批判，揭示其如何通过制造焦虑来推销不必要的产品。作者的洞察力在于将这种商业行为与政府对女性身体的政治控制联系起来，提出了一种引人深思的社会学解读。它不仅揭露了营销策略的历史根源，还引用了妇产科医生的专业意见，强调“少即是多”的护理原则。读完之后，我深感这种对身体的物化和商业化是多么普遍，并被提醒要警惕那些试图定义我们“正常”或“美丽”的外部声音，真正回归对自身身体的自主权和健康认知。",
-    "best_quote_en": "The idea that your vagina should smell as fresh as a daisy or look like a doll’s is an attack on your autonomy, an insult to your humanity and a hazard to your health.",
-    "best_quote_zh": "你的阴道应该像雏菊一样清新或像洋娃娃一样美丽的观念，是对你自主权的攻击，对你人性的侮辱，也是对你健康的危害。"
-  },
-  {
-    "id": 67,
-    "title": "A Project of One's Own",
-    "title_zh": "一个人的项目",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/own.html",
-    "tags": [
-      "inspire",
-      "leadership",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "案例研究"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "This essay delves into the profound satisfaction and enhanced productivity derived from engaging in 'projects of one's own,' contrasting it sharply with conventional, dutiful work. The author eloquently argues that true innovation and personal fulfillment stem from this intrinsic motivation, akin to 'skating' rather than 'walking.' He critiques traditional education for stifling this natural inclination, often by divorcing 'play' from 'work.' The piece also explores the nuanced boundaries of individual projects versus collaboration, highlighting how successful organizations foster an environment where personal ownership and collective effort can coexist, as exemplified by the original Macintosh team. Ultimately, it champions the recapture of childlike, 'careless confidence' in pursuing self-initiated endeavors, asserting that this approach is not only more rewarding but also a stronger predictor of real-world success than mere academic credentials.",
-    "summary_zh": "这篇文章深刻探讨了“一个人的项目”所带来的独特激情与高效率，与传统工作的按部就班形成鲜明对比。作者巧妙地将这种状态比作“滑冰”，而非“走路”，强调其是创造力和个人成就感的真正源泉。我深以为然，很多时候，我们并非缺乏能力，而是缺少那种发自内心的驱动力。文章还批判了教育体系对这种天性的压抑，并探讨了个人项目与协作的微妙平衡。这促使我反思，如何在日常工作中重燃那份孩童般的好奇与自信，让工作不仅仅是责任，更是自我实现与探索的乐园。",
-    "best_quote_en": "Working on a project of your own is as different from ordinary work as skating is from walking. It's more fun, but also much more productive.",
-    "best_quote_zh": "做自己的项目，和做普通工作之间的区别，就像滑冰和走路的区别一样。它更有趣，但也更有效率。"
-  },
-  {
-    "id": 68,
-    "title": "Demo papers: they're fine I guess",
-    "title_zh": "演示论文：我猜它们还行",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ce2CDvTKx7R92M7Xu/demo-papers-they-re-fine-i-guess",
-    "tags": [
-      "inspire",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "This insightful analysis delves into the nature and implications of \"demo papers\" in AI safety research, particularly those from leading labs like Anthropic. The author critically examines their methodology, highlighting that these papers serve as experimental existence proofs for potential, often undesirable, AI behaviors like reward tampering. What struck me most was the nuanced perspective on how these papers are interpreted differently by individuals with varying \"p(doom)\" (probability of doom) regarding AI risks. For high p(doom individuals, they offer concrete evidence; for low p(doom individuals, their complex, \"vibes-based\" experimental setups and evaluations often seem unrealistic. The author's call to accept demo papers for what they are—early snapshots of potential risks, requiring both charity for their experimental choices and skepticism for extrapolation—provides a refreshing and balanced framework for engaging with this crucial area of AI research. It underscores the need for a sophisticated understanding beyond surface-level findings.",
-    "summary_zh": "这篇文章深入剖析了AI安全研究中的“演示论文”，尤其指出它们作为潜在AI风险的实验性存在证明。作者对这类论文的方法论进行了批判性审视，并提出一个引人深思的观点：人们对演示论文的解读，很大程度上取决于其对AI风险的“末日概率”判断。高概率者视之为确凿证据，低概率者则认为其实验设置过于脱离现实。我特别认同作者提出的，无论个人立场如何，都应以一种既宽容其复杂实验设计，又对其风险外推保持审慎的态度来对待这些论文。这提醒我们，在解读AI前沿研究时，需要更深层次的批判性思维，而非简单接受或全盘否定。",
-    "best_quote_en": "A demo paper is an experimental existence proof for some (bad) phenomenon. Demo papers just show that AI systems might potentially act in a certain way; they don't say much about how likely the behavior is.",
-    "best_quote_zh": "演示论文是某种（不良）现象的实验性存在证明。演示论文只是表明AI系统可能以某种方式行事；它们并没有过多说明这种行为发生的可能性有多大。"
-  },
-  {
-    "id": 69,
-    "title": "Did Trump Just Declare War on the American Left?",
-    "title_zh": "特朗普是否向美国左翼宣战？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/did-trump-just-declare-war-on-the-american-left",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This incisive analysis delves into the aftermath of a fictional political assassination, examining how former President Trump and his allies exploit the tragedy to declare war on the American left. The author critically evaluates Trump's rhetoric, which deviates sharply from calls for unity, instead blaming political opponents and promising retribution. The piece highlights the dangerous shift from addressing political violence to seeking political vengeance, drawing parallels with historical 'wars on terror' but noting the chilling internal focus. It makes a compelling case that this strategy is not about healing divisions but about consolidating power through aggressive demonization, raising profound concerns about the future of American political discourse and stability. The article masterfully dissects the political opportunism and the potential ramifications of such divisive leadership.",
-    "summary_zh": "这篇文章深刻剖析了虚构的政治暗杀事件后，特朗普及其盟友如何利用悲剧向美国左翼宣战。作者敏锐地指出，特朗普的言辞背离了团结的呼吁，转而归咎于政治对手并誓言报复。这种从解决政治暴力转向寻求政治复仇的转变令人担忧，其内部攻击性甚至超越了历史上的“反恐战争”。我深感，这种策略并非旨在弥合分歧，而是通过激烈的妖魔化来巩固权力，这无疑是对美国政治未来和稳定的巨大挑战。它不仅揭示了政治投机主义的危险，也促使我们反思领导者在危机时刻的责任。",
-    "best_quote_en": "It is not a dialogue about the crisis of political violence in America that he wants right now but an aggressive new policy of political vengeance.",
-    "best_quote_zh": "他现在想要的不是关于美国政治暴力危机的对话，而是一种积极的政治复仇新政策。"
-  },
-  {
     "id": 70,
     "title": "Mailbag #2",
     "title_zh": "读者来信 #2",
@@ -2278,5 +2170,121 @@
     "summary_zh": "蒂姆·费里斯与大卫·森拉的对话揭示了极致成功者的思维模式与策略。森拉通过研究历史上最伟大的企业家，将其经验转化为可行动的智慧。对话中提到的杰出人物如布拉德·雅各布斯、埃德·索普、索尔·普赖斯和布鲁内罗·库奇内利，展示了如何在事业上取得非凡成就的同时保持个人生活的平衡。森拉强调将信息转化为行为的学习方法，以及从历史中汲取经验以指导当前事业的重要性。讨论还涉及热情与直觉在成功中的作用，商业叙事的价值，以及通过阅读与反思实现持续学习与自我提升的力量。森拉独特的阅读方法——将传记视为与历史伟人进行的单向对话，为我们提供了一个宝贵的学习范式。",
     "best_quote_en": "Learning is not memorizing information. Learning is changing your behavior.",
     "best_quote_zh": "学习不是记忆信息，学习是改变行为。"
+  },
+  {
+    "id": 165,
+    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
+    "title_zh": "为什么值得更广泛地关注双性文化 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
+    "tags": [
+      "inspire",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This letter expands on Laura Spinney's exploration of gender-egalitarian societies by highlighting overlooked biarchal traditions outside the Eurocentric framework. It presents compelling evidence of persistent biarchal cultures in North America, Africa, and Polynesia, challenging the narrative that patriarchy was the universal norm. The author emphasizes how colonialism systematically dismantled these systems, particularly through education and cultural suppression. The piece also draws a fascinating connection between biarchal societies and LGBTQ+ history, suggesting these cultures often revered gender-variant individuals. This perspective invites us to reconsider historical gender dynamics and the lingering effects of colonialism on contemporary gender norms.",
+    "summary_zh": "这封信扩展了劳拉·斯皮尼关于性别平等社会的探讨，指出了欧美中心主义视角之外被忽视的双性文化传统。作者提出北美、非洲和波利尼西亚等地存在持久的双性文化，挑战了父权制曾是普世规范的说法。文中强调殖民主义通过教育等方式系统性摧毁这些体系，并指出双性社会常尊崇跨性别者。这篇文章促使我们重新思考历史性别动态与殖民影响的持续效应。",
+    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
+    "best_quote_zh": "在男女平等受重视的社会里，兼具阳刚与阴柔特质的人往往受到崇敬。"
+  },
+  {
+    "id": 166,
+    "title": "Haters",
+    "title_zh": "Haters",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "Paul Graham's essay 'Haters' offers a profound psychological insight into the nature of online criticism. He draws a compelling parallel between obsessive fans ('fanboys') and obsessive haters, suggesting they're two sides of the same coin. Both groups project extreme, unrealistic images onto their subjects, with haters simply inverting the admiration. Graham argues that haters are typically unsuccessful individuals who can't reconcile someone else's fame with their perceived lack of talent, leading them to label successful people as 'frauds.' The essay's brilliance lies in its practical advice: recognizing haters as you would obsessive fans - as irrational forces best ignored. This perspective shifts the focus from trying to understand or appease haters to acknowledging their irrationality and moving on, a valuable lesson for anyone in the public eye.",
+    "summary_zh": "保罗·格雷厄姆的文章《Haters》深刻剖析了网络批评的心理学本质。他将狂热粉丝与狂热仇恨者并置比较，指出两者本质相同，只是情感极性相反。前者极端崇拜，后者极端仇视，都会在头脑中构建远离现实的形象。格雷厄姆认为，仇恨者通常是缺乏成就感的人，无法接受他人成功，只能以“骗子”来否定。文章的价值在于提供了实用建议：将仇恨者视同狂热粉丝，承认其非理性本质并选择忽视。这种视角帮助公众人物将精力从无谓的纠缠中解脱出来。",
+    "best_quote_en": "Haters are just fanboys with the sign switched.",
+    "best_quote_zh": "仇恨者就是符号反转的狂热粉丝。"
+  },
+  {
+    "id": 167,
+    "title": "The Persistent Pull of Planet Epstein",
+    "title_zh": "对“爱普斯坦星球”的持久吸引力",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This piece explores the shifting media landscape where establishment outlets are losing trust to alternative content creators who push conspiracy theories. The author examines how figures like Candace Owens build communities around narratives like those involving Jeffrey Epstein, creating a parallel 'Planet Epstein' that challenges mainstream journalism's assumptions. The analysis highlights how algorithm-driven platforms amplify these alternative views, making them more influential than traditional media. The piece also reflects on the historical parallels to Father Coughlin's radio broadcasts and the fracturing of public consensus in times of technological change. It raises critical questions about the future of media power and the erosion of trust in institutional journalism.",
+    "summary_zh": "这篇文章探讨了传统媒体信任度下降，而另类内容创作者推广阴谋论的新媒体格局。作者分析了坎达斯·欧文斯等人如何围绕爱普斯坦等叙事构建社群，形成挑战主流新闻假设的“爱普斯坦星球”。分析指出，算法驱动的平台放大了这些另类观点的影响力，使其超越传统媒体。文章还反思了历史上父亲考林神父广播的相似性，以及技术变革时期公众共识的分裂。它提出了关于媒体权力未来和机构新闻信任度侵蚀的关键问题。",
+    "best_quote_en": "But the question led me to another that is also worth asking: whether the establishment media and the algorithm upstarts are actually in competition with one another.",
+    "best_quote_zh": "但这个问题引出了另一个值得思考的问题：传统媒体和算法新贵是否真的在竞争？"
+  },
+  {
+    "id": 168,
+    "title": "Gar’s Tips & Tools – Issue #205",
+    "title_zh": "Gar’s Tips & Tools – 第205期",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
+    "tags": [
+      "solve",
+      "programming",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This edition of Gar’s Tips & Tools offers a delightful mix of practical DIY projects and insightful product reviews. The standout piece is the guide to building a desktop spray booth using affordable materials, emphasizing safety with explosion-proof fans. The cheap cordless rotary tool review reveals its niche usefulness despite limitations. Carpenter’s pencil pro tips dive deep into underrated tools, while the benchtop power supply guide is a beginner-friendly gem. The article also touches on quirky habits like battery rolling and features reader engagement. What makes this content compelling is its blend of hands-on experimentation and expert insights, making it valuable for both hobbyists and serious makers.",
+    "summary_zh": "本期内容涵盖实用DIY项目和产品评测，尤其值得关注的是用经济材料自制喷漆工作间的指南，强调安全性。便宜无刷电钻评测揭示了其特定用途价值。木工铅笔的专业技巧深入探讨了被低估的工具，而便携式电源指南适合初学者。文章还触及电池翻转等奇特习惯，并包含读者互动内容。这篇文章的魅力在于结合实际操作和专家见解，对爱好者和专业制作者都很有价值。",
+    "best_quote_en": "The beauty of using a fan like the Mounto is that it is guaranteed explosion-proof. Sparks are not your friend here, so you want to make sure you use a brushless-motor.",
+    "best_quote_zh": "使用Mounto风扇的好处在于它完全防爆。火花在这里不是你的朋友，所以一定要确保使用无刷电机。"
+  },
+  {
+    "id": 169,
+    "title": "Jakub and Szymon",
+    "title_zh": "雅库布和西蒙",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/jakub-and-szymon",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "This piece shines a spotlight on two unsung heroes of AI development, Jakub Pachocki and Szymon Sidor, whose groundbreaking work at OpenAI has pushed the boundaries of what's possible in artificial intelligence. The author emphasizes how their unique combination of research and engineering has solved problems deemed impossible by conventional wisdom, leading to significant advancements like the Dota result and GPT-4 pretraining. What makes their partnership particularly remarkable is their complementary skills and relentless work ethic. The commentary serves as a reminder of the human effort behind AI progress, encouraging readers to appreciate the ingenuity that powers these technological marvels.",
+    "summary_zh": "这篇文章聚焦于AI领域两位不为人知的英雄雅库布和西蒙，他们在OpenAI的突破性工作推动了人工智能的边界。作者强调，他们的研究与工程结合能力解决了被认为不可能的问题，并带来了像Dota比赛和GPT-4预训练这样的重大突破。特别值得称道的是他们互补的技能和不懈的工作热情。这篇评论提醒我们，AI进步的背后离不开人类的智慧，鼓励读者欣赏推动这些技术奇迹的创新力量。",
+    "best_quote_en": "There are two people I'd like to mention that OpenAI would not be OpenAI without: Jakub Pachocki and Szymon Sidor.",
+    "best_quote_zh": "我想提到两个人，没有他们就没有OpenAI：雅库布·帕霍茨基和西蒙·西多尔。"
   }
 ]
