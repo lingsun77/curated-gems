@@ -373,7 +373,7 @@ button:hover {
 }
 
 .clear-btn {
-    background: linear-gradient(135deg, #a25e57 0%, #e47164 100%) !important;
+   linear-gradient(135deg, #a25e57 0%, #514746 100%) !important
 }
 
 .clear-btn:hover {
