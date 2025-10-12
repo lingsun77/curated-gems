@@ -1,115 +1,5 @@
 [
   {
-    "id": 70,
-    "title": "Mailbag #2",
-    "title_zh": "读者来信 #2",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2021/04/mailbag-2.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "education"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "教育学习"
-    ],
-    "date": "2021-04-14",
-    "summary_en": "This 'Mailbag' entry from Wait But Why is a delightfully eclectic Q&A, showcasing the author's signature blend of deep thought, whimsical speculation, and relatable self-deprecation. It tackles a wide array of topics, from the scientific (e.g., visualizing germs, the total mass of bacteria on Earth) to the philosophical (e.g., reconciling admiration for flawed individuals, the nature of consciousness) and the personal (e.g., travel experiences, daily habits, views on advertising). What truly stands out is the author's intellectual honesty and ability to inject humor and profound insights into seemingly mundane questions. The piece doesn't just answer questions; it opens up new avenues for thought, encouraging readers to question assumptions and explore the world with curiosity. It's a testament to the power of engaging discourse and the unique value of a writer who isn't afraid to be vulnerable and explore the absurd.",
-    "summary_zh": "这篇“读者来信”是作者思想深度与奇思妙想的独特融合，从科学、哲学到个人习惯，无所不包。最打动我的是作者的真诚和幽默感，他不仅仅是回答问题，更是在开启一场思维的探索之旅。文章鼓励我们质疑既有观念，以好奇心拥抱世界，展现了深度对话的价值。读完让人不禁反思，一个有思想且敢于展现脆弱的作者，其文字何以如此引人入胜，让人在轻松愉悦中收获启发。",
-    "best_quote_en": "The pessimistic part of my brain, looking at reality, makes a sad face and pats the optimistic part of my brain on the head. The optimistic part of my brain, remembering how bad humans are at intuitively understanding exponential growth, pats the pessimistic part of my brain on the head.",
-    "best_quote_zh": "我大脑中悲观的那部分，看着现实，伤心地拍了拍我大脑中乐观的那部分。我大脑中乐观的那部分，想起人类在直观理解指数增长方面有多么糟糕，拍了拍我大脑中悲观的那部分。"
-  },
-  {
-    "id": 71,
-    "title": "‘Too many women choose death over divorce’: the Indian retreats taking the shame out of separation",
-    "title_zh": "“许多女性宁愿选择死亡而非离婚”：印度疗养营正在消除离婚的耻辱",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/aug/29/women-divorce-indian-retreats-camps-marriage-domestic-violence",
-    "tags": [
-      "analyze",
-      "society",
-      "science"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究"
-    ],
-    "date": "2025-08-29",
-    "summary_en": "This compelling article sheds light on a groundbreaking initiative in India: 'divorce camps' founded by Rafia Afi, which aim to destigmatize separation and provide a supportive community for women. It critically examines the societal pressures in India that often force women to remain in abusive marriages, highlighting the alarming statistic of domestic violence. The camps offer a safe space for healing, legal advice, and financial independence discussions, fostering a sense of sisterhood and empowerment. What truly resonates is the article's emphasis on transforming the narrative around divorce from shame to courage, offering a beacon of hope and practical solutions for women navigating challenging life transitions. It's a powerful story of resilience and community building.",
-    "summary_zh": "这篇文章深刻揭示了印度女性在离婚上面临的巨大社会压力和耻辱感。拉菲亚·阿菲创办的“离婚营”不仅提供了一个疗愈和支持的社群，更重要的是，它挑战了根深蒂固的文化观念，将离婚从“失败”转化为“勇敢的开始”。我被这种打破沉默、赋能女性的行动深深打动，这不仅是关于个人选择，更是对社会结构性压迫的反抗。它提醒我们，真正的自由往往始于自我价值的重新定义。",
-    "best_quote_en": "Society romanticises silent suffering, and that’s dangerous. I want to change that narrative.",
-    "best_quote_zh": "社会将默默承受痛苦浪漫化，这是危险的。我想要改变这种叙事。"
-  },
-  {
-    "id": 72,
-    "title": "Fierce Nerds",
-    "title_zh": "凶猛的极客",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fn.html",
-    "tags": [
-      "inspire",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-09-13",
-    "summary_en": "This essay provocatively redefines the 'nerd' archetype, introducing the 'fierce nerd' – a competitive, independent-minded, overconfident, and intelligent individual. It argues that these seemingly abrasive qualities, often misunderstood in social settings, are in fact powerful drivers of success, particularly in scientific breakthroughs and modern business. The author uses historical examples like Watson and Crick to illustrate how impatience and a disregard for social niceties can accelerate problem-solving. A key insight is the transformation of power from 'dealmakers' to 'technicians,' suggesting that fierce nerds are increasingly monopolizing significant achievements. The piece also offers a crucial warning: unchanneled fierceness can lead to bitterness, advocating ambitious projects as an antidote. It’s a compelling exploration of how unconventional traits, when properly directed, become potent assets in an evolving world.",
-    "summary_zh": "这篇文章对“极客”的刻板印象进行了颠覆性重塑，提出了“凶猛的极客”这一概念。作者指出，竞争性强、独立思考、过度自信和高智商这些特质，在传统社交场合可能显得格格不入，但在解决复杂问题和商业成功中却是强大的驱动力。我尤其认同其对“力量从交易者转向技术人员”的洞察，这精准捕捉了时代趋势。同时，文章也警示，若不善加引导，这种“凶猛”可能转化为怨恨，因此投身宏大项目至关重要。这不仅是对极客群体的重新审视，更是对现代成功要素的深刻思考，令人茅塞顿开。",
-    "best_quote_en": "The good news is that your fierceness will be a great help in solving difficult problems. And not just the kind of scientific and technical problems that nerds have traditionally solved. As the world progresses, the number of things you can win at by getting the right answer increases.",
-    "best_quote_zh": "好消息是，你的凶猛将极大地帮助你解决难题。而且不只是极客传统上解决的那种科学技术问题。随着世界的发展，通过找到正确答案而能获胜的事情越来越多。"
-  },
-  {
-    "id": 73,
-    "title": "The Dutch are Working Four Days a Week",
-    "title_zh": "荷兰人每周工作四天",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/2MK3ynj9qSmcH637J/the-dutch-are-working-four-days-a-week",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-09-13",
-    "summary_en": "This article provocatively examines the Dutch phenomenon of widespread four-day workweeks, driven by individual choices for part-time employment rather than systemic failures. It intelligently juxtaposes libertarian perspectives, which champion personal freedom in work-life balance, against progress studies arguments that highlight the potential long-term economic drag of reduced working hours on GDP growth. The piece raises crucial questions about government policy's role in shaping labor markets, particularly regarding part-time work. It further delves into a fascinating distinction between jobs that enhance productivity (like scientific research) versus those that merely contribute to current output (like assembly line work), suggesting a nuanced approach to policy might be necessary. This analysis compels one to reconsider conventional notions of economic progress and individual well-being, prompting a deeper inquiry into the societal implications of work culture.",
-    "summary_zh": "这篇文章探讨了荷兰普遍存在的每周四天工作制，这不仅仅是个人选择，更引出了深刻的政策和社会哲学讨论。它巧妙地对比了自由主义者对工作自由的推崇与进步研究者对经济增长放缓的担忧，让我不禁思考：我们究竟应该优先追求个人福祉还是集体经济效率？文中对不同类型工作对生产力增长贡献的区分，更是对传统劳动价值论的挑战，促使我们重新审视政府在塑造未来工作模式中的角色，以及如何平衡短期满足与长期发展。",
-    "best_quote_en": "Progress studies people would point out that GDP growth decreased by, say, 1% over 100 years will leave people in the resulting economy almost three times poorer.",
-    "best_quote_zh": "进步研究者会指出，GDP增长在100年内下降1%，将导致未来经济中的人们贫穷近三倍。"
-  },
-  {
-    "id": 74,
-    "title": "The Intertwined Legacies of Rupert Murdoch and Donald Trump",
-    "title_zh": "鲁珀特·默多克与唐纳德·特朗普交织的遗产",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-intertwined-legacies-of-rupert-murdoch-and-donald-trump",
-    "tags": [
-      "learn",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "This article delves into the complex, often contradictory, yet persistently mutually beneficial relationship between media mogul Rupert Murdoch and former President Donald Trump. It examines recent events, including the Wall Street Journal's Epstein reporting and the resolution of Murdoch's family succession battle, to illuminate the dynamics of their intertwined legacies. The author critically analyzes how Murdoch, despite occasional public disagreements and internal skepticism, consistently leveraged Trump's popularity to advance his media empire's right-wing agenda, particularly through Fox News. Conversely, Trump benefited immensely from Murdoch's vast media platform. The piece thoughtfully explores Murdoch's strategic flexibility, his perceived underestimation of his own power, and the profound political implications of his decision to secure Lachlan's conservative control over the empire, suggesting that Murdoch is not just living, but planning to die, in Trump's world. It's a fascinating look at media influence and political power.",
-    "summary_zh": "本文深入剖析了媒体大亨默多克与特朗普之间复杂而互惠的关系。作者通过《华尔街日报》的爱泼斯坦报道和默多克家族继承战的终结等近期事件，揭示了他们遗产交织的动态。默多克表面上的矛盾与私下的怀疑，最终都服务于其媒体帝国右翼议程的推进，而特朗普则受益于默多克的媒体平台。文章尤其引人深思的是，默多克为何看似低估自身影响力，却又执意将帝国交予保守派之手，这不仅是商业决策，更是对政治未来的一种深刻押注。我从中看到，即便是在媒体巨头眼中，个人意志与时代洪流的交锋也远比我们想象的更为曲折。",
-    "best_quote_en": "Their relationship, ultimately, deserves to be remembered not as one of occasional antagonism but one of persistent mutual benefit. Not that we’ve necessarily seen the season finale just yet.",
-    "best_quote_zh": "他们的关系，最终值得被记住的不是偶尔的对抗，而是持续的互惠互利。这并不意味着我们已经看到了季终集。"
-  },
-  {
     "id": 75,
     "title": "The Trump-Biden Debate",
     "title_zh": "特朗普-拜登辩论",
@@ -2286,5 +2176,123 @@
     "summary_zh": "这篇文章聚焦于AI领域两位不为人知的英雄雅库布和西蒙，他们在OpenAI的突破性工作推动了人工智能的边界。作者强调，他们的研究与工程结合能力解决了被认为不可能的问题，并带来了像Dota比赛和GPT-4预训练这样的重大突破。特别值得称道的是他们互补的技能和不懈的工作热情。这篇评论提醒我们，AI进步的背后离不开人类的智慧，鼓励读者欣赏推动这些技术奇迹的创新力量。",
     "best_quote_en": "There are two people I'd like to mention that OpenAI would not be OpenAI without: Jakub Pachocki and Szymon Sidor.",
     "best_quote_zh": "我想提到两个人，没有他们就没有OpenAI：雅库布·帕霍茨基和西蒙·西多尔。"
+  },
+  {
+    "id": 170,
+    "title": "觉得时间过得越来越快？也许是大脑在提醒你慢下来",
+    "title_zh": "觉得时间过得越来越快？也许是大脑在提醒你慢下来",
+    "source": "L先生说",
+    "link": "https://mp.weixin.qq.com/s/SLhMG5cddr3MVpsX_9PEwA",
+    "tags": [
+      "inspire",
+      "psychology",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This article explores the psychological phenomenon of time perception accelerating as we age. The author presents the fascinating concept that our brains store time memories not by duration but by significant events. New and important experiences create stronger memory anchors, making time seem to pass more slowly. As we grow older, routine reduces novelty, causing our brains to compress time. The piece offers practical strategies to combat this effect, such as creating new experiences, keeping a journal, taking on challenges, and practicing mindfulness. It's a thoughtful examination of how we can reclaim a sense of time's passage and enrich our lives.",
+    "summary_zh": "文章探讨了随着年龄增长，时间流逝感加快的心理现象。作者提出大脑通过重要事件存储时间记忆的观点，新鲜和重要的经历能让时间感知更悠长。日常生活的重复性导致大脑压缩时间记忆。文章建议通过创造新体验、记录生活细节、挑战自我和沉浸感受等方式对抗时间加速效应。这是一篇值得深思的心理学分析，帮助我们找回对时间的感知力。",
+    "best_quote_en": "The more novel experiences you have, the longer time will seem to pass. Conversely, the more routine your life becomes, the faster time will fly by.",
+    "best_quote_zh": "拥有越多新奇的经历，时间会显得越悠长；反之，生活越单调重复，时间就会飞逝而过。"
+  },
+  {
+    "id": 171,
+    "title": "‘I have searched and searched for help’: the Sudanese women left alone to live hand to mouth in Chad’s desert camps",
+    "title_zh": "“我四处寻求帮助”：查德沙漠营地里孤独谋生的苏丹妇女",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/oct/08/aid-cuts-sudanese-refugees-chad-malnutrition-healthcare",
+    "tags": [
+      "analyze",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This harrowing report exposes the dire conditions faced by Sudanese refugees, particularly women and children, in Chad's remote desert camps. With 86% of refugees being women and children, the article highlights the severe lack of medical care, food, and water, exacerbating maternal mortality and malnutrition. The narrative follows individuals like Makka Ibraheem Mohammed, who endured a life-threatening childbirth due to delayed medical attention, and Suhayba Abdullah Abubakar, whose malnourished infant requires nasal feeding. The article underscores the broader humanitarian crisis, driven by aid cuts and the ongoing war in Sudan, painting a bleak picture of survival and resilience amidst profound hardship.",
+    "summary_zh": "这篇文章揭露了苏丹难民，特别是妇女和儿童，在查德偏远沙漠营地中面临的恶劣条件。86%的难民是妇女和儿童，文章突出了医疗、食物和水源的极度匮乏，加剧了产妇死亡率和营养不良。文章追踪了像Makka Ibraheem Mohammed这样的个人，她因延误的医疗救助经历了危及生命的分娩，以及Suhayba Abdullah Abubakar，其营养不良的婴儿需要通过鼻饲喂养。文章强调了由援助削减和苏丹持续战争引发的人道主义危机，描绘了在深重困苦中求生和坚韧的黯淡图景。",
+    "best_quote_en": "Imagine being nine months pregnant, in labour, and travelling hours on a cart pulled by a donkey to get to a hospital.",
+    "best_quote_zh": "想象一下，怀孕九个月，临产时，坐着骡车行驶数小时去医院。"
+  },
+  {
+    "id": 172,
+    "title": "The Two Kinds of Moderate",
+    "title_zh": "两种温和派",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mod.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This insightful essay explores the distinction between intentional and accidental political moderates. Intentional moderates deliberately position themselves in the middle, while accidental moderates end up there through independent thinking. The author argues that accidental moderates show true intellectual courage by resisting ideological conformity and thinking independently about each issue. The piece highlights how ideological thinking on both extremes leads to predictable opinion patterns, while accidental moderates display a more nuanced and independent perspective. The author suggests that in fields dealing with ideas, being an accidental moderate is essential for excellence, as ideological rigidity can hinder genuine intellectual progress.",
+    "summary_zh": "这篇文章深刻探讨了两种政治温和派：有意的温和派和无意的温和派。有意的温和派刻意站在中间立场，而无意的温和派通过独立思考自然落在中间。作者认为无意的温和派展现了真正的勇气，敢于抵制意识形态束缚，独立思考每个问题。文章指出，极端意识形态导致观点可预测，而无意的温和派呈现出更复杂的独立视角。作者认为在处理思想领域，成为无意的温和派是取得卓越成就的关键，因为意识形态僵化会阻碍真正的智力进步。",
+    "best_quote_en": "Accidental moderates, on the other hand, not only choose their own answers, but choose their own questions. They may not care at all about questions that the left and right both think are terribly important.",
+    "best_quote_zh": "无意的温和派不仅选择自己的答案，还选择自己的问题。他们可能根本不关心左派和右派都认为非常重要的问题。"
+  },
+  {
+    "id": 173,
+    "title": "Why Hamas Agreed to Release the Hostages",
+    "title_zh": "哈马斯同意释放人质的原因",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-hamas-agreed-to-release-the-hostages",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This insightful Q&A with Khaled Elgindy explores the complex factors behind Hamas's decision to release hostages, revealing how geopolitical pressures, internal weakening, and international dynamics shaped their strategy. The conversation highlights Hamas's shifting calculations, from initial willingness to compromise to accepting a lopsided deal under U.S. and Arab state pressure. Elgindy argues that while Hamas's immediate goals may have been modest, the October 7th attack had unintended consequences that shattered Israel's sense of security and reignited global attention on the Palestinian issue. The piece also examines the long-term implications for Gaza's future, questioning whether reconstruction and stability are possible given the devastation. Perhaps most compelling is the discussion of how this conflict has radicalized a global generation, potentially reshaping future political landscapes.",
+    "summary_zh": "与哈马斯释放人质的复杂决策有关的深刻见解，揭示了地缘政治压力、内部削弱和国际动态如何塑造了他们的战略。对话突显了哈马斯从最初愿意妥协到在美、阿拉伯国家压力下接受不平等协议的转变。埃尔金迪认为，尽管哈马斯的直接目标可能是有限的，但10月7日袭击产生了意想不到的后果，打破了以色列的安全感，并重新引起了全球对巴勒斯坦问题的关注。文章还探讨了加沙未来的长期影响，质疑在毁灭性破坏后重建和稳定是否可能。最引人深思的是，这一冲突如何激进化了全球一代人，可能重塑未来的政治格局。",
+    "best_quote_en": "You now have an entire generation... that has been politicized, if not actually radicalized, by Gaza. They cannot unsee the things that they have seen over the last two years.",
+    "best_quote_zh": "现在有一整代人... 因加沙而被政治化，如果不是被激进化的话。他们无法忘记过去两年所看到的一切。"
+  },
+  {
+    "id": 174,
+    "title": "Size of Africa/Office Mandate Realities/Cheaper Mexico Flights",
+    "title_zh": "非洲的真实大小/办公室强制返岗的现实/墨西哥便宜机票",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/size-of-africa-office-mandate-realities-cheaper-mexico-flights/",
+    "tags": [
+      "update",
+      "politics",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This article presents three distinct but interconnected insights about global realities. First, it highlights the misconceptions about Africa's size through compelling visual comparisons. Second, it exposes the disconnect between corporate return-to-office mandates and actual employee compliance, offering resources for remote work alternatives. Finally, it reveals a smart travel hack for cheaper flights to Mexico via Cancun. The piece blends geographical education, workplace trends, and travel advice, showing how government dysfunction can impact travel logistics. It's a thought-provoking mix of global awareness, career flexibility options, and practical travel tips.",
+    "summary_zh": "这篇文章包含三个不同但相关的全球现实洞察。首先，它通过生动的可视化比较揭示了人们对非洲大小的误解。其次，它揭示了企业强制返岗与员工实际遵守率之间的差距，并提供了远程工作的替代方案资源。最后，它揭示了通过坎昆中转飞往墨西哥的便宜机票技巧。文章融合了地理教育、工作趋势和旅行建议，展示了政府功能失调如何影响旅行物流。这是一篇兼具全球意识、职业灵活性选项和实用旅行技巧的思考性内容。",
+    "best_quote_en": "While required office time increased by 12% from 2024 to 2025, actual office attendance only increased by 1-3%.",
+    "best_quote_zh": "从2024年到2025年，要求的办公时间增加了12%，但实际的办公室出勤率仅增加了1-3%。"
   }
 ]
