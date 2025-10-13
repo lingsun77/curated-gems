@@ -1,113 +1,5 @@
 [
   {
-    "id": 80,
-    "title": "The Big and the Small",
-    "title_zh": "大与小",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/09/universe.html",
-    "tags": [
-      "inspire",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2020-09-22",
-    "summary_en": "This article from Wait But Why introduces 'Universe in a Nutshell,' an app developed in collaboration with Kurzgesagt. It recounts the origin story of this partnership, born from a shared fascination with visualizing the scale of the universe. The author, known for his deep dives into complex topics, describes the app as an 'impossibly large' and 'high-resolution' interactive wall showcasing 250 objects with 30,000+ words of explanation. What's truly insightful is the emphasis on experiencing a 'mind-blow effect' by understanding these objects exist on a single 2D plane, challenging our perception of scale. It's a testament to the power of creative collaboration in making abstract scientific concepts engaging and accessible, inviting users into a 'brain playground' that promises continuous evolution.",
-    "summary_zh": "这篇Wait But Why的文章介绍了一款与Kurzgesagt合作开发的名为“Universe in a Nutshell”的应用程序。它讲述了这段合作的缘起，源于对宇宙尺度可视化共同的着迷。作者将这款应用描述为一个“大得不可思议”且“高分辨率”的互动墙，展示了250个物体及三万多字的解释。最有意思的是，文章强调通过理解这些物体都存在于同一个二维平面上，来体验一种“震撼心灵”的效果，挑战我们对尺度的固有认知。这不仅是跨界合作的典范，也让我反思，如何能将深奥的科学概念以如此引人入胜的方式呈现给大众，激发更广泛的求知欲。",
-    "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
-    "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是这样，是因为你的大脑拒绝接受你所看到的实际尺寸的疯狂。通过反复提醒自己，所有这些物体都“画”在同一个二维墙上，你或许会体验到一些有趣的、令人脑洞大开的时刻。"
-  },
-  {
-    "id": 81,
-    "title": "中国脱口秀演员，她是独一份",
-    "title_zh": "中国脱口秀演员，她是独一份",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/NQv6ozU-rntLi8_l0UrOQA",
-    "tags": [
-      "learn",
-      "psychology",
-      "science"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "科学研究"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "This article offers a profound and intimate look into the life and art of Chinese stand-up comedian Chen Ai, who challenges societal norms and conventional comedy. It delves into her struggles with mental illness, her unique 'hellish humor' style, and her journey of self-acceptance through stand-up. The piece highlights her unconventional approach, where comedy serves not just as performance but as a deeply personal coping mechanism and a platform to advocate for marginalized groups. It provocatively questions societal definitions of 'normalcy' and 'success,' celebrating the raw, unfiltered expression of a life lived on the fringes. The narrative is deeply reflective, inviting readers to reconsider their perceptions of vulnerability, strength, and the healing power of authentic self-expression, even when it's uncomfortable.",
-    "summary_zh": "这篇文章深入剖析了脱口秀演员陈艾的独特人生与艺术，她以“地狱笑话”挑战主流，将个人精神困境转化为舞台力量。陈艾的脱口秀不仅是表演，更是她疗愈自我、对抗社会偏见的途径。文章引人深思，何谓“正常”？何谓“成功”？她拒绝被定义，用最真实、甚至“疯癫”的方式，为边缘群体发声。这不仅是对一位喜剧人的观察，更是对生命韧性与自我接纳的深刻探讨，让人在不适中感受到一种强大的生命力。",
-    "best_quote_en": "I don't want to be pitied. I'm actually quite wild in private, but the show didn't edit it in. I don't know what's wrong with me, but I feel like since the world is already like this, I don't need to abide by anything. Being crazy makes me feel alive.",
-    "best_quote_zh": "我不想让别人同情我。我私下挺疯的，只是节目组没有剪出来。我也不知道自己怎么了，反正觉得世界都已经这样了，我就没必要遵守什么，发疯让我有活着的感觉。"
-  },
-  {
-    "id": 82,
-    "title": "对话 - 她说：这次，我自己来发牌",
-    "title_zh": "对话 - 她说：这次，我自己来发牌",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/-RcxUxVCOXt-RvoEMJbWsA",
-    "tags": [
-      "solve",
-      "society",
-      "education"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "This article beautifully captures the journey of Silver, a 21-year-old navigating complex life choices after achieving a dream university admission abroad, only to face family skepticism. Her story highlights the universal struggle between societal expectations and personal authenticity, as she grapples with academic paths, financial independence, and the courage to live by her own values. The narrative, enriched by the author's insightful reflections, explores themes of self-discovery through unconventional experiences like community living and the pursuit of creative expression. It’s a poignant exploration of how one young woman seeks to redefine success on her own terms, embracing uncertainty while actively shaping her future, moving from external validation to internal conviction. Her journey underscores the profound importance of self-trust and the relentless pursuit of an authentic life, even when it means 'dealing her own cards' in the game of life.",
-    "summary_zh": "Silver的故事引人深思，一个21岁的女孩，在家庭不解、学业困惑和经济压力下，勇敢地选择了一条“自己发牌”的人生路。她的挣扎与成长，折射出当下年轻人普遍面临的自我认同与外部期待的冲突。我特别欣赏她从“表演式生活”走向“按价值观生活”的觉醒，以及在不确定中坚持创作和自我教育的韧性。这不仅仅是一个关于选择的故事，更是一个关于如何在外界噪音中找到内心声音、构建个人意义的深刻探索，充满了真诚与力量。",
-    "best_quote_en": "Life is a card game, and I'm still at the table. It's just not time to play my cards yet. Discarding cards is as important as choosing them. I'm waiting for a straight flush worth going all in for.",
-    "best_quote_zh": "人生牌局，我仍然在场。只是这次，我自己来发牌。"
-  },
-  {
-    "id": 83,
-    "title": "I spent months testing insomnia cures – then grieving for a pet made sleep impossible",
-    "title_zh": "我花了好几个月测试失眠疗法——然后为宠物哀悼让我无法入睡",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/sep/19/i-spent-months-testing-insomnia-cures",
-    "tags": [
-      "analyze",
-      "psychology",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "AI研究"
-    ],
-    "date": "2025-09-22",
-    "summary_en": "This deeply personal reflection explores the profound impact of grief on sleep, even after extensive testing of various insomnia cures. The author, having meticulously evaluated sleep aids, finds that the emotional turmoil following her cat Iggy's death renders all previous solutions ineffective. It highlights the often-underestimated psychological dimension of sleep disturbances, suggesting that no physical remedy can truly address the pain of loss. The narrative beautifully intertwines practical product reviews with raw vulnerability, offering a poignant reminder that human (and pet) connection is sometimes the most potent, yet most fragile, sleep aid of all. It makes me ponder how much of our physical well-being is intrinsically linked to our emotional state.",
-    "summary_zh": "这篇文章深入探讨了失去宠物后，悲伤如何让睡眠变得不可能，即使作者之前尝试了无数失眠疗法。它让我思考，原来再多的物理助眠产品，也无法抵挡心底的巨大悲痛。作者与猫咪Iggy的深厚情感，以及失去它后那种刻骨铭心的失眠体验，让我真切感受到情感对生理的强大影响。这不仅仅是关于失眠，更是关于爱、失去与疗愈，提醒我们心理健康在生活中的核心地位。",
-    "best_quote_en": "A magnesium bath is physiologically calming, but the memory of Iggy playing with my hair while I soaked in the bath powerfully overrode it with a slap of sleep deprivation.",
-    "best_quote_zh": "镁浴在生理上是镇静的，但Iggy在我泡澡时玩弄我头发的记忆，却以失眠的打击有力地压倒了它。"
-  },
-  {
-    "id": 84,
-    "title": "How People Get Rich Now",
-    "title_zh": "人们现在如何致富",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/richnow.html",
-    "tags": [
-      "learn",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "未来预测"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "This insightful analysis meticulously deconstructs the evolution of wealth creation in America, contrasting the sources of riches in 1982 with those in 2020. The author compellingly argues that while inheritance and resource extraction dominated in the past, today's fortunes are overwhelmingly built through starting tech companies and savvy investment management. What truly fascinates me is the historical perspective offered, revealing that the current era of entrepreneurial wealth creation is not an anomaly but a return to a pre-20th-century norm, disrupted by the rise of corporate oligopolies. The piece effectively challenges conventional wisdom about economic inequality, suggesting that the increasing Gini coefficient might be a natural outcome of more individuals creating highly valuable, fast-growing companies. It's a thought-provoking read that recontextualizes modern economic trends and offers a fresh lens on entrepreneurial opportunity.",
-    "summary_zh": "这篇文章深度剖析了美国财富创造方式的变迁，对比了1982年与2020年的致富路径。作者有力地论证，如今的财富主要来源于创办科技公司和精明投资，而非过去的继承或资源开采。令我着迷的是，文章指出当前创业致富并非反常，而是回归到20世纪前的常态，只是被一度出现的企业寡头垄断所打断。它挑战了我们对经济不平等的传统看法，提出基尼系数的上升，或许是更多人通过创立高价值、快速增长的公司而致富的必然结果。这篇分析重新定义了现代经济趋势，为理解创业机遇提供了新视角，值得深思。",
-    "best_quote_en": "But if you dig into how they got rich, the old days don't look so good. In 1982, 84% of the richest 100 people got rich by inheritance, extracting natural resources, or doing real estate deals. Is that really better than a world in which the richest people get rich by starting tech companies?",
-    "best_quote_zh": "但如果你深入探究他们是如何致富的，旧时代看起来并没有那么美好。1982年，百位富豪中有84%是通过继承、开采自然资源或房地产交易致富的。这真的比一个最富有的人通过创办科技公司致富的世界更好吗？"
-  },
-  {
     "id": 85,
     "title": "Munich, Bavaria \"If Anyone Builds It\" reading group",
     "title_zh": "慕尼黑，巴伐利亚 “如果有人建造” 阅读小组",
@@ -2298,5 +2190,119 @@
     "summary_zh": "Colby Black的《我的现在里有什么？》结合了个人经验和实用工具，展现了提升效率和生活管理的智慧。从解决具体问题的物理工具到数字生产力应用，内容贴近生活实际。",
     "best_quote_en": "Never let short term greed get in the way of long term greed.",
     "best_quote_zh": "不要让短期的贪婪妨碍长期的贪婪。"
+  },
+  {
+    "id": 180,
+    "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
+    "title_zh": "全球健康研究警告：青少年死亡率成为新兴危机",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "The study reveals a disturbing trend of rising death rates among teenagers and young adults despite overall global health improvements. While life expectancy has increased to 76.3 years for women and 71.5 for men, regional disparities persist, with sub-Saharan Africa lagging significantly. The crisis is driven by different factors across regions - substance abuse and mental health issues in North America, and infectious diseases in Africa. The study highlights preventable causes behind half of the world's disease burden, urging governments to address these emerging public health challenges strategically. The findings also emphasize the need for integrated healthcare approaches and stronger youth-centered public health investments, particularly in low-income regions facing funding cuts.",
+    "summary_zh": "尽管全球整体健康状况改善，但研究揭示青少年和年轻人死亡率上升的令人担忧趋势。尽管女性预期寿命达76.3岁，男性为71.5岁，但地区差异显著，撒哈拉以南非洲落后明显。北美因物质滥用和心理健康问题死亡率上升，非洲则因传染病引发。研究指出，半数疾病可通过减少高血压、空气污染等风险预防。呼吁政府战略应对这些新兴公共卫生挑战，并强调需要整合医疗体系和青年中心的公共卫生投资，尤其是面临资金削减的低收入地区。",
+    "best_quote_en": "The evidence presented in the Global Burden of Disease study is a wake-up call, urging government and healthcare leaders to respond swiftly and strategically to the disturbing trends that are reshaping public health needs.",
+    "best_quote_zh": "全球疾病负担研究呈现的证据是一次警醒，促使政府和医疗领导者迅速、战略性地应对重塑公共卫生需求的令人不安趋势。"
+  },
+  {
+    "id": 181,
+    "title": "Having Kids",
+    "title_zh": "有孩子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/kids.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "The author's perspective on parenthood undergoes a profound transformation from dread to deep appreciation. Initially viewing parents as uncool and children as terrifying, their experience of having children reveals unexpected joys and meaningful connections. The essay explores how chemical changes, selection bias in observations, and misconceptions from their own childhood shaped their preconceived notions. While acknowledging the challenges of reduced productivity and shifted priorities, the author finds that the quality and frequency of happy moments with children surpass their pre-parenthood life. The piece serves as both a personal reflection and a broader commentary on the universal experience of parenthood.",
+    "summary_zh": "作者对为人父母的看法从恐惧到深深欣赏。最初认为父母不酷，孩子可怕，有了孩子后却发现意外的欢乐和深刻的联系。文章探讨了化学变化、观察偏差和童年经历如何塑造了其偏见。虽承认孩子会降低生产力和改变优先级，但作者发现和孩子相处的幸福时刻比未育时更多更深刻。这既是个人反思，也是对普遍育儿体验的深刻观察。",
+    "best_quote_en": "I feel like they just got the best gift in the world.",
+    "best_quote_zh": "我觉得他们得到了世界上最好的礼物。"
+  },
+  {
+    "id": 182,
+    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
+    "title_zh": "人口中的亚线性效用及其他不常见的功利主义",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This post explores an unconventional perspective on utilitarianism, arguing that utility is bounded and sublinear in population size while being superlinear or linear in practical ranges. The author presents thought experiments about duplicate simulations and slightly varied simulations to illustrate their point. They suggest that the value comes from observation rather than existence itself. The discussion extends to different species, noting that the value space for post-humans is vastly different from humans and shrimp. The post challenges classical effective altruism (EA) approaches, particularly in valuing lives of different species differently. The author's perspective is thought-provoking, offering a nuanced view on moral philosophy and utility.",
+    "summary_zh": "这篇文章探讨了功利主义的非传统观点，提出效用在人口规模上的界限是亚线性的，但在实际范围内是超线性或线性的。作者通过重复模拟和略有差异的模拟实验来阐述观点，认为价值来自观察而非存在本身。讨论延伸到不同物种，指出后人类、人类和虾的价值空间差异巨大。该文章挑战了经典有效利他主义（EA）的方法，特别是对不同物种生命价值的不同评估。作者的观点发人深省，为道德哲学和效用提供了独特的视角。",
+    "best_quote_en": "The value in simulations of people and their worlds comes from newly being able to observe those worlds, not from bringing them into existence in the first place.",
+    "best_quote_zh": "模拟人类及其世界的价值在于新获得的观察能力，而非将其带入存在本身。"
+  },
+  {
+    "id": 183,
+    "title": "The Indictment of Letitia James and the Collapse of Impartial Justice",
+    "title_zh": "莱蒂西娅·詹姆斯被起诉与公正司法的崩溃",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-indictment-of-letitia-james-and-the-collapse-of-impartial-justice",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "The article critically examines the indictment of New York Attorney General Letitia James, arguing it represents a dangerous politicization of the justice system. It highlights the selective prosecution of political enemies by the Trump administration, contrasting this with the Supreme Court's granting of near-complete immunity to presidents. The case against James, for relatively minor mortgage fraud, is seen as unprecedented and politically motivated. Legal experts note the charges are weak and rarely prosecuted, suggesting this is retaliatory action rather than genuine justice. The piece warns of the erosion of impartial justice and the dangerous precedent of using legal systems for political revenge.",
+    "summary_zh": "文章严厉批评纽约州总检察长莱蒂西娅·詹姆斯被起诉一事，认为这反映了司法体系的政治化。分析指出特朗普政府针对政治对手的选择性起诉，与最高法院赋予总统近乎完全的刑事豁免权形成鲜明对比。针对詹姆斯的轻微抵押贷款欺诈指控被认为前所未有且动机不明。法律专家指出此类指控证据薄弱且罕见起诉，暗示这属于政治报复而非正义执行。文章警示司法公正的侵蚀和利用法律系统进行政治复仇的危险先例。",
+    "best_quote_en": "The essence of impartial justice is treating like conduct alike—not identifying the target and then finding the crime.",
+    "best_quote_zh": "司法公正的本质在于对同类行为同等对待，而非先锁定目标再寻找罪名。"
+  },
+  {
+    "id": 184,
+    "title": "Favorite T-shirts/Design inspiration/How to become wiser",
+    "title_zh": "我的最爱T恤/设计灵感/如何变得更聪明",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/favorite-t-shirts-design-inspiration-how-to-become-wiser/",
+    "tags": [
+      "solve",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This eclectic collection offers a mix of practical recommendations and thought-provoking content. The T-shirt recommendation provides actionable advice for those seeking comfortable clothing, while the design inspiration delves into traditional Japanese packaging, offering a historical perspective on sustainable design. The 25 questions for self-reflection provide a valuable tool for personal growth, organized around perspective, self-examination, and compassion. The internet speed test and offline church recommendations cater to different needs, from practical tech solutions to mindfulness. The digital artists section introduces readers to innovative art forms that blend technology and creativity, challenging conventional visual norms. Together, these pieces create a mosaic of useful information and inspirational ideas.",
+    "summary_zh": "这篇文章集合了实用推荐与深刻思考，从舒适T恤的购买建议到日本传统包装设计的历史视角，再到25个自我反思的问题，涵盖了个人成长的多个维度。互联网速度测试和线下教堂的推荐满足了不同需求，而数字艺术家的介绍则展现了科技与创意的融合，挑战了传统的视觉规范。整体上，这篇文章构建了一个实用信息与启发性思想的丰富画卷。",
+    "best_quote_en": "This thick book with two hundred examples is one that I return to often. The beauty never gets old.",
+    "best_quote_zh": "这本包含两百个例子的厚书是我经常翻阅的。这种美永不褪色。"
   }
 ]
