@@ -1,109 +1,5 @@
 [
   {
-    "id": 90,
-    "title": "Can Liberalism Be Saved?",
-    "title_zh": "自由主义能得救吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/can-liberalism-be-saved",
-    "tags": [
-      "learn",
-      "politics",
-      "society"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "社会议题"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "Cass Sunstein's defense of liberalism in 'On Liberalism' offers an expansive vision that unites diverse figures from Reagan to Rawls under the 'holy trinity' of freedom, pluralism, and rule of law. His inclusive approach reveals a nuanced perspective on political ideology, acknowledging historical complexities while advocating for core liberal principles. The interview explores tensions between liberalism's ideals and its practitioners' flaws, including controversial figures like Hayek and Kissinger. Sunstein's optimism about the Supreme Court's commitment to liberalism contrasts with critiques of its current conservative majority, raising questions about institutional resilience in polarized times. The discussion ultimately underscends liberalism's enduring relevance while confronting its internal contradictions and historical shortcomings.",
-    "summary_zh": "桑斯坦在《论自由主义》中为自由主义辩护，提出包容性定义将里根与罗尔斯联合起来，强调自由、多元和法治的核心价值。采访探讨了自由主义理想与实践者缺陷之间的张力，包括海耶克和基辛格等争议人物。他对最高法院坚守自由主义传统的乐观态度与对保守派多数派的批评形成对比，凸显了制度韧性在两极分化时代的挑战。讨论最终强调自由主义的持久意义，同时直面其内在矛盾和历史不足。",
-    "best_quote_en": "I almost called the book 'Big-Tent Liberalism,' which means a form of liberalism that includes Ronald Reagan and Barack Obama, and that includes Mill and Robert Nozick, who was a libertarian.",
-    "best_quote_zh": "我几乎想把这本书命名为《大帐篷自由主义》，这意味着一种包括里根和奥巴马在内的自由主义，也包括密尔和罗伯特·诺齐克，他是一个自由意志主义者。"
-  },
-  {
-    "id": 91,
-    "title": "23个人生突然变好的征兆",
-    "title_zh": "23个人生突然变好的征兆",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/d7aCiOXasnQxrKTeCdGT5g",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "education"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "教育学习"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This article explores 23 personal stories of life-changing turning points, revealing that transformative moments aren't random but often result from persistent effort and self-reflection. The narratives span career shifts, educational pursuits, personal growth, and overcoming mental health challenges. A recurring theme is the power of perseverance - whether through education, career changes, or personal development - in creating one's own opportunities. The piece challenges the notion of 'sudden' transformations, arguing instead that meaningful change comes from consistent effort and self-belief. It's a compelling collection that demonstrates how individuals create their own turning points through resilience and action.",
-    "summary_zh": "这篇文章收录了23个关于人生转机的真实故事，揭示转机并非偶然降临，而是通过脚踏实地的努力自然生长的花朵。故事涵盖职业转型、教育追求、个人成长和心理健康挑战。持续的努力与自我反思是贯穿始终的主题。文章质疑了“突然”的转机概念，强调真正的改变源于持续的行动与自我信念。这是一个展现个人如何通过韧性创造自身转机的动人集合。",
-    "best_quote_en": "\"Be reflective and critical on self, take challenges as rewards.\"",
-    "best_quote_zh": "\"反思、批判自我，将挑战视为奖励\""
-  },
-  {
-    "id": 92,
-    "title": "对话 - 从14岁打工到大厂外包：她的抉择与勇气",
-    "title_zh": "对话 - 从14岁打工到大厂外包：她的抉择与勇气",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/OF2nfSOoI6rXGk7o8pj7uA",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This compelling narrative follows a young woman's journey from child labor to a stable tech job, highlighting her resilience and the tough choices she faces between career stability and personal freedom. The article explores the tension between societal expectations and self-fulfillment, particularly in the context of China's competitive job market. Wood's story challenges conventional notions of success, emphasizing the importance of personal agency in career decisions. Her experience with language barriers and career transitions offers valuable insights into modern workforce adaptability. The author's reflective commentary adds depth, making this a thought-provoking piece about life choices and self-discovery.",
-    "summary_zh": "这个故事讲述了一个从14岁开始打工到如今在大厂外包工作的年轻女性的成长历程，展现了她的坚韧与面对职业选择时的勇气。文章揭示了社会期待与个人自由之间的张力，特别是在中国竞争激烈的职场环境中。木子的经历颠覆了传统成功观，强调职业决策中自我主导的重要性。她克服语言障碍和职业转型的经历，为现代职场适应力提供了宝贵洞见。作者的反思性评论为这篇关于人生选择与自我发现的文章增添了深度。",
-    "best_quote_en": "Sometimes we think we need external recognition, but what we're really lacking is internal security.",
-    "best_quote_zh": "有时候我们以为需要的是外界的认可，其实更多是因为内心缺少安全感。"
-  },
-  {
-    "id": 93,
-    "title": "Unsafe abortions and no antenatal care: aid cuts hit women hardest in one of Africa’s poorest countries",
-    "title_zh": "马拉维：因美国援助削减导致危险堕胎和产前护理不足",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/05/malawi-global-health-development-us-aid-cuts-tb-contraception-women",
-    "tags": [
-      "politics",
-      "medicine"
-    ],
-    "tags_zh": [
-      "政治时事",
-      "医学健康"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This article exposes the devastating impact of US aid cuts on maternal healthcare in Malawi, one of Africa's poorest countries. The abrupt termination of the Momentum Tikweze Umoyo program, which had successfully reduced maternal and infant mortality rates, has left rural women without critical services. The piece highlights how these cuts have led to increased unsafe abortions, late or missed antenatal appointments, and a decline in vaccinations. It's a stark reminder of how vulnerable populations suffer most from geopolitical decisions. The article also raises important questions about global responsibility and the consequences of abrupt aid withdrawal.",
-    "summary_zh": "美国援助削减对马拉维农村妇女医疗服务造成严重影响，危险堕胎和产前护理不足问题凸显。文章揭示了援助中断的深远影响，以及对全球卫生责任的思考。",
-    "best_quote_en": "\"The termination of the USAID funds... will definitely lead to more deaths of pregnant and lactating women and also newborns.\"",
-    "best_quote_zh": "\"取消美国国际开发署的资金... 肯定会导致更多孕妇和哺乳期妇女以及新生儿的死亡。\""
-  },
-  {
-    "id": 94,
-    "title": "Donate Unrestricted",
-    "title_zh": "Donate Unrestricted",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/donate.html",
-    "tags": [
-      "solve"
-    ],
-    "tags_zh": [
-      "解决"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This article reveals the often overlooked problem of restricted donations in the nonprofit sector, where donors dictate how funds should be used. The author argues that nonprofits typically understand their needs better than donors, making restricted donations suboptimal. While there are exceptions like umbrella organizations or expert donors, the article encourages unrestricted giving to maximize impact. It also explores why donors prefer restricted donations—often due to non-altruistic motives like publicity or regulatory compliance—and highlights the power imbalance that prevents nonprofits from advocating for unrestricted support. The piece concludes with a call to trust nonprofits' judgment in using funds effectively.",
-    "summary_zh": "这篇文章揭露了非营利组织中常被忽视的限定性捐赠问题，即捐赠者指定资金用途。作者认为，非营利组织通常比捐赠者更了解自身需求，因此限定性捐赠效果不佳。除非是涉及伞形组织或专家捐赠，否则应倡导无限制捐赠以最大化影响。文章还探讨了捐赠者偏好限定性捐赠的原因—常因公关或合规需求，并指出非营利组织因利益不对称而无法主动倡导无限制捐赠。最终呼吁捐赠者信任非营利组织对资金的使用判断。",
-    "best_quote_en": "If you trust them to spend your money, trust them to decide how.",
-    "best_quote_zh": "如果你信任他们使用你的钱，就信任他们决定如何使用。"
-  },
-  {
     "id": 95,
     "title": "Petrov Day at Lighthaven",
     "title_zh": "Petrov Day在Lighthaven的庆祝活动",
@@ -2314,5 +2210,125 @@
     "summary_zh": "这篇文章介绍了两种不同的皮划艇体验：自建Pygmy Coho皮划艇和使用可折叠的Advanced Elements皮划艇。第一个账户详细描述了使用胶合板工具包精心制作高性能海上皮划艇的过程，突出了计算机切割部件的精度和使Coho脱颖而出的巧妙设计元素。第二个体验强调了可折叠皮划艇的实用性和便利性，提供了便捷的运输和搭建，使皮划艇运动更易上手。两个账户都强调了皮划艇运动的乐趣与挑战，从制作皮划艇的工艺到可折叠皮划艇带来的自由与冒险。文章还包含了皮划艇制作的实用技巧，强调高效与专业成果。",
     "best_quote_en": "The boat paddled like a dream — reminded me of the first time I rode a high quality road racing bicycle.",
     "best_quote_zh": "划船的感觉就像做梦一样——让我想起了第一次骑高质量赛车自行车的感觉。"
+  },
+  {
+    "id": 190,
+    "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
+    "title_zh": "从档案中: ",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/oct/15/from-the-archive-infertility-stung-me-black-motherhood-and-me-podcast",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This poignant audio long read revisits a 2022 piece that explores the intersection of race, fertility, and womanhood through a deeply personal narrative. Edna Bonhomme's story challenges the assumption of reproductive agency in modern society, particularly for Black women. The piece offers a raw, introspective look at the emotional and societal complexities of infertility, weaving together personal experience with broader feminist and cultural critiques. What makes this content particularly valuable is its ability to humanize a often medicalized and politicized issue, offering listeners both emotional resonance and critical perspective. The re-release with new introductions suggests ongoing relevance and timelessness of these struggles.",
+    "summary_zh": "这篇深刻的音频长文重新呈现了2022年的文章，通过个人叙事探索了种族、生育能力与女性身份的交织。Edna Bonhomme的故事挑战了现代社会中关于生育自主权的假设，特别是对黑人女性。内容以真实的自我反思展现了不孕症的情感与社会复杂性，将个人经历与更广泛的女性主义和文化批判交织。本次重新发布并附有新序言，凸显了这些挣扎的持久相关性与普遍性。",
+    "best_quote_en": "'I assumed I would be part of the first generation to have full agency over my reproduction – but I was wrong'",
+    "best_quote_zh": "我以为自己会是第一代完全掌握生育自主权的人——但我错了"
+  },
+  {
+    "id": 191,
+    "title": "Novelty and Heresy",
+    "title_zh": "创新与异端",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nov.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This thought-provoking piece explores the inherent tension between novelty and societal acceptance, arguing that truly innovative ideas often challenge deeply held assumptions. The author posits that breakthrough discoveries frequently face resistance because they contradict popular but mistaken beliefs. This creates a 'dead zone' of unexplored ideas around each cherished assumption. The piece offers a dual perspective: while organizations may suppress heresies to protect their worldviews, these very heresies could be fertile ground for new ideas. The author suggests that by examining what society considers heretical, we might uncover valuable innovations that would otherwise remain hidden. This insight challenges conventional thinking about idea generation and organizational culture.",
+    "summary_zh": "这篇文章深刻探讨了创新与社会接受度之间的矛盾，指出真正的创新往往挑战深层次的假设。作者认为，突破性发现常因颠覆流行但错误的信念而受到抵制，从而形成思想禁区。组织可能压制异端以维护现有观念，但这些异端可能蕴藏着新的思想宝藏。作者建议从社会视为异端的观点中寻找创新，这挑战了传统的创意生成思维，值得深思。",
+    "best_quote_en": "Every cherished mistaken assumption has a dead zone of unexplored ideas around it. And the more preposterous the assumption, the bigger the dead zone it creates.",
+    "best_quote_zh": "每一个被珍视的错误假设周围都有一个未被探索的思想禁区。而假设越荒谬，这个禁区就越大。"
+  },
+  {
+    "id": 192,
+    "title": "Gnashing of Teeth",
+    "title_zh": "牙齿咬合",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XicHwcXewsBTnWLwG/gnashing-of-teeth",
+    "tags": [
+      "solve",
+      "society",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This thought-provoking piece uses the Thirty Years' War and Peace of Westphalia as a parable to explore the messy, painful nature of tolerance. The author challenges the romanticized notion of peaceful coexistence, presenting it instead as a reluctant, grudging acceptance born from exhaustion. The analysis reveals how religious conflicts evolved into power struggles, and how 'tolerance' at the time was far from the individual rights-based concept we know today. The piece invites us to reflect on the value of narratives, questioning whether mythologized versions of history serve a greater purpose than strict factual accuracy.",
+    "summary_zh": "这篇文章通过三十年战争与威斯特伐利亚和约的寓言，探讨了容忍的复杂性与痛苦。作者挑战了和谐共处的浪漫化叙事，揭示这是一种出于筋疲力尽的勉强妥协。分析揭示宗教冲突如何演变为权力斗争，当时的“容忍”远非我们理解的个体权利概念。文章引发我们思考叙事的价值，质疑历史神话化是否比严格事实更具意义。",
+    "best_quote_en": "Living beside them without meddling in their affairs would demand much gnashing of teeth, yet so be it.",
+    "best_quote_zh": "与他们和睦相处而不干涉他们的事务，将需要极大的忍耐，但无论如何还是如此。"
+  },
+  {
+    "id": 193,
+    "title": "Gaza’s Broken Politics",
+    "title_zh": "加沙的政治危机",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/essay/gazas-broken-politics",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This essay by Mohammed R. Mhawish provides a critical analysis of Gaza's political collapse and the flawed Trump-led plan for its future governance. The piece highlights the failure of existing Palestinian political factions, the devastating impact of war on Gaza's infrastructure and population, and the dangers of an externally imposed political solution. Mhawish argues that true recovery requires genuine Palestinian agency and political representation, not just physical reconstruction. The essay challenges the romanticization of Palestinian resilience, framing it as a consequence of systemic oppression rather than a virtue. It calls for a fundamental shift in how Gaza's political future is determined, emphasizing the need for local leadership and self-determination.",
+    "summary_zh": "穆罕默德·M. 马维什的文章深刻分析了加沙政治体系的崩溃及特朗普主导的未来治理方案的缺陷。文章指出现有巴勒斯坦政治派系的失败，战争对加沙基础设施和人口的毁灭性影响，以及外部强加的政治解决方案的危险。马维什认为，真正的复兴需要巴勒斯坦的真正自治和政治代表性，而不仅仅是物理重建。文章挑战了对巴勒斯坦韧性的浪漫化，将其视为系统性压迫的结果而非美德。它呼吁彻底改变加沙政治未来的决定方式，强调本地领导和自决的必要性。",
+    "best_quote_en": "The cruellest occupation is not of land but of the imagination.",
+    "best_quote_zh": "最残酷的占领不是土地，而是想象力。"
+  },
+  {
+    "id": 194,
+    "title": "Donabe / We Stand on Guard",
+    "title_zh": "Donabe / 我们守卫",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/donabe-we-stand-on-guard/",
+    "tags": [
+      "analyze",
+      "politics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This content presents two distinct but equally engaging offerings. The first, 'Donabe,' is a culinary journey into Japanese clay pot cooking, blending tradition with modern techniques. It's not just a cookbook but a cultural exploration, offering insights into Japanese dining traditions and the art of communal cooking. The personal anecdotes and practical advice make it accessible even to beginners, while the beautiful photography and sturdy construction add to its appeal. The second, 'We Stand on Guard,' is a gripping military sci-fi graphic novel that flips the script on invasion narratives, placing Canada as the victim of a US-led water resource grab. The story is intense and thought-provoking, using humor and speculative tech to explore themes of occupation, resistance, and shifting allegiances. Both pieces are rich in detail and offer unique perspectives on their respective subjects.",
+    "summary_zh": "本内容呈现了两种截然不同却同样吸引人的作品。第一部《Donabe》是对日本陶土锅烹饪的美食之旅，将传统与现代技术融为一体。这不仅是一本食谱，更是一种文化探索，为我们展示了日本饮食传统和共享烹饪的艺术。个人轶事和实用建议使其即使对初学者也易于上手，而精美的摄影和坚固的制作工艺更增添了其魅力。第二部《我们守卫》是一部引人入胜的军事科幻漫画，颠覆了入侵叙事的常规模式，将加拿大塑造成为美国水资源争夺战的受害者。这个故事紧张而发人深省，运用幽默和假想科技探讨占领、抵抗和变化的忠诚等主题。这两部作品细节丰富，为各自主题提供了独特的视角。",
+    "best_quote_en": "Using a paring knife, score the skin of the duck breast ... Be careful not to penetrate the meat.",
+    "best_quote_zh": "用削皮刀在鸭胸肉的皮上划几刀……注意不要刺穿肉。"
   }
 ]
