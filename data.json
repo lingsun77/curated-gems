@@ -1,113 +1,5 @@
 [
   {
-    "id": 95,
-    "title": "Petrov Day at Lighthaven",
-    "title_zh": "Petrov Day在Lighthaven的庆祝活动",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/events/XdAraM4T2euwWHuXk/petrov-day-at-lighthaven",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "Petrov Day commemorates the 1983 incident where Stanislav Petrov averted a potential nuclear war by correctly identifying a false alarm. This event at Lighthaven offers a unique opportunity to reflect on nuclear disarmament and peace. The ceremony follows a structured ritual with symbolic actions, creating an immersive experience that blends historical significance with contemporary relevance. It's fascinating how this event transforms a near-catastrophic moment into a catalyst for peace advocacy, demonstrating the power of individual action in global affairs.",
-    "summary_zh": "Petrov Day纪念1983年斯坦尼斯拉夫·彼得罗夫识别错误警报并避免核战争的事件。在Lighthaven举办的活动为反思核裁军与和平提供了独特机会。仪式通过象征性行为创造沉浸式体验，将历史意义与当代相结合。令人惊叹的是，这个活动将近乎灾难的时刻转化为和平倡导的催化剂，展现个人行动在全球事务中的力量。",
-    "best_quote_en": "Petrov Day commemorates the anniversary of the Petrov incident, a pivotal moment in nuclear history.",
-    "best_quote_zh": "Petrov Day纪念彼得罗夫事件周年，这是核历史中的关键时刻。"
-  },
-  {
-    "id": 96,
-    "title": "怎么就进入了一个互恨的社会？",
-    "title_zh": "怎么就进入了一个互恨的社会？",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/zI1vCg7G4Ntmv9tFCCDUcw",
-    "tags": [
-      "inspire",
-      "society",
-      "science"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "科学研究"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This thought-provoking article explores the paradox of modern society where increasing homogeneity in middle-class lifestyles coincides with growing social fragmentation and mutual hatred. Drawing parallels with 19th-century France as observed by Tocqueville, the author examines how the middle class's imitation of aristocratic values and lifestyles has led to a superficial uniformity that masks deep-seated isolation and resentment. The analysis highlights how cultural centralization and administrative centralization have eroded local community bonds and public responsibility, creating a society where individuals feel disconnected despite their similarities. The piece concludes with a vision for a more vibrant public life where diversity coexists with shared civic responsibility.",
-    "summary_zh": "文章揭示了当代社会中中产阶级生活模式趋同与人际关系疏离并存的矛盾现象。通过托克维尔对法国社会的观察，分析了中产阶级模仿贵族价值观导致的虚假统一性，以及行政集中化如何削弱公民社会的责任感。作者呼吁建立一个多元共存、公共生活丰富的理想社会，让差异不再成为隔阂的根源。",
-    "best_quote_en": "If a society's members are very similar but deeply alienated from each other, it's not an ideal modern free society.",
-    "best_quote_zh": "如果一个社会里面的成员非常相似，彼此之间却有着深深的隔阂，那就不是一个理想的现代自由社会。"
-  },
-  {
-    "id": 97,
-    "title": "2025年8月 - 让痛苦成为生活的一部分",
-    "title_zh": "2025年8月 - 让痛苦成为生活的一部分",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/bKXyCVBIs7PeH_kzVPUatg",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This reflective piece explores the author's August journey through physical challenges and personal growth. The narrative centers around endurance sports - running, hiking, and ultimate frisco - which become metaphors for life's struggles. The author discovers that embracing discomfort in these activities leads to profound personal breakthroughs. Beyond physical challenges, the content examines intellectual and social dimensions, including reading Benjamin Franklin's biography, hosting an English-language discussion group, and offering life coaching sessions. The piece culminates in the realization that pain, when acknowledged and integrated, can become a meaningful part of life's fabric. It's a thoughtful examination of how discomfort can lead to growth, presented through personal anecdotes and philosophical reflection.",
-    "summary_zh": "这篇文章记录了作者八月份的成长历程，通过跑步、徒步、飞盘等运动体验，探索了如何面对生活中的痛苦与挑战。作者发现，接受并承受不适，反而能更好地坚持。除了身体上的锻炼，文章还提到精神输入和人际连接的重要性，如阅读富兰克林传记、主持英文讨论会、提供人生教练服务等。最终，作者领悟到痛苦并不可怕，它可以成为生活中有意义的一部分。这篇文章以个人经历为基础，展现了如何在挑战中成长的深刻思考。",
-    "best_quote_en": "Pain isn't something to fear; it can become a meaningful part of life.",
-    "best_quote_zh": "痛苦并不可怕，它也可以成为生活的一部分。"
-  },
-  {
-    "id": 98,
-    "title": "From grassroots to states, let women lead. Stability, hope and innovation will follow | Ellen Johnson Sirleaf and Sahle-Work Zewde",
-    "title_zh": "从草根到国家，让女性领导。稳定、希望和创新将随之而来",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/26/african-presidents-women-female-leadership-un-change-hope-innovation",
-    "tags": [
-      "solve",
-      "politics",
-      "society"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This op-ed by two former African presidents highlights the critical role of female leadership in shaping Africa's future. It argues that investing in women leaders is not just about equity but about building stability, driving innovation, and ensuring inclusive development. The authors emphasize that African women are already making significant contributions in peacekeeping, education, health, and climate action. They propose concrete actions like funding leadership programs and removing barriers to women's political participation. The piece makes a compelling case that supporting women leaders is a strategic global imperative, not charity, and offers a vision for how this investment can transform societies.",
-    "summary_zh": "两位非洲前总统在文章中强调女性领导力对非洲未来的关键作用。投资女性领袖不仅是公平问题，更是构建稳定、推动创新和实现包容性发展的必由之路。作者指出，非洲女性已在维和、教育、卫生和气候行动等领域做出重要贡献。他们提出具体行动建议，如资助领导力培训项目和消除妇女政治参与的障碍。文章论证支持女性领袖是全球战略需求而非慈善，并展现这种投资如何转变社会。",
-    "best_quote_en": "When women are supported to lead, democracy becomes more inclusive, peace more durable, and development more just.",
-    "best_quote_zh": "当支持女性领导时，民主会变得更加包容，和平更加持久，发展更加公正。"
-  },
-  {
-    "id": 99,
-    "title": "What I Worked On",
-    "title_zh": "我过去的工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/worked.html",
-    "tags": [
-      "analyze",
-      "education"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This deeply personal narrative traces the author's intellectual journey from early programming and writing attempts to becoming an AI researcher, artist, and entrepreneur. The text reveals profound insights about the evolution of computing, the nature of creativity, and the startup world. It highlights the author's shift from philosophy to AI, then to art, and finally to entrepreneurship, emphasizing the importance of independent thinking and embracing rapid change. The reflections on Lisp programming and the creation of Viaweb offer valuable lessons about technology, business, and personal growth. The author's struggle to balance artistic passion with entrepreneurial demands provides a compelling narrative about the pursuit of meaningful work.",
-    "summary_zh": "这篇深刻的个人叙述追踪了作者从早期的编程和写作尝试到成为人工智能研究员、艺术家和企业家的知识旅程。文中揭示了计算机发展、创造力本质和创业世界的深刻见解。它强调了作者从哲学到人工智能，再到艺术，最后到创业的转变，突出了独立思考和拥抱快速变化的重要性。关于Lisp编程和Viaweb创建的反思为技术、商业和个人成长提供了宝贵的教训。作者在平衡艺术激情与创业需求的斗争，为追求有意义的工作提供了引人入胜的叙述。",
-    "best_quote_en": "I had always liked looking at paintings. Could I make them? I had no idea. I'd never imagined it was even possible.",
-    "best_quote_zh": "我一直喜欢看画。我能画画吗？我完全不知道。我从未想象过这是可能的。"
-  },
-  {
     "id": 100,
     "title": "Constrained Belief Updates and Geometric Structures in Transformer Representations for the RRXOR Process",
     "title_zh": "在Transformer表示中的约束信念更新与几何结构：RRXOR过程的研究",
@@ -2330,5 +2222,123 @@
     "summary_zh": "本内容呈现了两种截然不同却同样吸引人的作品。第一部《Donabe》是对日本陶土锅烹饪的美食之旅，将传统与现代技术融为一体。这不仅是一本食谱，更是一种文化探索，为我们展示了日本饮食传统和共享烹饪的艺术。个人轶事和实用建议使其即使对初学者也易于上手，而精美的摄影和坚固的制作工艺更增添了其魅力。第二部《我们守卫》是一部引人入胜的军事科幻漫画，颠覆了入侵叙事的常规模式，将加拿大塑造成为美国水资源争夺战的受害者。这个故事紧张而发人深省，运用幽默和假想科技探讨占领、抵抗和变化的忠诚等主题。这两部作品细节丰富，为各自主题提供了独特的视角。",
     "best_quote_en": "Using a paring knife, score the skin of the duck breast ... Be careful not to penetrate the meat.",
     "best_quote_zh": "用削皮刀在鸭胸肉的皮上划几刀……注意不要刺穿肉。"
+  },
+  {
+    "id": 195,
+    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
+    "title_zh": "关于基拉·奈特莉电影《十号客舱》的另一篇卫报链接 | 短信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This brief letters section in The Guardian offers a fascinating glimpse into the interconnected world of journalism, literature, and film. The most intriguing piece connects the legendary Guardian journalist Norman Shrapnel to his grandson Joe Shrapnel, who co-wrote the script for the film The Woman in Cabin 10 starring Keira Knightley. The mention of Norman Shrapnel's influence on generations of Guardian writers highlights the enduring impact of journalistic mentorship. Other letters touch on political issues like migrant language requirements and personal anecdotes about popular literature, creating a mosaic of public engagement with current affairs and culture. The inclusion of such diverse topics demonstrates The Guardian's role as a platform for both serious discussion and lighthearted commentary, fostering a sense of community among its readers.",
+    "summary_zh": "《卫报》的这段短信栏目展现了新闻、文学和电影世界的紧密联系。最引人入胜的是将传奇记者诺曼·夏普内尔与其孙子乔·夏普内尔联系起来，后者共同创作了基拉·奈特莉主演的电影《十号客舱》的剧本。提到诺曼·夏普内尔对《卫报》记者一代的影响，凸显了新闻界导师的深远影响力。其他信件涉及移民语言要求等政治问题和关于流行文学的个人轶事，构成了公众参与时事和文化的马赛克。包含如此多元话题的信件栏目，展现了《卫报》作为严肃讨论和轻松评论平台的作用，在读者中培养了社区归属感。",
+    "best_quote_en": "Norman's ironic edge and sharp eye for social detail made him the much-imitated master of a whole generation of Guardian writers",
+    "best_quote_zh": "诺曼的讽刺笔法和对社会细节的敏锐观察使他成为整整一代《卫报》记者效仿的大师"
+  },
+  {
+    "id": 196,
+    "title": "The Bus Ticket Theory of Genius",
+    "title_zh": "公交车票理论：天才的诞生",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/genius.html",
+    "tags": [
+      "solve",
+      "education",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "This essay presents the 'Bus Ticket Theory of Genius,' which posits that true genius requires three elements: natural ability, determination, and an obsessive, disinterested interest in a particular topic. The author argues that this obsessive interest is often dismissed as pointless by others but is crucial for making groundbreaking discoveries. The theory suggests that such obsession serves as both a proxy for ability and a substitute for determination. The essay explores how this obsession leads to new ideas by allowing individuals to explore paths others ignore, and discusses the risks and rewards of pursuing seemingly unpromising interests. It also touches on how this theory can explain why different people excel in different fields and how it might be used to encourage great work, particularly in education.",
+    "summary_zh": "这篇文章提出了“公交车票理论”，认为天才的诞生需要三个要素：天赋、毅力和对某一主题的狂热兴趣。作者认为，这种狂热兴趣往往被他人视为无意义，但正是这种兴趣推动了突破性发现。理论指出，这种兴趣既是能力的代理，也是毅力的替代品。文章探讨了这种狂热如何通过探索他人忽视的路径带来新想法，并分析了追求看似无望兴趣的风险与回报。此外，它还解释了为什么不同的人在不同领域卓越，以及如何利用这一理论鼓励伟大的工作，特别是在教育中。",
+    "best_quote_en": "If I had to put the recipe for genius into one sentence, that might be it: to have a disinterested obsession with something that matters.",
+    "best_quote_zh": "如果要将天才的配方浓缩成一句话，或许就是：对重要事物产生无私的狂热兴趣。"
+  },
+  {
+    "id": 197,
+    "title": "Among the Talibros",
+    "title_zh": "塔利班兄弟",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/among-the-talibros",
+    "tags": [
+      "solve",
+      "business-model",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "商业模式",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This article critically examines the phenomenon of 'alt-travel influencers' who present controversial, often ironic depictions of dangerous locations like Afghanistan. It explores how these creators, through provocative content, challenge mainstream narratives while potentially trivializing serious geopolitical issues. The piece highlights the ethical dilemmas and societal impacts of such content, questioning whether these influencers exploit public distrust in traditional media for personal gain. The analysis reveals a troubling trend where complexity is sacrificed for engagement, and nuance is replaced by contrarianism and conspiracy theories, ultimately fostering a culture of skepticism and instability.",
+    "summary_zh": "这篇文章批判性地探讨了“另类旅行博主”现象，他们以幽默讽刺的方式呈现危险地点如阿富汗的景象。文章分析了这些创作者如何通过挑衅性内容挑战主流叙事，同时可能轻视严肃的地缘政治问题。作者质疑这些博主是否利用公众对传统媒体的不信任谋取私利。分析揭示了一个令人不安的趋势：复杂性被牺牲给娱乐性，细微差别被替代为逆反和阴谋论，最终培养出一种怀疑和动荡的文化。",
+    "best_quote_en": "Instead of simply trying to uncover the truth, these influencers scramble people’s minds and make them question whether anything they’re being told is true.",
+    "best_quote_zh": "这些博主并非简单地试图揭露真相，而是搅乱人们的思维，让他们质疑自己所听到的任何事情是否属实。"
+  },
+  {
+    "id": 198,
+    "title": "What’s in my NOW? — Alison Qiu",
+    "title_zh": "我的现在有什么？— 艾莉森·丘",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-alison-qiu/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Alison Qiu shares her curated list of tools and resources that enhance her daily life, offering practical insights into personal productivity and self-care. The physical items she recommends, like the Single to-go drink mix and Mini Stair Stepper, provide cost-effective and space-saving solutions for hydration and fitness. Her digital picks, including the Nothing Much Happens Podcast and Sonia AI Voice Therapy, demonstrate innovative ways to improve mental well-being. The invisible lesson about learning from everyone underscores a philosophy of continuous growth. This content serves as both a practical guide and an inspiration for mindful living.",
+    "summary_zh": "艾莉森·丘分享她精心挑选的生活工具和资源，为个人效率和自我照顾提供实用见解。她推荐的物理产品如单份饮料粉和迷你阶梯踏步机，提供经济实惠且节省空间的解决方案。她的数字选择包括无事发生播客和索尼亚AI语音治疗，展示了改善心理健康的创新方式。关于从每个人身上学习的隐形建议，强调了持续成长的哲学。这篇内容既是实用指南，也是有意识生活的灵感来源。",
+    "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
+    "best_quote_zh": "每个人都有可以教你的东西。尽可能多地向他人学习。"
+  },
+  {
+    "id": 199,
+    "title": "The Gentle Singularity",
+    "title_zh": "温和的奇点",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-gentle-singularity",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-06-10",
+    "summary_en": "The essay presents a compelling vision of the imminent AI-driven future, arguing that we're already past critical milestones in AI development. It emphasizes that while dramatic changes are coming, many aspects of human life will remain constant. The author highlights the accelerating pace of scientific progress enabled by AI, predicting transformative advancements in various fields. The piece explores the economic and societal implications, stressing the need for proper alignment and widespread access to AI benefits. It concludes with an optimistic yet cautious perspective on humanity's ability to adapt to these changes, suggesting that while challenges exist, the potential for profound positive impact is enormous.",
+    "summary_zh": "文章描绘了AI驱动的未来图景，认为我们已经度过了关键的AI发展里程碑。尽管即将迎来剧变，人类生活的许多方面仍将保持不变。作者强调AI加速的科学进步，预测各领域将迎来重大突破。文中探讨了经济和社会影响，强调需要正确对齐和普及AI的益处。最后以乐观但谨慎的视角，认为尽管存在挑战，但人类适应这些变化的能力将带来巨大的正面影响。",
+    "best_quote_en": "We are climbing the long arc of exponential technological progress; it always looks vertical looking forward and flat going backwards, but it's one smooth curve.",
+    "best_quote_zh": "我们正沿着指数级技术进步的长弧线攀登；它总是向前看时呈垂直状态，向后看时呈平坦状态，但实际上是一条平滑的曲线。"
   }
 ]
