@@ -1,119 +1,5 @@
 [
   {
-    "id": 100,
-    "title": "Constrained Belief Updates and Geometric Structures in Transformer Representations for the RRXOR Process",
-    "title_zh": "在Transformer表示中的约束信念更新与几何结构：RRXOR过程的研究",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/BRiQ6Mn5HKc5SoyY3/constrained-belief-updates-and-geometric-structures-in",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This research explores how transformers build and utilize world models, focusing on the RRXOR data-generating process. The study reveals that while a previous ansatz for constrained belief updating fails to generalize to RRXOR, empirical evidence suggests some patterns from earlier work persist. The findings highlight the tension between transformers' parallel architecture and optimal recursive prediction, offering preliminary insights into how these models might overcome architectural constraints. This work is a stepping stone toward understanding world model formation in larger language models relevant to AI safety, emphasizing the need for more general theories and robust empirical validation.",
-    "summary_zh": "该研究聚焦于变压器如何构建和利用世界模型，特别针对RRXOR数据生成过程。发现之前的约束信念更新假设无法推广至RRXOR，但实证结果显示部分早期研究的模式依然存在。研究揭示了变压器平行架构与最优递归预测之间的张力，为理解这些模型如何克服架构限制提供了初步见解。这项工作为AI安全领域的大型语言模型世界模型形成机制奠定了基础，强调了更通用理论和更强大的实证验证的必要性。",
-    "best_quote_en": "The picture of successive evolution through the transformer – from geometry associated to approximate then optimal prediction – is elegant and elucidating; however, we know it cannot exactly hold in general settings.",
-    "best_quote_zh": "变压器中从近似预测到最优预测的几何演化图景优雅且富有启发性，但我们知道它在一般情况下并不能完全成立。"
-  },
-  {
-    "id": 101,
-    "title": "把秋天含在嘴里｜九月咖啡订阅计划",
-    "title_zh": "把秋天含在嘴里｜九月咖啡订阅计划",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/EH9NsA1rCQWAu322ENIgXw",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "This coffee subscription plan from '看理想' offers a sensory and narrative experience that transcends mere beverage consumption. The September offering, 'Stories Will Tell', combines Brazilian and Yunnan coffee beans with rum, cocoa, and roasted nut flavors, evoking a nostalgic atmosphere reminiscent of cozy storytelling by the fireplace. The content cleverly blends product promotion with literary and sensory storytelling, creating a multi-dimensional experience that appeals to both coffee enthusiasts and those seeking immersive content. The '狼狗时光' metaphor beautifully captures the liminal quality of dawn and dusk, paralleling the mysterious and evocative nature of storytelling itself.",
-    "summary_zh": "看理想的咖啡订阅计划不仅是品饮，更是一种沉浸式的体验。九月的「故事便利店」主题咖啡，通过巴西与云南豆的拼配，营造出朗姆酒、可可和烤坚果的温暖质感，唤起人们对童年故事时光的回忆。内容巧妙地将产品推广与文学、感官体验结合，创造出多维度的用户互动。狼狗时光的比喻，恰如其分地描绘了黄昏与清晨的朦胧状态，恰似故事本身的神秘与难以捉摸。",
-    "best_quote_en": "'狼狗时光' is that ambiguous time between day and night when things are not quite clear - it's the perfect metaphor for the magical quality of storytelling.",
-    "best_quote_zh": "「狼狗时光」大约是在早晨五六点，天将明未明之际，或者黄昏六点多之间，那种暧昧、神秘，事物看不分明，光与影的幻日线的状态。"
-  },
-  {
-    "id": 102,
-    "title": "‘The closest I came to making life was the closest I came to death’: Florence Welch on sexism, screaming and the lost pregnancy that nearly killed her",
-    "title_zh": "‘我离生最近的时刻也是我离死最近的时刻’：佛罗伦斯·韦尔奇谈性别歧视、尖叫与几乎夺去她生命的流产",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2025/sep/27/florence-welch-sexism-screaming-lost-pregnancy-nearly-killed-her",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "Florence Welch's raw and revealing interview delves into the profound physical and emotional trauma of her ectopic pregnancy, which nearly cost her life. Her new album, Everybody Scream, channels this experience into a powerful exploration of grief, resilience, and the double standards women face in the music industry. Welch's candid reflections on her near-death experience, the healing power of nature, and her struggles with public perception offer a poignant commentary on the intersection of personal trauma and artistic expression. The interview also highlights her evolving perspective on fame, creativity, and the pressures of being a woman in music, making it a compelling read for anyone interested in the complex interplay between personal suffering and artistic creation.",
-    "summary_zh": "佛罗伦斯·韦尔奇在采访中坦诚揭露了宫外孕几乎夺去她生命的经历，新专辑《Everybody Scream》将这种创伤转化为关于悲伤、韧性和音乐行业中性别双重标准的深刻探索。她对近死体验、自然治愈力量以及公众认知的反思，为个人创伤与艺术表达的复杂关系提供了深刻的评论。采访还凸显了她对名声、创造力和作为女性在音乐界面临压力的不断变化的看法，使其成为任何对个人痛苦与艺术创作复杂互动感兴趣的人的引人入胜的阅读材料。",
-    "best_quote_en": "The closest I came to making life was the closest I came to death.",
-    "best_quote_zh": "我离生最近的时刻也是我离死最近的时刻。"
-  },
-  {
-    "id": 103,
-    "title": "I wanted to know if having a kid on a burning planet was right. I found that antinatalism is seriously taboo | Bri Lee",
-    "title_zh": "我想知道在一个燃烧的星球上养育孩子是否正确。我发现反生育主义非常忌讳 | 布里·李",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/28/should-we-have-children-burning-planet-author-bri-lee-seed-book-antinatalism-seriously-taboo",
-    "tags": [
-      "inspire",
-      "politics",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "Bri Lee's exploration of antinatalism challenges societal norms around procreation, revealing a complex philosophy centered on reducing suffering. Her personal journey from skepticism to engagement with these ideas highlights the taboo nature of questioning whether we should have children, not just if we want them. The piece contrasts antinatalism's compassionate focus on minimizing harm with the rising pronatalist policies that seek to legislate higher birth rates. Lee's work exposes the cognitive dissonance in societies that claim to value future generations while approving environmentally destructive projects. This thoughtful examination invites readers to reconsider fundamental questions about life, ethics, and our collective responsibility to future generations.",
-    "summary_zh": "布里·李探讨反生育主义的文章挑战了社会关于生育的常规观念，揭示了这一以减少痛苦为核心的复杂哲学。她从怀疑到深入接触这些想法的个人旅程，凸显了质疑是否应该生育（而非仅仅想不想生育）的禁忌性质。文章将反生育主义者以减少伤害为目的的同情心态，与试图通过立法提高出生率的日益增长的生育主义政策形成对比。李的分析揭示了社会在声称重视未来世代的同时，却批准生态破坏性项目的认知失调。这部深思熟虑的作品邀请读者重新考虑关于生命、伦理和我们对未来世代集体责任的根本问题。",
-    "best_quote_en": "All human life involves suffering, and all humans cause suffering. You may believe that suffering is outweighed by the joys and experiences of life... But they aren’t universal.",
-    "best_quote_zh": "所有的人类生活都包含痛苦，所有的人类都会造成痛苦。你可能认为痛苦被生活的喜悦和经历所抵消... 但这些并非普遍适用。"
-  },
-  {
-    "id": 104,
-    "title": "Earnestness",
-    "title_zh": "认真",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/earnest.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2025-09-28",
-    "summary_en": "This essay explores the often overlooked but crucial virtue of earnestness in startups, particularly among founders. The author argues that genuine interest in a problem, rather than just the pursuit of wealth and fame, is a powerful motivator that drives success. Earnestness is characterized by both the right motives and maximum effort, making it a key trait of successful founders. The piece contrasts earnestness with the cynicism and superficiality prevalent in Silicon Valley and other fields, suggesting that while earnestness may be a disadvantage in certain contexts, it becomes a significant advantage in solving complex problems. The author also discusses the connection between earnestness and naivety, noting that a lack of sophistication can sometimes be an asset in innovation. Ultimately, the essay highlights the evolving relationship between intellectual curiosity and financial success in modern business.",
-    "summary_zh": "这篇文章探讨了创业者中常被忽视但至关重要的品质——认真。作者认为，对问题的真诚兴趣，而非单纯追求财富和名誉，是推动成功的强大动力。认真意味着正确的动机和最大的努力，是成功创业者的关键特质。文章对比了认真与硅谷和其他领域流行的玩世不恭和虚伪，指出虽然认真在某些情况下可能是劣势，但在解决复杂问题时则是显著优势。作者还讨论了认真与天真之间的联系，认为缺乏世故有时能成为创新的资产。最终，文章凸显了现代商业中知识好奇心与财富成功关系的演变。",
-    "best_quote_en": "Earnestness is not one end of a continuum, but a target one can fall short of in multiple dimensions.",
-    "best_quote_zh": "认真不是连续体的一个端点，而是一个可以在多个维度上未达到的目标。"
-  },
-  {
     "id": 105,
     "title": "The Risk of Human Disconnection",
     "title_zh": "人类脱节的风险",
@@ -2340,5 +2226,121 @@
     "summary_zh": "文章描绘了AI驱动的未来图景，认为我们已经度过了关键的AI发展里程碑。尽管即将迎来剧变，人类生活的许多方面仍将保持不变。作者强调AI加速的科学进步，预测各领域将迎来重大突破。文中探讨了经济和社会影响，强调需要正确对齐和普及AI的益处。最后以乐观但谨慎的视角，认为尽管存在挑战，但人类适应这些变化的能力将带来巨大的正面影响。",
     "best_quote_en": "We are climbing the long arc of exponential technological progress; it always looks vertical looking forward and flat going backwards, but it's one smooth curve.",
     "best_quote_zh": "我们正沿着指数级技术进步的长弧线攀登；它总是向前看时呈垂直状态，向后看时呈平坦状态，但实际上是一条平滑的曲线。"
+  },
+  {
+    "id": 200,
+    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
+    "title_zh": "Jess Cartner-Morley 谈时尚：这个冬天外套的最重要规则——长度要长",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
+    "tags": [
+      "update",
+      "lifestyle",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Jess Cartner-Morley distills this season's fashion essence into one crucial rule: long coats. This isn't just a fleeting trend but a significant style shift reflecting broader cultural movements toward comfort and individuality. The author argues that coat length serves as a subtle yet powerful style indicator, instantly placing the wearer on the fashion spectrum. The piece explores how this trend emerges from the evolution of underlying clothing styles, particularly looser trousers, and highlights how luxury brands like Burberry and MaxMara are championing this look. The analysis extends beyond mere style advice, touching on how fashion trends mirror societal changes and personal expression, making coat selection a statement of identity.",
+    "summary_zh": "杰斯·卡特纳-莫利简化了这个季节的时尚精髓：外套要长。这不仅仅是一个流行趋势，而是反映舒适和个性化的重大风格转变。作者认为，外套长度是一个微妙但强大的风格指示器，瞬间将穿着者定位在时尚光谱上。文章探讨了这一趋势如何从底层服装风格的演变中涌现，特别是更宽松的裤子，并突出了像Burberry和MaxMara这样的奢侈品牌如何推动这一风格。分析超越了单纯的时尚建议，触及时尚趋势如何反映社会变化和个人表达，使外套选择成为身份的宣言。",
+    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news.",
+    "best_quote_zh": "你的外套需要长。就是这个，这就是大新闻。"
+  },
+  {
+    "id": 201,
+    "title": "General and Surprising",
+    "title_zh": "一般与惊人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/sun.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "This piece explores the rare and valuable combination of insights that are both general and surprising. The author argues that most insights tend to be either general but unsurprising (platitudes) or surprising but not general (gossip). The most valuable territory - general and surprising - is often picked clean because of its value. The author suggests focusing on moderately valuable insights by adding small increments of novelty to general ideas. The piece encourages persistence in generating new ideas, even if they seem similar to existing ones, as small variations can lead to significant breakthroughs. It also discusses the importance of not being discouraged when ideas seem derivative, as even small novelties in general concepts can be valuable.",
+    "summary_zh": "这篇文章探讨了既普遍又令人惊讶的洞察力的稀缺价值。作者指出，大多数见解要么普遍但平淡无奇（如老生常谈），要么惊人但不普遍（如八卦）。最有价值的领域——既普遍又惊人——往往因其价值而被快速占领。作者建议通过在普遍的想法中增加微小的新意来获取中等价值的见解。文章鼓励在产生新想法时保持耐心，即使看起来与已有想法相似，因为微小的变化也可能带来重大突破。它还强调不应因想法似曾相识而气馁，因为普遍概念中的微小新意也很有价值。",
+    "best_quote_en": "A small delta of novelty is all you'll be able to get most of the time. Which means if you take this route, your ideas will seem a lot like ones that already exist.",
+    "best_quote_zh": "大多数时候，你能获得的只是微小的新意。这意味着如果你选择这条路，你的想法会和已有的想法非常相似。"
+  },
+  {
+    "id": 202,
+    "title": "Donald Trump’s Dream Palace of Puffery",
+    "title_zh": "唐纳德·特朗普的吹嘘梦宫",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-dream-palace-of-puffery",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "Susan B. Glasser's scathing analysis of Trump's second term reveals a disturbing pattern of dismantling press freedom and creating an echo chamber of sycophantic media. The piece highlights how Trump systematically excludes critical journalists while favoring outlets like Real America's Voice, which openly admits to asking only flattering questions. This manufactured media environment allows Trump to present his false claims as validated by 'the media' while feeding his insatiable need for adulation. The Pentagon's recent press ban serves as a chilling preview of what's coming to the White House. Glasser warns that without journalistic scrutiny, Trump's already unchecked power will only grow more dangerous.",
+    "summary_zh": "格拉瑟的尖锐分析揭露了特朗普第二任期内削弱新闻自由的模式，他构建了一个吹捧者的媒体生态。文章指出特朗普排斥批评性记者，而青睐只会提奉承问题的媒体。这种操控媒体环境使特朗普能将谎言包装成媒体认可。五角大楼禁止记者采访是白宫未来的前奏。格拉瑟警告，缺乏媒体监督将使特朗普的权力更加难以约束。",
+    "best_quote_en": "There is no pleasing a leader whose need for affirmation is so bottomless.",
+    "best_quote_zh": "无法取悦一个渴望肯定如无底洞的领导人。"
+  },
+  {
+    "id": 203,
+    "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
+    "title_zh": "防脱落耳机/无国界大使馆/新兴游牧者工作中心",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/stay-put-earbuds-borderless-embassy-growing-nomad-hotspots/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "This article offers practical insights for digital nomads and frequent travelers. The first piece provides a genuine product recommendation for earbuds that stay put during travel, highlighting their features and value. The second section introduces Safety Wing's pop-up embassy in San Francisco, emphasizing the growing trend of creating infrastructure for nomadic lifestyles. The third part analyzes whether purchasing loyalty points can be worthwhile, offering a data-driven approach to evaluating promotions. Finally, it presents data on rising nomad work hubs, revealing interesting global trends. The content is particularly valuable for travelers seeking practical solutions and those interested in the evolving landscape of digital nomadism.",
+    "summary_zh": "这篇文章为数字游民和频繁旅行者提供了实用见解。第一部分推荐了一款旅行时不会掉落的耳机，突出其功能和性价比。第二部分介绍了Safety Wing在旧金山的临时大使馆，强调了为游牧生活创造基础设施的趋势。第三部分分析了购买忠诚度积分是否值得，提供了评估促销活动的数据驱动方法。最后，它展示了新兴游牧者工作中心的数据，揭示了有趣的全球趋势。内容特别适合寻求实用解决方案和对数字游民发展格局感兴趣的旅行者。",
+    "best_quote_en": "The 'sport' part refers to the fact that they go over your ear and stay snug, plus they're far easier to fall asleep with than headphones.",
+    "best_quote_zh": "“运动”部分指的是它们穿过你的耳朵并紧贴耳朵，而且比耳机更容易入睡。"
+  },
+  {
+    "id": 204,
+    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+    "title_zh": "必学：大脑如何运作并解读世界 | 大卫·伯森博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
+    "tags": [
+      "solve",
+      "science",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "This episode of Huberman Lab Essentials with Dr. David Berson offers a fascinating exploration of neurobiology, bridging fundamental research with practical applications. The discussion on melanopsin and circadian biology reveals how light influences our biological clocks, offering actionable insights for better sleep hygiene. The case study of neuroplasticity in the visual cortex demonstrates the brain's remarkable adaptability, while the examination of the vestibular system provides tools for managing motion sickness. Berson's expertise transforms complex neuroscience into understandable concepts, making this content valuable for both casual learners and professionals seeking to deepen their understanding of sensory processing and decision-making.",
+    "summary_zh": "大卫·伯森博士与哈伯曼实验室的这期对话，揭示了视觉感知、平衡调节与决策机制的奥秘。他用黑色素素发现解析光对生物钟的调节，为改善睡眠提供了实用建议。关于视觉皮层可塑性的案例，展现了大脑惊人的适应能力。这些专业见解将复杂的神经科学转化为易于理解的概念，适合求知若渴的大众和专业人士，探索感官处理与决策的深层机制。",
+    "best_quote_en": "The discovery of melanopsin completely changed our understanding of how light regulates circadian rhythms and melatonin release.",
+    "best_quote_zh": "黑色素素的发现彻底改变了我们对光如何调节昼夜节律和褪黑素分泌的理解。"
   }
 ]
