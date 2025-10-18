@@ -1,121 +1,5 @@
 [
   {
-    "id": 105,
-    "title": "The Risk of Human Disconnection",
-    "title_zh": "人类脱节的风险",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/xbqTZQdJ9hpTEAkiL/the-risk-of-human-disconnection",
-    "tags": [
-      "solve",
-      "tech-trends",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "技术趋势",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-28",
-    "summary_en": "The author presents a profound reflection on how modern technology, particularly AI and social media, is subtly eroding human connection. While the potential of AGI doesn't concern them as much, the current state of AI integration into daily life raises alarming questions. Students using LLMs as emotional substitutes, the illusion of connection through social media, and the cognitive overload from constant communication all contribute to a crisis of genuine human interaction. The author observes how technology creates both proximity and distance, fostering superficial relationships while draining us of the energy for meaningful ones. They warn of a potential evolutionary regression in our capacity for authentic connection and emphasize the need for ethical, social, and personal choices to preserve our humanity in the face of technological advancement.",
-    "summary_zh": "作者深刻反思现代技术，尤其是AI和社交媒体，如何悄然侵蚀人类联系。虽然AGI的潜力并未让他们担忧，但当前AI融入日常生活的现状引发深刻思考。学生将LLM视为情感寄托，社交媒体制造的联系幻觉，以及持续通讯带来的认知过载，共同导致真实人际交往的危机。作者观察到技术既拉近又疏远了我们，制造表面关系却耗尽深层连接的能量。他们警示人类可能退化至缺乏协作能力的时代，强调在技术进步面前需要通过伦理、社会和个人选择守护人性。",
-    "best_quote_en": "We are becoming more efficient, but we are learning self-reliance at the cost of human connection.",
-    "best_quote_zh": "我们正变得更高效，但以牺牲人际连接为代价学会了自力更生。"
-  },
-  {
-    "id": 106,
-    "title": "Grace and Disgrace",
-    "title_zh": "恩典与耻辱",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/06/grace-and-disgrace",
-    "tags": [
-      "solve",
-      "science",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "David Remnick's 'Grace and Disgrace' explores the profound contrast between acts of forgiveness after tragedy and the toxic political climate fostered by Donald Trump's presidency. The essay begins with the 2015 Charleston church massacre, where families of victims forgave the shooter Dylann Roof, and draws a stark comparison with the vengeful rhetoric at Charlie Kirk's memorial service. Remnick critiques Trump's divisive leadership, highlighting his attacks on democratic norms and spread of misinformation. The piece argues that true political progress comes not from expecting sudden conversions of leaders, but through persistent, grassroots civic engagement. The Charleston families' example of grace in the face of hatred offers a powerful counterpoint to Trump's politics of grievance, suggesting that meaningful change requires patient persuasion and moral courage.",
-    "summary_zh": "大卫·雷姆尼克的《恩典与耻辱》探讨了悲剧后的宽恕行为与特朗普政权的毒性政治气候之间的深刻对比。文章从2015年查尔斯顿教堂惨案开始，受害者家属宽恕凶手的行径，与查理·科克追悼会上充满报复性言论形成鲜明对比。雷姆尼克批评了特朗普破坏民主规范、散布误导性信息的行为。文章认为，真正的政治进步并非依赖领导人的突然转变，而是通过持续的基层公民参与。查尔斯顿家属在面对仇恨时展现的恩典，为特朗普的怨恨政治提供了强有力的反例，暗示着有意义的变革需要耐心的说服和道德勇气。",
-    "best_quote_en": "Grace is not weakness but resolve, the Charleston families believed, and politics, too, depends on a willingness to coax one another toward better ground.",
-    "best_quote_zh": "恩典不是软弱，而是决心，查尔斯顿家属相信这一点，而政治同样需要我们相互劝导，走向更美好的土地。"
-  },
-  {
-    "id": 107,
-    "title": "You Won’t Believe My Morning",
-    "title_zh": "你绝对不会相信我的今天",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2020-03-25",
-    "summary_en": "This surreal narrative explores the concept of multiple dimensions of human existence through a whimsical yet thought-provoking adventure. The protagonist is mysteriously shrunk to a minuscule size and transported to a hidden world coexisting with ours, revealing intricate societal structures and technological advancements far beyond our own. The story delves into themes of scale, perception, and human arrogance, using the COVID-19 pandemic as a catalyst for existential reflection. The microscopic civilization's attempt to use the virus as a tool for global unity highlights both the absurdity and potential of our collective human experience. The narrative's blend of humor and profound insight makes it a compelling exploration of our place in the universe and the limitations of human wisdom.",
-    "summary_zh": "这部充满奇幻色彩的叙事通过一个奇妙而引人深思的冒险探索了人类存在的多个维度。主人公被神秘地缩小到微小尺寸，并被传送到与我们共存的隐藏世界，揭示了远超我们认知的复杂社会结构和技术进步。故事通过尺度、感知和人类傲慢等主题展开，将新冠疫情作为存在反思的催化剂。微观文明试图利用病毒作为全球团结的工具，凸显了人类集体经验的荒谬与潜力。叙事中幽默与深刻洞见的结合，使其成为我们在宇宙中定位及人类智慧局限性的引人深思的探索。",
-    "best_quote_en": "Your world is stubborn about growing up. And in the process of destroying yourselves, we believe you’ll destroy us as well.",
-    "best_quote_zh": "你们的世界固执地拒绝成长。而在毁灭自身的过程中，我们相信你们也会毁灭我们。"
-  },
-  {
-    "id": 108,
-    "title": "我怎么这么厉害！｜一个征集",
-    "title_zh": "我怎么这么厉害！｜一个征集",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/5QCbHzCD5znjnsBA2xPN-w",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "leadership"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "领导管理"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "This content piece from '看理想' serves as a call-to-action for personal reflection and storytelling, inspired by actress Xin Zhirui's unexpected success at the Venice Film Festival. It encourages readers to share their own moments of personal achievement and transformation, framing these as 'turning points' in life. The piece exemplifies how public figures' success stories can inspire collective introspection and motivation. Its value lies in prompting self-examination and community engagement around personal growth narratives.",
-    "summary_zh": "看理想的这篇征集文章以辛芷蕾在威尼斯电影节的意外成功为引子，鼓励读者分享自身的人生转折点。这种公众人物的成功故事激发了集体性的自我反思，价值在于促进个人成长叙事的社区参与。",
-    "best_quote_en": "All the effort she put in is written in the years that have passed.",
-    "best_quote_zh": "属于她的人生转机在这一刻出现，但她为这一刻付出的所有努力，都一点点写在过往的岁月里。"
-  },
-  {
-    "id": 109,
-    "title": "在节奏、成就和连接里，35 岁的意义感",
-    "title_zh": "在节奏、成就和连接里，35 岁的意义感",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/XQe-HmXs2EAXU5nCQKDvwA",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "This reflective piece explores the three layers of meaningfulness as one approaches mid-life, drawing from psychological research and personal experience. The author shares how daily rituals create a sense of order and continuity, while personal achievements - both big and small - serve as tangible proof of growth. Most compelling is the exploration of intersubjectivity, where meaning emerges from becoming part of others' stories. The author's personal journey, from overcoming challenges to supporting others, illustrates how connection creates lasting significance. This is a thoughtful examination of how to cultivate meaning in everyday life, particularly relevant for those in their mid-30s seeking purpose.",
-    "summary_zh": "本文探讨了人到35岁时意义感的三个层次：节奏中的秩序感、成就带来的满足感以及与他人连接的共生意义。作者通过个人经历，如每日习惯、跑步挑战、留学决策和帮助他人的故事，展现了意义如何从日常细节中生长。尤其突出的是“互为主观”的概念，强调意义来自与他人深度交汇的过程。这是一篇关于在现代生活中寻找价值的深刻反思。",
-    "best_quote_en": "Meaning isn't something I make up alone, but emerges in the process of 'I walk into you, you walk into me.'",
-    "best_quote_zh": "意义既不是我独自想出来的，而是在这种'我走进了你，你也走进了我'的过程中生成的。"
-  },
-  {
     "id": 110,
     "title": "Is it true that … women snore less than men?",
     "title_zh": "真的存在女性打鼾比男性少的现象吗？",
@@ -2342,5 +2226,125 @@
     "summary_zh": "大卫·伯森博士与哈伯曼实验室的这期对话，揭示了视觉感知、平衡调节与决策机制的奥秘。他用黑色素素发现解析光对生物钟的调节，为改善睡眠提供了实用建议。关于视觉皮层可塑性的案例，展现了大脑惊人的适应能力。这些专业见解将复杂的神经科学转化为易于理解的概念，适合求知若渴的大众和专业人士，探索感官处理与决策的深层机制。",
     "best_quote_en": "The discovery of melanopsin completely changed our understanding of how light regulates circadian rhythms and melatonin release.",
     "best_quote_zh": "黑色素素的发现彻底改变了我们对光如何调节昼夜节律和褪黑素分泌的理解。"
+  },
+  {
+    "id": 205,
+    "title": "Where do babies come from? Robert F Kennedy Jr doesn’t seem to know | Arwa Mahdawi",
+    "title_zh": "罗伯特·F·肯尼迪·朱尼尔似乎不知道婴儿从何而来 | 阿尔瓦·马哈维",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/15/where-do-babies-come-from-robert-f-kennedy-jr-doesnt-seem-to-know",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This opinion piece critiques the lack of basic biological knowledge among certain US politicians, particularly Robert F Kennedy Jr, who recently confused the placenta with the uterus while discussing fetal development. The article highlights a pattern of ignorance about women's bodies among Republican lawmakers, citing multiple examples of misinformation and scientific illiteracy. The author argues that this ignorance is particularly concerning given these politicians' efforts to legislate women's reproductive rights. The piece serves as both a critique of political incompetence and a commentary on the dangerous consequences of such ignorance.",
+    "summary_zh": "该评论文章批评了部分美国政客对基本生物学知识的无知，特别是罗伯特·F·肯尼迪·朱尼尔最近将胎盘与子宫混淆的言论。文章指出共和党政客在妇女身体知识方面的普遍无知，并列举了多个误导性言论和科学文盲的例子。作者认为，这种无知在试图立法妇女生育权方面尤为令人担忧。该文既是对政治无能的批判，也是对这种无知危险后果的评论。",
+    "best_quote_en": "Foetuses, of course, develop in the uterus, not the placenta. It's possible, if we are being generous, that Kennedy misspoke.",
+    "best_quote_zh": "胎儿当然是在子宫中发育，而不是胎盘。如果我们宽容一些，也许肯尼迪只是口误。"
+  },
+  {
+    "id": 206,
+    "title": "Charisma / Power",
+    "title_zh": "魅力与权力",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pow.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "深度分析"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "This insightful piece explores the complex relationship between power and charisma, particularly how individuals who possess power but lack charisma often face disproportionate criticism. The author uses examples like Hillary Clinton and builder-type CEOs to illustrate this dynamic, suggesting that such criticism doesn't necessarily indicate unfitness for the role. Instead, it might signal that the person is precisely the right choice for the job. The article reflects on human nature and the inevitable tensions that arise from this dichotomy, offering a nuanced perspective on leadership and perception.",
+    "summary_zh": "文章深入剖析了权力与魅力之间的复杂关系，指出那些拥有权力却缺乏魅力的人往往成为批评的靶子。作者以希拉里·克林顿和以建设型CEO为例，说明这种现象并非意味着他们不适合担任职务，反而可能证明他们是最合适的人选。文章反思了人性本质与这种矛盾的必然性，为领导力与公众认知提供了独特视角。",
+    "best_quote_en": "Being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
+    "best_quote_zh": "成为批评的靶子有时并非意味着某人不适合某个职位，反而是他们是最合适的人选的标志。"
+  },
+  {
+    "id": 207,
+    "title": "The Last Columbia Protester in ICE Detention",
+    "title_zh": "最后一位被关押在移民局拘留中心的哥伦比亚抗议者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-last-columbia-protester-in-ice-detention",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "The story of Leqaa Kordia, a Palestinian woman detained in Texas for eight months, highlights the harsh realities of U.S. immigration policies and their disproportionate impact on marginalized communities. Kordia, who has lived in the U.S. since 2016, was detained under allegations of terrorism due to her participation in pro-Palestinian protests and financial support to her family in Gaza. The case underscores the intersection of immigration enforcement, political activism, and international conflict. Despite a federal judge's recommendation for her release, Kordia remains detained, facing potential deportation to a region where her life would be at risk. Her story challenges us to examine the ethical implications of immigration policies that criminalize activism and the broader systemic issues that leave vulnerable individuals like Kordia trapped in legal limbo.",
+    "summary_zh": "黎卡·科迪亚的故事揭示了美国移民政策的严酷现实及其对弱势群体的不成比例影响。这位2016年来美的巴勒斯坦女性因参与亲巴勒斯坦抗议和向加沙家人提供金钱支持而被控恐怖主义，至今已在德州被拘留八个月。尽管联邦法官建议释放她，但她仍面临遣返至生命受威胁地区的风险。这个案例促使我们反思将激进行为刑事化的移民政策及更广泛的系统性问题，这些问题使像科迪亚这样的弱势群体陷入法律困境。",
+    "best_quote_en": "To feel helpless—this is one of the most awful feelings in the world.",
+    "best_quote_zh": "感到无助——这世界上最可怕的感觉之一。"
+  },
+  {
+    "id": 208,
+    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
+    "title_zh": "甜心烘焙书 / 卡斯特罗的古巴",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
+    "tags": [
+      "inspire",
+      "society",
+      "politics",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "政治时事",
+      "新手友好"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The Sweetapolita Bakebook transforms ordinary baking into edible art, showcasing Rosie Alyea's vibrant creations that blend culinary skill with artistic vision. Her work elevates basic desserts to fine art through intricate decorating techniques and bold color palettes. Meanwhile, Castro's Cuba offers a historical perspective on Cuba's revolutionary period through Lee Lockwood's photographs and interviews. The book provides an intimate look at Fidel Castro's vision for Cuba, contrasting idealism with reality. Both works demonstrate how passion can manifest in different domains—culinary arts and political documentation—each offering unique insights into their respective worlds.",
+    "summary_zh": "《甜心烘焙书》将烘焙变为艺术，展现罗茜·阿莱亚对色彩与创意的热情，将甜点提升为美术品。而《卡斯特罗的古巴》则通过照片和采访，呈现古巴革命的历史与卡斯特罗的理想，反映不同领域中热情的独特表达。两书均值得深入探索。",
+    "best_quote_en": "Her cookies transcend bakery staples into the realm of fine art.",
+    "best_quote_zh": "她的曲奇饼干超越了传统烘焙范畴，进入了美术品的领域。"
+  },
+  {
+    "id": 209,
+    "title": "Three Observations",
+    "title_zh": "关于人工通用智能的三个观察",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/three-observations",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-02-09",
+    "summary_en": "This insightful piece explores the transformative potential of Artificial General Intelligence (AGI) and its economic implications. The authors present three key observations: 1) AI model intelligence scales with resources invested, 2) AI costs drop dramatically (10x every 12 months), and 3) the socioeconomic value of increasing intelligence is super-exponential. They envision a future where AI agents augment human capabilities across all knowledge work fields, comparing AGI's economic impact to the transistor revolution. The piece emphasizes the importance of societal adaptation, policy considerations, and equitable distribution of AGI benefits. It also warns about potential power imbalances between capital and labor, suggesting innovative solutions like universal 'compute budgets'. The authors express optimism about AGI enabling unprecedented human potential while acknowledging the need for careful integration into society.",
+    "summary_zh": "这篇文章深刻探讨了人工通用智能（AGI）的变革潜力及其经济影响。作者提出三个关键观察：1）AI模型智能随投入资源增长，2）AI成本每12个月下降10倍，3）智能提升的社会经济价值呈超指数增长。他们展望了AI代理在各知识领域增强人类能力的未来，将AGI的经济影响与晶体管革命相类比。文章强调了社会适应、政策考量和AGI福利均衡分配的重要性，并警示资本与劳动力之间可能出现的权力失衡，提出创新性解决方案如全球通用“计算预算”。作者对AGI释放人类潜力充满信心，同时承认需要谨慎将其融入社会。",
+    "best_quote_en": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
+    "best_quote_zh": "或许十年后，地球上每个人都能做到比今天最有影响力的人更多的事。"
   }
 ]
