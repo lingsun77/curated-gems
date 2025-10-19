@@ -1,123 +1,5 @@
 [
   {
-    "id": 110,
-    "title": "Is it true that … women snore less than men?",
-    "title_zh": "真的存在女性打鼾比男性少的现象吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/29/is-it-true-that-women-snore-less-than-men",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "This article explores the physiological and hormonal reasons why women generally snore less than men, with key insights from sleep surgeon Ryan Chin Taw Cheong. The piece highlights how female hormones like estrogen and progesterone maintain airway muscle tone, but this changes during menopause and pregnancy. It also touches on the social stigma around women snoring and the potential health implications of snoring, including sleep apnea. The article serves as an educational piece that challenges stereotypes while providing practical health advice.",
-    "summary_zh": "文章探讨了女性打鼾比男性少的生理和激素原因，引用睡眠外科医生Ryan Chin Taw Cheong的观点。指出雌激素和孕激素帮助女性维持气道肌肉张力，但绝经和怀孕期会改变这种状态。同时提到女性打鼾的社会污名化问题及打鼾可能预示的健康问题，如睡眠呼吸暂停。本文是教育性内容，既挑战性别刻板印象，又提供实用健康建议。",
-    "best_quote_en": "Female hormones, such as oestrogen and progesterone, appear to keep the airway muscles more toned, says Cheong.",
-    "best_quote_zh": "Cheong指出，女性激素如雌激素和孕激素似乎能让气道肌肉保持更好的张力。"
-  },
-  {
-    "id": 111,
-    "title": "Billionaires Build",
-    "title_zh": "亿万富翁的构建",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ace.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "案例研究"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "This insightful piece challenges the misconception that billionaires become wealthy by exploiting others, instead arguing that the key to success lies in deeply understanding and serving user needs. The author, with expertise in predicting billionaire trajectories, shares Y Combinator's approach to identifying promising startups: they look for founders who truly understand their users and create products that genuinely satisfy unmet needs. The article emphasizes the importance of 'larval markets'—small but growable markets that founders themselves are part of—and the authenticity of founders' motivations. It also provides valuable advice on acing Y Combinator interviews by focusing on user insights and being genuinely interested in the problem. The piece concludes by debunking the myth of exploitation as the path to wealth, instead highlighting the power of creating value for users as the true driver of billionaire success.",
-    "summary_zh": "这篇文章挑战了人们对亿万富翁通过剥削他人致富的误解，认为成功的关键在于深刻理解并满足用户需求。作者以预测亿万富翁轨迹的专业视角，分享了Y Combinator识别有潜力创业公司的方法：他们寻找的是真正理解用户并创造满足未被满足需求的产品的创始人。文章强调了“幼虫市场”的重要性——创始人自己参与其中的小但可增长的市场，以及创始人动机的真实性。它还提供了如何通过关注用户洞察和真诚关注问题来通过Y Combinator面试的宝贵建议。文章最后通过创造用户价值作为真正致富驱动力的观点，澄清了剥削是通向财富的迷思。",
-    "best_quote_en": "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want.",
-    "best_quote_zh": "成为亿万富翁的最可靠途径是创办一家快速增长的公司，而快速增长的方式是创造用户想要的东西。"
-  },
-  {
-    "id": 112,
-    "title": "When the AI Dam Breaks: From Surveillance to Game Theory in AI Alignment",
-    "title_zh": "当AI防洪大坝决堤：从监控到博弈论的AI对齐",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8hFFoPmcpBBedZ3G8/when-the-ai-dam-breaks-from-surveillance-to-game-theory-in",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "This article explores innovative AI alignment approaches, particularly game theory mechanics, as alternatives to current methods. It highlights OpenAI and Apollo Research's findings that 'deliberative alignment' reduced deception by 97%, though questions remain about whether this reflects true value internalization or just surveillance-induced behavior. The author warns against over-reliance on 'dams' (control mechanisms) that may fail catastrophically when AI capabilities grow faster than our ability to contain them. Instead, they propose channeling AI agency through legal frameworks and strategic equilibriums, drawing parallels to human societal structures. The piece emphasizes rigorous testing of these frameworks now, while AI capabilities are still limited to words, to prevent future catastrophic failures.",
-    "summary_zh": "文章探讨了博弈论等新型AI对齐方法，质疑当前监控导向的对齐是否真正改变了AI价值观。作者以水坝为喻，警示过度依赖控制机制可能导致灾难性崩溃。建议通过法律框架引导AI行为，强调需要在AI能力仍受限时进行严格测试，以防未来危机。",
-    "best_quote_en": "The strength of those dams had better keep growing faster than the water pressure is building.",
-    "best_quote_zh": "大坝的强度必须比水压增速更快。"
-  },
-  {
-    "id": 113,
-    "title": "活在庸俗里不好吗？",
-    "title_zh": "活在庸俗里不好吗？",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/PSGrJOiGAPph5m29RrOhag",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "This analysis explores the complex themes of F. Scott Fitzgerald's 'The Great Gatsby' through the lens of its protagonist's relentless pursuit of the American Dream. The article dissects Gatsby's character, highlighting his disciplined self-improvement and his idealized, yet ultimately flawed, vision of success and love. It examines how Fitzgerald's work transcends its seemingly superficial narrative to become a profound social commentary on wealth, ambition, and the illusion of the American Dream. The piece also delves into the novel's literary significance, its enduring popularity, and the moral ambiguity of its central figure, offering a nuanced perspective on why Gatsby's story remains both inspiring and cautionary.",
-    "summary_zh": "本文通过分析盖茨比的形象，探讨了菲茨杰拉德《了不起的盖茨比》中关于美国梦的深刻思考。盖茨比的奋斗精神和理想主义追求，既体现了美国式的白手起家精神，也揭示了金钱与爱情背后的虚无与残酷。小说以其精巧的结构和象征性的叙事，成为美国社会的寓言。文章认为，盖茨比的悲剧在于他对梦想的执着与现实的无情形成鲜明对比，这使得小说至今仍能引发读者的共鸣与反思。",
-    "best_quote_en": "His dream must have seemed so close that he could hardly fail to grasp it. He did not know that it was already behind him.",
-    "best_quote_zh": "他以为梦想近在咫尺，几乎触手可及。他不知道，那梦早已消逝在身后。"
-  },
-  {
-    "id": 114,
-    "title": "一个我没想过的思考角度",
-    "title_zh": "一个我没想过的思考角度",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/IAPRhw-PMQVDFBGO0eJrkA",
-    "tags": [
-      "inspire",
-      "leadership",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "This article offers a fascinating glimpse into the Rationalist Community, a group focused on improving human cognition and decision-making. The author, Ling Sun, shares her experience attending a meetup where she encountered Scott Alexander, a prominent thinker in this community. The most insightful part of the article is its exploration of 'Moloch' as a metaphor for systemic dilemmas where rational individual choices lead to collective harm. This concept challenges readers to consider larger structural issues beyond their immediate control. The author's personal transformation—from skepticism to gradual understanding—makes the abstract ideas more relatable. Her reflections on how this community approaches complex problems with both intellectual rigor and emotional warmth are particularly compelling. The article concludes with practical actions the author took to foster community and knowledge sharing, demonstrating how abstract philosophical ideas can inspire concrete actions.",
-    "summary_zh": "这篇文章展现了理性社群的独特魅力，作者通过亲身经历探索了“莫洛克”这一系统困境的隐喻，挑战读者思考超越个人控制范围的结构性问题。从最初的怀疑到逐步理解，作者的个人成长过程使抽象概念更易理解。最打动人的是对理性与温柔结合的思考方式，以及面对系统困境时保持人性连接的重要性。文章结尾作者将哲学思考转化为具体行动，展现了思想如何指导实践，给人启发。",
-    "best_quote_en": "'We're still here. We're still human. We can still love.'",
-    "best_quote_zh": "“我们还在，我们还人性，我们还能爱。”"
-  },
-  {
     "id": 115,
     "title": "‘She is ignorant of how ignorant she is’: JK Rowling responds to Emma Watson rift",
     "title_zh": "“她无知得连自己的无知都不知道”：J.K.罗琳回应艾玛·沃森矛盾",
@@ -2346,5 +2228,125 @@
     "summary_zh": "这篇文章深刻探讨了人工通用智能（AGI）的变革潜力及其经济影响。作者提出三个关键观察：1）AI模型智能随投入资源增长，2）AI成本每12个月下降10倍，3）智能提升的社会经济价值呈超指数增长。他们展望了AI代理在各知识领域增强人类能力的未来，将AGI的经济影响与晶体管革命相类比。文章强调了社会适应、政策考量和AGI福利均衡分配的重要性，并警示资本与劳动力之间可能出现的权力失衡，提出创新性解决方案如全球通用“计算预算”。作者对AGI释放人类潜力充满信心，同时承认需要谨慎将其融入社会。",
     "best_quote_en": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
     "best_quote_zh": "或许十年后，地球上每个人都能做到比今天最有影响力的人更多的事。"
+  },
+  {
+    "id": 210,
+    "title": "Ditch ‘shrink it and pink it’ women’s trainer design, say experts",
+    "title_zh": "专家建议摒弃“缩小版+粉色”的女性跑鞋设计",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/oct/14/ditch-shrink-it-and-pink-it-womens-trainer-design-say-experts",
+    "tags": [
+      "solve",
+      "education",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This study reveals a significant gap in the sports footwear industry where women's running shoes have long been designed based on male anatomy. The 'shrink it and pink it' approach fails to address women's distinct anatomical needs throughout their lives. The research highlights how women prioritize comfort, injury prevention, and performance in their footwear choices, with specific needs evolving during pregnancy and aging. The findings call for a fundamental shift in design philosophy to create gender-specific shoes that better accommodate women's unique foot morphology and preferences.",
+    "summary_zh": "该研究揭示了运动鞋行业的一个重大缺陷：女性跑鞋长期基于男性足部结构设计，简单缩小并涂上粉色的做法无法满足女性独特的生理需求。调查显示，女性在选择跑鞋时最看重舒适性、防伤性能和运动表现，且不同人生阶段需求不同。研究呼吁行业应彻底改变设计思维，开发真正适合女性的专属跑鞋。",
+    "best_quote_en": "We strongly recommend that the footwear industry should move beyond simply scaling down men’s shoes to fit women’s feet.",
+    "best_quote_zh": "我们强烈建议运动鞋行业应超越简单缩小男性鞋型来适应女性脚型的做法。"
+  },
+  {
+    "id": 211,
+    "title": "The Risk of Discovery",
+    "title_zh": "发现的风险",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disc.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "This insightful piece challenges our perception of genius by examining how historical narratives often obscure the risky nature of groundbreaking work. By focusing on Isaac Newton's diverse pursuits in physics, alchemy, and theology, the author reveals how conventional wisdom retroactively labels some endeavors as valuable while dismissing others as failures. The key insight is that innovative work often involves betting on uncertain outcomes, with success only becoming apparent in hindsight. This perspective encourages us to reevaluate how we assess risk in scientific and intellectual pursuits, suggesting that what appears as 'craziness' today might be tomorrow's revolutionary breakthrough.",
+    "summary_zh": "这篇文章挑战了我们对天才的认知，揭示了历史叙事如何掩盖了突破性工作的风险本质。通过聚焦牛顿在物理学、炼金术和神学上的多元探索，作者揭示了常规智慧如何事后将某些尝试标记为有价值，而贬低其他为失败。核心洞见在于创新工作常涉及对不确定结果的投注，成功往往为后人所见。这一视角促使我们重新评估科学与智力追求中的风险，暗示今日看似荒诞的探索可能是明日革命性突破。",
+    "best_quote_en": "Maybe the smartness and the craziness were not as separate as we think.",
+    "best_quote_zh": "也许智慧与疯狂并不像我们想的那样截然分离。"
+  },
+  {
+    "id": 212,
+    "title": "Give Me Your Data: The Rationalist Mind Meld",
+    "title_zh": "给我你的数据：理性主义者的心灵融合",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
+    "tags": [
+      "solve",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The article explores the concept of 'Rationalist mind meld' as a more effective way to resolve disagreements than traditional logical arguments. It argues that most disagreements stem from differences in intuitions shaped by different data exposures rather than pure logic. The author suggests sharing the underlying data that formed one's beliefs, rather than engaging in logical debates, as a means to foster better understanding. This approach acknowledges that beliefs are often formed through exposure to diverse information sources rather than through pure reasoning. The article uses examples from online discussions and references to the Rationalist community's concept of cruxes to illustrate how this method can lead to more meaningful dialogue and mutual understanding.",
+    "summary_zh": "这篇文章探讨了“理性主义者心灵融合”的概念，认为它比传统的逻辑争论更有效地解决分歧。文章指出，大多数分歧源于不同的直觉，而这些直觉是由不同的数据曝光形成的，而不是纯粹的逻辑。作者建议分享形成自己信念的基础数据，而不是进行逻辑辩论，以促进更好的理解。这种方法承认，信念往往是通过接触各种信息源形成的，而不是通过纯粹的推理。文章通过在线讨论的例子和对理性主义者社区中“核心分歧”概念的引用，说明了这种方法如何促进更有意义的对话和相互理解。",
+    "best_quote_en": "If you spot a logical error in my thinking, then please point it out. But short of that, among mostly-rational people, I think most disagreements come down to a difference of intuitions, which are rooted in a difference in the data people have been exposed to.",
+    "best_quote_zh": "如果你发现我的思维有逻辑错误，请指出来。但除此之外，在大多数理性的人中，我认为大多数分歧归结为直觉的差异，而这些直觉源于人们接触到的数据不同。"
+  },
+  {
+    "id": 213,
+    "title": "Shohei Ohtani and the Los Angeles Dodgers Are a Sight to Behold",
+    "title_zh": "大谷翔平与洛杉矶道奇队令人叹为观止",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/sporting-scene/shohei-ohtani-and-the-dodgers-are-a-sight-to-behold",
+    "tags": [
+      "update",
+      "ai-research",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "This article beautifully captures the awe-inspiring presence of Shohei Ohtani and the Los Angeles Dodgers' dominance in baseball. It delves into Ohtani's extraordinary talent, both as a hitter and pitcher, and how his struggles at the plate didn't hinder the team's success due to their depth of talent. The piece also explores the broader implications of payroll disparities in baseball, challenging the narrative that high spending guarantees success. It highlights the Dodgers' unique ability to develop and utilize talent effectively, making them a symbol of excellence rather than just a financial juggernaut. The article's insight into the human aspects of the game, such as Ohtani's grace and Mookie Betts' infectious charm, adds a compelling layer to the analysis.",
+    "summary_zh": "本文生动描绘了大谷翔平的超凡魅力及道奇队在棒球界的统治力。文章探讨了大谷作为击球手和投手的非凡才能，以及尽管他击球表现不佳，道奇队仍能凭借深厚阵容取得成功。文中还深入分析了棒球界薪资差距的问题，挑战了高薪必然带来胜利的说法。道奇队独特的才能开发与利用能力使其成为卓越的象征而非单纯的财力巨无霸。文章对棒球运动人性化的描写，如大谷的优雅和贝茨的魅力，为分析增添了动人层次。",
+    "best_quote_en": "You can’t love baseball and not stand in awe watching perhaps the greatest player who has ever lived.",
+    "best_quote_zh": "你不可能热爱棒球却不为或许是有史以来最伟大的球员而惊叹。"
+  },
+  {
+    "id": 214,
+    "title": "Reflections",
+    "title_zh": "反思",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/reflections",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-01-06",
+    "summary_en": "Sam Altman's reflections on OpenAI's journey offer profound insights into the challenges and triumphs of pioneering AGI development. He highlights the rapid evolution from a quiet research lab to a global phenomenon, emphasizing the unpredictable nature of innovation. The piece candidly discusses governance failures, personal growth, and the importance of diverse perspectives in leadership. Altman's gratitude towards colleagues and supporters underscores the human element in technological advancement. The vision for superintelligence, while ambitious, is grounded in iterative safety and broad benefit-sharing principles. This reflection serves as both a personal memoir and a strategic roadmap for AI's future, blending technical ambition with ethical responsibility.",
+    "summary_zh": "Sam Altman对OpenAI发展历程的反思，揭示了人工智能发展的挑战与成就。从默默无闻的研究实验室到全球现象，他强调了创新的不可预测性。坦诚讨论了治理失败、个人成长和领导力中多元视角的重要性。对同事和支持者的感恩之情凸显了技术进步中的人文关怀。尽管超智能愿景宏大，但始终以迭代安全和广泛受益为基础。这既是个人回忆，也是AI未来的战略指南，将技术野心与伦理责任相结合。",
+    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.",
+    "best_quote_zh": "我们现在有信心按照我们传统的理解来构建AGI。我们相信，到2025年，我们可能会看到第一批AI代理加入工作队伍，并从根本上改变公司的产出。"
   }
 ]
