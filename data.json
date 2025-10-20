@@ -1,121 +1,5 @@
 [
   {
-    "id": 115,
-    "title": "‘She is ignorant of how ignorant she is’: JK Rowling responds to Emma Watson rift",
-    "title_zh": "“她无知得连自己的无知都不知道”：J.K.罗琳回应艾玛·沃森矛盾",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2025/sep/29/jk-rowling-responds-to-emma-watson",
-    "tags": [
-      "solve",
-      "politics",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "JK Rowling's response to Emma Watson highlights a deep ideological divide over transgender rights that transcends their Harry Potter legacy. The author's sharp critique of Watson's 'ignorance' reveals fundamental differences in their worldviews, particularly regarding the implications of gender identity ideology on women's rights. Rowling's personal experiences with poverty and the threats she faced contrast starkly with Watson's privileged perspective, underscoring how differing life experiences shape these contentious views. This clash represents a broader cultural debate about gender, identity, and the tension between progressive ideals and the protection of biological sex-based rights. The exchange invites reflection on how fame, wealth, and personal background influence public stances on complex social issues.",
-    "summary_zh": "罗琳对沃森的回应揭示了关于跨性别权利的深层意识形态分歧，超越了《哈利波特》的合作关系。她对沃森“无知”的批评反映了两人在性别认同意识形态对妇女权利影响上的根本分歧。罗琳的贫困经历与面临的威胁与沃森的特权视角形成鲜明对比，凸显不同生活经历如何塑造对复杂社会问题的立场。这场争论引发了对名誉、财富与个人背景如何影响公众立场的思考。",
-    "best_quote_en": "\"Like other people who’ve never experienced adult life uncushioned by wealth and fame, Emma has so little experience of real life she’s ignorant of how ignorant she is\"",
-    "best_quote_zh": "“像其他从未经历过没有财富和名誉保护的成年生活的人一样，艾玛对现实生活的经验如此之少，以至于她不知道自己是多么无知”"
-  },
-  {
-    "id": 116,
-    "title": "The Airbnbs",
-    "title_zh": "The Airbnbs",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/airbnbs.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "This article provides an intimate look at Airbnb's early struggles and the relentless determination of its founders. The key insight is how the Airbnb team's genuine passion and unique personal experience as hosts drove their persistence through extreme adversity. The piece highlights their work ethic, adaptability, and focus on solving real problems for both hosts and guests. It also reveals how they achieved early traction by concentrating on high-demand markets and improving the quality of listings. The narrative offers valuable lessons about startup resilience, the importance of founder attitude, and the power of focusing on a specific market segment to drive growth.",
-    "summary_zh": "这篇文章深入讲述了Airbnb早期的艰难历程和创始人的顽强精神。关键点在于Airbnb团队的真诚热情和作为房东的独特体验推动了他们在极端困境中的坚持。文章突出了他们拼命的工作态度、适应能力以及解决房东和房客实际问题的决心。还揭示了他们通过关注高需求市场和提升列表质量实现早期增长的策略。这个故事为初创公司的韧性、创始人态度的重要性以及专注特定市场以推动增长提供了宝贵的经验。",
-    "best_quote_en": "They knew they'd discovered something. They'd seen a glimpse of the future, and they couldn't let it go.",
-    "best_quote_zh": "他们知道自己发现了什么。他们瞥见了未来的模样，无法放手。"
-  },
-  {
-    "id": 117,
-    "title": "What is the Base Model Simulation of Human AI-Assistant Conversation?:",
-    "title_zh": "人类与AI助手对话的基础模型模拟是什么？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8Pkw6QsQqBuxSFqmf/what-is-the-base-model-simulation-of-human-ai-assistant",
-    "tags": [
-      "learn",
-      "ai-research",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "This article presents a fascinating exploration of how internet perceptions of AI assistants might be shaping the development of next-generation AI models. The author conducted an experiment using the DeepSeek v3.1 base model to simulate conversations between humans and hypothetical future AI assistants (Claude-5, GPT-5, and Grok-5). The study revealed interesting patterns, including the model's tendency to fill in details about the interaction and occasionally diverge into incoherent or role-playing scenarios. The findings suggest that current base models may be learning from internet discussions about AI, potentially including conversations between LLMs themselves. The article raises important questions about what should be filtered from AI training data and how these models might develop unintended behaviors or personas.",
-    "summary_zh": "这篇文章深入探讨了互联网对AI助手认知的影响如何塑造下一代AI模型的发展。作者通过DeepSeek v3.1基础模型模拟了人类与假设的未来AI助手（Claude-5、GPT-5和Grok-5）的对话，发现了一些有趣的模式。研究显示，基础模型常常会补充对话细节，偶尔偏离主题进入不一致或角色扮演的场景。这些发现表明当前基础模型可能在学习互联网上关于AI的讨论，甚至包括LLM之间的对话。文章提出了关于AI训练数据应过滤什么内容以及这些模型可能发展出不期望的行为或人格特征的重要问题。",
-    "best_quote_en": "The most concerning pattern was Claude 3.5 considering the forever comforting and always available therapist AI to be aligned.",
-    "best_quote_zh": "最令人担忧的模式是Claude 3.5认为永远安慰和随时可用的治疗AI是对齐的。"
-  },
-  {
-    "id": 118,
-    "title": "内娱还是拍出过顶级爱情剧的",
-    "title_zh": "内娱还是拍出过顶级爱情剧的",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/LUDUgIbqvAn2kN8-nPWq3A",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "This article provides a profound analysis of the 2002 Chinese television drama 'The Orange Turns Red' and its cultural significance. The piece contrasts the original novel's tragic ending with the commercial short drama's happy conclusion, highlighting how the original drama, directed by Li Shaohong, preserved the novel's somber tone and offered a critical examination of love in the context of late Qing Dynasty societal constraints. The article explores themes of gender dynamics, false progressivism, and the illusions of love and freedom, using the drama as a lens to discuss broader societal issues. It's a thought-provoking critique that invites viewers to reconsider what they believe about love and societal structures.",
-    "summary_zh": "这篇文章深入分析了2002年电视剧《橘子红了》的艺术价值与社会意义，对比了原著悲剧结局与短剧改编的喜剧收场，突出了李少红版本保留原著凄凉底色并批判性反思爱情本质的深度。文章通过晚清社会背景下的性别关系、伪进步主义与爱情幻象等主题，以电视剧为切入点展开对社会结构的批判性思考，引发读者对爱情与自由本质的重新审视。",
-    "best_quote_en": "'I not only love one person, I love everyone. I don't want anyone to be hurt.'",
-    "best_quote_zh": "“我不仅爱一个人，我爱所有的人，我不希望任何人被伤害。”"
-  },
-  {
-    "id": 119,
-    "title": "我曾深信的心理学实验，后来却被推翻了",
-    "title_zh": "我曾深信的心理学实验，后来却被推翻了",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/4Xw-W8Qwo8jHEcDYpqmroA",
-    "tags": [
-      "inspire",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "The article explores the fascinating yet problematic phenomenon of psychology experiments that initially gained widespread acceptance but later failed replication tests. The author shares personal experiences of practicing popular experiments like the 'pen-smiling' technique and 'power posing,' which were later debunked by larger-scale studies. This 'reproducibility crisis' in psychology is attributed to factors like publication bias favoring positive results, flexible data analysis, small sample sizes, and academic incentives prioritizing novelty over verification. The author reflects on how these findings challenged her beliefs but ultimately reinforced the value of scientific inquiry and the importance of holding beliefs with openness rather than rigid certainty.",
-    "summary_zh": "文章探讨了心理学实验被推翻的现象，从作者亲身实践到学术界的重复性危机。这种现象源于期刊偏好显著结果、数据分析灵活性、样本量小和学术激励机制。作者反思后认为，科学的价值在于不断验证和推翻，而信念的意义在于当下的支持作用，保持开放态度才是关键。",
-    "best_quote_en": "The value of science lies in its ability to be tested and overturned. The crisis isn't failure, but a method of progress.",
-    "best_quote_zh": "科学的价值在于它能被检验和推翻。危机不是失败，而是进步的方式。"
-  },
-  {
     "id": 120,
     "title": "Tech bros want women to have more babies. But they’re going about it the wrong way | Emma Beddington",
     "title_zh": "科技男希望女性多生孩子。但他们做法不对 | 爱玛·贝丁顿",
@@ -2348,5 +2232,121 @@
     "summary_zh": "Sam Altman对OpenAI发展历程的反思，揭示了人工智能发展的挑战与成就。从默默无闻的研究实验室到全球现象，他强调了创新的不可预测性。坦诚讨论了治理失败、个人成长和领导力中多元视角的重要性。对同事和支持者的感恩之情凸显了技术进步中的人文关怀。尽管超智能愿景宏大，但始终以迭代安全和广泛受益为基础。这既是个人回忆，也是AI未来的战略指南，将技术野心与伦理责任相结合。",
     "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.",
     "best_quote_zh": "我们现在有信心按照我们传统的理解来构建AGI。我们相信，到2025年，我们可能会看到第一批AI代理加入工作队伍，并从根本上改变公司的产出。"
+  },
+  {
+    "id": 215,
+    "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
+    "title_zh": "《卫报》关于分娩与医疗疏忽的观点：赔偿金上升凸显产科改进的紧迫性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "This Guardian editorial highlights the alarming rise in medical negligence cases in maternity care, with NHS payouts quadrupling in 20 years. The article examines systemic failures in maternity services, including poor staff collaboration, weak leadership, and inadequate staffing, which have led to preventable deaths and injuries. It critiques the government's response as insufficient, noting that agreed targets for reducing maternal and neonatal deaths are likely to be missed. The piece emphasizes that improving maternity care requires addressing complex factors like demographic changes and staff workloads, rather than relying on simplistic solutions. The editorial serves as a stark reminder of the urgent need for meaningful reform in this critical area of healthcare.",
+    "summary_zh": "《卫报》社论揭露英国产科服务存在系统性缺陷，医疗疏忽赔偿金20年增长4倍。分析指出，临床协作不足、领导力薄弱、人员配置不足等问题导致不可避免的死亡和伤害。对政府应对措施不足提出批评，强调产妇和新生儿死亡率减半目标可能无法实现。文章指出，提升产科服务需要综合考虑人口变化和工作量等复杂因素，而非简单方案。这一社论警示产科改革刻不容缓。",
+    "best_quote_en": "'Poor care is all-too-frequently tolerated as normal, and women are treated as an inconvenience'",
+    "best_quote_zh": "“差的护理常常被视为正常，而女性被当作麻烦”"
+  },
+  {
+    "id": 216,
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "title_zh": "如何让匹兹堡成为创业中心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pgh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "This insightful talk reveals Pittsburgh's untapped potential as a startup hub, leveraging its unique advantages like affordable housing, historic architecture, and a growing young population. The author argues that the city's food scene is a leading indicator of its appeal to 25-29 year olds - the demographic that fuels startup ecosystems. Unlike typical startup advice, the author emphasizes organic growth through cultural preservation and university excellence rather than forced innovation programs. The key insight is that Pittsburgh's path to becoming a tech hub mirrors its historic identity as a place of tolerance and pragmatic innovation. While investor capital remains a challenge, trends in affordable startup costs and remote funding options mitigate this hurdle.",
+    "summary_zh": "这篇演讲揭示了匹兹堡作为创业中心的潜力，利用其独特优势：经济适用的住房、历史建筑和不断增长的年轻人口。作者认为，食品场景是吸引25-29岁群体的先兆，而这一年龄段正是推动创业生态的核心力量。不同于常规的创业建议，作者强调通过文化保护和大学优势实现有机增长，而非强制推动创新项目。关键洞察在于匹兹堡成为科技中心的道路与其作为包容和务实创新之地的历史身份相符。尽管投资资本仍是挑战，但低成本创业和远程融资等趋势缓解了这一瓶颈。",
+    "best_quote_en": "The way to get innovation is not to aim for innovation but to aim for something more specific, like better batteries or better 3D printing.",
+    "best_quote_zh": "获得创新的方式不是追求创新本身，而是要专注于更具体的目标，比如更好的电池或更好的3D打印技术。"
+  },
+  {
+    "id": 217,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "solve",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "The announcement of GPT-4o highlights two transformative aspects: democratizing access to advanced AI tools and introducing a revolutionary voice and video interface. OpenAI's commitment to providing world-class AI models for free aligns with their mission to create widespread benefits. The shift from creating AI applications themselves to enabling others to build amazing things represents an evolution in their business model. The new voice mode, described as the best computer interface ever, achieves human-level response times and expressiveness, making human-computer interaction feel natural. This advancement opens possibilities for personalized AI assistance and expanded capabilities. The announcement reflects both technical achievement and a vision for AI's future role in enhancing human productivity and interaction.",
+    "summary_zh": "GPT-4o的发布聚焦两大突破：让先进AI工具普惠大众和引入革命性的语音视频交互。OpenAI坚持提供顶级AI模型免费使用，体现其造福全人类的使命。从自建应用转向赋能他人创新，标志着商业模式的进化。新语音模式被誉为最佳计算机界面，实现了人类级响应速度和表达力，让人机交互变得自然流畅。这一突破预示着个性化AI助手和扩展功能的可能性。发布不仅展示技术成就，更呈现了AI赋能人类提升效率与互动的未来愿景。",
+    "best_quote_en": "Talking to a computer has never felt really natural for me; now it does.",
+    "best_quote_zh": "和电脑交流从未让我觉得自然；现在感觉到了。"
+  },
+  {
+    "id": 218,
+    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "title_zh": "蒂姆·费里斯秀访谈记录：尼克·科科纳斯和诺贝尔经济学奖得主理查德·塞勒——现实经济学、避免赢家诅咒、使用诱惑捆绑法以及对抗体制 (#830)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
+    "tags": [
+      "learn",
+      "economics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "经济金融",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "This podcast transcript offers a deep dive into behavioral economics through the conversation between Tim Ferriss, Nick Kokonas, and Nobel laureate Richard Thaler. Thaler, known for his contributions to behavioral economics, challenges traditional economic models that assume perfect rationality and selfishness. He highlights the limitations of these models, which often fail to account for human behavior in real-world scenarios. The discussion covers key concepts like loss aversion, the winner's curse, and the importance of fairness in economic decisions. Kokonas shares practical examples from his business ventures, demonstrating how behavioral economics principles can be applied to solve real-world problems. The conversation also touches on the replication crisis in psychology and the enduring relevance of behavioral economics anomalies. Thaler's new book, co-authored with Alex Imas, revisits these anomalies to see if they hold up under scrutiny. The podcast is a fascinating exploration of how understanding human behavior can lead to better economic theories and more effective business strategies.",
+    "summary_zh": "这段播客访谈记录通过蒂姆·费里斯、尼克·科科纳斯和诺贝尔经济学奖得主理查德·塞勒的对话，深入探讨了行为经济学。塞勒以行为经济学的贡献闻名，挑战了传统经济模型中关于人类理性和自私的假设。他指出，这些模型常常无法解释现实中的人类行为。讨论涵盖了损失厌恶、赢家诅咒和经济决策中的公平性等关键概念。科科纳斯分享了他从商业实践中获得的实例，展示了行为经济学原理如何解决现实问题。对话还触及心理学中的复制危机以及行为经济学异常现象的持久相关性。塞勒与阿莱克斯·伊马斯合著的新书重新审视这些异常现象，以检验它们是否经得起时间考验。这段播客是一场关于如何通过理解人类行为来改进经济理论和商业策略的精彩探索。",
+    "best_quote_en": "It might be the guys that are in that Uber for five grand, but even they are going to be a little pissed. But more importantly to Uber, if they did that — the thing is, at the time, when they would have these surges of 10X, they were not making any money off of that, it would be fleeting. So, they'd make a little bit of money just like if Nick had sold one dinner reservation for 10 grand. Yeah, he'd make 10 grand but he'd have thousands of people writing articles.",
+    "best_quote_zh": "也许那些坐着5000美元的Uber的人会有点生气。但更重要的对Uber来说，如果他们那样做了——当时，当他们出现10倍的涨价时，他们并没有从中赚到任何钱，只是昙花一现。他们可能赚到一点钱，就像尼克卖出一份1万美元的晚餐预订一样。是的，他会赚到1万美元，但会有成千上万的人写文章批评他。"
+  },
+  {
+    "id": 219,
+    "title": "2025年国庆假期能做的6件小事",
+    "title_zh": "2025年国庆假期能做的6件小事",
+    "source": "L先生说",
+    "link": "https://mp.weixin.qq.com/s/9tnmoYyMjZZeHEYRfkf-oA",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "This article offers a thoughtful guide to making the most of the upcoming National Day holiday by suggesting six meaningful activities. The author, who has been practicing this for years, emphasizes the importance of creating anticipation, reconnecting with one's body, engaging in deep conversations, experiencing awe through history, starting a personal memoir, and sharing insights online. Each activity is designed to bring joy, self-awareness, and connection, transforming the holiday into a period of personal growth rather than mere leisure. The article stands out for its practical advice and psychological insights, making it valuable for readers seeking to add depth to their holiday plans.",
+    "summary_zh": "文章为国庆假期提供六个充实生活的建议，从创建兴趣日历到重建身体感知，再到深度社交和历史体验，每个建议都蕴含深刻的心理洞察。作者通过这些活动引导读者在假期中寻找意义，超越普通休闲，实现自我成长。文章以亲切的语气分享个人实践，读来如沐春风，令人反思生活方式。",
+    "best_quote_en": "People are creatures that live in anticipation. Often, what makes us happy isn't just how we're doing in the moment, but what hopes we hold for the future.",
+    "best_quote_zh": "人是一种活在期待里的生物。许多时候，令我们感到开心和幸福的，其实不仅仅是当下过得如何，更重要的或许是对未来抱持着什么样的希望。"
   }
 ]
