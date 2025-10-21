@@ -1,123 +1,5 @@
 [
   {
-    "id": 120,
-    "title": "Tech bros want women to have more babies. But they’re going about it the wrong way | Emma Beddington",
-    "title_zh": "科技男希望女性多生孩子。但他们做法不对 | 爱玛·贝丁顿",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/sep/28/birth-rates-women-babies-tech-bros",
-    "tags": [
-      "solve",
-      "politics",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2025-09-28",
-    "summary_en": "Emma Beddington critiques tech elites' misguided approaches to addressing declining birth rates, arguing their solutions lack imagination and understanding of real parental struggles. She proposes creative alternatives like 'birth row meals,' enhanced baby boxes, and radical birth innovations, while exposing the absurdity of current pronatalist efforts. The piece blends sharp social commentary with satirical solutions, highlighting the disconnect between tech billionaires' ideas and actual parenting realities. It's a thought-provoking take on how societal structures fail new parents and what truly meaningful support might look like.",
-    "summary_zh": "爱玛·贝丁顿批评科技精英应对生育率下降的无效方案，认为其缺乏创意且忽视育儿现实。她提出创新性解决方案如“生育餐”“升级婴儿包”等，揭露当前生育政策的荒谬。文章将尖锐社会评论与讽刺性建议结合，凸显社会对新生儿家庭支持的失效与真正需求的错位。",
-    "best_quote_en": "Unless you've solo wrangled multiple children with a postpartum core and undercarriage, you have no business having an opinion on anyone's womb.",
-    "best_quote_zh": "除非你独自应付过多个孩子的产后恢复，否则你无权对任何人的子宫指手画脚。"
-  },
-  {
-    "id": 121,
-    "title": "How to Think for Yourself",
-    "title_zh": "如何学会独立思考",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/think.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "This essay explores the critical distinction between work that requires independent thinking and work that merely demands correctness. The author argues that fields like science, investing, and entrepreneurship reward novel insights, while many other professions prioritize conformity. The piece delves into the nature of independent-mindedness, identifying three key components: fastidiousness about truth, resistance to being told what to think, and curiosity. The author suggests that these qualities can be cultivated through intentional practices like surrounding oneself with unconventional thinkers, questioning assumptions, and following one's curiosity. The essay also discusses the challenges of maintaining independent thought in environments that favor conformity, such as growing startups or social media platforms. Ultimately, the author presents independent-mindedness not just as a cognitive skill but as a way of engaging with the world that leads to more interesting and valuable ideas.",
-    "summary_zh": "这篇文章探讨了工作中独立思考的重要性，区分了需要创新思维的职业（如科学研究、投资、创业）与仅需正确执行的工作。作者认为独立思考由三要素构成：对真理的严谨态度、抵制他人观念的影响以及强烈的好奇心。通过与非传统思维者交流、质疑常规观点和追求兴趣等方式，这些品质可以培养。文章还分析了在倾向于从众的环境中保持独立思考的困难，如成长中的初创公司或社交媒体平台。最终，作者认为独立思考不仅是一种认知能力，更是一种引导人们产生更有价值创意的生活方式。",
-    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
-    "best_quote_zh": "最有可能发现新想法的地方，是别人没有关注的领域。"
-  },
-  {
-    "id": 122,
-    "title": "Lectures on statistical learning theory for alignment researchers",
-    "title_zh": "面向对齐研究者的统计学习理论讲座",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/yAwnYoeCz7PqeNrtL/lectures-on-statistical-learning-theory-for-alignment",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "This lecture series offers a comprehensive introduction to statistical learning theory tailored specifically for alignment researchers. Organized by Gergely Szucs and Alex Flint, it includes both lectures and homework discussions, providing essential background knowledge for those entering learning-theoretic research. The inclusion of supplementary resources like MATS lectures and LTA reading lists enhances its educational value. The call to action for applying to the PIBBSS fellowship adds a practical dimension, making this resource both educational and actionable for aspiring researchers. The privacy note demonstrates ethical consideration, adding to the content's credibility.",
-    "summary_zh": "这系列讲座为对齐研究者量身定制，系统讲解统计学习理论。由Gergely Szucs和Alex Flint组织，包含讲座和作业讨论，为从事学习理论研究的学习者提供必备知识。补充资源如MATS讲座和LTA阅读清单提升了学习价值。鼓励申请PIBBSS奖学金的行动号召使其不仅是教育性的，更具实用性。隐私说明展现了伦理考量，增强了内容的可信度。",
-    "best_quote_en": "The lectures are intended for those who want to do research on the learning-theoretic agenda and need to catch-up on the necessary background knowledge.",
-    "best_quote_zh": "这些讲座旨在为想要从事学习理论研究但需要补充必要背景知识的人提供支持。"
-  },
-  {
-    "id": 123,
-    "title": "我怎么这么厉害！｜一个征集",
-    "title_zh": "我怎么这么厉害！｜一个征集",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/cGAMAK2ZNVWeME5liOnLww",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "This article from '看理想' celebrates the recent success of Chinese actress Qin Hailu, who won the Best Actress award at the Venice Film Festival. More importantly, it serves as a call to action for readers to reflect on their own personal achievements and turning points. The piece encourages introspection about what actions have led to significant life changes, inviting readers to share their stories. This content bridges the gap between inspiration and personal growth, using a high-profile example to prompt self-reflection. It's particularly valuable for its ability to connect public achievement with private aspirations, making it both motivational and introspective.",
-    "summary_zh": "这篇文章通过讲述辛芷蕾在威尼斯电影节获奖的故事，激发读者反思自己的人生转折点。它既是对个人成就的庆祝，也是对自我成长的邀请。这种将公众成就与个人追求结合的方式，使内容既有激励性又富有深度。",
-    "best_quote_en": "Just have the courage to dream and act. Who knows, one day your dreams might come true, just like me.",
-    "best_quote_zh": "只要有梦想，就大胆去想、大胆去做，万一哪天就实现了呢，像我一样"
-  },
-  {
-    "id": 124,
-    "title": "在AI时代，我想守住的写作",
-    "title_zh": "在AI时代，我想守住的写作",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/mt4nXSeQeDz6EBt9-cRimg",
-    "tags": [
-      "inspire",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "In the age of AI, Ling Sun reflects on preserving authentic writing amidst technological advancements. She shares her evolving writing process, using AI as a tool for organization while grappling with questions of originality and personal expression. The article highlights the dual nature of good writing as both sonically pleasing and ideologically sound, drawing from Paul Graham's insights. Sun emphasizes the importance of maintaining human touch in writing, valuing the imperfect, temperature-filled communication that AI cannot replicate. Her personal journey underscores the balance between efficiency and authenticity in the digital era, prompting readers to consider what aspects of writing they wish to preserve.",
-    "summary_zh": "人工智能时代，写作的本质与真实性成为孙玲思考的核心。她分享了自己如何利用AI辅助创作，同时深刻反思技术对个人表达的影响。文章引用Paul Graham关于优秀写作的两个维度，强调思考与表达的统一性。孙玲认为，保留写作的温度与不完美，才能区别于AI的模仿，这不仅是对读者的尊重，更是对自我思考的坚守。她的文章引发我们对数字时代写作本质的深刻思考：在效率与真实之间，我们该守护什么？",
-    "best_quote_en": "Good writing has two dimensions: it can sound good, and the ideas can be right.",
-    "best_quote_zh": "好写作有两个维度：听起来顺，和思想到位。"
-  },
-  {
     "id": 125,
     "title": "‘Men seem to make life for women worse’: single US women share the woes of dating in 2025",
     "title_zh": "2025年单身美国女性吐槽：男性似乎让生活更糟",
@@ -2348,5 +2230,125 @@
     "summary_zh": "文章为国庆假期提供六个充实生活的建议，从创建兴趣日历到重建身体感知，再到深度社交和历史体验，每个建议都蕴含深刻的心理洞察。作者通过这些活动引导读者在假期中寻找意义，超越普通休闲，实现自我成长。文章以亲切的语气分享个人实践，读来如沐春风，令人反思生活方式。",
     "best_quote_en": "People are creatures that live in anticipation. Often, what makes us happy isn't just how we're doing in the moment, but what hopes we hold for the future.",
     "best_quote_zh": "人是一种活在期待里的生物。许多时候，令我们感到开心和幸福的，其实不仅仅是当下过得如何，更重要的或许是对未来抱持着什么样的希望。"
+  },
+  {
+    "id": 220,
+    "title": "Pregnancy skincare products target women at a vulnerable time. Do any work or do they just stretch the truth? | Antiviral",
+    "title_zh": "孕期护肤品在女性脆弱时刻锁定目标。它们真的有效还是在夸大其词？| 反病毒",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/15/pregnancy-skincare-products-target-women-vulnerable-time-truth-myths",
+    "tags": [
+      "solve",
+      "medicine",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This article critically examines the efficacy of pregnancy skincare products that claim to prevent stretch marks and improve skin elasticity. The piece highlights the vulnerability of pregnant women to targeted marketing, often with exaggerated product claims. Dermatologists interviewed emphasize that genetics, age, and weight gain rate are the primary factors in stretch mark development, while surface applications like creams have little impact on the deeper dermal layer where stretch marks form. The article also discusses safe skincare practices during pregnancy, warning against retinoids and emphasizing the importance of basic moisturizing. It serves as a valuable guide for expectant mothers navigating the murky waters of pregnancy skincare marketing.",
+    "summary_zh": "本文深入剖析孕期护肤品宣称预防妊娠纹和增强皮肤弹性的效果。文章揭示了孕妇在面对精准营销时的脆弱性，以及产品夸大宣传的现象。受访皮肤科医生指出，遗传、年龄和体重增长速率是决定妊娠纹的主要因素，而表层护肤品对深层皮肤几乎无效。文章还探讨了孕期安全护肤实践，警告避免使用维A酸类产品，并强调基本保湿的重要性。这篇文章为期待生育的女性提供了在孕期护肤品营销迷雾中导航的宝贵指南。",
+    "best_quote_en": "Keep your skin soft with whatever moisturiser agrees with you … it doesn’t have to be expensive.",
+    "best_quote_zh": "用任何你喜欢的保湿霜保持皮肤柔软… 不需要昂贵的产品。"
+  },
+  {
+    "id": 221,
+    "title": "Life is Short",
+    "title_zh": "生命短暂",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vb.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The author reflects on the brevity of life, particularly through the lens of parenthood. By quantifying time into discrete moments with children, the realization of life's shortness becomes tangible. The essay argues that acknowledging this brevity empowers us to eliminate 'bullshit'—time-wasting activities and meaningless interactions—both those imposed by external circumstances and those we choose. The author suggests actively seeking meaningful experiences and savoring them, emphasizing the importance of not postponing what truly matters. The piece is a poignant reminder to live intentionally and prioritize what brings genuine value to our lives.",
+    "summary_zh": "作者通过育儿体验，深刻感受到生命的短暂。将时间转化为具体的瞬间，让人更真切地认识到生命的有限。文章认为，意识到这一点能帮助我们摒弃无意义的琐事，无论是外界强加的还是自己选择的。建议主动追求有意义的经历并珍惜它们，强调不拖延重要的事情。这篇文章是对生活的深刻反思，提醒我们活得更有意识，优先选择真正有价值的事物。",
+    "best_quote_en": "Life is short, as everyone knows. When I was a kid I used to wonder about this. Is life actually short, or are we really complaining about its finiteness?",
+    "best_quote_zh": "生命短暂，众所周知。当我还是孩子时，常常思考这个问题。生命是真的短暂，还是我们在抱怨它的有限性？"
+  },
+  {
+    "id": 222,
+    "title": "Why Is the Drug Kingpin Daniel Kinahan Living Large in Dubai?",
+    "title_zh": "丹尼尔·基纳汉：一个毒枭如何在迪拜逍遥法外？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/27/the-cocaine-kingpin-living-large-in-dubai",
+    "tags": [
+      "solve",
+      "education",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "This investigative piece delves into the life of Daniel Kinahan, an Irish drug lord who has built a billion-dollar empire while living openly in Dubai. The article explores his criminal career, from his early days in Dublin's drug trade to his current status as a key figure in Europe's cocaine trafficking network. The Kinahan Organized Crime Group, which he heads, has been linked to major drug trafficking operations and money laundering schemes across Europe and beyond. Despite international sanctions and law enforcement efforts, Kinahan remains at large in Dubai, where he enjoys a luxurious lifestyle and even dabbles in boxing management. The article highlights the complexities of international law enforcement, the challenges of extradition, and the role of Dubai as a haven for criminals. It also raises questions about the motivations of individuals like Kinahan, who continue to engage in high-risk criminal activities despite their wealth and apparent security.",
+    "summary_zh": "这篇调查报告深入探讨了丹尼尔·基纳汉的生活，他作为一名爱尔兰毒枭，在迪拜过着奢华的生活，同时经营着一个价值数十亿美元的毒品帝国。文章追溯了他的犯罪生涯，从在都柏林贩毒的早期经历到现在成为欧洲可卡因走私网络的关键人物。他领导的基纳汉犯罪集团与欧洲和其他地区的重大毒品走私和洗钱活动有关。尽管受到国际制裁和执法部门的追捕，基纳汉仍然在迪拜逍遥法外，享受奢华生活，甚至涉足拳击经纪。这篇文章揭示了国际执法的复杂性，引渡的挑战，以及迪拜作为犯罪避风港的作用。它还提出了关于像基纳汉这样的个人动机的问题，他们尽管已经富可敌国，仍然继续从事高风险的犯罪活动。",
+    "best_quote_en": "He was a little uncoöperative... Not a nice person at all.",
+    "best_quote_zh": "他不太配合... 绝对不是一个好人。"
+  },
+  {
+    "id": 223,
+    "title": "Dehydrators",
+    "title_zh": "脱水机",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/dehydrators/",
+    "tags": [
+      "solve",
+      "science",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "This article explores the practical applications and comparative advantages of food dehydrators, focusing on two popular models: the affordable Nesco and the high-capacity Excalibur. The Nesco is praised for its cost-effectiveness and efficient top-down heating system, making it ideal for occasional use or small batches. In contrast, the Excalibur offers superior capacity and uniformity for heavy users, though at a higher price point. The piece also highlights the benefits of bulk freeze-dried foods for outdoor enthusiasts, emphasizing cost savings and menu flexibility. The analysis underscores the value of dehydrators in food preservation, health-conscious snacking, and outdoor adventure planning, while offering insights into the trade-offs between budget and performance.",
+    "summary_zh": "这篇文章探讨了食品脱水机的实用性及两款热门型号——性价比高的Nesco和大容量的Excalibur的比较优势。Nesco因其价格亲民和高效的顶部加热系统，适合偶尔使用或小批量处理。而Excalibur则因其更大的容量和均匀性能，更适合重度用户，尽管价格较高。文章还强调了散装冷冻干燥食品对户外爱好者的好处，突出了成本节约和菜单灵活性。分析指出，脱水机在食品保存、健康零食和户外冒险规划方面具有重要价值，并提供了预算与性能之间的权衡见解。",
+    "best_quote_en": "The Nesco, when compared with the Excalibur, has the benefit of being nearly $125 dollars cheaper combined with a smaller (though expandable) footprint, a relatively-quiet fan, and similarly adjustable temperature.",
+    "best_quote_zh": "与Excalibur相比，Nesco的优势在于价格几乎便宜了125美元，同时拥有更小的占地面积（尽管可扩展）、相对安静的风扇和类似的温度可调性。"
+  },
+  {
+    "id": 224,
+    "title": "What I Wish Someone Had Told Me",
+    "title_zh": "What I Wish Someone Had Told Me",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2023-12-21",
+    "summary_en": "This article distills 17 hard-earned lessons from startup leadership, offering a mix of practical advice and profound insights about building and scaling successful ventures. The author emphasizes the importance of long-term thinking, audacious goals, and fighting bureaucracy to achieve meaningful outcomes. Key themes include the power of incentives, the value of superstar team members, and the necessity of fast iteration. The advice transcends typical startup guidance, touching on universal principles of leadership and organizational behavior that could benefit any ambitious team. The most striking insight is the emphasis on compounding advantages and the perishable nature of inspiration, which serves as a call to action for readers to pursue their goals with urgency and persistence.",
+    "summary_zh": "这篇文章总结了17条创业领导力的经验教训，兼具实用建议与深刻洞察。作者强调长期思维、大胆目标和打破官僚主义的重要性。核心主题包括激励力量、超级明星员工的价值以及快速迭代的必要性。这些建议超越了常规的创业指导，触及领导力与组织行为的普世原则。最引人深思的是关于复利优势和灵感易逝的观点，这对读者而言是一种行动号召，激励他们以紧迫感和毅力追求目标。",
+    "best_quote_en": "It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn’t really matter; audacious ideas motivate people.",
+    "best_quote_zh": "团队做一件真正重要的难事比做一件无关紧要的容易事更简单；大胆的想法能激励人们。"
   }
 ]
