@@ -1,125 +1,5 @@
 [
   {
-    "id": 125,
-    "title": "‘Men seem to make life for women worse’: single US women share the woes of dating in 2025",
-    "title_zh": "2025年单身美国女性吐槽：男性似乎让生活更糟",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/27/us-women-single-dating",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "This article explores the dating struggles of single American women in 2025, revealing a pervasive sense of dissatisfaction with the current dating landscape. Women consistently cite men's lack of effort, emotional intelligence, and shared values as major obstacles. The piece highlights how societal shifts, including educational disparities and toxic social media narratives, have exacerbated these challenges. While many women express loneliness, they remain firm in their standards, prioritizing qualities like kindness, ambition, and financial stability. The article also touches on the financial burdens of singlehood and the growing trend of women choosing independence over compromised relationships. It's a compelling examination of modern dating dynamics and the evolving priorities of single women.",
-    "summary_zh": "这篇文章探讨了2025年美国单身女性的约会困境，揭示了她们对当前约会格局的普遍不满。女性反复提到男性缺乏努力、情商不足和共同价值观是主要障碍。文章强调了社会变迁，包括教育差距和有毒社交媒体叙事如何加剧了这些挑战。虽然许多女性表示孤独，但她们仍然坚持自己的标准，优先考虑善良、雄心和经济稳定等品质。文章还触及单身的经济负担，以及越来越多的女性选择独立而非妥协的关系。这是对现代约会动态和单身女性不断变化的优先事项的深刻分析。",
-    "best_quote_en": "No matter what women say they look for in a relationship, it is completely ignored by men.",
-    "best_quote_zh": "无论女性说她们在关系中寻找什么，男性完全忽视这一点。"
-  },
-  {
-    "id": 126,
-    "title": "Early Work",
-    "title_zh": "早期作品",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/early.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "The essay explores the psychological barrier of fear that prevents people from creating great work, particularly in the early, often unpolished stages. The author argues that this fear is rooted in our lack of experience with judging early versions of ambitious projects and suggests that Silicon Valley's culture of optimism and encouragement has developed effective strategies to overcome this. The piece offers several practical techniques for individuals to push through the 'lame' phase of their work, including surrounding oneself with the right people, focusing on progress rather than perfection, and reframing early work as learning experiences. The author concludes that our societal attitudes toward early work are evolving and that understanding this process can help us become better creators.",
-    "summary_zh": "文章探讨了人们因害怕创作出平庸作品而止步不前的心理障碍，尤其在创作初期。作者认为这种恐惧源于我们缺乏评判雄心勃勃项目早期版本的经验，并提出硅谷鼓励创新的文化已经发展出有效策略来克服这一问题。文中提供了个人推进创作“平庸阶段”的几种实用技巧，包括寻找志同道合的伙伴、关注进步而非完美以及将早期作品视为学习机会。作者认为，我们社会对早期作品的态度正在演变，理解这一过程能帮助我们成为更好的创作者。",
-    "best_quote_en": "If you overestimate the importance of what you're working on, that will compensate for your mistakenly harsh judgment of your initial results.",
-    "best_quote_zh": "如果你高估了你所做工作的重要性，这会弥补你对初期成果过于严厉的错误判断。"
-  },
-  {
-    "id": 127,
-    "title": "Is Donald Trump’s Sweeping Gaza Peace Plan Really Viable?",
-    "title_zh": "唐纳德·特朗普的全面加沙和平计划真的可行吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/is-donald-trumps-sweeping-gaza-peace-plan-really-viable",
-    "tags": [
-      "solve",
-      "politics",
-      "economics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "经济金融",
-      "深度分析"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "Donald Trump's ambitious Middle East peace plan, presented with characteristic hyperbole, faces significant skepticism from experts and former diplomats. While the plan offers a pathway for hostage returns, Palestinian statehood aspirations, and Israeli withdrawals, its lack of specific details and the profound differences between Israel and Hamas raise serious doubts about its viability. The plan serves as 'political gold' for Benjamin Netanyahu, providing him with maneuvering room while shifting blame to Hamas if negotiations fail. Meanwhile, shifting U.S. public opinion and Iran's unpredictable response add further complexity to the situation. The analysis highlights the plan's political motivations and the challenges of achieving lasting peace in a region with deeply entrenched conflicts.",
-    "summary_zh": "特朗普的中东和平计划虽豪言壮语，但专家质疑其可行性。计划缺乏具体细节，以色列与哈马斯立场分歧巨大，巴以和谈前景堪忧。对内塔尼亚胡而言，此举是政治筹码，可推卸责任。美公众对以色列支持率下降，伊朗态度不明朗，地区和平前路漫漫。",
-    "best_quote_en": "This is eternity. This is for forever.",
-    "best_quote_zh": "这是永恒。这将万古流芳。"
-  },
-  {
-    "id": 128,
-    "title": "听节目换乐高！看理想魔法学院开课了",
-    "title_zh": "听节目换乐高！看理想魔法学院开课了",
-    "source": "看理想",
-    "link": "https://mp.weixin.qq.com/s/Z_HEIuwD43EoVnjatM2hsQ",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "This whimsical campaign from '看理想' cleverly blends the mundane with magical fantasy, offering an engaging way for users to earn rewards. By listening to audio programs or purchasing knowledge products, participants can accumulate 'magic credits' to exchange for rare items, including exclusive LEGO Harry Potter sets. The promotion cleverly taps into nostalgia and gamification principles, offering additional rewards for early participants. It's an innovative approach to audience engagement that transforms passive content consumption into an interactive experience. The campaign's success hinges on its ability to maintain this magical allure while delivering genuine value to participants.",
-    "summary_zh": "看理想的这场活动巧妙地将日常生活与魔法幻想结合，为用户提供了一个有趣的获奖方式。通过收听音频节目或购买知识产品，参与者可以积累“魔法学分”兑换稀有物品，包括独家乐高哈利波特套装。活动利用怀旧情怀和游戏化原理，为早期参与者提供额外奖励。这是一种将被动内容消费转化为互动体验的创新方式。活动的成功取决于其保持魔法魅力的同时，为参与者提供真实价值的能力。",
-    "best_quote_en": "Everyday life wrapped in a thin mist, stifling enough to make you want to break free from the routine.",
-    "best_quote_zh": "每天被闹钟叫醒、挤着同样的通勤、对着屏幕处理重复的事，凡人世界的日子像裹了层薄雾，闷得让人想要冲破轨迹。"
-  },
-  {
-    "id": 129,
-    "title": "你也有过这种倦怠感吗",
-    "title_zh": "你也有过这种倦怠感吗",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/gi-FjJZbKzO6oFk-9qwSIQ",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "Ling Sun's reflection on ennui offers a profound perspective on modern life's subtle dissatisfaction. She frames boredom not as a character flaw but as a valuable signal from our lives, indicating when our current path may not align with our potential. Drawing from LessWrong's 'Emotions Make Sense,' she suggests that ennui points to a disconnect between our goals and motivations. The author explores how stability in relationships and work, while comforting, can sometimes mask stagnation. This piece invites readers to view boredom as an opportunity for self-reflection rather than something to suppress, suggesting we might need to rest, change direction, or simply acknowledge our current state. The essay blends psychological insight with practical advice, making it particularly valuable for those seeking personal growth.",
-    "summary_zh": "孙玲对倦怠感的思考揭示了现代生活中一种微妙的不满足。她将倦怠视为生活发出的信号，提醒我们当前状态可能不足以实现潜能。通过LessWrong的观点，作者认为倦怠源于目标与动机的脱节。稳定的关系和工作虽带来安定，却可能掩盖停滞。这篇文章邀请我们与倦怠共处，而非压制它，提示我们可能需要休息、改变方向或仅仅承认当下状态。兼具心理学洞见与实用建议，对追求自我成长的人尤为有益。",
-    "best_quote_en": "But as a temporary signal, they can provide valuable information: apathy is reminding you to conserve emotional energy, while ennui is telling you that your current lifestyle and actions still aren't enough to become who you could be.",
-    "best_quote_zh": "但作为一种暂时的信号，它们能提供有价值的信息：冷漠在提醒你保存情绪能量，而倦怠在提醒你，你现在的生活方式和行动，还不足以让你成为那个你可能成为的人。"
-  },
-  {
     "id": 130,
     "title": "Trump’s war on Tylenol is also very much a war on women | Arwa Mahdawi",
     "title_zh": "特朗普对泰诺的战争也很大程度上是对女性的战争",
@@ -2350,5 +2230,121 @@
     "summary_zh": "这篇文章总结了17条创业领导力的经验教训，兼具实用建议与深刻洞察。作者强调长期思维、大胆目标和打破官僚主义的重要性。核心主题包括激励力量、超级明星员工的价值以及快速迭代的必要性。这些建议超越了常规的创业指导，触及领导力与组织行为的普世原则。最引人深思的是关于复利优势和灵感易逝的观点，这对读者而言是一种行动号召，激励他们以紧迫感和毅力追求目标。",
     "best_quote_en": "It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn’t really matter; audacious ideas motivate people.",
     "best_quote_zh": "团队做一件真正重要的难事比做一件无关紧要的容易事更简单；大胆的想法能激励人们。"
+  },
+  {
+    "id": 225,
+    "title": "We were on the brink of a big bush revival - then Kim K released her pubic hair thong | Coco Khan",
+    "title_zh": "我们正处于一场大规模毛发复兴的边缘——然后金·卡戴珊发布了她的阴毛丁字裤 | 科科·卡恩",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/21/big-bush-revival-kim-kardashian-pubic-hair-thong",
+    "tags": [
+      "update",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "Coco Khan's piece offers a sharp critique of the beauty industry's commodification of natural body features, using Kim Kardashian's faux pubic hair thong as a case study. The article explores the tension between the burgeoning body positivity movement and the industry's relentless profit motives. Khan argues that while we may be witnessing a potential revival of natural pubic hair, products like Skims' thong actually perpetuate the same problematic beauty standards they claim to challenge. The piece highlights how celebrity influence, particularly Kardashian's, shapes global beauty norms and questions whether genuine body acceptance is possible within our current capitalist framework. It's a thought-provoking examination of how natural body features become yet another commodity in the beauty industry's endless pursuit of profit.",
+    "summary_zh": "科科·卡恩的文章尖锐批判了美容行业如何将自然身体特征商品化，以金·卡戴珊的假阴毛丁字裤为例。文章探讨了身体正念运动与行业利益之间的张力。卡恩认为，尽管我们可能正见证自然阴毛的复兴，但斯金斯的产品实际上延续了相同的有问题的审美标准。文章凸显了名人影响力如何塑造全球审美规范，并质疑在资本主义框架内是否可能实现真正的身体接受。这是对自然身体特征如何成为美容行业无休止的盈利追求中又一商品的深刻思考。",
+    "best_quote_en": "The beauty industry has mastered selling us back an ersatz version of our own nature for enormous profit.",
+    "best_quote_zh": "美容行业已经掌握了以巨额利润将我们自己的天然本性以仿制品形式卖回给我们的技巧。"
+  },
+  {
+    "id": 226,
+    "title": "Economic Inequality",
+    "title_zh": "经济不平等",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ineq.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This essay challenges conventional wisdom about economic inequality by dissecting its multiple causes and questioning simplistic solutions. The author, a startup founder, argues that while some aspects of inequality stem from harmful practices like tax loopholes, others arise from wealth creation through innovation and entrepreneurship. The piece critiques the tendency to treat inequality as a monolithic issue, highlighting that startup founders' success contributes to inequality but also drives technological progress. It warns against policies that would stifle innovation by preventing wealth creation, suggesting instead that society should focus on addressing root causes of poverty and lack of social mobility rather than inequality itself.",
+    "summary_zh": "这篇文章挑战了关于经济不平等的传统观点，分析其多重成因并质疑简单的解决方案。作者作为创业者，认为不平等的部分源于有害行为如税收漏洞，部分源于创新和创业创造的财富。文章批评将不平等视为单一现象的倾向，指出创业成功者的财富增长虽然加剧了不平等，但也推动了技术进步。它警告说，阻碍创业的政策可能扼杀创新，建议社会应关注解决贫困和社会流动性问题的根源，而非直接针对不平等本身。",
+    "best_quote_en": "The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
+    "best_quote_zh": "关于经济不平等最常见的错误是将其视为单一现象。"
+  },
+  {
+    "id": 227,
+    "title": "The Real Target of Trump’s War on Drug Boats",
+    "title_zh": "特朗普打击毒品船只的真正目标",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-real-target-of-trumps-war-on-drug-boats",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "This article delves into the Trump administration's recent military actions against suspected drug traffickers in the Caribbean, raising serious questions about the true motivations behind these strikes. While justified as counter-narcotics operations, the evidence suggests these actions are more about political posturing and domestic messaging than effective drug interdiction. The piece highlights the lack of concrete evidence linking the targeted vessels to significant drug trafficking, the political motivations in Florida's Venezuelan community, and the dangerous escalation of military action in the region. The analysis also reveals internal administration conflicts over Venezuela policy, with hardliners like Marco Rubio and Stephen Miller pushing for aggressive actions. The broader implications for U.S. relations with Latin America and the potential for wider conflict are deeply concerning, as these actions could set dangerous precedents for executive power and military intervention.",
+    "summary_zh": "这篇文章揭露了特朗普政府近期在加勒比海对所谓毒品走私船只的军事行动背后的真实动机。虽然被宣称为缉毒行动，证据显示这些行为更多是政治表演和国内宣传。文中指出，针对的船只与大规模毒品走私的关联证据薄弱，而佛罗里达州的委内瑞拉社区政治因素在其中扮演重要角色。分析还揭示了政府内部关于委内瑞拉政策的激烈争论，鲁比奥和米勒等强硬派推动激进行动。这些军事行动对美洲国家关系和区域稳定的更广泛影响令人担忧，可能为行政权力扩张和军事干预树立危险先例。",
+    "best_quote_en": "This is basically U.S. propaganda through force. This is not a counter-narcotics mission. It's using a ten-ton truck to kill an ant.",
+    "best_quote_zh": "这实际上是通过武力进行的美国宣传。这不是反毒行动。这就像用十吨重的卡车去杀一只蚂蚁。"
+  },
+  {
+    "id": 228,
+    "title": "A Wild Swan / The Creative Cottage",
+    "title_zh": "野天鹅与创意小屋：重新诠释经典与生活美学",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/a-wild-swan-the-creative-cottage/",
+    "tags": [
+      "solve",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "This analysis presents two distinct works that reimagine traditional concepts through creative lenses. A Wild Swan offers a literary exploration of fairy tales with modern, often subversive perspectives. Michael Cunningham's reworking of classic stories through different viewpoints and narrative techniques challenges conventional happy endings, offering instead nuanced, sometimes darker reflections on human nature. The collaboration with Yuko Shimizu's exquisite illustrations elevates the work to an art object, blending contemporary storytelling with timeless visual aesthetics. Meanwhile, The Creative Cottage transforms the idea of small-space living into an art form. The book showcases 13 uniquely rehabilitated cottages, each a testament to creative vision and resourcefulness. The detailed descriptions of upcycled and repurposed elements invite readers to see everyday objects in new ways, inspiring creativity in personal living spaces. Both works demonstrate how established forms can be revitalized through innovative approaches, offering valuable insights for writers, designers, and anyone seeking inspiration in reinvention.",
+    "summary_zh": "这两部作品以不同方式重新诠释了经典与生活美学。《野天鹅》通过现代视角解构童话故事，迈克尔·坎宁安用独特叙事颠覆传统结局，揭示人性复杂面。与石泽夕子的精美插画结合，使作品兼具文学与艺术价值。而《创意小屋》则将小空间改造升华为艺术，展示了13座充满创意的小屋，每一处回收利用的元素都体现着主人的独特视野。两部作品均证明创新能赋予传统形式新生命，为作家、设计师及追求创新者提供宝贵启发。",
+    "best_quote_en": "'End of story. 'Happily ever after' fell on everyone like a guillotine's blade.'",
+    "best_quote_zh": "故事结束。'从此快乐地生活在一起'像断头台的刀刃般砍向所有人。"
+  },
+  {
+    "id": 229,
+    "title": "Helion Needs You",
+    "title_zh": "Helion 需要你",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion-needs-you",
+    "tags": [
+      "solve",
+      "economics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2022-07-13",
+    "summary_en": "Helion's rapid progress in fusion energy represents a potential paradigm shift in global power generation. The company's ambitious goals—achieving Q > 1 fusion and designing mass-producible generators by 2024—could revolutionize the energy landscape with clean, ultra-low-cost electricity. The implications are profound: 1 cent per kilowatt-hour energy could transform industries, elevate global living standards, and enable scalable carbon capture. However, Helion now faces critical engineering and operational challenges that demand exceptional talent. The article highlights the pivotal role of skilled professionals in scaling this technology, emphasizing that the company's success hinges on attracting top engineers and managers to tackle complex manufacturing, infrastructure, and global deployment challenges.",
+    "summary_zh": "Helion在核聚变能源领域的快速进展可能将彻底改变全球能源格局。该公司在2024年实现Q>1聚变和设计可批量生产的发电机的目标极具挑战性，但一旦成功，将带来清洁、超低成本的电力。这一突破可能重塑产业格局，提升全球生活水平，并实现大规模碳捕获。然而，Helion目前面临着关键的工程和运营挑战，需要顶尖人才。文章强调，吸引优秀的工程师和管理者解决复杂的制造、基础设施和全球部署问题，将是公司成功的关键。",
+    "best_quote_en": "Abundant, clean, and radically inexpensive energy will elevate the quality of life for all of us",
+    "best_quote_zh": "丰富、清洁且极其低廉的能源将提升我们所有人的生活质量"
   }
 ]
