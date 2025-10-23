@@ -1,123 +1,5 @@
 [
   {
-    "id": 130,
-    "title": "Trump’s war on Tylenol is also very much a war on women | Arwa Mahdawi",
-    "title_zh": "特朗普对泰诺的战争也很大程度上是对女性的战争",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/sep/27/trump-tylenol-sexism-tough-it-out",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "Arwa Mahdawi's piece critically examines Donald Trump's baseless claim linking Tylenol to autism, revealing it as part of a broader pattern of controlling and dismissing women's health concerns. The article highlights how Trump's misguided advice ignores medical evidence and perpetuates harmful stereotypes about women's pain tolerance. It connects this to systemic issues in healthcare where women's pain is often underestimated and how society disproportionately blames mothers for health outcomes. The analysis serves as a stark reminder of how political rhetoric can be weaponized against women's autonomy and health.",
-    "summary_zh": "阿瓦·马哈维的文章批判性地分析了特朗普对泰诺和自闭症之间关系的无根据指控，揭示这是控制和忽视女性健康问题的更广泛模式的一部分。该文章指出，特朗普的错误建议忽视了医学证据，并延续了关于女性忍痛能力的有害刻板印象。它将这一问题与医疗体系中的系统性问题联系起来，即女性的疼痛往往被低估，以及社会如何不成比例地指责母亲承担健康结果。这项分析提醒人们，政治修辞如何被用作反对女性自主权和健康的武器。",
-    "best_quote_en": "This war on Tylenol is also very much a war on women.",
-    "best_quote_zh": "这场针对泰诺的战争也很大程度上是对女性的战争。"
-  },
-  {
-    "id": 131,
-    "title": "Modeling a Wealth Tax",
-    "title_zh": "建模财富税",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/wtax.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "This analysis provides a compelling model for understanding the long-term impact of wealth taxes on startup founders. By demonstrating how even modest wealth tax rates (0.1% to 5%) can consume significant portions (6% to 95%) of a founder's stock over a 60-year period, the article reveals the compounding nature of wealth taxation. The inclusion of different growth scenarios and threshold levels adds nuance to the discussion, showing how wealth taxes affect founders differently based on their company's trajectory. The key insight is that wealth taxes, unlike income taxes, repeatedly tax the same assets over time, creating a disproportionate cumulative effect. This perspective challenges conventional thinking about tax policies and their implications for entrepreneurship and wealth accumulation.",
-    "summary_zh": "这篇文章通过建模展示了财富税对创业者的长期影响，即使是很低的财富税率（0.1%到5%）也会在60年内消耗掉6%到95%的股份。文章揭示了财富税的复利效应，与收入税不同，财富税会反复对同一资产征税。不同增长模式和起征点的设定让我们看到财富税对创业者的影响因公司发展阶段而异。这让我们重新思考税收政策对创业精神和财富积累的深远影响。",
-    "best_quote_en": "A wealth tax compounds.",
-    "best_quote_zh": "财富税具有复利效应。"
-  },
-  {
-    "id": 132,
-    "title": "Open Thread Autumn 2025",
-    "title_zh": "秋季2025年开放讨论帖",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/izaahSqv3oRRDu4mr/open-thread-autumn-2025",
-    "tags": [
-      "guide",
-      "business-model",
-      "society",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "商业模式",
-      "社会议题",
-      "新手友好"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "This Open Thread for Autumn 2025 serves as a digital community hub for LessWrong users to share brief insights, introductions, and feedback without the commitment of a full post. It's particularly valuable for newcomers, offering guidance on navigating the platform's resources like the Sequences Highlights, Library, and Curated posts. The thread encourages personal sharing and community engagement, making it an accessible entry point for those exploring rationalist ideas and the LessWrong ecosystem. Its real value lies in fostering connections and lowering barriers to participation, though it lacks the depth of standalone content.",
-    "summary_zh": "2025年秋季开放讨论帖为LessWrong用户提供了一个分享零散想法、自我介绍和反馈的平台，无需撰写完整文章。对新人尤其有价值，指引他们了解序列精选、图书馆等资源。它鼓励个人分享与社区互动，是探索理性主义思想的轻量入口。其核心价值在于促进联系并降低参与门槛，但内容深度有限。",
-    "best_quote_en": "If it’s worth saying, but not worth its own post, here's a place to put it.",
-    "best_quote_zh": "若值得一说，却不值单独撰文，这里就是它的归宿。"
-  },
-  {
-    "id": 133,
-    "title": "旅行日记 - 从地中海的热浪，到阿尔卑斯的凉风，再到爱尔兰的细雨",
-    "title_zh": "旅行日记 - 从地中海的热浪，到阿尔卑斯的凉风，再到爱尔兰的细雨",
-    "source": "孙玲",
-    "link": "https://mp.weixin.qq.com/s/gPrAAyQu7FV1WNm7Knzd_A",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "This travelogue offers a vivid three-part journey through Europe, capturing the distinct atmospheres of Greece, Switzerland, and Ireland. The author shares personal reflections on cultural immersion, from the vibrant Mediterranean to the cool Alpine landscapes and the misty charm of Ireland. Beyond mere sightseeing, the narrative emphasizes travel as an educational experience, highlighting how physical presence creates lasting memories and cultural understanding. The inclusion of wedding celebrations adds a human touch, contrasting the grandeur of historic sites like Trim Castle with intimate moments of connection. The piece serves as both a personal journal and a subtle guide to mindful travel, inviting readers to see places not just as destinations but as opportunities for growth.",
-    "summary_zh": "这篇旅行日记以地中海的热情、阿尔卑斯的清凉和爱尔兰的细雨为线索，展现了作者对欧洲三国文化的深刻体悟。从希腊的阳光海滩到瑞士的冰川湖泊，再到爱尔兰的古堡雨天，每一站都记录了不同的节奏与心情。婚礼的参与为行程增添了人情味，让历史建筑与个人故事交织。旅行不仅是风景的积累，更是文化的沉浸。回到西雅图后，作者发现心态已悄然改变，证明旅行是最生动的学习方式。",
-    "best_quote_en": "Travel is a form of learning. Only by actually going to a place can you remember its image, and even those place names you couldn't pronounce before will leave a clear imprint in your heart after seeing and hearing them firsthand.",
-    "best_quote_zh": "旅行是一种学习方式。只有真的走到一个地方，才会记住它的样子，甚至那些出发前念不准的地名，也因为亲眼所见、亲耳所听，而在心里留下清晰的印记。"
-  },
-  {
-    "id": 134,
-    "title": "Meet the 75-year-old powerlifter headed to the world championships",
-    "title_zh": "认识这位75岁的举重运动员，她即将参加世界锦标赛",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2025/sep/26/powerlifting-kate-evert-world-championships",
-    "tags": [
-      "analyze",
-      "design",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "Kate Evert's journey from reluctant gym-goer to world-class powerlifter at 75 challenges stereotypes about aging and competition. Her story reveals the transformative power of fitness, the importance of community in niche sports, and the mental benefits of focused physical challenges. Evert's confidence in her strength and ability to compete internationally offers inspiring insights into lifelong learning and the pursuit of personal excellence. Her experience also highlights how sports can provide structure and purpose, even when facing minimal competition. The article serves as a powerful reminder that age is just a number when it comes to achieving physical and mental growth.",
-    "summary_zh": "凯特·埃弗特从不情愿的健身爱好者到75岁的世界级举重运动员，她的故事挑战了关于老龄化和竞争的刻板印象。她的经历展示了健身的转变力量，小众运动中的社区重要性，以及专注的身体挑战带来的心理益处。埃弗特对自身力量和国际比赛的信心，为终身学习和追求个人卓越提供了激励性见解。她的经历也凸显了体育如何提供结构和目的，即使面对极少的竞争。这篇文章强有力地提醒我们，年龄只是数字，在实现身体和心理成长方面。",
-    "best_quote_en": "The thing about competition at my age is that there aren’t very many competitors. Like, hardly any.",
-    "best_quote_zh": "关于我这个年纪的比赛，参赛者非常少，几乎没有。"
-  },
-  {
     "id": 135,
     "title": "The Four Quadrants of Conformism",
     "title_zh": "四种顺从类型",
@@ -2346,5 +2228,125 @@
     "summary_zh": "Helion在核聚变能源领域的快速进展可能将彻底改变全球能源格局。该公司在2024年实现Q>1聚变和设计可批量生产的发电机的目标极具挑战性，但一旦成功，将带来清洁、超低成本的电力。这一突破可能重塑产业格局，提升全球生活水平，并实现大规模碳捕获。然而，Helion目前面临着关键的工程和运营挑战，需要顶尖人才。文章强调，吸引优秀的工程师和管理者解决复杂的制造、基础设施和全球部署问题，将是公司成功的关键。",
     "best_quote_en": "Abundant, clean, and radically inexpensive energy will elevate the quality of life for all of us",
     "best_quote_zh": "丰富、清洁且极其低廉的能源将提升我们所有人的生活质量"
+  },
+  {
+    "id": 230,
+    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
+    "title_zh": "看到公众视野中的孕妇很棒——但她们必须都这么美吗？| 科科·卡汉",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
+    "tags": [
+      "solve",
+      "ai-research",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Coco Khan critiques the fashion industry's portrayal of pregnancy, questioning why only glamorous, thin models like Victoria's Secret's Jasmine Tookes are showcased. She argues that while representation matters, the industry often perpetuates unrealistic beauty standards by only featuring 'hot mums' with picture-perfect pregnancies. Khan reflects on the physical and mental transformations of pregnancy, suggesting more authentic portrayals could benefit women's body image. The piece blends personal experience with cultural commentary, challenging brands' empowerment messaging while acknowledging the complexity of media representation.",
+    "summary_zh": "科科·卡汉批评时尚行业对孕妇形象的塑造，质疑为何只有像维多利亚的秘密模特贾斯汀·图克斯这样的完美女性才能被展示。她认为虽然代表性重要，但行业往往通过只展示",
+    "best_quote_en": "I’d have hoped that by now we would have learned that we need more than just images of hot mums – glamorous, rich, thin women whose pregnancies appear to be just convenient little bumps.",
+    "best_quote_zh": "我本希望我们已经明白，现在需要的不仅仅是漂亮妈妈的形象——那些光鲜、富有、苗条的女性，她们的孕期看起来只是方便的小肚子。"
+  },
+  {
+    "id": 231,
+    "title": "The Refragmentation",
+    "title_zh": "重新碎片化",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/re.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This essay explores the phenomenon of societal and economic fragmentation, arguing that the mid-20th century's cohesion was an anomaly driven by World War II and the rise of large corporations. The author suggests that the current trend toward fragmentation is a return to normalcy, driven by the erosion of these historical forces. The analysis delves into how war and corporate structures created economic and social uniformity, and how their decline has led to increased polarization, cultural divergence, and economic inequality. The author warns against attempting to recreate mid-century cohesion, as it was a product of unique historical circumstances. Instead, they advocate for addressing the consequences of fragmentation rather than trying to reverse it.",
+    "summary_zh": "这篇文章探讨了社会和经济碎片化的现象，认为中世纪的凝聚力是由二战和大型企业的崛起所驱动的异常现象。作者认为，当前的碎片化趋势是回归常态，是由这些历史力量的消退所驱动的。分析深入探讨了战争和企业结构如何创造了经济和社会的统一性，以及它们的衰落如何导致了日益严重的两极分化、文化差异和经济不平等。作者警告不要尝试重现中世纪的凝聚力，因为它是独特的历史环境的产物。相反，他们主张解决碎片化的后果，而不是试图逆转它。",
+    "best_quote_en": "The day of combination is here to stay. Individualism has gone, never to return.",
+    "best_quote_zh": "组合的时代已经到来，个体主义一去不复返。"
+  },
+  {
+    "id": 232,
+    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
+    "title_zh": "保护家园免受灾难性火灾的新范式",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
+    "tags": [
+      "solve",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article explores the complex science behind wildland-urban interface fires and challenges conventional wisdom about fire protection. The National Institute of Standards and Technology (NIST) has identified over 50 ways homes can ignite, requiring comprehensive hardening measures. The article reveals that firefighter actions often save homes more than construction choices, and embers from distant fires can be more dangerous than advancing flames. The piece highlights the limitations of current building codes and the need for community-wide fire prevention efforts. It presents both the daunting reality of complete retrofitting and the practical challenges homeowners face in implementing these measures, offering a nuanced look at the future of fire prevention strategies.",
+    "summary_zh": "这篇文章探讨了野地-城市交界处火灾的复杂科学，挑战了关于火灾防护的传统观念。国家标准与技术研究院（NIST）识别出了超过50种房屋起火的方式，需要全面的加固措施。文章揭示，消防员的行动往往比建筑选择更能拯救房屋，远处火灾的火星可能比推进的火墙更危险。它突显了现行建筑法规的局限性以及需要社区共同努力的火灾预防。文章同时呈现了全面翻新的沉重现实和业主在实施这些措施时面临的实际挑战，为火灾预防战略的未来提供了深刻的洞察。",
+    "best_quote_en": "Fire doesn’t care about who owns what.",
+    "best_quote_zh": "火灾不关心谁拥有什么。"
+  },
+  {
+    "id": 233,
+    "title": "What’s in my NOW? — Aishwarya Goel",
+    "title_zh": "我的现在是什么？ — 艾什瓦里娅·戈伊尔",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Aishwarya Goel shares her curated selection of essential tools that enhance her daily life, offering a glimpse into the practical innovations that shape her routine. From the Philips Signe Gradient Floor Lamp that adapts to her mood to the DASH Mini Maker Electric Griddle that revolutionizes her breakfast routine, these physical tools demonstrate how thoughtful design can elevate everyday experiences. Her digital tools, like MyNetDiary for health tracking and Bear Blog for writing, highlight the power of intuitive interfaces in maintaining consistency. The quote from James Dyson about excellence as the capacity to take pain adds a philosophical dimension, suggesting that her curated selections are not just about convenience but also about personal growth and resilience.",
+    "summary_zh": "艾什瓦里娅·戈伊尔分享了她日常生活中不可或缺的工具精选，展示了如何通过精心设计的创新提升日常体验。从能够根据情绪调节的飞利浦Signe渐变地灯，到改变早餐习惯的DASH迷你电圆形烤盘，这些物理工具展示了良好设计如何提升日常生活。她的数字工具，如用于健康追踪的MyNetDiary和用于写作的Bear Blog，凸显了直观界面在维持持续性方面的重要性。詹姆斯·戴森关于卓越是忍受痛苦能力的引用，为她的精选工具增添了哲学维度，暗示这些选择不仅仅是为了方便，更是为了个人成长和韧性。",
+    "best_quote_en": "Excellence is the capacity to take pain.",
+    "best_quote_zh": "卓越是忍受痛苦的能力。"
+  },
+  {
+    "id": 234,
+    "title": "DALL•E 2",
+    "title_zh": "DALL•E 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/dall-star-e-2",
+    "tags": [
+      "solve",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2022-04-06",
+    "summary_en": "The introduction of DALL•E 2 marks a significant milestone in AI-driven creativity tools. Beyond its impressive technical capabilities, the tool represents a shift towards natural language interfaces that could redefine human-computer interaction. The author's enthusiasm for its creativity-enhancing potential is balanced by thoughtful consideration of its societal impact, including potential job market disruptions and ethical implications. The research launch approach demonstrates a responsible strategy for deploying powerful AI technologies. This tool not only showcases AI's ability to understand and generate complex creative outputs but also challenges conventional wisdom about the progression of AI capabilities.",
+    "summary_zh": "DALL•E 2的推出标志着AI驱动的创意工具的重要里程碑。除了其令人印象深刻的技术能力，该工具代表了向自然语言界面的转变，这可能重新定义人机交互。作者对其创造力增强潜力的热情与对其社会影响的深刻思考相平衡，包括潜在的就业市场变化和伦理问题。研究发布的方式展示了部署强大AI技术的负责任策略。该工具不仅展示了AI理解和生成复杂创意输出的能力，还挑战了关于AI能力进展的传统智慧。",
+    "best_quote_en": "It’s a reminder that predictions about AI are very difficult to make. A decade ago, the conventional wisdom was that AI would first impact physical labor, and then cognitive labor, and then maybe someday it could do creative work. It now looks like it’s going to go in the opposite order.",
+    "best_quote_zh": "这提醒我们，关于AI的预测非常困难。十年前的常识是，AI首先会影响体力劳动，然后是认知劳动，也许有一天才能进行创造性工作。现在看来，它可能会以相反的顺序发展。"
   }
 ]
