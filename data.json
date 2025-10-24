@@ -1,125 +1,5 @@
 [
   {
-    "id": 135,
-    "title": "The Four Quadrants of Conformism",
-    "title_zh": "四种顺从类型",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/conformism.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "This insightful piece classifies people based on their conformism, creating a framework that reveals how personalities shape societal roles and historical outcomes. The author argues that aggressively conventional-minded individuals often cause societal harm, while independent-minded people drive progress. The essay warns about the erosion of free inquiry protections and the dangers of suppressing 'bad' ideas, as this stifles innovation and creates unintended consequences. The author expresses concern about universities losing their role as safe havens for independent thought but remains hopeful that independent-minded individuals will create new institutions. The piece combines psychological insight with historical analysis to make a compelling case for protecting intellectual freedom.",
-    "summary_zh": "本文通过顺从度将人分为四类，揭示性格如何塑造社会角色和历史进程。作者认为，强烈遵从传统者常带来社会危害，而独立思考者推动进步。文章警示自由探索保护机制的削弱及禁言",
-    "best_quote_en": "The aggressively conventional-minded aren't responsible for all the trouble in the world. Another big source of trouble is the sort of charismatic leader who gains power by appealing to them.",
-    "best_quote_zh": "强烈遵从传统者并非世界上所有麻烦的源头。另一个主要麻烦来源是那种通过迎合他们获得权力的魅力型领袖。"
-  },
-  {
-    "id": 136,
-    "title": "How New Mexico Became a Sanctuary State for Health Care",
-    "title_zh": "新墨西哥州如何成为医疗庇护州",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-southwest/how-new-mexico-became-a-sanctuary-state-for-health-care",
-    "tags": [
-      "analyze",
-      "politics",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "New Mexico's transformation into a healthcare sanctuary offers a compelling case study in progressive policymaking amid national restrictions. The state's strategic approach to abortion access, gender-affirming care, and universal childcare demonstrates how local governance can address national policy voids. The article highlights the unique cultural and political landscape of New Mexico, where despite religious conservatism, a strong tradition of personal autonomy prevails. The state's initiatives not only serve out-of-state patients but also aim to improve local healthcare outcomes, addressing chronic shortages and economic disparities. The resistance faced in conservative eastern counties reveals the ongoing national struggle over reproductive rights, while the state's legal victories offer a blueprint for progressive healthcare advocacy.",
-    "summary_zh": "新墨西哥州通过医疗庇护政策展现了地方政府在联邦政策真空下的创新能力。其对堕胎权、性别确认治疗和全民育儿的全面保障，不仅帮助外州患者，也改善本地医疗资源短缺和经济不平等。尽管面临保守派东部县的抵抗，州政府的法律胜利为进步主义医疗倡导提供了范例。这一案例凸显了个人自主权传统在宗教保守地区的独特性，以及医疗权利斗争的持续性。",
-    "best_quote_en": "We're purplish, but we're more blue relative to abortion care.",
-    "best_quote_zh": "我们可能是紫色州，但相对于堕胎权问题，我们更倾向蓝色阵营。"
-  },
-  {
-    "id": 137,
-    "title": "It’s 2020 and you’re in the future",
-    "title_zh": "我们已经进入2020年代",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
-    "tags": [
-      "inspire",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-01-02",
-    "summary_en": "This reflective piece uses historical perspective to highlight how quickly time passes and how our perception of the past evolves. By comparing current temporal distances to historical events with those of the past, the author creates a thought-provoking narrative about generational shifts and the relativity of time. The content serves as a reminder of how our personal timelines are constantly expanding, with younger generations experiencing historical events in ways that differ fundamentally from previous ones. The article's strength lies in its ability to make abstract temporal concepts tangible through concrete examples, inviting readers to reflect on their own place in history.",
-    "summary_zh": "这篇文章通过历史视角，展示了时间流逝的速度和我们对过去认知的变化。通过将当代与历史事件的时间距离与过去相比较，作者构建了一个关于世代变迁和时间相对性的深刻叙事。内容提醒我们个人时间线不断延伸，年轻一代以全新方式经历历史事件。文章巧妙将抽象时间概念具体化，邀请读者反思自身在历史长河中的位置。",
-    "best_quote_en": "The weirdest thing about kids today: most of them will live to see the 2100s.",
-    "best_quote_zh": "当代孩子最奇怪的地方在于：他们中的大多数人将活到2100年代。"
-  },
-  {
-    "id": 138,
-    "title": "They fled war and sexual violence and found a safe space in Athens. Then the aid cuts hit",
-    "title_zh": "他们逃离战争和性暴力，在雅典找到庇护所，然后援助被削减",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/26/trump-aid-cuts-greece-migrants-refugees-women-shelter-violence-ngos-funding",
-    "tags": [
-      "analyze",
-      "society",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This harrowing account reveals the devastating impact of aid cuts on refugee women in Greece, exposing how political decisions disrupt fragile lives. The closure of the Mitsaki Street shelter demonstrates how quickly hard-won stability can unravel when funding disappears. Évodie's story particularly underscores the intersection of physical safety and mental health for survivors of sexual violence. The article critiques both US and European governments' retreat from humanitarian commitments, raising serious questions about global responsibility. It's a stark reminder that aid isn't just about resources—it's about rebuilding trust and human dignity after trauma.",
-    "summary_zh": "这篇文章揭露了援助削减对希腊难民妇女的毁灭性影响，展现了政治决定如何打乱脆弱的生命。米萨基街庇护所的关闭凸显了资金撤离时来之不易的稳定如何迅速瓦解。埃沃迪的故事特别说明了性暴力幸存者的身体安全与心理健康之间的交集。文章批评了美国和欧洲政府退出人道主义承诺，引发了关于全球责任的严肃问题。它是一个令人警醒的提醒：援助不仅仅是资源，更是关于在创伤后重建信任和人类尊严。",
-    "best_quote_en": "\"These women's need for a safe place, their need for hope for the future, their need to heal the past - all these things are connected.\"",
-    "best_quote_zh": "“这些妇女对安全地方的需求，对未来希望的需求，对过去治愈的需求——这些都是相互关联的。”"
-  },
-  {
-    "id": 139,
-    "title": "Orthodox Privilege",
-    "title_zh": "正统特权",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/orth.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "society",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "社会议题",
-      "深度分析"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This thought-provoking piece explores the concept of 'orthodox privilege,' where conventional-minded individuals assume their views are universally safe to express. The author argues that history shows there are always true statements that challenge societal norms, yet people often fail to recognize this due to their own privilege. The essay highlights the difficulty of convincing those with orthodox privilege of its existence, as they genuinely believe their perspective is universally valid. The solution proposed is an appeal to politeness and open-mindedness, acknowledging that others may perceive truths we can't. This analysis encourages critical thinking about our own biases and the importance of intellectual humility in discourse.",
-    "summary_zh": "这篇文章深刻探讨了“正统特权”现象，即传统思维者以为自己的观点对所有人都是安全的。作者指出历史上始终存在挑战社会规范的真相，但人们往往因自身特权而视而不见。文中强调说服拥有正统特权者的困难，因为他们真诚认为自己是正确的。解决方案建议以礼貌相待，承认他人可能洞察我们未见的真相。这篇分析呼吁我们反思自身偏见，在讨论中保持智慧的谦逊。",
-    "best_quote_en": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment.",
-    "best_quote_zh": "很少有人能够平静地表达与社会环境偏见不同的观点。"
-  },
-  {
     "id": 140,
     "title": "At the Edge of Peace",
     "title_zh": "和平边缘",
@@ -2348,5 +2228,123 @@
     "summary_zh": "DALL•E 2的推出标志着AI驱动的创意工具的重要里程碑。除了其令人印象深刻的技术能力，该工具代表了向自然语言界面的转变，这可能重新定义人机交互。作者对其创造力增强潜力的热情与对其社会影响的深刻思考相平衡，包括潜在的就业市场变化和伦理问题。研究发布的方式展示了部署强大AI技术的负责任策略。该工具不仅展示了AI理解和生成复杂创意输出的能力，还挑战了关于AI能力进展的传统智慧。",
     "best_quote_en": "It’s a reminder that predictions about AI are very difficult to make. A decade ago, the conventional wisdom was that AI would first impact physical labor, and then cognitive labor, and then maybe someday it could do creative work. It now looks like it’s going to go in the opposite order.",
     "best_quote_zh": "这提醒我们，关于AI的预测非常困难。十年前的常识是，AI首先会影响体力劳动，然后是认知劳动，也许有一天才能进行创造性工作。现在看来，它可能会以相反的顺序发展。"
+  },
+  {
+    "id": 235,
+    "title": "UK women in tech: we would like to hear from you",
+    "title_zh": "英国女性在科技领域：我们想听取您的意见",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The Lovelace Report 2025, in collaboration with WeAreTechWomen, reveals alarming statistics about women leaving the UK tech sector, costing the economy billions annually. With only 20% of tech workers being women, the report identifies key reasons for attrition including lack of career advancement, inadequate recognition, and pay inequity. This analysis highlights systemic issues in tech industry culture and calls for action to retain and advance women in technology. The Guardian's initiative to collect personal experiences aims to humanize these statistics and drive meaningful change.",
+    "summary_zh": "洛夫莱斯报告2025与WeAreTechWomen合作，揭示英国科技行业女性流失情况严峻，每年造成数十亿英镑经济损失。仅20%的科技从业者是女性，报告指出职业发展受阻、认可不足和薪酬不平等是主要原因。这一分析揭示了科技行业文化中的深层问题，呼吁采取行动留住并提升女性。卫报收集个人经历的倡议，旨在为这些数据注入人性化视角，推动实质性变革。",
+    "best_quote_en": "An estimated £1.4 billion to £2.2 billion is lost every year from women leaving the industry",
+    "best_quote_zh": "每年有14亿至22亿英镑因女性离开行业而流失"
+  },
+  {
+    "id": 236,
+    "title": "Jessica Livingston",
+    "title_zh": "杰西卡·利文斯顿",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/jessica.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This piece reveals the often overlooked but pivotal role of Jessica Livingston in shaping Y Combinator (YC). While YC is often associated with its public-facing founder, the article argues that Jessica's unique qualities were instrumental in creating YC's distinctive culture and success. Her exceptional ability to judge character, dubbed the 'Social Radar,' was crucial in selecting founders who were not just promising but also good people, fostering a remarkable alumni network. The article explores how her aversion to attention and conflict, while sometimes working against her public recognition, actually contributed to YC's authenticity and values. It highlights the irony that her most significant contributions often go unnoticed, and calls for greater acknowledgment of her role in understanding and nurturing startup founders. This is a thoughtful examination of how personal qualities shape organizational culture and success.",
+    "summary_zh": "这篇文章揭示了杰西卡·利文斯顿在塑造Y Combinator（YC）过程中所发挥的关键作用。尽管YC常与其公开形象的创始人联系在一起，但文章指出杰西卡的独特品质才是构建YC独特文化和成功的核心。她的",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 237,
+    "title": "Guys I might be an e/acc",
+    "title_zh": "也许我是一个e/acc",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/QchxwZbk8f5t2uaKX/guys-i-might-be-an-e-acc",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This thought-provoking analysis challenges the consensus around AI pause arguments presented in 'If Anyone Builds It, Everyone Dies' (IABIED). The author, identifying as potentially an 'effective accelerationist' (e/acc), applies personal estimates to the AI timeline and probability of existential risk to question whether an AI pause is justified. Through detailed 'napkin math,' they calculate the trade-offs between immediate human lives lost during a pause versus the potential reduction in existential risk. The piece explores the author's values regarding the importance of humanity's long-term future, questioning whether preventing distant existential risks should take precedence over near-term human suffering. The analysis concludes with a personalized calculator to help others evaluate their stance based on their own values and assumptions, emphasizing the subjective nature of this complex ethical dilemma.",
+    "summary_zh": "这篇深刻的分析质疑了《如果任何人构建它，所有人都会死亡》（IABIED）中关于AI暂停的共识观点。作者可能是一个“有效加速主义者”（e/acc），通过应用个人对AI时间线和存在风险概率的估计，质疑AI暂停是否值得。通过详细的“草纸计算”，他们权衡了暂停期间人类立即死亡与潜在存在风险降低之间的权衡。文章探讨了作者对人类长期未来重要性的价值观，质疑是否应该优先于近期人类痛苦来预防遥远的存在风险。分析以一个个性化计算器结束，帮助他人根据自己的价值观和假设评估立场，强调了这一复杂伦理困境的主观性。",
+    "best_quote_en": "If we pause AI, then based on my estimates, we’ll see an extra 200 million deaths, and the chances of humanity ceasing to exist is halved from 10% to 5%. Is that worth it? That depends on your values.",
+    "best_quote_zh": "根据我的估计，如果我们暂停AI，将会多出2亿人死亡，人类灭绝的几率从10%降至5%。这值得吗？这取决于你的价值观。"
+  },
+  {
+    "id": 238,
+    "title": "Andrew Cuomo’s Long Goodbye",
+    "title_zh": "安德鲁·库默的漫长告别",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This article offers a scathing critique of Andrew Cuomo's mayoral campaign, highlighting the hypocrisy of his experience argument against younger opponent Zohran Mamdani. Cuomo's career, marked by power consolidation and eventual downfall due to sexual harassment allegations, shows the dangers of unchecked political ambition. The piece reveals Cuomo's desperate tactics, including smears against Mamdani's views on Israel and attempts to co-opt his opponent's successful strategies. The analysis exposes Cuomo's political opportunism and the irony of his conservative backers blaming policies he himself implemented. The article serves as a cautionary tale about political relevance and the consequences of clinging to power beyond one's time.",
+    "summary_zh": "这篇文章尖锐批判了安德鲁·库默的市长竞选，揭露他以经验反击年轻对手马姆达尼的虚伪。库默的职业生涯从权力巩固到因性骚扰指控下台，警示了政治野心失控的危害。文中披露库默的绝望伎俩，包括对马姆达尼以色列观点的污蔑和试图效仿对手成功策略。分析揭示了库默的政治机会主义，以及保守派支持者指责他自己签署的政策的讽刺。这篇文章如同政治寓言，警示权力的滥用与过时的危害。",
+    "best_quote_en": "The city has been getting screwed by the state. Who was leading the state?",
+    "best_quote_zh": "城市一直被州政府坑害。是谁在领导州政府？"
+  },
+  {
+    "id": 239,
+    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
+    "title_zh": "数字入境欧洲/文本诈骗/孟买的第二座机场",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
+    "tags": [
+      "analyze",
+      "science",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This week's newsletter offers a mix of practical travel updates and intriguing global insights. The introduction of Europe's new Entry and Exit System (EES) promises faster immigration but raises privacy concerns about movement tracking. The deep dive into 'pig butchering' scams reveals the alarming scale of digital financial fraud, with the US DOJ's $15 billion Bitcoin seizure highlighting the urgency of cybersecurity awareness. Mumbai's new airport marks a significant infrastructure milestone, while Time Out's coolest neighborhoods list serves as a cultural treasure trove for digital nomads. The content balances actionable travel advice with thought-provoking global perspectives, demonstrating the author's expertise in both practical travel and global trends.",
+    "summary_zh": "本周通讯结合了实用的旅行更新和引人深思的全球洞察。欧洲新入境与出境系统（EES）的推出虽然可能加快通关速度，但也引发了关于个人隐私的担忧。关于“杀猪盘”诈骗的深度分析揭示了数字金融诈骗的惊人规模，美国司法部没收150亿美元比特币的事件凸显了网络安全意识的紧迫性。孟买新机场的开通标志着重要的基础设施里程碑，而Time Out的“全球最酷街区”榜单为数字游民提供了文化宝藏。内容平衡了实用旅行建议和全球趋势的深刻见解，展现了作者在实用旅行和全球趋势方面的专业知识。",
+    "best_quote_en": "It's a good list for nomads looking to find the local vibe since the purpose is to highlight 'places that represent the soul of our cities, while maintaining their own unique local character that draws people in to live, work and play.'",
+    "best_quote_zh": "这是一个适合游牧者寻找当地氛围的好清单，因为它的目的就是突出“代表我们城市灵魂的地方，同时保持其独特的地方特色，吸引人们来这里生活、工作和娱乐。”"
   }
 ]
