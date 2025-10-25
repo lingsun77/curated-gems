@@ -1,123 +1,5 @@
 [
   {
-    "id": 140,
-    "title": "At the Edge of Peace",
-    "title_zh": "和平边缘",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/at-the-edge-of-peace-in-gaza",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "The article 'At the Edge of Peace' offers a nuanced look at the fragile ceasefire negotiations between Israel and Hamas, highlighting the complex political maneuvers and internal divisions within both parties. The piece reveals how external pressures, particularly from the Trump administration, have shaped the current stalemate. The author, Ruth Margalit, provides a poignant personal reflection on the human cost of the war, contrasting the daily lives of Israelis with the harrowing experiences of Palestinians in Gaza. The analysis underscores the precarious nature of the ceasefire deal, which could either pave the way for lasting peace or further entrench the conflict. The article's strength lies in its blend of political insight and emotional depth, making it a compelling read for those interested in Middle Eastern politics and humanitarian issues.",
-    "summary_zh": "《和平边缘》深入分析了以色列与哈马斯之间停火谈判的复杂性，揭示了各方政治操作和内部矛盾。作者鲁思·玛加利特以个人视角描绘战争带来的人道主义灾难，对比以色列人与加沙巴勒斯坦人的生活境遇。文章指出停火协议的脆弱性，可能成为和平的契机，也可能加剧冲突。政治洞察与人文关怀的结合，使其成为研究中东问题的精彩读物。",
-    "best_quote_en": "Change, as the saying goes, happens gradually, then all at once.",
-    "best_quote_zh": "变革总是渐进的，然后突然发生。"
-  },
-  {
-    "id": 141,
-    "title": "How to Pick a Career (That Actually Fits You)",
-    "title_zh": "如何选择适合你的职业",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2018/04/picking-career.html",
-    "tags": [
-      "solve",
-      "education",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2018-04-12",
-    "summary_en": "This insightful article challenges conventional career advice, encouraging readers to question societal norms and take ownership of their career paths. The author introduces the concept of the 'Yearning Octopus,' representing the complex, often conflicting desires and fears that influence career decisions. By breaking down career choices into 'Want Box' and 'Reality Box,' the article provides a framework for aligning personal aspirations with practical possibilities. The piece emphasizes the importance of self-reflection and understanding one's subconscious motivations to make informed career decisions. It's a thought-provoking guide for anyone seeking a fulfilling career path that truly fits their unique identity and values.",
-    "summary_zh": "这篇文章挑战了传统的职业建议，鼓励读者质疑社会规范，并掌握自己的职业发展方向。作者提出了“渴望章鱼”的概念，代表影响职业选择的复杂且常常矛盾的欲望和恐惧。通过将职业选择分解为“想要盒子”和“现实盒子”，文章提供了一个将个人愿望与实际可能性结合的框架。文章强调了自我反思和理解潜意识动机的重要性，以便做出明智的职业决定。这是一本思想深刻的指南，适合任何寻求真正符合自己独特身份和价值观的职业道路的人。",
-    "best_quote_en": "The Want Box is a game of compromise.",
-    "best_quote_zh": "想要盒子是一个妥协的游戏。"
-  },
-  {
-    "id": 142,
-    "title": "Third Place Happiness/Flight Payment Plans/Escaping the US",
-    "title_zh": "第三名的幸福/机票分期付款/逃离美国",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/third-place-happiness-flight-payment-plans-escaping-the-us/",
-    "tags": [
-      "solve",
-      "psychology",
-      "politics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "政治时事",
-      "深度分析"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "This collection of curated articles offers diverse insights into human behavior, travel strategies, and global mobility. The Olympic bronze medalist happiness study reveals intriguing psychological nuances about ambition and contentment, challenging conventional notions of success. The flight payment plans article provides practical financial solutions for travelers, highlighting alternative payment methods. The 'live like a local' piece offers a humorous yet insightful critique of digital nomadism, exposing the superficiality of tourist experiences. The final article on escaping the US presents real-world options for those considering international relocation, emphasizing flexibility in lifestyle choices. Together, these pieces provoke thought about our relationships with success, travel, and personal freedom.",
-    "summary_zh": "这些精选文章涵盖了人类行为、旅行策略和全球流动的多元视角。奥运会铜牌得主的幸福研究揭示了关于野心与满足感的心理学细节，挑战了成功的传统观念。机票分期付款文章提供了旅行者的实用财务解决方案，突出了替代支付方式。'像当地人一样生活'的文章以幽默又深刻的方式批判了数字游民的表面性，揭示了游客体验的局限性。最后关于逃离美国的文章呈现了现实出路，强调了生活选择的灵活性。这些内容共同引发我们思考成功、旅行与个人自由的关系。",
-    "best_quote_en": "If you expect everything to go perfectly and to win every time, including on travel days, you’re going to suffer a lot of disappointment.",
-    "best_quote_zh": "如果你期望一切都完美，包括在旅途中总是赢，那你会遭受很多失望。"
-  },
-  {
-    "id": 143,
-    "title": "Solo trips abroad take off among women who seek break from work – and their families",
-    "title_zh": "独自出行热潮：女性寻求摆脱工作与家庭的解脱",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/business/2025/oct/06/solo-trips-travel-women-break-work-family",
-    "tags": [
-      "analyze",
-      "society",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This article highlights a growing trend of women, particularly those in their 40s-60s, booking solo international trips to escape both work pressures and family responsibilities. The rise in solo travel among women is driven by a desire for personal freedom and self-discovery, with many opting for cultural immersion or active adventures. Travel operators note that these women value the independence of exploring on their own terms while still enjoying the social aspects of group travel. The trend reflects broader societal shifts towards prioritizing personal well-being and self-exploration, challenging traditional notions of travel as a family-oriented activity.",
-    "summary_zh": "越来越多女性选择独自出行，尤其是40-60岁的女性，她们希望摆脱工作和家庭的束缚。这种趋势反映了人们对个人自由和自我探索的追求，许多女性选择沉浸式文化体验或户外冒险。旅行社表示，这些女性渴望按自己的方式探索世界，同时享受团队旅行的社交乐趣。这一现象反映了社会对个人幸福的重视，挑战了传统的家庭旅行观念。",
-    "best_quote_en": "Consumers booking their own solo holidays is about 'choosing how you want to experience the world'.",
-    "best_quote_zh": "选择独自旅行是关于'按自己的方式体验世界'。"
-  },
-  {
-    "id": 144,
-    "title": "Sora update #1",
-    "title_zh": "Sora更新#1",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/sora-update-number-1",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "The Sora team is rapidly iterating based on user feedback and rightsholder input, implementing two major changes soon. First, they're introducing more granular controls for rightsholders over character generation, acknowledging the unique cultural significance of Japanese content. Second, they're exploring revenue sharing models with rightsholders for user-generated videos. The team emphasizes their commitment to rapid iteration and learning from both successes and missteps, drawing parallels to ChatGPT's early development. This update reveals their balancing act between creative freedom, cultural sensitivity, and sustainable business models in AI-generated content.",
-    "summary_zh": "Sora团队正在根据用户反馈和权利方意见快速迭代，即将实施两项重大变更。首先，他们将为权利方提供更细致的角色生成控制功能，特别承认日本内容的独特文化价值。其次，他们正在探索与权利方分享用户生成视频收益的模式。团队强调他们致力于快速迭代，从成功和失误中学习，并将类比ChatGPT早期发展。这一更新揭示了他们在创作自由、文化敏感性与可持续商业模式之间的平衡。",
-    "best_quote_en": "We are struck by how deep the connection between users and Japanese content is!",
-    "best_quote_zh": "我们深感用户与日本内容之间有着多么深厚的联系！"
-  },
-  {
     "id": 145,
     "title": "How to Make Yourself Unbreakable | DJ Shipley",
     "title_zh": "如何让自己变得不可战胜 | DJ Shipley",
@@ -2346,5 +2228,125 @@
     "summary_zh": "本周通讯结合了实用的旅行更新和引人深思的全球洞察。欧洲新入境与出境系统（EES）的推出虽然可能加快通关速度，但也引发了关于个人隐私的担忧。关于“杀猪盘”诈骗的深度分析揭示了数字金融诈骗的惊人规模，美国司法部没收150亿美元比特币的事件凸显了网络安全意识的紧迫性。孟买新机场的开通标志着重要的基础设施里程碑，而Time Out的“全球最酷街区”榜单为数字游民提供了文化宝藏。内容平衡了实用旅行建议和全球趋势的深刻见解，展现了作者在实用旅行和全球趋势方面的专业知识。",
     "best_quote_en": "It's a good list for nomads looking to find the local vibe since the purpose is to highlight 'places that represent the soul of our cities, while maintaining their own unique local character that draws people in to live, work and play.'",
     "best_quote_zh": "这是一个适合游牧者寻找当地氛围的好清单，因为它的目的就是突出“代表我们城市灵魂的地方，同时保持其独特的地方特色，吸引人们来这里生活、工作和娱乐。”"
+  },
+  {
+    "id": 240,
+    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
+    "title_zh": "每次出门，我首先想到的就是我的前额：接受头发移植的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
+    "tags": [
+      "solve",
+      "psychology",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This article explores the growing trend of women undergoing hair transplants, a procedure once primarily associated with men. It delves into the psychological and societal pressures that drive women to seek this solution, highlighting the unique challenges they face due to differing patterns of hair loss and societal beauty standards. The piece also examines the risks and ethical concerns surrounding the procedure, including the prevalence of botched jobs and the lack of regulation in the industry. It's a thought-provoking look at how beauty standards and the quest for perfection can impact mental health and self-perception, particularly among women.",
+    "summary_zh": "这篇文章探讨了越来越多女性选择接受头发移植手术的现象，这一手术曾主要面向男性。它深入分析了推动女性寻求这一解决方案的心理和社会压力，突出了她们因不同的脱发模式和社会美容标准面临的独特挑战。该文还检视了该手术的风险和伦理问题，包括劣质手术的普遍性和行业监管缺失。这是一篇发人深省的文章，揭示了美容标准和完美追求如何影响心理健康和自我认知，尤其是对女性而言。",
+    "best_quote_en": "It's just societal pressure. Where once we were obsessed with straight teeth, now it’s the perfect hairline.",
+    "best_quote_zh": "这只是社会压力。我们曾经痴迷于牙齿整齐，现在则是完美的发际线。"
+  },
+  {
+    "id": 241,
+    "title": "A Way to Detect Bias",
+    "title_zh": "A Way to Detect Bias",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/bias.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This article presents a fascinating methodology for detecting bias in selection processes without knowing details about the applicant pool. The core insight is that bias can be identified when certain groups must perform better to be selected, leading to higher performance among selected members of that group. The author illustrates this with venture capital data showing female-founded startups outperforming others, suggesting the VC selection process may be biased. This technique's power lies in its objectivity and potential to uncover hidden biases across various domains where performance metrics exist. The author predicts increased use of this method as data availability grows, offering a powerful tool for analyzing and improving fairness in selection processes.",
+    "summary_zh": "这篇文章介绍了一种检测选择过程中的偏见的方法，无需了解申请者池的具体信息。核心观点是，如果某些群体需要更优秀才能被选中，那么该群体中被选中的成员表现会更好。作者以风投数据为例，显示女性创办的初创公司表现优于其他公司，暗示风投的选择过程可能存在偏见。该方法的价值在于其客观性和在各种有性能指标的领域中揭示隐藏偏见的潜力。作者预测，随着数据可用性的增加，这种方法将被更广泛使用，为分析和改善选择过程的公平性提供强大工具。",
+    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
+    "best_quote_zh": "这不仅仅是一种检测偏见的启发式方法。这是偏见的本质。"
+  },
+  {
+    "id": 242,
+    "title": "Musings on Reported Cost of Compute (Oct 2025)",
+    "title_zh": "关于报告的计算成本思考（2025年10月）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This analysis provides a detailed breakdown of the complex economics behind AI compute infrastructure, revealing how costs can be reported in vastly different ways depending on perspective. The author examines capital expenditures (capex) for infrastructure and hardware, operational expenses, and contract structures, highlighting how a $300bn contract might actually represent just 5 GW of capacity. The piece challenges common assumptions about Nvidia's dominance in GPU costs, suggesting non-Nvidia hardware might not be significantly cheaper. Looking ahead to 2026, the analysis predicts substantial increases in both compute capacity and model sizes, with implications for Mixture of Experts (MoE) models and computational efficiency. The author's deep dive into these financial and technical considerations offers valuable insights for anyone navigating the economics of AI infrastructure.",
+    "summary_zh": "这篇分析详细拆解了AI计算基础设施背后的复杂经济学，揭示了成本报告方式的多样性。作者探讨了基础设施和硬件的资本支出、运营费用和合同结构，指出3000亿美元的合同可能仅代表5 GW的容量。文章挑战了关于英伟达GPU成本主导地位的常见假设，认为非英伟达硬件可能并不便宜很多。展望2026年，分析预测计算容量和模型规模将大幅增加，对混合专家（MoE）模型和计算效率有深远影响。作者对这些财务和技术考量的深度分析，为任何涉足AI基础设施经济的人士提供了宝贵见解。",
+    "best_quote_en": "Thus a $300bn contract might mean about 5 GW of total capacity, while a $27bn datacenter site could simultaneously mean 2 GW of total capacity.",
+    "best_quote_zh": "因此，3000亿美元的合同可能意味着大约5 GW的总容量，而270亿美元的数据中心站点同时可能意味着2 GW的总容量。"
+  },
+  {
+    "id": 243,
+    "title": "Tales from Toddlerhood",
+    "title_zh": "幼儿期的趣事",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/10/toddler.html",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This humorous and insightful piece explores the paradoxes of toddler parenting with sharp observations and self-deprecating wit. The author shares eight revelations about toddler behavior that range from endearing to exasperating, capturing the unique challenges and joys of this developmental stage. With illustrations that enhance the comedic effect, the article offers a relatable look at the absurdities of toddler logic, the intensity of their personalities, and the universal experience of parenting judgment. It's a refreshing mix of personal anecdotes and universal truths that will resonate with any parent who's navigated the toddler years.",
+    "summary_zh": "文章以幽默的笔触探讨了育儿过程中幼儿期的各种悖论，作者通过八个发现揭示了幼儿行为的矛盾之处。从孩子既令人着迷又让人无聊的矛盾性，到幼儿独特的世界观，再到育儿观念的多样性，内容既真实又充满智慧。这种亲子互动的独特体验，让每个经历过幼儿期的家长都能深有体会。",
+    "best_quote_en": "If you’re walking down the street and an elephant flies down from the sky, hovers ten feet above you and says hello in a silly cartoon voice before flying off, would you be like 'OH MY GOD WHAT JUST HAPPENED' or would you shrug and be like 'I guess that’s something that happens'?",
+    "best_quote_zh": "如果你走在街上，突然有只大象从天而降，悬停在你十英尺上方用滑稽的卡通声音向你打招呼后飞走，你会像‘哦我的天发生了什么’还是会耸耸肩说‘算了，这应该是正常的吧’？"
+  },
+  {
+    "id": 244,
+    "title": "Retro Recomendo: Science",
+    "title_zh": "Retro Recomendo: 科学",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-science/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "This 'Retro Recomendo' issue is a clever revival of past recommendations, focusing on science. It highlights evergreen resources that remain valuable years after their initial publication. The selections span from visual explanations of cutting-edge research to classic science education books, showing how different mediums can make complex topics accessible. What's particularly noteworthy is the blend of modern digital tools (like the 4D app) with timeless print resources, demonstrating that great educational content transcends format. The inclusion of NASA's citizen science projects also underscues the democratization of science, making it participatory rather than just observational. This issue exemplifies how quality science communication can bridge generations and engage diverse audiences.",
+    "summary_zh": "这期“Retro Recomendo”精选了过去九年最有价值的科学推荐内容，展示了优质教育资源的经典魅力。从视觉化的前沿研究到经典科学教育书籍，再到NASA的公民科学项目，这些资源跨越了数字和印刷格式，证明了优质科学传播的持久价值。值得关注的是，这些推荐不仅让复杂概念变得易于理解，还鼓励读者参与科学探索，展现了科学传播的多样性与包容性。",
+    "best_quote_en": "Doug is a regular-guy geologist who draws his own graphics with pencil, and carries his own camera as he trudges across the landscape, giving the big picture of what has happened to shape the land, and how that shapes the culture on it.",
+    "best_quote_zh": "道格是一个普通的地质学家，他用铅笔自己画图，带着自己的相机跋涉在土地上，向我们展示了塑造这片土地的历史，以及它如何影响这里的文化。"
   }
 ]
