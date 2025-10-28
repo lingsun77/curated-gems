@@ -1,121 +1,5 @@
 [
   {
-    "id": 155,
-    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
-    "title_zh": "铁娘子评论：激励人心的矿工罢工前线女性纪录片",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This documentary offers a powerful and inspiring look at the often-overlooked role of women during the 1984-85 miners' strike in the UK. The film highlights how working-class women, many of them miners' wives, organized under Women Against Pit Closures (WAPC) to support the strike through picketing, fundraising, and political activism. Their stories reveal the transformative power of collective action and how this experience politicized many of them, leading to lifelong engagement in community leadership. The documentary challenges the dominant narrative of the strike, which often centers on male miners, and provides a nuanced perspective on working-class women's history. It's a poignant reminder of how grassroots movements can empower individuals and communities, and how political engagement can begin from the most personal of motivations - feeding one's children. The film also serves as a critique of Thatcher's policies and the lasting impact they had on these women's lives.",
-    "summary_zh": "这部纪录片深入展现了1984-85年英国矿工大罢工期间女性的重要作用，她们组织起来，支持罢工，开展政治活动。影片揭示了集体行动的力量和草根运动如何赋予普通女性力量，让她们走上政治道路。这部纪录片不仅是对工人阶级女性历史的补充，也是对撒切尔政策影响的批判。",
-    "best_quote_en": "'We were just women who wanted to know how to feed their kids.'",
-    "best_quote_zh": "“我们只是想知道如何养活孩子的普通女人。”"
-  },
-  {
-    "id": 156,
-    "title": "Being a Noob",
-    "title_zh": "做新手",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/noob.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This reflective piece explores the universal experience of feeling like a novice in new situations. The author challenges the negative connotation of being a 'noob,' arguing that the discomfort of feeling incompetent actually indicates growth and learning. By examining the evolutionary roots of our aversion to feeling ignorant, the piece suggests that in our rapidly changing modern world, embracing the 'noob' feeling is essential for personal and intellectual development. The author's personal anecdotes and cross-cultural observations make this a compelling read about lifelong learning and the value of stepping outside one's comfort zone.",
-    "summary_zh": "这篇文章探讨了我们在面对新事物时常常感到自己是新手的普遍经历。作者质疑了“新手”这一标签的负面含义，认为这种不适感实际上标志着成长与学习。通过分析我们对无知感的厌恶的进化根源，文章指出在快速变化的现代世界中，拥抱“新手”感是个人和智力发展的必然。作者的个人轶事和跨文化观察使这篇文章成为关于终身学习和突破舒适区的引人深思之作。",
-    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
-    "best_quote_zh": "你在本地越是新手，在全球范围内就越不新手。"
-  },
-  {
-    "id": 157,
-    "title": "Who Can Lead the Democrats?",
-    "title_zh": "谁能领导民主党？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/who-can-lead-the-democrats",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Kamala Harris's memoir '107 Days' offers a candid but ultimately divisive look at her brief 2024 presidential campaign. While she faced immense challenges including misogyny and racism, her constant criticism of colleagues, staff, and even her husband creates a tone that feels petty rather than humanizing. The book's most striking revelation may be Harris's admission that she passed over Pete Buttigieg as VP because she doubted America's readiness for a ticket with both a Black woman and a gay man. Her critique of Biden's campaign struggles feels muted compared to her harsh judgments of others. The memoir's greatest failure is its lack of generosity toward fellow Democrats at a time when unity is crucial. In focusing on personal grievances, Harris misses an opportunity to present herself as the unifying leader her party desperately needs in the face of Trump's dangerous second term.",
-    "summary_zh": "哈里斯的回忆录《107天》直白但最终分裂地展现了她短暂的2024年总统竞选。尽管她面临着巨大挑战，包括性别歧视和种族歧视，但她对同事、工作人员甚至丈夫的不断批评使其语气显得小气而非真实。书中最引人注目的揭露可能是哈里斯承认自己没有选择彼得·巴蒂格为副手，因为她怀疑美国是否准备好接受一个由黑人女性和同性恋组成的竞选搭档。对拜登竞选困境的批评与评价他人时的严厉相比显得温和。这本回忆录最大的失败在于缺乏对其他民主党人的宽容，而在特朗普危险的第二任期面前，团结至关重要。哈里斯在专注于个人恩怨时，错失了将自己塑造为民主党急需的团结领导人的机会。",
-    "best_quote_en": "'We can't turn on each other.' The truth of those words landed on me like a bucket of ice water.",
-    "best_quote_zh": "“我们不能互相攻击。”这句话的真相像一桶冰水一样砸在了我身上。"
-  },
-  {
-    "id": 158,
-    "title": "Sora 2",
-    "title_zh": "Sora 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/sora-2",
-    "tags": [
-      "solve",
-      "ai-research",
-      "cybersecurity",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "网络安全",
-      "未来预测"
-    ],
-    "date": "2025-09-30",
-    "summary_en": "The launch of Sora 2 marks a significant moment in creative AI, akin to the impact of ChatGPT on text generation. This new app combines an advanced model with an intuitive platform for video creation, sharing, and viewing, potentially sparking a Cambrian explosion in creativity. The 'cameo' feature, allowing users to insert themselves and others into videos, represents an innovative way to connect and express creativity. However, the developers acknowledge potential risks, including addiction and misuse, and have implemented safeguards against deepfakes, disturbing content, and negative impacts on user well-being. Their principles focus on long-term user satisfaction, user control over content feeds, encouragement of creation, and alignment with long-term user goals. This thoughtful approach balances innovation with responsibility, setting a precedent for ethical AI development in creative spaces.",
-    "summary_zh": "Sora 2的推出标志着创意AI领域的重要里程碑，类似于ChatGPT对文本生成的影响。这款新应用将先进模型与直观的视频创作、分享和观看平台结合，可能引发创意领域的爆炸式增长。'cameo'功能允许用户将自己和他人插入视频中，开创了新的连接和表达方式。然而，开发者也承认潜在风险，包括成瘾和滥用，并实施了针对深度伪造、令人不安内容和用户心理健康影响的防护措施。他们的原则侧重于长期用户满意度、用户对内容的控制权、创作鼓励和与用户长期目标的对齐。这种深思熟虑的平衡开创了创意领域AI伦理发展的新标准。",
-    "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
-    "best_quote_zh": "创造力可能即将经历一次剑尾鱼大爆发，而艺术和娱乐的质量也能得到显著提升。"
-  },
-  {
-    "id": 159,
-    "title": "Essentials: Time Perception, Memory & Focus",
-    "title_zh": "Essentials: 时间感知、记忆与专注力",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
-    "tags": [
-      "update",
-      "lifestyle",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This episode of Huberman Lab Essentials dives deep into the fascinating science of time perception, offering practical tools to optimize our daily rhythms. Dr. Huberman explains how biological clocks align with light cycles to regulate hormones affecting energy and mood, providing actionable strategies for improving focus through exercise timing and light exposure. The discussion on neurotransmitters like dopamine and serotonin reveals how they shape our experience of time, with compelling insights into how novelty and emotion create memorable moments. The episode's blend of neuroscience and practical applications makes it invaluable for anyone seeking to enhance productivity and understand the mechanisms behind our perception of time.",
-    "summary_zh": "本集Huberman Lab Essentials探讨了时间感知的科学原理，提供优化日常节奏的实用工具。Huberman博士解释了生物钟如何与光周期同步调节影响能量和情绪的激素，并给出了通过运动时间和光照调整专注力的可行策略。关于多巴胺和血清素如何塑造时间感知的讨论，揭示了新奇体验和情绪如何创造难忘瞬间。这集兼具神经科学与实用价值，对希望提升生产力并理解时间感知机制的人士至关重要。",
-    "best_quote_en": "Novelty and emotion create more vivid memories, making time seem to pass more slowly during these experiences.",
-    "best_quote_zh": "新奇和情绪会创造更鲜明的记忆，使时间在这些体验中似乎过得更慢。"
-  },
-  {
     "id": 160,
     "title": "Jess Cartner-Morley: ladylike fashion is back, but it’s been given a modern twist",
     "title_zh": "杰斯·卡特纳-莫利：优雅时尚卷土重来，但已焕然一新",
@@ -2344,5 +2228,119 @@
     "summary_zh": "史蒂芬·普雷斯菲尔德关于克服内在阻力的见解既深刻又实用。他军人背景塑造了其方法，提供具体工具而非空洞激励。讨论从通过体能训练培养纪律到构建高效工作时段，战胜完美主义和将失败视为创作过程一部分，无所不包。普雷斯菲尔德强调转型为专业人士、严肃对待自己及保持专注、持续努力的重要性，为任何希望激发创造力的人提供了指南。关于死亡、家庭荣誉和追求使命代价的思考，为对话增添深度，使其不仅关于生产力，更关于个人成长。",
     "best_quote_en": "Resistance is the most toxic force on the planet. It is our enemy, and it must be defeated.",
     "best_quote_zh": "抵抗是地球上最有毒的力量。它是我们的敌人，必须被战胜。"
+  },
+  {
+    "id": 255,
+    "title": "Riot Women and lesbians in the 1970s | Letters",
+    "title_zh": "1970年代的激进女性与女同性恋者 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2025/oct/26/riot-women-and-lesbians-in-the-1970s",
+    "tags": [
+      "inspire",
+      "society",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This collection of letters responds to a critique of Sally Wainwright's BBC series 'Riot Women,' offering personal perspectives on 1970s feminism and lesbian visibility. Readers share stories of friends who embodied feminist ideals through activism, music, and spiritual leadership, challenging the notion that lesbians were invisible in that era. The letters highlight the cultural impact of feminist movements and the personal transformations they inspired, while defending the series against accusations of superficiality. This exchange reveals the ongoing relevance of 1970s feminist struggles and the enduring power of personal narratives in shaping our understanding of history.",
+    "summary_zh": "这些读者来信回应了对萨莉·温赖特BBC剧《激进女性》的批评，分享了朋友们在70年代如何通过激进主义、音乐和精神领导力践行女权理念的个人故事，挑战了当时女同性恋者不可见的说法。信件展现了女权运动的文化影响力及其激发的个人转变，并为该剧反驳了肤浅的指责。这场讨论揭示了70年代女权斗争的持久意义及个人叙事在历史理解中的力量。",
+    "best_quote_en": "Feminism is the theory, lesbianism is the practice.",
+    "best_quote_zh": "女权主义是理论，女同性恋是实践。"
+  },
+  {
+    "id": 256,
+    "title": "Why It's Safe for Founders to Be Nice",
+    "title_zh": "为什么创始人可以做一个好人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/safe.html",
+    "tags": [
+      "solve",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This insightful piece challenges the stereotype of the ruthless businessman, particularly in the startup world. Paul Graham argues that successful founders are often kind and generous, as building exceptional products that spread by word-of-mouth is more valuable than aggressive monetization. Through compelling math examples, he demonstrates that a higher growth rate outweighs the benefits of extracting maximum value from customers. The article concludes that founders should prioritize growth and product excellence over rapacity, as kindness doesn't hinder but rather complements startup success. This perspective is both refreshing and thought-provoking, offering a nuanced view of the qualities that truly drive startup success.",
+    "summary_zh": "保罗·格雷厄姆挑战了对成功商人的刻板印象，认为创业者可以并且应该保持善良。他通过数学模型证明，产品的传播速度比单纯榨取用户价值更重要。文章鼓励创始人专注于增长和产品优化，而非贪婪。这一观点既颠覆常规认知，又提供了实用的商业智慧，值得每个创业者深思。",
+    "best_quote_en": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't.",
+    "best_quote_zh": "创始人可以安全地保持善良，因为创造伟大的东西具有复利效应，而贪婪则不具备。"
+  },
+  {
+    "id": 257,
+    "title": "Heuristics for assessing how much of a bubble AI is in/will be",
+    "title_zh": "评估AI泡沫程度的启发式方法",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xeESG8LmDKejddmZD/heuristics-for-assessing-how-much-of-a-bubble-ai-is-in-will",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This article provides a nuanced analysis of the AI bubble phenomenon, drawing on historical tech bubble frameworks developed by economists Brent Goldfarb and David A. Kirsch. The piece identifies four key factors that contribute to tech bubbles—uncertainty, pure plays, novice investors, and narratives around commercial innovations—and applies them to the current AI landscape. The author argues that while AI investment levels are unprecedented, it's crucial to assess whether this represents a bubble or justified valuation. The comparison to historical bubbles like aviation and broadcast radio is particularly insightful, suggesting AI may follow similar boom-bust patterns. The article serves as both a warning and an analytical tool for understanding the current AI frenzy.",
+    "summary_zh": "文章通过分析经济学家Brent Goldfarb和David A. Kirsch提出的技术泡沫框架，深入探讨了当前AI泡沫现象。作者指出，技术泡沫的四大关键因素——不确定性、纯粹的投机公司、新手投资者和商业创新叙事，同样适用于AI领域。尽管AI投资规模空前，但需要评估是否为泡沫还是合理估值。将AI与历史泡沫如航空和广播进行对比，揭示了其可能的兴衰轨迹。文章既是警示，也是理解AI狂热的分析工具。",
+    "best_quote_en": "There's no question. It hits all the right notes.",
+    "best_quote_zh": "毫无问题。它完全符合所有特征。"
+  },
+  {
+    "id": 258,
+    "title": "Why Biden’s White House Press Secretary Is Leaving the Democratic Party",
+    "title_zh": "拜登的白宫新闻秘书为何离开民主党",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-bidens-white-house-press-secretary-is-leaving-the-democratic-party",
+    "tags": [
+      "guide",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "Karine Jean-Pierre's departure from the Democratic Party, as detailed in her new book, reveals deep fractures within the party. She accuses Democratic leaders of betraying Joe Biden during the 2024 election cycle, particularly after his disastrous debate performance. Jean-Pierre argues that the party's treatment of Biden was undignified and that his presidency was unfairly dismissed. Her perspective is shaped by her identity as a Black LGBTQ woman, who feels the party has failed to adequately protect marginalized communities. The interview delves into the complexities of loyalty, political strategy, and the challenges faced by Biden and Kamala Harris. Jean-Pierre's critique extends to the party's handling of Harris's candidacy, highlighting systemic biases against women of color. The conversation underscores the tension between party loyalty and the perceived best interests of the country, raising questions about the Democratic Party's future direction and its ability to unite diverse constituencies.",
+    "summary_zh": "卡琳·让-皮埃尔在新书中揭露民主党内部的深层裂痕，她指控民主党领导层在2024年选举周期中背叛了拜登，尤其是在他辩论表现糟糕后。让-皮埃尔认为党内对拜登的待遇不够体面，认为他的总统任期被不公平地否定。作为一名黑人LGBTQ女性，她感到民主党未能充分保护边缘群体。访谈探讨了忠诚、政治策略以及拜登和哈里斯面临的挑战。让-皮埃尔的批评延伸至党内对哈里斯候选资格的处理，凸显了对有色女性的系统性偏见。对话凸显了党内忠诚与国家利益之间的紧张关系，引发对民主党未来方向及其团结多元选民的质疑。",
+    "best_quote_en": "I watched Democratic leadership abandon, and in the end betray, a man who’d led our country through a pandemic and a time of historic political turmoil.",
+    "best_quote_zh": "我目睹民主党领导层抛弃，最终背叛了一位在大流行病和历史性政治动荡时期带领国家前行的男子。"
+  },
+  {
+    "id": 259,
+    "title": "Mowers",
+    "title_zh": "Mowers",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mowers/",
+    "tags": [
+      "solve",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "This article explores a variety of lawn care tools, each with unique advantages for different scenarios. The DR Trimmer Mower stands out as a versatile hybrid tool ideal for managing weeds, grass, and even brambles, especially in tight spaces. The Brill Push Mower offers an eco-friendly alternative with its manual operation, though it requires regular maintenance. The Cyclone Rake proves invaluable for large properties with leaf cleanup, while the Stihl FSE 60 Trimmer excels as a powerful yet quiet electric option. The European Scythe emerges as a surprisingly efficient tool for weed control, combining ergonomic design with manual precision. Each tool's strengths are highlighted through user experiences, offering practical insights for those seeking effective lawn maintenance solutions.",
+    "summary_zh": "本文介绍了多种草坪维护工具，每种工具都有其独特的优势。DR修剪割草机作为一种多功能混合工具，特别适合处理杂草、草地和灌木丛，尤其在狭窄空间中表现出色。Brill推式割草机作为一种环保的手动选择，尽管需要定期维护，但具有生态友好性。Cyclone树叶收集机在清理落叶方面表现出色，而Stihl FSE 60修剪机则以其强大而安静的特性脱颖而出。欧洲镰刀作为一种高效的除草工具，以其人体工学设计和手动精度吸引了用户的关注。每种工具的优势通过用户体验得以凸显，为寻求有效草坪维护解决方案的人们提供了实用见解。",
+    "best_quote_en": "The key is the light weight of the tool and the sharpness of the blade.",
+    "best_quote_zh": "关键在于工具的轻便和刀刃的锋利。"
   }
 ]
