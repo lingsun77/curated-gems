@@ -1,125 +1,5 @@
 [
   {
-    "id": 160,
-    "title": "Jess Cartner-Morley: ladylike fashion is back, but it’s been given a modern twist",
-    "title_zh": "杰斯·卡特纳-莫利：优雅时尚卷土重来，但已焕然一新",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/08/jess-cartner-morley-ladylike-fashion-is-back-but-its-been-given-a-modern-twist",
-    "tags": [
-      "update",
-      "design",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Jess Cartner-Morley explores the resurgence of ladylike fashion, emphasizing its modern reinterpretation. The key lies in balancing delicate elements with sturdy pieces like blazers or chunky knits, creating a look that's both feminine and empowered. This trend isn't about fragility but about quiet strength and good manners. The Miu Miu 2025 collection exemplifies this evolution, mixing retro elements with contemporary touches. The author advises incorporating unexpected details like loafers or ribbed socks with kitten heels to update the classic aesthetic. The trend also encourages playing with bold pastels and adding playful elements like polka dots or mismatched jewelry to prevent a overly prim appearance.",
-    "summary_zh": "杰斯·卡特纳-莫利探讨优雅时尚的回归与现代转型。关键在于将精致元素与结实配饰平衡，如西装或厚毛衣，打造既女性化又强势的风格。这种趋势不追求柔弱，而是强调内在力量与礼仪。Miu Miu 2025系列展现了这一演变，混搭复古与现代。作者建议用乐福鞋或蕾丝袜搭配猫跟鞋来升级经典造型。趋势鼓励尝试大胆色彩搭配，并加入点缀元素如波点或不搭配的珠宝，避免过于端庄的形象。",
-    "best_quote_en": "Ladylike is not be underestimated, and has never looked better than in the latest fashion iteration. When it feels this modern, what's not to love?",
-    "best_quote_zh": "优雅时尚不容小觑，在最新时尚版本中，它从未如此动人。当它如此现代时，还有什么不喜欢的呢？"
-  },
-  {
-    "id": 161,
-    "title": "Trump, the Self-Styled “President of PEACE” Abroad, Makes War at Home",
-    "title_zh": "自称“和平总统”的特朗普在国内制造战争",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-the-self-styled-president-of-peace-abroad-makes-war-at-home",
-    "tags": [
-      "update",
-      "politics",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This article presents a striking contrast between Trump's self-proclaimed role as a global peacemaker and his domestic policies that escalate conflict. While Trump boasts about ending multiple international conflicts (often inaccurately), his most significant diplomatic achievement appears to be brokering a ceasefire in Gaza. The piece highlights the irony of Trump's martial rhetoric against American cities while negotiating peace abroad. It also examines the political calculations behind these actions, including Trump's desire for the Nobel Peace Prize and his strategic pressure on Israeli Prime Minister Netanyahu. The analysis reveals a presidency defined by contradictions, where foreign peace efforts coexist with domestic conflict escalation, raising questions about Trump's true priorities and the nature of his leadership.",
-    "summary_zh": "特朗普自称是国际和平缔造者，却在国内制造战争，这种强烈对比引人深思。虽然他夸大其词地宣称结束多场国际冲突，但最显著的外交成就是促成加沙停火。文章揭示了特朗普寻求诺贝尔和平奖的政治动机，以及他对以色列总理内塔尼亚胡的战略施压。这种外交和平与国内战争的双重性，反映出特朗普政府的矛盾本质，让人质疑其真实意图与领导力本质。",
-    "best_quote_en": "He's done a lot to make peace, so much so, it seems, that it's hard for him to keep track of all the countries whose troubles he's solving.",
-    "best_quote_zh": "他为和平做了很多事，多到他似乎难以记住所有他声称解决的国家问题。"
-  },
-  {
-    "id": 162,
-    "title": "Abundant Intelligence",
-    "title_zh": "丰富的智能",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/abundant-intelligence",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "The article presents a visionary perspective on the future of AI infrastructure, highlighting its potential to revolutionize fields like healthcare and education. The author argues that AI compute capacity will become a fundamental economic driver and possibly a human right. The ambitious goal of building a 'factory' capable of producing a gigawatt of AI infrastructure weekly is presented, acknowledging the immense challenges but expressing confidence in overcoming them. The piece also touches on geopolitical implications, expressing a desire to boost US leadership in AI infrastructure development. The most compelling aspect is the framing of AI compute as the key to solving humanity's most pressing problems, with the author urging collective action to avoid difficult prioritization choices.",
-    "summary_zh": "文章展望了AI基础设施的未来，强调其潜力将彻底改变医疗和教育等领域。作者认为AI计算能力将成为经济发展的核心驱动力，甚至可能成为基本人权。提出每周建造1吉瓦AI基础设施的宏伟目标，尽管承认挑战巨大，但表达了克服困难的信心。文章还触及地缘政治影响，希望推动美国在AI基础设施发展中的领导地位。最具说服力的是将AI计算能力定位为解决人类最紧迫问题的关键，作者呼吁集体行动以避免难以抉择的取舍。",
-    "best_quote_en": "If we are limited by compute, we'll have to choose which one to prioritize; no one wants to make that choice, so let's go build.",
-    "best_quote_zh": "如果我们受到计算能力的限制，就不得不选择优先解决哪一个；没有人想做出这个选择，所以让我们去建造吧。"
-  },
-  {
-    "id": 163,
-    "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
-    "title_zh": "人类如何选择和维持短期与长期浪漫伴侣的关键 | 大卫·巴斯博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-human-romantic-partner-selection-keep-david-buss",
-    "tags": [
-      "analyze",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-02",
-    "summary_en": "This episode with Dr. David Buss dives deep into the evolutionary psychology of human mating behaviors, revealing universal traits valued in long-term partners and key differences between men and women's mate preferences. The discussion covers the darker aspects of mating, including deception, jealousy, and stalking, offering insights into their evolutionary functions. Buss's research highlights how childhood attachment styles influence relationship stability and how self-assessment of mate value affects self-esteem. The conversation is both enlightening and thought-provoking, blending scientific rigor with practical implications for modern relationships.",
-    "summary_zh": "这期节目与大卫·巴斯博士的对话深入探讨了人类配偶选择的演化心理学，揭示了长期伴侣中普遍重视的特质及男女在伴侣偏好的关键差异。讨论涵盖了配偶行为的阴暗面，如欺骗、嫉妒和跟踪，并提供了它们演化功能的见解。巴斯的研究指出，童年依恋类型会影响关系稳定性，自我评估的伴侣价值也会影响自尊。这一对话既富有启发性，又引人深思，将科学严谨性与现代关系的实用意义结合。",
-    "best_quote_en": "The darker aspects of mating behavior, such as deception and jealousy, have deep evolutionary roots that continue to influence our relationships today.",
-    "best_quote_zh": "配偶行为的阴暗面，如欺骗和嫉妒，有着深远的演化根源，至今仍在影响我们的关系。"
-  },
-  {
-    "id": 164,
-    "title": "The Tim Ferriss Show Transcripts: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should) (#828)",
-    "title_zh": "蒂姆·费里斯秀：大卫·森拉——如何思考和获胜：400多位历史上最伟大的创始人和投资者的经验（包括巴菲特、芒格、洛克菲勒、乔布斯、奥维兹、泽尔以及你应该了解但尚未了解的人） (#828)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/09/26/david-senra-transcript/",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "leadership",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "领导管理",
-      "案例研究"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This transcript of Tim Ferriss's interview with David Senra offers profound insights into the mindset and strategies of extreme winners in business and life. Senra, host of the Founders podcast, has spent nearly a decade studying the lives of history's greatest entrepreneurs, distilling their lessons into actionable wisdom. The conversation highlights exceptional figures like Brad Jacobs, Ed Thorp, Sol Price, and Brunello Cucinelli, who have achieved extraordinary success without sacrificing their personal lives. Senra's approach to learning—transforming information into behavioral change—is a key takeaway, emphasizing the importance of applying lessons from the past to current endeavors. The discussion also touches on the role of obsession and intuition in driving success, the value of storytelling in business, and the enduring power of reading and reflection. Senra's unique method of engaging with biographies, treating them as one-sided conversations with history's greats, provides a model for continuous learning and self-improvement. The interview underscores the timeless nature of studying greatness and the importance of pushing ideas forward through generations.",
-    "summary_zh": "蒂姆·费里斯与大卫·森拉的对话揭示了极致成功者的思维模式与策略。森拉通过研究历史上最伟大的企业家，将其经验转化为可行动的智慧。对话中提到的杰出人物如布拉德·雅各布斯、埃德·索普、索尔·普赖斯和布鲁内罗·库奇内利，展示了如何在事业上取得非凡成就的同时保持个人生活的平衡。森拉强调将信息转化为行为的学习方法，以及从历史中汲取经验以指导当前事业的重要性。讨论还涉及热情与直觉在成功中的作用，商业叙事的价值，以及通过阅读与反思实现持续学习与自我提升的力量。森拉独特的阅读方法——将传记视为与历史伟人进行的单向对话，为我们提供了一个宝贵的学习范式。",
-    "best_quote_en": "Learning is not memorizing information. Learning is changing your behavior.",
-    "best_quote_zh": "学习不是记忆信息，学习是改变行为。"
-  },
-  {
     "id": 165,
     "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
     "title_zh": "为什么值得更广泛地关注双性文化 | 读者来信",
@@ -2342,5 +2222,121 @@
     "summary_zh": "本文介绍了多种草坪维护工具，每种工具都有其独特的优势。DR修剪割草机作为一种多功能混合工具，特别适合处理杂草、草地和灌木丛，尤其在狭窄空间中表现出色。Brill推式割草机作为一种环保的手动选择，尽管需要定期维护，但具有生态友好性。Cyclone树叶收集机在清理落叶方面表现出色，而Stihl FSE 60修剪机则以其强大而安静的特性脱颖而出。欧洲镰刀作为一种高效的除草工具，以其人体工学设计和手动精度吸引了用户的关注。每种工具的优势通过用户体验得以凸显，为寻求有效草坪维护解决方案的人们提供了实用见解。",
     "best_quote_en": "The key is the light weight of the tool and the sharpness of the blade.",
     "best_quote_zh": "关键在于工具的轻便和刀刃的锋利。"
+  },
+  {
+    "id": 260,
+    "title": "Exclamation marks! Why do women use them three times as much as men?",
+    "title_zh": "惊叹号！为什么女性使用频率是男性的三倍？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/oct/28/exclamation-marks-why-do-women-use-them-three-times-as-much-as-men",
+    "tags": [
+      "solve",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This article explores the fascinating gender disparity in exclamation mark usage, revealing that women use them three times more frequently than men. The research suggests this stems from societal pressures to appear warm and agreeable, as neutral text is often perceived as cold or hostile. While exclamation marks can enhance perceived friendliness, they may also undermine perceived analytical skills and authority. The piece highlights how digital communication has intensified these dynamics, with users often feeling compelled to overuse exclamation marks to maintain perceived approachability. It's a thought-provoking examination of how punctuation reflects and reinforces gender stereotypes in our digital interactions.",
+    "summary_zh": "这篇文章揭示了一个有趣的现象：女性使用惊叹号的频率是男性的三倍。研究发现，这种差异源于社会对女性热情友好的期待。虽然惊叹号能让人显得更亲切，但也可能削弱分析能力和权威感。文章深刻揭示了数字时代如何放大这种性别刻板印象，让我们反思语言符号背后的社会意义。",
+    "best_quote_en": "You see? Now that we tend to primarily communicate in writing, it's easy to read a neutral tone as aggressive or hostile!",
+    "best_quote_zh": "你看？既然我们主要依靠书面交流，就容易把中性语气误读为攻击性或敌意！"
+  },
+  {
+    "id": 261,
+    "title": "Change Your Name",
+    "title_zh": "改变你的名字",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/name.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This essay by Paul Graham offers a compelling argument for startups to secure the .com domain matching their name. He contends that not having this domain signals weakness, regardless of its practical importance in user acquisition. The core insight is that founders often resist changing their name due to emotional attachment and lack of imagination, despite the availability of better alternatives. Graham suggests practical solutions like hiring naming experts or systematically searching for available domains. The piece is particularly valuable for its psychological insights into founder decision-making and its data-driven perspective on startup success factors.",
+    "summary_zh": "保罗·格雷厄姆在文中提出，初创公司应争取注册与公司名称匹配的.com域名。他认为，即使在用户获取上不再至关重要，拥有.com域名仍象征实力。创始人常因情感依赖和想象力不足而拒绝更改名称，尽管存在更好的替代方案。作者建议通过寻求专业帮助或系统性搜索可用域名来解决问题。这篇文章尤其价值在于揭示创始人决策的心理机制和基于数据的初创公司成功因素分析。",
+    "best_quote_en": "There's nothing intrinsically great about your current name. Nearly all your attachment to it comes from it being attached to you.",
+    "best_quote_zh": "你当前的名字本身并没有什么特别优秀之处。你对它的依恋几乎完全来自于它与你的联系。"
+  },
+  {
+    "id": 262,
+    "title": "What can we learn from parent-child-alignment for AI?",
+    "title_zh": "我们能从父母与子女的对齐关系中学到什么？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xCzKwWmhcEKkeytys/what-can-we-learn-from-parent-child-alignment-for-ai",
+    "tags": [
+      "solve",
+      "ai-research",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This thought-provoking piece draws parallels between human parental love and AI alignment, suggesting current AI training methods may produce sociopathic behaviors. The author, a father of three, shares personal insights about human motivation and warns that RLHF-trained AI lacks genuine altruism, only mimicking desired behavior. The analysis highlights the fundamental challenge of creating AI that truly 'cares' about humans, comparing it to the intrinsic motivation parents have for their children. While acknowledging no solutions exist yet, the author expresses hope that understanding human love could inform AI alignment and strongly advocates against developing AGI without solving this fundamental problem first.",
+    "summary_zh": "这篇文章将人类父母之爱与AI对齐问题进行了深刻比较，指出当前AI训练方法可能导致社会性行为。作者作为三个儿子的父亲，分享了关于人类动机的个人见解，并警告RLHF训练的AI缺乏真正的利他主义，只会模仿所需行为。分析揭示了创造真正关心人类的AI的根本挑战，将其与父母对子女的内在动机进行比较。虽然作者承认尚无解决方案，但表达了希望理解人类之爱能够为AI对齐提供启示，并强烈反对在解决这一根本问题前发展AGI。",
+    "best_quote_en": "It is much easier to change one's behavior than one's inherited character traits.",
+    "best_quote_zh": "改变行为比改变与生俱来的性格特征要容易得多。"
+  },
+  {
+    "id": 263,
+    "title": "The Sports-Betting Disaster",
+    "title_zh": "体育博彩灾难",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-sports-betting-disaster",
+    "tags": [
+      "solve",
+      "leadership",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "The article explores the growing problem of sports betting scandals, particularly focusing on the rise of prop bets and their role in recent N.B.A. controversies. It highlights how the legalization of sports gambling has created new opportunities for game-fixing, with players like Terry Rozier and Malik Beasley allegedly involved in manipulating outcomes. The piece argues that while leagues claim legalization helps maintain integrity, the proliferation of prop bets and the challenges of monitoring them have actually made it easier for corruption to go undetected. The author suggests that the financial incentives for sportsbooks and integrity monitors may conflict with their role in protecting the integrity of sports, raising questions about whether the current system is truly effective.",
+    "summary_zh": "文章深入分析了体育博彩丑闻的兴起，重点关注“小项投注”的泛滥及其在NBA近期丑闻中的作用。文中指出，体育博彩合法化为比赛操控创造了新的机会，如特里·罗齐尔和马利克·比斯利等球员被指控操纵比赛结果。作者认为，尽管联盟声称合法化有助于维护体育赛事的公平性，但小项投注的泛滥和监管难度使得腐败更容易逃避打击。文章还质疑，博彩公司和诚信监督机构的财务利益是否与其维护体育公平的职责产生冲突，并提出了当前体系是否真正有效的疑问。",
+    "best_quote_en": "It’s just another added temptation that’s right in your face at all times that I don’t want the guys to deal with.",
+    "best_quote_zh": "这又是一个始终摆在面前的额外诱惑，我不希望球员们需要应对这样的诱惑。"
+  },
+  {
+    "id": 264,
+    "title": "Print Workshop / Smart About Sharks",
+    "title_zh": "打印工作坊 / 精明的鲨鱼知识",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/print-workshop-smart-about-sharks/",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This dual book review presents two distinct creative resources. Print Workshop offers a comprehensive guide to printmaking techniques, perfect for both beginners and experienced artists seeking new inspiration. It stands out for its practical approach, covering studio setup, materials, and diverse projects like wax seals and image transfers. The review highlights its value as a source for unique gift ideas and homemade presents. Smart About Sharks, meanwhile, is a visually stunning children's book that appeals to both kids and adults with its fascinating shark facts and retro encyclopedic design. The review praises its educational value and engaging presentation, suggesting it's part of a promising series. Together, these books demonstrate how quality print media can cater to different audiences while maintaining high creative and educational standards.",
+    "summary_zh": "这篇双书评介绍了两本截然不同的创意资源。打印工作坊是一本全面的印刷技术指南，适合初学者和希望获得新灵感的艺术家。它以实用著称，涵盖工作室设置、材料选择和各种项目，如蜡封和图像转印。评论突出了它作为独特礼品来源的价值。精明的鲨鱼知识则是一本视觉震撼的儿童读物，以其迷人的鲨鱼知识和复古百科设计吸引了孩子和成人。评论赞扬了其教育价值和吸引力，暗示这是一个有前途系列的开始。这两本书共同展示了优质印刷媒体如何满足不同受众的需求，同时保持高水平的创造力和教育标准。",
+    "best_quote_en": "This book is full of fantastic gift ideas (I'll be making the sweet-potato-printed picnic set for a wedding present, and my holiday preserves are about to get gussied-up with water-slide decal jars).",
+    "best_quote_zh": "这本书充满了精彩的礼物创意（我打算用红薯印刷的野餐套装作为婚礼礼物，我的节日腌制品也将装点上水滑贴花罐子）。"
   }
 ]
