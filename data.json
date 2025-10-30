@@ -1,73 +1,5 @@
 [
   {
-    "id": 165,
-    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
-    "title_zh": "为什么值得更广泛地关注双性文化 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
-    "tags": [
-      "inspire",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This letter expands on Laura Spinney's exploration of gender-egalitarian societies by highlighting overlooked biarchal traditions outside the Eurocentric framework. It presents compelling evidence of persistent biarchal cultures in North America, Africa, and Polynesia, challenging the narrative that patriarchy was the universal norm. The author emphasizes how colonialism systematically dismantled these systems, particularly through education and cultural suppression. The piece also draws a fascinating connection between biarchal societies and LGBTQ+ history, suggesting these cultures often revered gender-variant individuals. This perspective invites us to reconsider historical gender dynamics and the lingering effects of colonialism on contemporary gender norms.",
-    "summary_zh": "这封信扩展了劳拉·斯皮尼关于性别平等社会的探讨，指出了欧美中心主义视角之外被忽视的双性文化传统。作者提出北美、非洲和波利尼西亚等地存在持久的双性文化，挑战了父权制曾是普世规范的说法。文中强调殖民主义通过教育等方式系统性摧毁这些体系，并指出双性社会常尊崇跨性别者。这篇文章促使我们重新思考历史性别动态与殖民影响的持续效应。",
-    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
-    "best_quote_zh": "在男女平等受重视的社会里，兼具阳刚与阴柔特质的人往往受到崇敬。"
-  },
-  {
-    "id": 166,
-    "title": "Haters",
-    "title_zh": "Haters",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fh.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "Paul Graham's essay 'Haters' offers a profound psychological insight into the nature of online criticism. He draws a compelling parallel between obsessive fans ('fanboys') and obsessive haters, suggesting they're two sides of the same coin. Both groups project extreme, unrealistic images onto their subjects, with haters simply inverting the admiration. Graham argues that haters are typically unsuccessful individuals who can't reconcile someone else's fame with their perceived lack of talent, leading them to label successful people as 'frauds.' The essay's brilliance lies in its practical advice: recognizing haters as you would obsessive fans - as irrational forces best ignored. This perspective shifts the focus from trying to understand or appease haters to acknowledging their irrationality and moving on, a valuable lesson for anyone in the public eye.",
-    "summary_zh": "保罗·格雷厄姆的文章《Haters》深刻剖析了网络批评的心理学本质。他将狂热粉丝与狂热仇恨者并置比较，指出两者本质相同，只是情感极性相反。前者极端崇拜，后者极端仇视，都会在头脑中构建远离现实的形象。格雷厄姆认为，仇恨者通常是缺乏成就感的人，无法接受他人成功，只能以“骗子”来否定。文章的价值在于提供了实用建议：将仇恨者视同狂热粉丝，承认其非理性本质并选择忽视。这种视角帮助公众人物将精力从无谓的纠缠中解脱出来。",
-    "best_quote_en": "Haters are just fanboys with the sign switched.",
-    "best_quote_zh": "仇恨者就是符号反转的狂热粉丝。"
-  },
-  {
-    "id": 167,
-    "title": "The Persistent Pull of Planet Epstein",
-    "title_zh": "对“爱普斯坦星球”的持久吸引力",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This piece explores the shifting media landscape where establishment outlets are losing trust to alternative content creators who push conspiracy theories. The author examines how figures like Candace Owens build communities around narratives like those involving Jeffrey Epstein, creating a parallel 'Planet Epstein' that challenges mainstream journalism's assumptions. The analysis highlights how algorithm-driven platforms amplify these alternative views, making them more influential than traditional media. The piece also reflects on the historical parallels to Father Coughlin's radio broadcasts and the fracturing of public consensus in times of technological change. It raises critical questions about the future of media power and the erosion of trust in institutional journalism.",
-    "summary_zh": "这篇文章探讨了传统媒体信任度下降，而另类内容创作者推广阴谋论的新媒体格局。作者分析了坎达斯·欧文斯等人如何围绕爱普斯坦等叙事构建社群，形成挑战主流新闻假设的“爱普斯坦星球”。分析指出，算法驱动的平台放大了这些另类观点的影响力，使其超越传统媒体。文章还反思了历史上父亲考林神父广播的相似性，以及技术变革时期公众共识的分裂。它提出了关于媒体权力未来和机构新闻信任度侵蚀的关键问题。",
-    "best_quote_en": "But the question led me to another that is also worth asking: whether the establishment media and the algorithm upstarts are actually in competition with one another.",
-    "best_quote_zh": "但这个问题引出了另一个值得思考的问题：传统媒体和算法新贵是否真的在竞争？"
-  },
-  {
     "id": 168,
     "title": "Gar’s Tips & Tools – Issue #205",
     "title_zh": "Gar’s Tips & Tools – 第205期",
@@ -2338,5 +2270,75 @@
     "summary_zh": "这篇双书评介绍了两本截然不同的创意资源。打印工作坊是一本全面的印刷技术指南，适合初学者和希望获得新灵感的艺术家。它以实用著称，涵盖工作室设置、材料选择和各种项目，如蜡封和图像转印。评论突出了它作为独特礼品来源的价值。精明的鲨鱼知识则是一本视觉震撼的儿童读物，以其迷人的鲨鱼知识和复古百科设计吸引了孩子和成人。评论赞扬了其教育价值和吸引力，暗示这是一个有前途系列的开始。这两本书共同展示了优质印刷媒体如何满足不同受众的需求，同时保持高水平的创造力和教育标准。",
     "best_quote_en": "This book is full of fantastic gift ideas (I'll be making the sweet-potato-printed picnic set for a wedding present, and my holiday preserves are about to get gussied-up with water-slide decal jars).",
     "best_quote_zh": "这本书充满了精彩的礼物创意（我打算用红薯印刷的野餐套装作为婚礼礼物，我的节日腌制品也将装点上水滑贴花罐子）。"
+  },
+  {
+    "id": 265,
+    "title": "Jess Cartner-Morley: this season, your jeans should be stiff, smart and straight",
+    "title_zh": "杰斯·卡特纳-莫利：本季，你的牛仔裤应该是笔挺、聪明且直筒的",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/29/jess-cartner-morley-this-season-jeans-trend-stiff-smart-straight",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "Jess Cartner-Morley challenges the notion that jeans are merely casual wear, presenting them as versatile pieces capable of elevating both day and evening looks. She argues that well-tailored, straight-leg jeans with minimal stretch can transition seamlessly from office to dinner, especially when paired with structured blazers and polished accessories. The author emphasizes that the key to smart denim lies in intentional styling - embracing the jeans rather than trying to hide them. With insights on proportions, textures, and accessories, this piece serves as a practical guide for those looking to incorporate denim into more formal settings while maintaining style and confidence.",
+    "summary_zh": "杰斯·卡特纳-莫利颠覆了牛仔裤仅适合休闲的传统观念，将其塑造为可提升日常与晚间造型的百搭单品。她指出，版型修身的直筒牛仔裤搭配西装外套和精致配饰，能轻松驾驭商务场合。文章强调了牛仔裤的正确穿搭之道在于主动展现而非掩饰，为想在正式场合穿牛仔裤的人提供了实用指南。",
+    "best_quote_en": "A blazer is to jeans what lipstick is to a bare face. The juxtaposition makes the look feel deliberate and intentional, which radiates confidence.",
+    "best_quote_zh": "西装外套之于牛仔裤，就像唇膏之于素颜。这种对比让整体造型显得用心且有目的性，自然散发出自信。"
+  },
+  {
+    "id": 266,
+    "title": "What Microsoft Is this the Altair Basic of?",
+    "title_zh": "微软是否是阿尔泰尔的BASIC？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/altair.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This article explores the counterintuitive nature of successful startup ideas, using historical examples like Microsoft's Altair Basic to illustrate how initially unpromising concepts can evolve into groundbreaking companies. The author argues that many revolutionary ideas appear ridiculous at first glance, even to knowledgeable observers, because their founders are 'living in the future' and sense unmet needs others can't perceive. The key insight is to reframe seemingly lame startup ideas as potential 'Altair Basic' moments - asking 'What could this grow into?' rather than dismissing them outright. This approach shifts the perspective from ridicule to curiosity, potentially uncovering multiple paths to significant impact that even founders may not initially recognize.",
+    "summary_zh": "这篇文章探讨了成功创业想法的反直觉特性，以微软的阿尔泰尔BASIC为例，说明看似平凡的想法如何演变成颠覆性公司。作者认为，许多革命性想法初现时看似荒谬，甚至连内行人也会嗤之以鼻，因为创始人'生活在未来'，能感知他人未察觉的需求。核心洞见是将看似低俗的创业想法重新框定为潜在的'阿尔泰尔BASIC'时刻，问'这能成长为什么？'而非直接否定。这种方法将视角从嘲笑转向好奇，可能揭示连创始人尚未意识到的多重影响路径。",
+    "best_quote_en": "Most people's first impulse when they hear about a lame-sounding new startup idea is to make fun of it. Even a lot of people who should know better.",
+    "best_quote_zh": "大多数人听到一个听起来很无聊的新创业想法时，第一反应就是嘲笑它。甚至很多应该更懂行的人也是如此。"
+  },
+  {
+    "id": 267,
+    "title": "LLM Hallucinations: An Internal Tug of War",
+    "title_zh": "LLM幻觉：内部的拉锯战",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JbNtWT4iG65wCxW4v/llm-hallucinations-an-internal-tug-of-war-1",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This article presents a fascinating exploration of LLM hallucinations, reframing them not as mere random errors but as a result of competing processes within the model. The author's experiments with Llama2-13b-chat-hf reveal a compelling 'tug of war' between certainty and uncertainty circuits, with the model defaulting to confident responses despite uncertain user input. The discovery that layers 20-39 are responsible for both certainty and uncertainty suggests a deep interconnection between user representation and model behavior. This research opens new avenues for addressing hallucinations by treating them as engineering challenges rather than statistical issues, potentially offering more computationally efficient solutions. The article's interdisciplinary approach and rigorous methodology make it a valuable contribution to AI research.",
+    "summary_zh": "该文章深入探讨了LLM幻觉现象，提出这是模型内部不同过程竞争的结果，而非随机错误。作者通过对Llama2-13b-chat-hf的实验发现，模型在用户不确定时仍倾向于自信回应，揭示了确定性与不确定性之间的内部拉锯战。研究表明，第20-39层同时负责两种回应，证明了用户表示与模型行为的深层关联。这一发现将幻觉问题从统计视角转向工程视角，为高效解决方案提供了新思路。文章严谨的研究方法和跨学科视角令人信服。",
+    "best_quote_en": "LLM hallucination is not a failure of knowledge but a policy failure.",
+    "best_quote_zh": "LLM幻觉不是知识上的失败，而是策略上的失败。"
   }
 ]
