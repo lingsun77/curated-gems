@@ -1,27 +1,5 @@
 [
   {
-    "id": 178,
-    "title": "Hope and Grief in Israel After the Gaza Ceasefire Deal",
-    "title_zh": "以色列停火协议后的希望与悲伤",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/hope-and-grief-in-israel-after-the-gaza-ceasefire-deal",
-    "tags": [
-      "update",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "The article captures the emotional duality of Israelis following the ceasefire agreement between Israel and Hamas. It highlights the jubilant scenes in Tel Aviv's Hostages Square where families of released hostages expressed overwhelming relief, juxtaposed with the grief of those whose loved ones won't return alive. The piece provides a nuanced look at the political maneuvering behind the agreement, including Trump's strategic timing and Netanyahu's political challenges. It also explores the unresolved issues like governance of postwar Gaza and prisoner exchanges. The human stories, like that of Sharon Aloni communicating with her captive husband through Arabic, add profound emotional depth to the political narrative. The ceasefire, while bringing hope, leaves many questions unanswered about lasting peace and reconciliation.",
-    "summary_zh": "这篇文章捕捉了以色列停火协议达成后复杂的情感。特拉维夫人质广场的欢庆场景与失去亲人的悲痛并存。深入分析了特朗普和内塔尼亚胡的政治博弈，以及停火协议背后的未解决问题。通过个体故事展现人性光辉，如夏朗用阿拉伯语与被俘丈夫交流的细节，为政治叙事增添情感深度。停火带来希望，但关于长期和平与和解的问题仍悬而未决。",
-    "best_quote_en": "To see the jubilation of both parents—one whose son is alive and will be home soon, the other whose son is expected to return in a body bag—was to witness the full spectrum of emotions felt by Israelis in the past two years: hope coexisting with grief, and the terrible sense that much of the bloodshed could have been prevented.",
-    "best_quote_zh": "看到两位父母的狂喜——一个儿子即将生还，另一个将以遗体归来，正是目睹了以色列人过去两年情感的全貌：希望与悲痛并存，以及这种可怕的感觉：大量流血本可以避免。"
-  },
-  {
     "id": 179,
     "title": "What’s in my NOW? — Colby Black, P.I.",
     "title_zh": "我的现在里有什么？ — Colby Black, P.I.",
@@ -2338,5 +2316,29 @@
     "summary_zh": "前职业扑克牌手德文·波特现在是一位生活教练，他分享了关于决策和人生策略的独特见解。基于他在高风险扑克和企业战略中的经验，他提供了关于人类心理学和个人成长的洞察。文章介绍了他的教练服务、喜欢的工具以及坚持做艰难决定以换取长期轻松的哲学。波特的方法结合了实际建议和关于当下与感恩的深刻反思，这对于寻求个人发展和自我提升的人来说非常有价值。",
     "best_quote_en": "“Easy decision, hard life. Hard decision, easy life.”",
     "best_quote_zh": "“容易的决定，艰难的生活。艰难的决定，轻松的生活。”"
+  },
+  {
+    "id": 278,
+    "title": "Watch the Trailer for “The New Yorker at 100”",
+    "title_zh": "观看《纽约客百年》预告片",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/press-room/watch-the-trailer-for-the-new-yorker-at-100",
+    "tags": [
+      "update",
+      "leadership",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "领导管理",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "The Netflix documentary 'The New Yorker at 100' offers a fascinating retrospective of the iconic magazine's first century, capturing both its evolution and the frantic preparation leading up to its 100th anniversary. The film provides behind-the-scenes looks at the creation of the anniversary issue, highlighting the magazine's transformation from a local humor publication to a global media powerhouse. It explores seminal works like John Hersey's 'Hiroshima' and Rachel Carson's 'Silent Spring' that reshaped journalism, while also examining controversies like Truman Capote's 'In Cold Blood'. With appearances from current and former staff, celebrity admirers, and directed by Oscar-winner Marshall Curry, this documentary promises an insightful journey through The New Yorker's rich history and cultural impact.",
+    "summary_zh": "这部Netflix纪录片《纽约客百年》回顾了这本标志性杂志百年历史，捕捉了其演变与百年庆典前的紧张准备。影片展示了纪念版杂志的创作过程，揭示了这本从地方幽默杂志成长为全球媒体巨头的演变。它探讨了约翰·赫西的《广岛》和Rachel Carson的《寂静的春天》等里程碑式作品如何重塑新闻业，也审视了特鲁曼·卡波特的《冷血》引发的争议。由奥斯卡获奖导演马歇尔·卡里执导，影片承诺带领观众穿越纽约客丰富的历史与文化影响力。",
+    "best_quote_en": "The excitement of that countdown serves as a central point of interest in 'The New Yorker at 100'",
+    "best_quote_zh": "倒计时的兴奋成为《纽约客百年》的核心吸引点"
   }
 ]
