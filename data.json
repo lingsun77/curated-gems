@@ -1,119 +1,5 @@
 [
   {
-    "id": 179,
-    "title": "What’s in my NOW? — Colby Black, P.I.",
-    "title_zh": "我的现在里有什么？ — Colby Black, P.I.",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-colby-black-p-i/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Colby Black's 'What's in my NOW?' offers a personal and practical look at tools and philosophies that enhance productivity and life management. The piece combines actionable recommendations for physical tools like OBD II scanners and portable monitors with digital productivity apps, demonstrating how these items solve specific problems. The inclusion of an 'invisible' category with a long-term investment philosophy quote adds depth, suggesting a broader perspective on decision-making. The content is particularly valuable for professionals seeking to optimize their workflow and personal organization, with a tone that balances practicality with introspective wisdom.",
-    "summary_zh": "Colby Black的《我的现在里有什么？》结合了个人经验和实用工具，展现了提升效率和生活管理的智慧。从解决具体问题的物理工具到数字生产力应用，内容贴近生活实际。",
-    "best_quote_en": "Never let short term greed get in the way of long term greed.",
-    "best_quote_zh": "不要让短期的贪婪妨碍长期的贪婪。"
-  },
-  {
-    "id": 180,
-    "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
-    "title_zh": "全球健康研究警告：青少年死亡率成为新兴危机",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "The study reveals a disturbing trend of rising death rates among teenagers and young adults despite overall global health improvements. While life expectancy has increased to 76.3 years for women and 71.5 for men, regional disparities persist, with sub-Saharan Africa lagging significantly. The crisis is driven by different factors across regions - substance abuse and mental health issues in North America, and infectious diseases in Africa. The study highlights preventable causes behind half of the world's disease burden, urging governments to address these emerging public health challenges strategically. The findings also emphasize the need for integrated healthcare approaches and stronger youth-centered public health investments, particularly in low-income regions facing funding cuts.",
-    "summary_zh": "尽管全球整体健康状况改善，但研究揭示青少年和年轻人死亡率上升的令人担忧趋势。尽管女性预期寿命达76.3岁，男性为71.5岁，但地区差异显著，撒哈拉以南非洲落后明显。北美因物质滥用和心理健康问题死亡率上升，非洲则因传染病引发。研究指出，半数疾病可通过减少高血压、空气污染等风险预防。呼吁政府战略应对这些新兴公共卫生挑战，并强调需要整合医疗体系和青年中心的公共卫生投资，尤其是面临资金削减的低收入地区。",
-    "best_quote_en": "The evidence presented in the Global Burden of Disease study is a wake-up call, urging government and healthcare leaders to respond swiftly and strategically to the disturbing trends that are reshaping public health needs.",
-    "best_quote_zh": "全球疾病负担研究呈现的证据是一次警醒，促使政府和医疗领导者迅速、战略性地应对重塑公共卫生需求的令人不安趋势。"
-  },
-  {
-    "id": 181,
-    "title": "Having Kids",
-    "title_zh": "有孩子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kids.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "The author's perspective on parenthood undergoes a profound transformation from dread to deep appreciation. Initially viewing parents as uncool and children as terrifying, their experience of having children reveals unexpected joys and meaningful connections. The essay explores how chemical changes, selection bias in observations, and misconceptions from their own childhood shaped their preconceived notions. While acknowledging the challenges of reduced productivity and shifted priorities, the author finds that the quality and frequency of happy moments with children surpass their pre-parenthood life. The piece serves as both a personal reflection and a broader commentary on the universal experience of parenthood.",
-    "summary_zh": "作者对为人父母的看法从恐惧到深深欣赏。最初认为父母不酷，孩子可怕，有了孩子后却发现意外的欢乐和深刻的联系。文章探讨了化学变化、观察偏差和童年经历如何塑造了其偏见。虽承认孩子会降低生产力和改变优先级，但作者发现和孩子相处的幸福时刻比未育时更多更深刻。这既是个人反思，也是对普遍育儿体验的深刻观察。",
-    "best_quote_en": "I feel like they just got the best gift in the world.",
-    "best_quote_zh": "我觉得他们得到了世界上最好的礼物。"
-  },
-  {
-    "id": 182,
-    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
-    "title_zh": "人口中的亚线性效用及其他不常见的功利主义",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This post explores an unconventional perspective on utilitarianism, arguing that utility is bounded and sublinear in population size while being superlinear or linear in practical ranges. The author presents thought experiments about duplicate simulations and slightly varied simulations to illustrate their point. They suggest that the value comes from observation rather than existence itself. The discussion extends to different species, noting that the value space for post-humans is vastly different from humans and shrimp. The post challenges classical effective altruism (EA) approaches, particularly in valuing lives of different species differently. The author's perspective is thought-provoking, offering a nuanced view on moral philosophy and utility.",
-    "summary_zh": "这篇文章探讨了功利主义的非传统观点，提出效用在人口规模上的界限是亚线性的，但在实际范围内是超线性或线性的。作者通过重复模拟和略有差异的模拟实验来阐述观点，认为价值来自观察而非存在本身。讨论延伸到不同物种，指出后人类、人类和虾的价值空间差异巨大。该文章挑战了经典有效利他主义（EA）的方法，特别是对不同物种生命价值的不同评估。作者的观点发人深省，为道德哲学和效用提供了独特的视角。",
-    "best_quote_en": "The value in simulations of people and their worlds comes from newly being able to observe those worlds, not from bringing them into existence in the first place.",
-    "best_quote_zh": "模拟人类及其世界的价值在于新获得的观察能力，而非将其带入存在本身。"
-  },
-  {
-    "id": 183,
-    "title": "The Indictment of Letitia James and the Collapse of Impartial Justice",
-    "title_zh": "莱蒂西娅·詹姆斯被起诉与公正司法的崩溃",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-indictment-of-letitia-james-and-the-collapse-of-impartial-justice",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "The article critically examines the indictment of New York Attorney General Letitia James, arguing it represents a dangerous politicization of the justice system. It highlights the selective prosecution of political enemies by the Trump administration, contrasting this with the Supreme Court's granting of near-complete immunity to presidents. The case against James, for relatively minor mortgage fraud, is seen as unprecedented and politically motivated. Legal experts note the charges are weak and rarely prosecuted, suggesting this is retaliatory action rather than genuine justice. The piece warns of the erosion of impartial justice and the dangerous precedent of using legal systems for political revenge.",
-    "summary_zh": "文章严厉批评纽约州总检察长莱蒂西娅·詹姆斯被起诉一事，认为这反映了司法体系的政治化。分析指出特朗普政府针对政治对手的选择性起诉，与最高法院赋予总统近乎完全的刑事豁免权形成鲜明对比。针对詹姆斯的轻微抵押贷款欺诈指控被认为前所未有且动机不明。法律专家指出此类指控证据薄弱且罕见起诉，暗示这属于政治报复而非正义执行。文章警示司法公正的侵蚀和利用法律系统进行政治复仇的危险先例。",
-    "best_quote_en": "The essence of impartial justice is treating like conduct alike—not identifying the target and then finding the crime.",
-    "best_quote_zh": "司法公正的本质在于对同类行为同等对待，而非先锁定目标再寻找罪名。"
-  },
-  {
     "id": 184,
     "title": "Favorite T-shirts/Design inspiration/How to become wiser",
     "title_zh": "我的最爱T恤/设计灵感/如何变得更聪明",
@@ -2340,5 +2226,119 @@
     "summary_zh": "这部Netflix纪录片《纽约客百年》回顾了这本标志性杂志百年历史，捕捉了其演变与百年庆典前的紧张准备。影片展示了纪念版杂志的创作过程，揭示了这本从地方幽默杂志成长为全球媒体巨头的演变。它探讨了约翰·赫西的《广岛》和Rachel Carson的《寂静的春天》等里程碑式作品如何重塑新闻业，也审视了特鲁曼·卡波特的《冷血》引发的争议。由奥斯卡获奖导演马歇尔·卡里执导，影片承诺带领观众穿越纽约客丰富的历史与文化影响力。",
     "best_quote_en": "The excitement of that countdown serves as a central point of interest in 'The New Yorker at 100'",
     "best_quote_zh": "倒计时的兴奋成为《纽约客百年》的核心吸引点"
+  },
+  {
+    "id": 279,
+    "title": "Don't Talk to Corp Dev",
+    "title_zh": "不要与公司发展部门谈判",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/corpdev.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This insightful piece warns startup founders about the pitfalls of engaging with corporate development (corp dev) teams too early. The author argues that corp dev's sole purpose is to acquire companies, and premature conversations can derail a startup's focus and morale. The article highlights the manipulative tactics used by corp dev professionals, from lowball offers to sudden deal vetoes, and emphasizes that founders should only engage when they're truly ready to sell. The metaphor of avoiding the 'first drink' serves as a powerful reminder to maintain focus on growth rather than getting sidetracked by potential acquisition talks.",
+    "summary_zh": "这篇文章警告创业者不要过早与公司发展部门（Corp Dev）接触。作者指出，Corp Dev的唯一目标是收购公司，过早接触会分散注意力并打击士气。文章揭露了Corp Dev常用的操控手段，如低价收购和突然取消交易。作者强调，创业者应在真正想卖公司时才与之接触，并用“戒酒第一口”的比喻，提醒创业者专注于公司发展而非被收购的诱惑。",
+    "best_quote_en": "If you do want to sell, there's another set of techniques for doing that. But the biggest mistake founders make in dealing with corp dev is not doing a bad job of talking to them when they're ready to, but talking to them before they are.",
+    "best_quote_zh": "如果你想卖公司，有另一套技巧可以使用。但创业者在处理Corp Dev事务时犯的最大错误不是在准备好时与之谈判不当，而是在还没准备好时就与之接触。"
+  },
+  {
+    "id": 280,
+    "title": "Why you shouldn't write a blog post every day for a month",
+    "title_zh": "Why you shouldn't write a blog post every day for a month",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/qyvHknFazR9avH5e6/why-you-shouldn-t-write-a-blog-post-every-day-for-a-month",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The author challenges the common advice of writing daily blog posts by examining the hidden costs and benefits. While rapid writing may seem efficient, it often leads to lower quality content that could harm reputation. However, the author argues these costs are manageable through strategies like selective editing and practice. The piece also highlights how quick writing can improve skills and productivity, though it acknowledges the motivational challenges of long-form content creation. Ultimately, it suggests that the act of creation, despite its difficulties, holds intrinsic value that consumption cannot match.",
+    "summary_zh": "作者质疑了每天写博客的建议，分析了快速写作的潜在成本与收益。虽然快速写作看似高效，但可能导致质量下降，影响声誉。不过，作者认为这些成本可以通过选择性编辑和练习来管理。文章还强调了快速写作如何提升技能和效率，尽管承认长篇内容创作的动力挑战。最终，它认为创作行为，尽管困难，但具有消费和批评无法模仿的内在价值。",
+    "best_quote_en": "The act of creation is life-affirming in a way that consumption and critique can only shallowly imitate.",
+    "best_quote_zh": "创作行为以一种消费和批评只能浅薄模仿的方式肯定生命。"
+  },
+  {
+    "id": 281,
+    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
+    "title_zh": "佐兰·曼达尼竞选市长揭示美国穆斯林面临的现实",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The article examines the Islamophobic attacks faced by Zohran Mamdani, a Muslim democratic socialist running for NYC mayor, and how they reflect enduring prejudices in America. It traces historical parallels from Obama's 2008 campaign to current political rhetoric, highlighting the systemic nature of Islamophobia. The piece critiques political leaders' willingness to use anti-Muslim tropes without consequence, while noting Mamdani's strategic focus on policy issues despite facing discrimination. It also explores the broader societal context of Muslim experiences post-9/11, including surveillance, hate crimes, and economic struggles. The analysis suggests that Mamdani's campaign is forcing America to confront whether Muslim identity remains incompatible with political leadership.",
+    "summary_zh": "这篇文章分析了穆斯林民主社会主义者佐兰·曼达尼在竞选纽约市长过程中遭遇的伊斯兰恐惧症攻击，以及这些攻击如何反映美国长期存在的偏见。从奥巴马2008年的竞选到当前的政治修辞，文章追溯了历史类比，揭示了伊斯兰恐惧症的系统性。文章批评了政客们肆无忌惮地使用反穆斯林修辞却不受惩罚的现象，同时指出曼达尼在面对歧视的情况下仍坚持将竞选焦点放在政策问题上。它还探讨了9/11后穆斯林群体的更广泛社会经历，包括监视、仇恨犯罪和经济困境。分析表明，曼达尼的竞选正在迫使美国直面穆斯林身份是否仍被视为政治领导力障碍的问题。",
+    "best_quote_en": "To be Muslim in New York is to expect indignity. But indignity does not make us distinct—there are many New Yorkers who face it. It is the tolerance of that indignity.",
+    "best_quote_zh": "在纽约做穆斯林，意味着要接受耻辱。但耻辱并不让我们与众不同——有许多纽约人都在经历这种耻辱。真正的区别在于对这种耻辱的容忍。"
+  },
+  {
+    "id": 282,
+    "title": "Ambient music streams/Thinking skills guide/Kindle hand strap",
+    "title_zh": "环境音乐流/思维技能指南/Kindle手带",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/ambient-music-streams-thinking-skills-guide-kindle-hand-strap/",
+    "tags": [
+      "guide",
+      "education",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This eclectic collection of recommendations spans diverse topics from cognitive enhancement to digital tools and lifestyle improvements. 'The Great Mental Models' offers timeless critical thinking frameworks, particularly valuable for students and lifelong learners. The Dark Patterns Hall of Shame serves as both a cautionary tale and educational resource about deceptive design practices. Practical recommendations like the Kindle hand strap and Perplexity browser showcase innovative solutions to everyday problems. André Mack's wine expertise provides both education and inspiration for enthusiasts, while the ambient music streaming suggestion revives Brian Eno's original vision for background soundscapes. Each recommendation demonstrates thoughtful curation with clear value propositions.",
+    "summary_zh": "这些五花八门的推荐涵盖认知提升、数字工具到生活改善等多个领域。《大脑思维模型》提供了永恒的批判性思维框架，对学生和终身学习者尤其有价值。黑暗模式名人堂既是警示故事也是关于欺骗性设计实践的教育资源。Kindle手带和Perplexity浏览器等实用推荐展示了对日常问题的创新解决方案。安德烈·麦克的葡萄酒专业知识为爱好者提供了教育和启发，而环境音乐流媒体的建议则复兴了布莱恩·伊诺对背景音景的原始构想。每个推荐都展示了富有洞察力的策展和明确的价值主张。",
+    "best_quote_en": "These are all post-AI skills.",
+    "best_quote_zh": "这些都是AI时代后的技能。"
+  },
+  {
+    "id": 283,
+    "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+    "title_zh": "Essentials: 减缓与逆转衰老的生物学 | 大卫·辛克莱博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-biology-slowing-reversing-aging-dr-david-sinclair",
+    "tags": [
+      "update",
+      "medicine",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This Huberman Lab Essentials episode with Dr. David Sinclair dives deep into the biology of aging, offering profound insights into how cellular and molecular mechanisms contribute to the aging process. Sinclair, a Harvard geneticist, discusses actionable strategies like fasting, exercise, and NAD+-boosting compounds such as NMN to activate longevity pathways. The conversation challenges conventional views of aging as inevitable, presenting it as a potentially reversible process influenced by lifestyle choices. The episode is rich with expert insights on epigenetics, sirtuins, and personalized medicine, making it invaluable for those seeking to understand and influence their biological age. Sinclair's approach combines rigorous scientific research with practical advice, offering a roadmap for anyone interested in extending healthspan and potentially lifespan.",
+    "summary_zh": "哈佛大学遗传学教授大卫·辛克莱博士在本期节目中揭示了衰老的生物学机制，指出通过断食、运动和NAD+增强剂等方式可激活延长寿命的途径。他将衰老视为可干预的过程，而非不可避免的命运。辛克莱的研究不仅提供了科学依据，更给出了具体的生活方式建议，让听众能够主动掌控自己的生物年龄。这期内容深入浅出，兼具专业性和实用性，是想延长健康寿命的人士的宝贵资源。",
+    "best_quote_en": "Aging is not a natural process we have to accept, but a disease we can treat.",
+    "best_quote_zh": "衰老并非不可避免的自然过程，而是可以治疗的疾病。"
   }
 ]
