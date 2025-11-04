@@ -1,117 +1,5 @@
 [
   {
-    "id": 184,
-    "title": "Favorite T-shirts/Design inspiration/How to become wiser",
-    "title_zh": "我的最爱T恤/设计灵感/如何变得更聪明",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/favorite-t-shirts-design-inspiration-how-to-become-wiser/",
-    "tags": [
-      "solve",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This eclectic collection offers a mix of practical recommendations and thought-provoking content. The T-shirt recommendation provides actionable advice for those seeking comfortable clothing, while the design inspiration delves into traditional Japanese packaging, offering a historical perspective on sustainable design. The 25 questions for self-reflection provide a valuable tool for personal growth, organized around perspective, self-examination, and compassion. The internet speed test and offline church recommendations cater to different needs, from practical tech solutions to mindfulness. The digital artists section introduces readers to innovative art forms that blend technology and creativity, challenging conventional visual norms. Together, these pieces create a mosaic of useful information and inspirational ideas.",
-    "summary_zh": "这篇文章集合了实用推荐与深刻思考，从舒适T恤的购买建议到日本传统包装设计的历史视角，再到25个自我反思的问题，涵盖了个人成长的多个维度。互联网速度测试和线下教堂的推荐满足了不同需求，而数字艺术家的介绍则展现了科技与创意的融合，挑战了传统的视觉规范。整体上，这篇文章构建了一个实用信息与启发性思想的丰富画卷。",
-    "best_quote_en": "This thick book with two hundred examples is one that I return to often. The beauty never gets old.",
-    "best_quote_zh": "这本包含两百个例子的厚书是我经常翻阅的。这种美永不褪色。"
-  },
-  {
-    "id": 185,
-    "title": "Orthodoxy and women in the Anglican church | Letters",
-    "title_zh": "圣公会中的正统与妇女",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
-    "tags": [
-      "inspire",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "Rev Simon Jones' letter offers a nuanced perspective on the appointment of the first female archbishop of Canterbury, challenging the assumption that opposition stems from misogyny. He argues that theological conviction, not prejudice, underpins traditionalist views on ministry ordering. The piece highlights the importance of protecting theological diversity within the Church of England and calls for gracious unity that accommodates dissent. Jones suggests that demonstrating intellectual depth and moral seriousness could make Christianity more appealing to younger generations. This letter invites reflection on how religious institutions balance tradition with progress.",
-    "summary_zh": "西蒙·琼斯牧师的来信对圣公会首位女大主教的任命提出了不同的见解，挑战了反对者仅仅是出于性别歧视的假设。他指出，传统主义者的立场源于神学信念而非偏见。文章强调了保护神学多样性对英格兰教会的重要性，并呼吁以宽容的态度对待异见。琼斯认为，展示思想深度和道德严肃性才能让基督教信仰更具吸引力。这封信引发我们思考宗教机构如何在传统与进步之间取得平衡。",
-    "best_quote_en": "What has damaged the Church of England most in recent years is not honest theological difference but the intolerance of it.",
-    "best_quote_zh": "近几年对英格兰教会造成最大伤害的不是诚实的神学分歧，而是对这种分歧的不容忍。"
-  },
-  {
-    "id": 186,
-    "title": "The Lesson to Unlearn",
-    "title_zh": "需要重新学习的课程",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lesson.html",
-    "tags": [
-      "inspire",
-      "education",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This essay explores the damaging effects of conflating learning with grades in education systems. The author argues that traditional testing methods are easily 'hackable' and don't accurately measure true learning. The piece draws parallels between educational testing and startup evaluation, suggesting that both systems reward game-playing over genuine merit. It proposes that the most valuable work occurs in fields where success depends on actual quality rather than navigating artificial metrics. The author advocates for recognizing and rejecting systems that prioritize test-hacking over substantive achievement, suggesting this shift could liberate talent and transform society.",
-    "summary_zh": "本文揭示了将学习与分数混为一谈的教育体系的危害。作者认为，传统测试方法容易被“破解”，无法准确衡量真正的学习。文章将教育测试与创业评估相类比，指出两者都更奖励游戏规则的掌握而非真才实学。作者提倡识别并抵制那种优先考虑考试技巧而非实质成就的体系，认为这一转变可能释放人才并改变社会。",
-    "best_quote_en": "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.",
-    "best_quote_zh": "你在学校里学到的最有害的东西，并不是某门具体课程里学到的知识。而是学会了如何获得好成绩。"
-  },
-  {
-    "id": 187,
-    "title": "Discrete Generative Models",
-    "title_zh": "离散生成模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/frCmecCpHx2aAtALT/discrete-generative-models",
-    "tags": [
-      "solve",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This post explores the limitations of current generative models, particularly in handling discrete data like images, and introduces the concept of Discrete Distribution Networks as a solution. The author critically examines the challenges of autoregressive models for images, highlighting issues with next-token prediction and the impracticality of modeling continuous image distributions. The discussion delves into normalizing flows and diffusion models, explaining their mathematical foundations and practical constraints. The introduction of discrete distribution networks using fractal-based approaches offers a promising alternative, though the author notes potential training issues and proposes improvements. The analysis is both technically rigorous and thought-provoking, offering valuable insights for researchers in generative AI.",
-    "summary_zh": "这篇文章探讨了当前生成模型在处理离散数据（如图像）时的局限性，并提出了离散分布网络作为解决方案。作者批判性地分析了自回归模型在图像生成中的问题，指出下一个标记预测的缺陷和连续图像分布建模的不现实性。文章深入探讨了正则化流和扩散模型的数学基础及其实际限制。引入基于分形的离散分布网络提供了一个有前景的替代方案，尽管作者指出了训练中的潜在问题并提出了改进方案。分析既严谨又发人深省，为生成式AI的研究者提供了宝贵的见解。",
-    "best_quote_en": "The information needed to construct a target image at a given iteration is some error correction bits, as well as the path taken.",
-    "best_quote_zh": "在给定迭代中构建目标图像所需的信息是一些错误修正位和所采取的路径。"
-  },
-  {
-    "id": 188,
-    "title": "Why María Corina Machado Says That Trump Deserves Her Nobel Peace Prize",
-    "title_zh": "玛利亚·科里娜·马查多称特朗普应获得她的诺贝尔和平奖",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/why-maria-corina-machado-says-that-donald-trump-deserves-her-peace-prize",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article explores the complex geopolitical dynamics between the US and Venezuela, focusing on Maria Corina Machado's controversial statement that Donald Trump deserves her Nobel Peace Prize. The piece delves into Trump's aggressive policies toward Venezuela, including deportations and military actions, while also examining his self-proclaimed peace achievements. The Nobel Committee's decision to award Machado, a Venezuelan opposition leader, adds another layer of intrigue, as she aligns with Trump's anti-Maduro stance. The article raises critical questions about the nature of peace, political maneuvering, and the implications for Latin American sovereignty. Machado's perspective offers a fascinating glimpse into Venezuelan politics and the potential for regime change, though her alignment with Trump's interventionist policies may be concerning to some.",
-    "summary_zh": "这篇文章探讨了美国与委内瑞拉之间复杂的地缘政治动态，重点关注玛利亚·科里娜·马查多的争议性言论，即唐纳德·特朗普应获得她的诺贝尔和平奖。文章深入分析了特朗普对委内瑞拉的强硬政策，包括遣返和军事行动，同时也探讨了他自称的和平成就。诺贝尔委员会决定将奖项授予马查多，这一委内瑞拉反对派领导人，又增加了另一层复杂性，因为她与特朗普的反马杜罗立场相一致。文章提出了关于和平本质、政治操纵及对拉丁美洲主权影响的关键问题。马查多的观点为委内瑞拉政治提供了一个引人入胜的视角，以及政权更迭的可能性，尽管她与特朗普干预主义政策的结盟可能令人担忧。",
-    "best_quote_en": "'The regime has committed a lot of errors. I feel that they have a disconnection with the reality of the country.'",
-    "best_quote_zh": "政权犯了很多错误。我认为他们与国家的现实脱节。"
-  },
-  {
     "id": 189,
     "title": "Kayaks",
     "title_zh": "皮划艇",
@@ -2340,5 +2228,121 @@
     "summary_zh": "哈佛大学遗传学教授大卫·辛克莱博士在本期节目中揭示了衰老的生物学机制，指出通过断食、运动和NAD+增强剂等方式可激活延长寿命的途径。他将衰老视为可干预的过程，而非不可避免的命运。辛克莱的研究不仅提供了科学依据，更给出了具体的生活方式建议，让听众能够主动掌控自己的生物年龄。这期内容深入浅出，兼具专业性和实用性，是想延长健康寿命的人士的宝贵资源。",
     "best_quote_en": "Aging is not a natural process we have to accept, but a disease we can treat.",
     "best_quote_zh": "衰老并非不可避免的自然过程，而是可以治疗的疾病。"
+  },
+  {
+    "id": 284,
+    "title": "My extreme sickness in pregnancy feels like a personal failure, even as society glorifies motherhood as divine suffering | Intifar Chowdhury",
+    "title_zh": "怀孕期间严重恶心让我感到个人失败，尽管社会将母性神圣化为苦难",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/13/extreme-sickness-pregnancy-feels-like-personal-failure-as-society-glorifies-motherhood-as-divine",
+    "tags": [
+      "analyze",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Intifar Chowdhury's powerful personal account of hyperemesis gravidarum (HG) exposes the devastating physical and psychological toll of extreme pregnancy sickness. The piece challenges societal romanticization of motherhood, revealing how medical dismissal and cultural narratives contribute to women's suffering. Chowdhury's journey highlights the urgent need for better diagnosis, treatment, and cultural understanding of HG, which affects quality of life so severely that many consider pregnancy termination. The cross-cultural minimization of this condition underscores systemic gender bias in medicine and society, where maternal suffering is often dismissed as natural or even virtuous. This thought-provoking piece serves as both a personal catharsis and a call for systemic change in how we perceive and treat pregnancy-related health conditions.",
+    "summary_zh": "Intifar Chowdhury的文章揭露了严重孕吐对女性身体和心理造成的巨大伤害，挑战了社会对母性苦难的浪漫化描述。她的经历凸显了医学上的忽视和文化叙事如何加剧女性的痛苦。文章呼吁改善对妊娠剧吐的诊断和治疗，并呼吁社会更好地理解这一影响生活质量的疾病。这种跨文化忽视暴露了医学和社会中存在的性别偏见。这篇文章既是个人的宣泄，也是对改变我们看待和处理孕期健康问题的系统性呼吁。",
+    "best_quote_en": "'Hyperemesis gravidarum is not a spectrum, it's a cliff. And once you fall off it, there's no soft landing.'",
+    "best_quote_zh": "“妊娠剧吐不是一个连续体，而是一个悬崖。一旦掉下去，就没有柔软的着陆。”"
+  },
+  {
+    "id": 285,
+    "title": "Let the Other 95% of Great Programmers In",
+    "title_zh": "让美国以外的95%的优秀程序员进入美国",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/95.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This insightful essay argues that American technology companies' push for easier immigration is justified by the global distribution of exceptional programming talent. The author contends that only 5% of the world's great programmers are born in the US, making immigration essential to maintain technological leadership. The piece highlights the qualitative difference between competent and exceptional programmers, noting that exceptional talent can't be trained but must be nurtured. The author warns that failing to attract top global talent could lead to a brain drain, with the best programmers potentially concentrating in other hubs. The article combines economic reasoning with a passionate plea for policy change, emphasizing that this is an opportunity that costs nothing to seize.",
+    "summary_zh": "美国技术公司呼吁简化移民程序，本文从全球优秀程序员分布的角度深入分析了这一现象。作者指出，仅5%的顶尖程序员出生于美国，移民是保持技术领先地位的关键。文中强调优秀程序员与普通程序员的质的差异，认为这种天赋无法通过培训获得。作者警告，若无法吸引全球顶尖人才，可能导致人才流失，优秀程序员集中于其他中心。这篇文章以经济分析为基础，结合激情洋溢的政策倡议，强调这是一个几乎不需要成本的机会。",
+    "best_quote_en": "The US has less than 5% of the world's population. Which means if the qualities that make someone a great programmer are evenly distributed, 95% of great programmers are born outside the US.",
+    "best_quote_zh": "美国拥有全球不到5%的人口。这意味着如果构成优秀程序员的特质均匀分布，那么95%的优秀程序员出生在国外。"
+  },
+  {
+    "id": 286,
+    "title": "Rainbows, fractals, and crumpled paper: Hölder continuity",
+    "title_zh": "彩虹、分形与皱纸：Hölder连续性",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/msurwpyppAbyQrE9y/rainbows-fractals-and-crumpled-paper-hoelder-continuity",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This exploration of space-filling curves and color mapping reveals fascinating mathematical connections between dimensions. The author examines the challenge of creating smooth transitions between color spaces using bijections, with particular focus on the Hölder continuity of such mappings. The discussion of the Hilbert curve as a solution for the 2D-to-1D case provides insight into fractal dimensions and their applications. The piece bridges abstract mathematics with practical visualizations like allRGB images, offering a unique perspective on how mathematical theory can solve real-world problems in image processing and data visualization.",
+    "summary_zh": "这篇文章探讨了空间填充曲线与色彩映射之间的数学联系，揭示了维度转换的奥秘。作者通过分析色彩空间的平滑过渡问题，重点研究了Hölder连续性映射。对于二维到一维的映射问题，希尔伯特曲线提供了一个完美的解决方案，展示了分形维度的应用。这篇文章将抽象的数学理论与实际的图像处理问题结合，展现了数学如何解决现实世界的挑战。",
+    "best_quote_en": "The Hilbert curve has the nice property that an interval of length r of the unit interval gets mapped to a reasonably compact region of area r in the square, which has a diameter on the order of √r.",
+    "best_quote_zh": "希尔伯特曲线有一个很好的性质，即单位区间内长度为r的区间会被映射到正方形内面积为r的相当紧凑区域，其直径约为√r。"
+  },
+  {
+    "id": 287,
+    "title": "Joachim Trier Has Put Oslo on the Cinematic Map",
+    "title_zh": "约阿希姆·特里尔让奥斯陆在电影地图上占据一席之地",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/11/10/joachim-trier-profile",
+    "tags": [
+      "analyze",
+      "education",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This profile of Joachim Trier offers a deep dive into the Norwegian director's unique approach to filmmaking and his profound connection with his hometown of Oslo. The article highlights Trier's empathetic directing style, his preference for intimate character studies, and his ability to capture the melancholic beauty of Oslo as a character in its own right. The piece explores Trier's recurring themes of depression, familial relationships, and the transience of human life, as seen in his latest film 'Sentimental Value' and his previous works like 'The Worst Person in the World'. The article also delves into Trier's personal background, his collaborative relationships with actors and co-writer Eskil Vogt, and his distinctive aesthetic influenced by his skateboarding background and cinematic influences. It's a thoughtful examination of an artist who blends personal introspection with universal themes, making his films resonate with audiences worldwide.",
+    "summary_zh": "约阿希姆·特里尔的独特导演风格和他与故乡奥斯陆深厚的情感联系。文章突出了特里尔富有同情心的导演风格，他对亲密角色研究的偏好，以及他能够将奥斯陆的忧郁之美拍摄成影片中一个独特的角色。该文探讨了特里尔在其最新电影《情感价值》和之前的作品如《世界上最差劲的人》中反复出现的主题：抑郁、家庭关系以及人类生命的短暂性。文章还深入挖掘了特里尔的个人背景，他与演员和合作编剧埃斯基尔·沃格特之间的协作关系，以及受他的滑板背景和电影影响而形成的独特美学。这是对一个将个人内省与普遍主题相结合的艺术家的深刻探讨，使他的电影能够引起全球观众的共鸣。",
+    "best_quote_en": "People work better that way—at least, the people I want to work with.",
+    "best_quote_zh": "人们这样工作效率更高——至少，这是我喜欢与之合作的人。"
+  },
+  {
+    "id": 288,
+    "title": "Podcast Magic/Snap-on phone charger/OpenWebcam Database",
+    "title_zh": "播客魔法/手机磁吸充电器/开放网络摄像头数据库",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/podcast-magic-snap-on-phone-charger-openwebcam-database/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This collection of recommendations showcases clever solutions to everyday problems, blending practicality with innovation. Podcast Magic offers a simple way to capture and transcribe podcast moments without complex setups, appealing to audio content consumers who value efficiency. The Anker 621 MagGo charger solves the traveler's dilemma of managing cables and portable power, demonstrating how magnetic technology can enhance convenience. The OpenWebcam Database provides a fascinating window into global daily life, serving as both a productivity reset tool and a source of cultural connection. These recommendations highlight the intersection of technology and human needs, offering both immediate utility and deeper engagement with the world.",
+    "summary_zh": "这些推荐展示了解决日常问题的巧妙方案，兼具实用性与创新性。播客魔法提供了不需要复杂设置的录制和转录功能，吸引了重视效率的音频内容消费者。安克621 MagGo充电器解决了旅行者管理电缆和便携电源的困境，展示了磁力技术如何提升便利性。开放网络摄像头数据库为全球日常生活提供了令人着迷的窗口，既是提高效率的工具，也是文化连接的源泉。这些推荐凸显了技术与人类需求的交汇点，既提供即时实用性，又带来更深层次的世界观。",
+    "best_quote_en": "This slim 5,000mAh power bank magnetically snaps to newer iPhones. No more fumbling with cables and separate battery packs.",
+    "best_quote_zh": "这个薄型5000mAh电池组可以磁吸到新款iPhone上。不再需要摸索电缆和单独的电池包。"
   }
 ]
