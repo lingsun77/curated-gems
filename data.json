@@ -1,123 +1,5 @@
 [
   {
-    "id": 189,
-    "title": "Kayaks",
-    "title_zh": "皮划艇",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/kayaks/",
-    "tags": [
-      "learn",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article showcases two distinct kayak experiences: building a custom Pygmy Coho kayak and using an inflatable Advanced Elements kayak. The first account details the meticulous process of constructing a high-performance sea kayak using a stitch-and-glue plywood kit, highlighting the precision of computer-cut parts and the thoughtful design elements that make the Coho stand out. The second experience emphasizes the practicality and convenience of an inflatable kayak, which offers easy transport and setup, making kayaking more accessible. Both accounts underscore the joy and challenges of kayaking, from the craftsmanship involved in building a kayak to the freedom and adventure an inflatable kayak provides. The article also includes practical tips for kayak construction, emphasizing efficiency and professional results.",
-    "summary_zh": "这篇文章介绍了两种不同的皮划艇体验：自建Pygmy Coho皮划艇和使用可折叠的Advanced Elements皮划艇。第一个账户详细描述了使用胶合板工具包精心制作高性能海上皮划艇的过程，突出了计算机切割部件的精度和使Coho脱颖而出的巧妙设计元素。第二个体验强调了可折叠皮划艇的实用性和便利性，提供了便捷的运输和搭建，使皮划艇运动更易上手。两个账户都强调了皮划艇运动的乐趣与挑战，从制作皮划艇的工艺到可折叠皮划艇带来的自由与冒险。文章还包含了皮划艇制作的实用技巧，强调高效与专业成果。",
-    "best_quote_en": "The boat paddled like a dream — reminded me of the first time I rode a high quality road racing bicycle.",
-    "best_quote_zh": "划船的感觉就像做梦一样——让我想起了第一次骑高质量赛车自行车的感觉。"
-  },
-  {
-    "id": 190,
-    "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
-    "title_zh": "从档案中: ",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/news/audio/2025/oct/15/from-the-archive-infertility-stung-me-black-motherhood-and-me-podcast",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This poignant audio long read revisits a 2022 piece that explores the intersection of race, fertility, and womanhood through a deeply personal narrative. Edna Bonhomme's story challenges the assumption of reproductive agency in modern society, particularly for Black women. The piece offers a raw, introspective look at the emotional and societal complexities of infertility, weaving together personal experience with broader feminist and cultural critiques. What makes this content particularly valuable is its ability to humanize a often medicalized and politicized issue, offering listeners both emotional resonance and critical perspective. The re-release with new introductions suggests ongoing relevance and timelessness of these struggles.",
-    "summary_zh": "这篇深刻的音频长文重新呈现了2022年的文章，通过个人叙事探索了种族、生育能力与女性身份的交织。Edna Bonhomme的故事挑战了现代社会中关于生育自主权的假设，特别是对黑人女性。内容以真实的自我反思展现了不孕症的情感与社会复杂性，将个人经历与更广泛的女性主义和文化批判交织。本次重新发布并附有新序言，凸显了这些挣扎的持久相关性与普遍性。",
-    "best_quote_en": "'I assumed I would be part of the first generation to have full agency over my reproduction – but I was wrong'",
-    "best_quote_zh": "我以为自己会是第一代完全掌握生育自主权的人——但我错了"
-  },
-  {
-    "id": 191,
-    "title": "Novelty and Heresy",
-    "title_zh": "创新与异端",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nov.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This thought-provoking piece explores the inherent tension between novelty and societal acceptance, arguing that truly innovative ideas often challenge deeply held assumptions. The author posits that breakthrough discoveries frequently face resistance because they contradict popular but mistaken beliefs. This creates a 'dead zone' of unexplored ideas around each cherished assumption. The piece offers a dual perspective: while organizations may suppress heresies to protect their worldviews, these very heresies could be fertile ground for new ideas. The author suggests that by examining what society considers heretical, we might uncover valuable innovations that would otherwise remain hidden. This insight challenges conventional thinking about idea generation and organizational culture.",
-    "summary_zh": "这篇文章深刻探讨了创新与社会接受度之间的矛盾，指出真正的创新往往挑战深层次的假设。作者认为，突破性发现常因颠覆流行但错误的信念而受到抵制，从而形成思想禁区。组织可能压制异端以维护现有观念，但这些异端可能蕴藏着新的思想宝藏。作者建议从社会视为异端的观点中寻找创新，这挑战了传统的创意生成思维，值得深思。",
-    "best_quote_en": "Every cherished mistaken assumption has a dead zone of unexplored ideas around it. And the more preposterous the assumption, the bigger the dead zone it creates.",
-    "best_quote_zh": "每一个被珍视的错误假设周围都有一个未被探索的思想禁区。而假设越荒谬，这个禁区就越大。"
-  },
-  {
-    "id": 192,
-    "title": "Gnashing of Teeth",
-    "title_zh": "牙齿咬合",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/XicHwcXewsBTnWLwG/gnashing-of-teeth",
-    "tags": [
-      "solve",
-      "society",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This thought-provoking piece uses the Thirty Years' War and Peace of Westphalia as a parable to explore the messy, painful nature of tolerance. The author challenges the romanticized notion of peaceful coexistence, presenting it instead as a reluctant, grudging acceptance born from exhaustion. The analysis reveals how religious conflicts evolved into power struggles, and how 'tolerance' at the time was far from the individual rights-based concept we know today. The piece invites us to reflect on the value of narratives, questioning whether mythologized versions of history serve a greater purpose than strict factual accuracy.",
-    "summary_zh": "这篇文章通过三十年战争与威斯特伐利亚和约的寓言，探讨了容忍的复杂性与痛苦。作者挑战了和谐共处的浪漫化叙事，揭示这是一种出于筋疲力尽的勉强妥协。分析揭示宗教冲突如何演变为权力斗争，当时的“容忍”远非我们理解的个体权利概念。文章引发我们思考叙事的价值，质疑历史神话化是否比严格事实更具意义。",
-    "best_quote_en": "Living beside them without meddling in their affairs would demand much gnashing of teeth, yet so be it.",
-    "best_quote_zh": "与他们和睦相处而不干涉他们的事务，将需要极大的忍耐，但无论如何还是如此。"
-  },
-  {
-    "id": 193,
-    "title": "Gaza’s Broken Politics",
-    "title_zh": "加沙的政治危机",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/essay/gazas-broken-politics",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This essay by Mohammed R. Mhawish provides a critical analysis of Gaza's political collapse and the flawed Trump-led plan for its future governance. The piece highlights the failure of existing Palestinian political factions, the devastating impact of war on Gaza's infrastructure and population, and the dangers of an externally imposed political solution. Mhawish argues that true recovery requires genuine Palestinian agency and political representation, not just physical reconstruction. The essay challenges the romanticization of Palestinian resilience, framing it as a consequence of systemic oppression rather than a virtue. It calls for a fundamental shift in how Gaza's political future is determined, emphasizing the need for local leadership and self-determination.",
-    "summary_zh": "穆罕默德·M. 马维什的文章深刻分析了加沙政治体系的崩溃及特朗普主导的未来治理方案的缺陷。文章指出现有巴勒斯坦政治派系的失败，战争对加沙基础设施和人口的毁灭性影响，以及外部强加的政治解决方案的危险。马维什认为，真正的复兴需要巴勒斯坦的真正自治和政治代表性，而不仅仅是物理重建。文章挑战了对巴勒斯坦韧性的浪漫化，将其视为系统性压迫的结果而非美德。它呼吁彻底改变加沙政治未来的决定方式，强调本地领导和自决的必要性。",
-    "best_quote_en": "The cruellest occupation is not of land but of the imagination.",
-    "best_quote_zh": "最残酷的占领不是土地，而是想象力。"
-  },
-  {
     "id": 194,
     "title": "Donabe / We Stand on Guard",
     "title_zh": "Donabe / 我们守卫",
@@ -2344,5 +2226,121 @@
     "summary_zh": "这些推荐展示了解决日常问题的巧妙方案，兼具实用性与创新性。播客魔法提供了不需要复杂设置的录制和转录功能，吸引了重视效率的音频内容消费者。安克621 MagGo充电器解决了旅行者管理电缆和便携电源的困境，展示了磁力技术如何提升便利性。开放网络摄像头数据库为全球日常生活提供了令人着迷的窗口，既是提高效率的工具，也是文化连接的源泉。这些推荐凸显了技术与人类需求的交汇点，既提供即时实用性，又带来更深层次的世界观。",
     "best_quote_en": "This slim 5,000mAh power bank magnetically snaps to newer iPhones. No more fumbling with cables and separate battery packs.",
     "best_quote_zh": "这个薄型5000mAh电池组可以磁吸到新款iPhone上。不再需要摸索电缆和单独的电池包。"
+  },
+  {
+    "id": 289,
+    "title": "Jess Cartner-Morley on fashion: introducing the twinset 2.0 – where practicality meets panache",
+    "title_zh": "杰斯·卡特纳-莫利关于时尚：介绍双套装2.0——实用与优雅并存",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/05/jess-cartner-morley-winter-style-twinset-jumper-trend",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Jess Cartner-Morley's piece on the resurgence of the twinset offers a fascinating exploration of how fashion trends evolve while maintaining their core appeal. The 'twinset 2.0' represents a modern interpretation of the classic matched sweater and cardigan set, embracing layering, texture, and a more casual aesthetic. This trend speaks to our collective desire for comfort without sacrificing style, reflecting a post-pandemic shift towards polished yet approachable fashion. The analysis highlights how fashion can reinvent traditional elements, making them relevant to contemporary sensibilities while offering practical benefits like added warmth and visual interest. The piece also touches on the democratic nature of this trend, requiring no new purchases but simply creative styling of existing knitwear.",
+    "summary_zh": "杰斯·卡特纳-莫利的文章探讨了双套装复兴的现象，展现了时尚趋势如何在保持核心魅力的同时不断演变。新版双套装将传统的毛衣与针织衫搭配升级为时尚层叠，强调质感与随性风格。这一趋势反映了人们对舒适与时尚并重的渴望，体现了疫情后对休闲却不失精致的审美追求。分析指出时尚如何赋予传统元素新生，既符合当代审美又提供实用价值，如保暖和视觉层次感。文中还提到这股风潮不需新购置衣物，仅需巧妙搭配现有针织品，展现了时尚的包容性与创造力。",
+    "best_quote_en": "The new twinset is a way to experiment with texture, proportion and colour",
+    "best_quote_zh": "新版双套装为质感、比例和色彩的实验提供了途径"
+  },
+  {
+    "id": 290,
+    "title": "How to Be an Expert in a Changing World",
+    "title_zh": "在变化的世界中如何成为专家",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ecw.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This essay explores the challenge of maintaining expertise in a rapidly changing world. The author argues that traditional expertise can become obsolete as conditions evolve, and offers strategies from startup investing to stay adaptable. Key insights include: (1) Actively seek change rather than assuming static conditions, (2) Cultivate aggressive open-mindedness and sensitivity to emerging trends, (3) Focus on people rather than just ideas when evaluating potential, and (4) Surround yourself with innovative individuals. The piece blends practical advice with philosophical reflection on knowledge and belief systems, offering valuable perspective for professionals across fields.",
+    "summary_zh": "这篇文章探讨了在快速变化的世界中保持专业知识的挑战。作者认为，随着条件变化，传统专业知识可能变得过时，并提出了从创业投资中得到的保持适应力的策略。核心观点包括：(1) 主动寻找变化而非假设静态条件，(2) 培养开放包容的心态和对新趋势的敏感度，(3) 在评估潜力时更关注人而非仅仅是想法，(4) 与创新人士为伍。文章将实用建议与对知识和信念体系的哲学思考相结合，为各领域专业人士提供了宝贵的视角。",
+    "best_quote_en": "The way to come up with new ideas is not to try explicitly to, but to try to solve problems and simply not discount weird hunches you have in the process.",
+    "best_quote_zh": "产生新想法的方式不是刻意尝试，而是解决问题时不要忽略那些奇怪的直觉。"
+  },
+  {
+    "id": 291,
+    "title": "Geometric UDT",
+    "title_zh": "几何UDT",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Gmaq7vMj9NWLyQkEx/geometric-udt",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This thought-provoking essay explores the intersection of updateless decision theory (UDT) and value learning in artificial superintelligence. The author presents 'Geometric UDT,' a novel approach combining Nash bargaining with UDT to address challenges in value learning while maintaining reflective consistency. The core insight is that traditional UDT struggles with 'nosy neighbor' utility functions that consider outcomes across hypothetical worlds. Geometric UDT proposes a bargaining framework between value hypotheses, using an updateful policy as a baseline to ensure fairness. The analysis reveals important implications for AI alignment, particularly how to handle value uncertainty without sacrificing optimal decision-making. The essay's technical depth and interdisciplinary approach make it valuable for researchers in AI ethics and decision theory.",
+    "summary_zh": "这篇文章深入探讨了无更新决策理论（UDT）与价值学习在人工超级智能中的结合。作者提出了“几何UDT”，通过将纳什协商解与UDT结合，解决价值学习中遇到的反射一致性问题。核心观点是传统UDT难以处理“窥探邻居”效应，即价值函数跨多个假设世界考虑结果。几何UDT建议通过假设之间的协商解决方案，以更新型政策为基准保证公平性。分析揭示了人工智能对齐领域的重要启示，特别是如何在保持最优决策的同时处理价值不确定性。文章的技术深度和跨学科方法使其成为AI伦理与决策理论研究者的重要参考。",
+    "best_quote_en": "Geometric UDT advises us to use a fair prior (in the Nash Bargaining Solution sense) instead of our honest prior. The honest prior has a chance of completely screwing over humans (completely ignoring the correct value-hypothesis even in the face of overwhelming evidence), whereas the fair prior does not.",
+    "best_quote_zh": "几何UDT建议我们使用公平先验（在纳什协商解的意义上）而不是我们的真实先验。真实先验有可能完全忽略正确的价值假设（即使面对压倒性的证据），而公平先验则不会。"
+  },
+  {
+    "id": 292,
+    "title": "What the Democrats’ Good Night Means for 2026 and Beyond",
+    "title_zh": "民主党在2025年的大胜意味着什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/what-the-democrats-good-night-means-for-2026-and-beyond",
+    "tags": [
+      "guide",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The 2025 election results reveal significant insights about the shifting political landscape. Democrats outperformed expectations in key races, suggesting that their strategy of focusing on economic issues and moderation resonated with voters. The analysis highlights the polarization of the electorate and the challenges Republicans face without Trump on the ballot. The discussion also touches on the structural advantages Democrats hold in off-year elections and the potential implications for future races, including the 2028 presidential election. The interview with Sean Trende, a senior elections analyst, provides a nuanced perspective on voter behavior and party strategies, emphasizing the importance of turnout over persuasion in a highly polarized environment.",
+    "summary_zh": "2025年的选举结果揭示了政治格局的显著变化。民主党在关键选举中超出预期，表明其聚焦经济议题和温和路线的策略赢得了选民支持。分析指出选民极化加剧，共和党在特朗普缺席情况下面临挑战。讨论还涉及民主党在非大选年中的结构性优势及未来选举的潜在影响，包括2028年总统大选。与选举分析师肖恩·特伦德的访谈，提供了关于选民行为和政党策略的深入见解，强调在高度极化的环境中，动员选民比说服选民更为重要。",
+    "best_quote_en": "Elections are referenda on the party in power. People's dislike of some things that Democrats believe and do might be a problem for governing when Democrats win, but I don’t think it’s a problem for elections.",
+    "best_quote_zh": "选举是对执政党的公投。人们对民主党的一些信念和行为的不满，可能在民主党赢得选举后成为治理的问题，但我认为这并不影响选举结果。"
+  },
+  {
+    "id": 293,
+    "title": "Free Press / Building Stories",
+    "title_zh": "自由媒体 / 建筑故事",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-press-building-stories/",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This content presents two distinct creative works that explore different aspects of storytelling and visual communication. The first, 'Free Press,' is a visual history of underground newspapers from 1965-1975, showcasing how counterculture movements used alternative media to challenge societal norms and promote progressive ideas. The book serves as both a historical document and a design reference, highlighting the raw energy and experimental nature of the era's underground press. The second work, 'Building Stories,' is Chris Ware's magnum opus that deconstructs traditional comic storytelling through its innovative physical presentation and exploration of human struggle. Both works demonstrate how media can be used to challenge conventions and connect with audiences on deeper emotional levels.",
+    "summary_zh": "本内容介绍了两部探索叙事与视觉传达的艺术作品。第一部《自由媒体》是1965-1975年地下报纸的视觉史，展示了反文化运动如何通过替代媒体挑战社会规范，推动进步理念。这本书既是历史文献，也是设计参考，凸显了那个时代地下媒体的原始能量与实验精神。第二部《建筑故事》是克里斯·韦尔的代表作，通过创新的物理呈现方式和对人类困境的探索，颠覆了传统漫画叙事。两部作品都展示了媒体如何挑战常规，在更深层次上与受众产生共鸣。",
+    "best_quote_en": "When I was designing bOING bOING (the late 1980s/early 1990s zine) I was inspired by the precious few samples of The East Village Other, The Realist, and The Gothic Blimp Works that I could find in used bookstores.",
+    "best_quote_zh": "当我在设计《嘟嘟声》（20世纪80年代末/90年代初的杂志）时，我从旧书店中能找到的《东村他报》《现实主义者》和《哥特气球工厂》的寥寥几份样本中获得了灵感。"
   }
 ]
