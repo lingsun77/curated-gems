@@ -1,97 +1,5 @@
 [
   {
-    "id": 199,
-    "title": "The Gentle Singularity",
-    "title_zh": "温和的奇点",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-gentle-singularity",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-06-10",
-    "summary_en": "The essay presents a compelling vision of the imminent AI-driven future, arguing that we're already past critical milestones in AI development. It emphasizes that while dramatic changes are coming, many aspects of human life will remain constant. The author highlights the accelerating pace of scientific progress enabled by AI, predicting transformative advancements in various fields. The piece explores the economic and societal implications, stressing the need for proper alignment and widespread access to AI benefits. It concludes with an optimistic yet cautious perspective on humanity's ability to adapt to these changes, suggesting that while challenges exist, the potential for profound positive impact is enormous.",
-    "summary_zh": "文章描绘了AI驱动的未来图景，认为我们已经度过了关键的AI发展里程碑。尽管即将迎来剧变，人类生活的许多方面仍将保持不变。作者强调AI加速的科学进步，预测各领域将迎来重大突破。文中探讨了经济和社会影响，强调需要正确对齐和普及AI的益处。最后以乐观但谨慎的视角，认为尽管存在挑战，但人类适应这些变化的能力将带来巨大的正面影响。",
-    "best_quote_en": "We are climbing the long arc of exponential technological progress; it always looks vertical looking forward and flat going backwards, but it's one smooth curve.",
-    "best_quote_zh": "我们正沿着指数级技术进步的长弧线攀登；它总是向前看时呈垂直状态，向后看时呈平坦状态，但实际上是一条平滑的曲线。"
-  },
-  {
-    "id": 200,
-    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
-    "title_zh": "Jess Cartner-Morley 谈时尚：这个冬天外套的最重要规则——长度要长",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
-    "tags": [
-      "update",
-      "lifestyle",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Jess Cartner-Morley distills this season's fashion essence into one crucial rule: long coats. This isn't just a fleeting trend but a significant style shift reflecting broader cultural movements toward comfort and individuality. The author argues that coat length serves as a subtle yet powerful style indicator, instantly placing the wearer on the fashion spectrum. The piece explores how this trend emerges from the evolution of underlying clothing styles, particularly looser trousers, and highlights how luxury brands like Burberry and MaxMara are championing this look. The analysis extends beyond mere style advice, touching on how fashion trends mirror societal changes and personal expression, making coat selection a statement of identity.",
-    "summary_zh": "杰斯·卡特纳-莫利简化了这个季节的时尚精髓：外套要长。这不仅仅是一个流行趋势，而是反映舒适和个性化的重大风格转变。作者认为，外套长度是一个微妙但强大的风格指示器，瞬间将穿着者定位在时尚光谱上。文章探讨了这一趋势如何从底层服装风格的演变中涌现，特别是更宽松的裤子，并突出了像Burberry和MaxMara这样的奢侈品牌如何推动这一风格。分析超越了单纯的时尚建议，触及时尚趋势如何反映社会变化和个人表达，使外套选择成为身份的宣言。",
-    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news.",
-    "best_quote_zh": "你的外套需要长。就是这个，这就是大新闻。"
-  },
-  {
-    "id": 201,
-    "title": "General and Surprising",
-    "title_zh": "一般与惊人",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/sun.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "This piece explores the rare and valuable combination of insights that are both general and surprising. The author argues that most insights tend to be either general but unsurprising (platitudes) or surprising but not general (gossip). The most valuable territory - general and surprising - is often picked clean because of its value. The author suggests focusing on moderately valuable insights by adding small increments of novelty to general ideas. The piece encourages persistence in generating new ideas, even if they seem similar to existing ones, as small variations can lead to significant breakthroughs. It also discusses the importance of not being discouraged when ideas seem derivative, as even small novelties in general concepts can be valuable.",
-    "summary_zh": "这篇文章探讨了既普遍又令人惊讶的洞察力的稀缺价值。作者指出，大多数见解要么普遍但平淡无奇（如老生常谈），要么惊人但不普遍（如八卦）。最有价值的领域——既普遍又惊人——往往因其价值而被快速占领。作者建议通过在普遍的想法中增加微小的新意来获取中等价值的见解。文章鼓励在产生新想法时保持耐心，即使看起来与已有想法相似，因为微小的变化也可能带来重大突破。它还强调不应因想法似曾相识而气馁，因为普遍概念中的微小新意也很有价值。",
-    "best_quote_en": "A small delta of novelty is all you'll be able to get most of the time. Which means if you take this route, your ideas will seem a lot like ones that already exist.",
-    "best_quote_zh": "大多数时候，你能获得的只是微小的新意。这意味着如果你选择这条路，你的想法会和已有的想法非常相似。"
-  },
-  {
-    "id": 202,
-    "title": "Donald Trump’s Dream Palace of Puffery",
-    "title_zh": "唐纳德·特朗普的吹嘘梦宫",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-dream-palace-of-puffery",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "Susan B. Glasser's scathing analysis of Trump's second term reveals a disturbing pattern of dismantling press freedom and creating an echo chamber of sycophantic media. The piece highlights how Trump systematically excludes critical journalists while favoring outlets like Real America's Voice, which openly admits to asking only flattering questions. This manufactured media environment allows Trump to present his false claims as validated by 'the media' while feeding his insatiable need for adulation. The Pentagon's recent press ban serves as a chilling preview of what's coming to the White House. Glasser warns that without journalistic scrutiny, Trump's already unchecked power will only grow more dangerous.",
-    "summary_zh": "格拉瑟的尖锐分析揭露了特朗普第二任期内削弱新闻自由的模式，他构建了一个吹捧者的媒体生态。文章指出特朗普排斥批评性记者，而青睐只会提奉承问题的媒体。这种操控媒体环境使特朗普能将谎言包装成媒体认可。五角大楼禁止记者采访是白宫未来的前奏。格拉瑟警告，缺乏媒体监督将使特朗普的权力更加难以约束。",
-    "best_quote_en": "There is no pleasing a leader whose need for affirmation is so bottomless.",
-    "best_quote_zh": "无法取悦一个渴望肯定如无底洞的领导人。"
-  },
-  {
     "id": 203,
     "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
     "title_zh": "防脱落耳机/无国界大使馆/新兴游牧者工作中心",
@@ -2342,5 +2250,101 @@
     "summary_zh": "这封新闻稿结合了个人旅行体验和数据驱动的趋势分析。可折叠旅行枕头的评测提供了解决航空旅行舒适度的实用方案，展现了产品测试的细致思考。预装洗漱包的建议体现了旅行准备的高效性。Expedia的旅行趋势报告揭示了新兴目的地和",
     "best_quote_en": "Convenience is a recurring theme, with expats across China raving about fast public transportation to efficient online shopping.",
     "best_quote_zh": "便利性是一个反复出现的主题，中国各地的外籍人士纷纷赞赏快速的公共交通和高效的在线购物。"
+  },
+  {
+    "id": 299,
+    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
+    "title_zh": "派对穿搭的意外升级：鸡尾酒T恤",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
+    "tags": [
+      "inspire",
+      "science",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The cocktail T-shirt represents a fascinating evolution in party fashion, blending casual comfort with elegant sophistication. This trend challenges traditional notions of formal attire by offering a versatile, thermodynamically superior alternative to conventional party wear. The piece's understated elegance and practical benefits—like temperature regulation and better fit—reflect a growing consumer demand for multifunctional, sustainable fashion. The industry's embrace of this hybrid category, from luxury brands like Prada to high street retailers, signals a broader shift toward practical elegance in evening wear. The trend also addresses environmental concerns by potentially reducing overconsumption of single-use party garments. This innovation in knitwear demonstrates how fashion can adapt to both personal comfort and ethical considerations, making it a compelling development in contemporary style.",
+    "summary_zh": "鸡尾酒T恤将休闲舒适与优雅融为一体，挑战了正式着装的传统观念。这种趋势反映了消费者对多功能、可持续时尚的需求，同时解决了环境问题。从普拉达到高街品牌的普及，标志着晚装向实用优雅的转变。这一创新展示了时尚如何适应个人舒适与伦理考量，成为当代风格的重要发展。",
+    "best_quote_en": "They have that sort of understated look that a T-shirt tends to give the wearer, but unlike the way a cotton T-shirt sort of unravels by midday, the knit has a more polished effect.",
+    "best_quote_zh": "它们给人一种低调的感觉，但与棉T恤不同，羊毛衫的针织材质能保持更精致的效果。"
+  },
+  {
+    "id": 300,
+    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
+    "title_zh": "达尔富尔叛军发布大规模屠杀视频，世界袖手旁观",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
+    "tags": [
+      "solve",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This harrowing report details the systematic atrocities committed by the Rapid Support Forces (RSF) in Darfur, Sudan, following their capture of El Fasher. The article highlights the posting of graphic execution videos on social media, the strategic use of drones and artillery supplied by the UAE, and the construction of a berm to prevent humanitarian aid. Expert analysis from Yale's Humanitarian Research Lab reveals a pattern of mass killings visible from satellite imagery, with estimates of tens of thousands of deaths in just five days. The piece also explores the historical context of genocide in Darfur, the international community's inaction, and the complex geopolitical interests at play, particularly the UAE's involvement in arming the RSF. The report underscores the urgent need for global intervention to prevent further atrocities and the potential for escalation in Tawila.",
+    "summary_zh": "本文揭露了苏丹达尔富尔地区快速支持部队（RSF）在攻占埃尔法舍尔后的系统性暴行。报道指出，RSF在社交媒体上发布了血腥的处决视频，并利用阿联酋提供的无人机和炮兵设备围困城市，阻止人道主义援助。耶鲁人道主义研究实验室的专家分析卫星图像发现，RSF在短短五天内可能造成数万人死亡。文章还探讨了达尔富尔历史上的种族灭绝背景、国际社会的漠视以及阿联酋支持RSF的复杂地缘政治因素。报道强调了迫切需要国际干预以阻止进一步暴行，并警惕塔维拉地区可能面临的升级风险。",
+    "best_quote_en": "\"The world hasn't caught up to what a big deal El Fasher is.\"",
+    "best_quote_zh": "\"世界还没有意识到埃尔法舍尔有多重要。\""
+  },
+  {
+    "id": 301,
+    "title": "PG and Jessica",
+    "title_zh": "PG和Jessica",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/pg-and-jessica",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "深度分析"
+    ],
+    "date": "2020-09-25",
+    "summary_en": "The article reveals the often overlooked secret behind Y Combinator's success: the unique combination of Paul Graham and Jessica Livingston's leadership. Unlike conventional wisdom that attributes YC's growth to replicable strategies or network effects, the author argues that the real magic was their personal approach. They took risks on unknown talents, established strong community norms, and prioritized long-term ecosystem building over short-term gains. The piece highlights how their unwavering conviction, hands-on mentorship, and willingness to challenge existing power structures created an environment where founders could thrive. The author reflects on how this combination of qualities has been remarkably difficult to replicate, despite seeming straightforward. This analysis serves as both a tribute to their impact and a challenge to others to understand the deeper, more human elements of building transformative communities.",
+    "summary_zh": "文章揭示了Y Combinator成功背后常被忽视的关键：Paul Graham和Jessica Livingston的独特领导力。与常见的将YC成长归因于可复制策略或网络效应的观点不同，作者认为真正的魔力在于他们的个人风格。他们敢于押注未知人才，建立严格的社区规范，并优先考虑长期生态建设而非短期利益。文章强调他们坚定信念、亲力亲为的指导和挑战现有权力结构的勇气，为创始人创造了茁壮成长的环境。作者反思，尽管这些品质看似简单，但15年来鲜有复制者。这既是对他们的致敬，也是对他人理解构建变革性社区中更深层次、更人性化因素的挑战。",
+    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
+    "best_quote_zh": "YC起步的全部秘诀就是PG和Jessica——没有其他魔法配方。"
+  },
+  {
+    "id": 302,
+    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
+    "title_zh": "Essentials: 使用现代神经科学消除恐惧与创伤",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
+    "tags": [
+      "solve",
+      "psychology",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This episode of Huberman Lab Essentials dives deep into the neuroscience behind fear and trauma, offering actionable strategies for processing and eliminating traumatic responses. The key insight is that effective fear treatment requires both extinguishing old fearful responses and replacing them with positive associations, not just cognitive reframing. The discussion explores how the threat reflex activates specific neural circuits involving the amygdala, prefrontal cortex, and dopamine systems, and how detailed recounting of traumatic events can reduce their physiological impact over time. The episode also reviews evidence-based approaches like prolonged exposure therapy and cognitive behavioral therapy, and introduces the concept of using five minutes of deliberate stress through cyclic hyperventilation to rewire fear responses. The critical role of social connection in trauma recovery and supplementation options for managing anxiety are also covered, making this a comprehensive guide for anyone seeking to understand and overcome fear-based challenges.",
+    "summary_zh": "本集Huberman Lab Essentials深入探讨了恐惧和创伤背后的神经科学机制，并提供了处理和消除创伤反应的实际策略。核心观点是，有效的恐惧治疗需要同时消除旧的恐惧反应并用积极联想取代，而不仅仅是认知重构。节目探讨了威胁反射如何激活涉及杏仁核、前额叶皮层和多巴胺系统的特定神经回路，以及详细回忆创伤事件如何逐渐减少其生理影响。此外，还介绍了基于证据的疗法如漫长暴露疗法和认知行为疗法，以及通过循环性过度换气进行5分钟的刻意压力以重塑恐惧反应的方法。节目还强调了社交联系在创伤康复中的关键作用以及管理焦虑的补充剂选择，使其成为任何想要理解和克服恐惧挑战的人的全面指南。",
+    "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
+    "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并用新的积极联想取代，而不仅仅是认知重构。"
   }
 ]
