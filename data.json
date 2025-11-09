@@ -1,125 +1,5 @@
 [
   {
-    "id": 203,
-    "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
-    "title_zh": "防脱落耳机/无国界大使馆/新兴游牧者工作中心",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/stay-put-earbuds-borderless-embassy-growing-nomad-hotspots/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This article offers practical insights for digital nomads and frequent travelers. The first piece provides a genuine product recommendation for earbuds that stay put during travel, highlighting their features and value. The second section introduces Safety Wing's pop-up embassy in San Francisco, emphasizing the growing trend of creating infrastructure for nomadic lifestyles. The third part analyzes whether purchasing loyalty points can be worthwhile, offering a data-driven approach to evaluating promotions. Finally, it presents data on rising nomad work hubs, revealing interesting global trends. The content is particularly valuable for travelers seeking practical solutions and those interested in the evolving landscape of digital nomadism.",
-    "summary_zh": "这篇文章为数字游民和频繁旅行者提供了实用见解。第一部分推荐了一款旅行时不会掉落的耳机，突出其功能和性价比。第二部分介绍了Safety Wing在旧金山的临时大使馆，强调了为游牧生活创造基础设施的趋势。第三部分分析了购买忠诚度积分是否值得，提供了评估促销活动的数据驱动方法。最后，它展示了新兴游牧者工作中心的数据，揭示了有趣的全球趋势。内容特别适合寻求实用解决方案和对数字游民发展格局感兴趣的旅行者。",
-    "best_quote_en": "The 'sport' part refers to the fact that they go over your ear and stay snug, plus they're far easier to fall asleep with than headphones.",
-    "best_quote_zh": "“运动”部分指的是它们穿过你的耳朵并紧贴耳朵，而且比耳机更容易入睡。"
-  },
-  {
-    "id": 204,
-    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
-    "title_zh": "必学：大脑如何运作并解读世界 | 大卫·伯森博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
-    "tags": [
-      "solve",
-      "science",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This episode of Huberman Lab Essentials with Dr. David Berson offers a fascinating exploration of neurobiology, bridging fundamental research with practical applications. The discussion on melanopsin and circadian biology reveals how light influences our biological clocks, offering actionable insights for better sleep hygiene. The case study of neuroplasticity in the visual cortex demonstrates the brain's remarkable adaptability, while the examination of the vestibular system provides tools for managing motion sickness. Berson's expertise transforms complex neuroscience into understandable concepts, making this content valuable for both casual learners and professionals seeking to deepen their understanding of sensory processing and decision-making.",
-    "summary_zh": "大卫·伯森博士与哈伯曼实验室的这期对话，揭示了视觉感知、平衡调节与决策机制的奥秘。他用黑色素素发现解析光对生物钟的调节，为改善睡眠提供了实用建议。关于视觉皮层可塑性的案例，展现了大脑惊人的适应能力。这些专业见解将复杂的神经科学转化为易于理解的概念，适合求知若渴的大众和专业人士，探索感官处理与决策的深层机制。",
-    "best_quote_en": "The discovery of melanopsin completely changed our understanding of how light regulates circadian rhythms and melatonin release.",
-    "best_quote_zh": "黑色素素的发现彻底改变了我们对光如何调节昼夜节律和褪黑素分泌的理解。"
-  },
-  {
-    "id": 205,
-    "title": "Where do babies come from? Robert F Kennedy Jr doesn’t seem to know | Arwa Mahdawi",
-    "title_zh": "罗伯特·F·肯尼迪·朱尼尔似乎不知道婴儿从何而来 | 阿尔瓦·马哈维",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/15/where-do-babies-come-from-robert-f-kennedy-jr-doesnt-seem-to-know",
-    "tags": [
-      "solve",
-      "science",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This opinion piece critiques the lack of basic biological knowledge among certain US politicians, particularly Robert F Kennedy Jr, who recently confused the placenta with the uterus while discussing fetal development. The article highlights a pattern of ignorance about women's bodies among Republican lawmakers, citing multiple examples of misinformation and scientific illiteracy. The author argues that this ignorance is particularly concerning given these politicians' efforts to legislate women's reproductive rights. The piece serves as both a critique of political incompetence and a commentary on the dangerous consequences of such ignorance.",
-    "summary_zh": "该评论文章批评了部分美国政客对基本生物学知识的无知，特别是罗伯特·F·肯尼迪·朱尼尔最近将胎盘与子宫混淆的言论。文章指出共和党政客在妇女身体知识方面的普遍无知，并列举了多个误导性言论和科学文盲的例子。作者认为，这种无知在试图立法妇女生育权方面尤为令人担忧。该文既是对政治无能的批判，也是对这种无知危险后果的评论。",
-    "best_quote_en": "Foetuses, of course, develop in the uterus, not the placenta. It's possible, if we are being generous, that Kennedy misspoke.",
-    "best_quote_zh": "胎儿当然是在子宫中发育，而不是胎盘。如果我们宽容一些，也许肯尼迪只是口误。"
-  },
-  {
-    "id": 206,
-    "title": "Charisma / Power",
-    "title_zh": "魅力与权力",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pow.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2025-10-18",
-    "summary_en": "This insightful piece explores the complex relationship between power and charisma, particularly how individuals who possess power but lack charisma often face disproportionate criticism. The author uses examples like Hillary Clinton and builder-type CEOs to illustrate this dynamic, suggesting that such criticism doesn't necessarily indicate unfitness for the role. Instead, it might signal that the person is precisely the right choice for the job. The article reflects on human nature and the inevitable tensions that arise from this dichotomy, offering a nuanced perspective on leadership and perception.",
-    "summary_zh": "文章深入剖析了权力与魅力之间的复杂关系，指出那些拥有权力却缺乏魅力的人往往成为批评的靶子。作者以希拉里·克林顿和以建设型CEO为例，说明这种现象并非意味着他们不适合担任职务，反而可能证明他们是最合适的人选。文章反思了人性本质与这种矛盾的必然性，为领导力与公众认知提供了独特视角。",
-    "best_quote_en": "Being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
-    "best_quote_zh": "成为批评的靶子有时并非意味着某人不适合某个职位，反而是他们是最合适的人选的标志。"
-  },
-  {
-    "id": 207,
-    "title": "The Last Columbia Protester in ICE Detention",
-    "title_zh": "最后一位被关押在移民局拘留中心的哥伦比亚抗议者",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-last-columbia-protester-in-ice-detention",
-    "tags": [
-      "solve",
-      "science",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "The story of Leqaa Kordia, a Palestinian woman detained in Texas for eight months, highlights the harsh realities of U.S. immigration policies and their disproportionate impact on marginalized communities. Kordia, who has lived in the U.S. since 2016, was detained under allegations of terrorism due to her participation in pro-Palestinian protests and financial support to her family in Gaza. The case underscores the intersection of immigration enforcement, political activism, and international conflict. Despite a federal judge's recommendation for her release, Kordia remains detained, facing potential deportation to a region where her life would be at risk. Her story challenges us to examine the ethical implications of immigration policies that criminalize activism and the broader systemic issues that leave vulnerable individuals like Kordia trapped in legal limbo.",
-    "summary_zh": "黎卡·科迪亚的故事揭示了美国移民政策的严酷现实及其对弱势群体的不成比例影响。这位2016年来美的巴勒斯坦女性因参与亲巴勒斯坦抗议和向加沙家人提供金钱支持而被控恐怖主义，至今已在德州被拘留八个月。尽管联邦法官建议释放她，但她仍面临遣返至生命受威胁地区的风险。这个案例促使我们反思将激进行为刑事化的移民政策及更广泛的系统性问题，这些问题使像科迪亚这样的弱势群体陷入法律困境。",
-    "best_quote_en": "To feel helpless—this is one of the most awful feelings in the world.",
-    "best_quote_zh": "感到无助——这世界上最可怕的感觉之一。"
-  },
-  {
     "id": 208,
     "title": "The Sweetapolita Bakebook / Castro’s Cuba",
     "title_zh": "甜心烘焙书 / 卡斯特罗的古巴",
@@ -2346,5 +2226,121 @@
     "summary_zh": "本集Huberman Lab Essentials深入探讨了恐惧和创伤背后的神经科学机制，并提供了处理和消除创伤反应的实际策略。核心观点是，有效的恐惧治疗需要同时消除旧的恐惧反应并用积极联想取代，而不仅仅是认知重构。节目探讨了威胁反射如何激活涉及杏仁核、前额叶皮层和多巴胺系统的特定神经回路，以及详细回忆创伤事件如何逐渐减少其生理影响。此外，还介绍了基于证据的疗法如漫长暴露疗法和认知行为疗法，以及通过循环性过度换气进行5分钟的刻意压力以重塑恐惧反应的方法。节目还强调了社交联系在创伤康复中的关键作用以及管理焦虑的补充剂选择，使其成为任何想要理解和克服恐惧挑战的人的全面指南。",
     "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
     "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并用新的积极联想取代，而不仅仅是认知重构。"
+  },
+  {
+    "id": 303,
+    "title": "Emma Barnett says she felt ‘mugged, robbed’ after perimenopause at 38",
+    "title_zh": "艾玛·巴纳特称在40岁前经历绝经期后感到被抢劫般失去自我",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/nov/07/emma-barnett-bbc-perimenopause",
+    "tags": [
+      "update",
+      "medicine",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "Emma Barnett's candid discussion about her experience with perimenopause at 38 highlights the profound identity crisis many women face during this transitional phase. Her raw description of feeling 'mugged, robbed' of her identity resonates with the broader struggle women encounter as hormonal changes reshape their sense of self. The conversation underscores the urgent need for better public awareness and support systems for perimenopausal women, as current healthcare gaps leave many feeling abandoned. Barnett's experience also touches on the commercialization of menopause information, raising important questions about the ethics of profit-driven health advice. This discussion is a powerful call for normalization and education around perimenopause, challenging societal silence and offering solidarity to those experiencing similar struggles.",
+    "summary_zh": "艾玛·巴纳特在BBC新播客中坦言40岁前经历更年期时感到被抢劫般失去自我，这揭示了许多女性在这个转变期面临的深刻身份危机。她直白的描述引发共鸣，凸显女性在荷尔蒙变化中自我认知的挑战。这场对话凸显了对更年期女性支持系统的迫切需求，当前医疗空白让许多人感到被遗弃。她的经历也触及更年期信息商业化的伦理问题，呼吁社会正视和教育公众关于更年期的知识，打破沉默，为经历者提供支持。",
+    "best_quote_en": "'I do feel there has been a theft. I do feel there’s no emergency number to call. 'I’d like to report a crime. Yeah, someone stole me.' There is no one to report this to.'",
+    "best_quote_zh": "我确实觉得被盗了。确实没有紧急电话可以打。'我想报案。是的，有人偷走了我。'但没有人可以报告。"
+  },
+  {
+    "id": 304,
+    "title": "The General Social Survey and the ACX Survey",
+    "title_zh": "《一般社会调查与ACX调查》",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xrazcGthGB4JB6hrp/the-general-social-survey-and-the-acx-survey",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This analysis compares demographic and attitudinal data between the Astral Codex Ten (ACX) community and the general population via the General Social Survey (GSS). The study reveals striking differences: the ACX community is significantly younger, more male-dominated, and more educated. Politically, ACX respondents lean heavily Democratic, while the GSS shows more Independents. The most intriguing finding is that the ACX community expresses less concern about AI existential risks than the general population, though this disparity is explained by differing question framings. The author acknowledges potential data mapping challenges and the subjective nature of 'vibecoding' in this comparative analysis. The study offers valuable insights into the demographics and attitudes of the rationalist community compared to broader societal trends.",
+    "summary_zh": "本分析通过一般社会调查(GSS)对比了天文代码十号(ACX)社区与普通民众的人口统计和态度数据。研究发现，ACX社区成员年龄更轻、性别比例更为失衡、受教育程度更高。在政治立场上，ACX受访者明显倾向于民主党，而GSS显示独立派比例更高。最引人注目的是，ACX社区对AI存在风险的担忧程度低于普通民众，但这种差异源于问题设置不同。作者承认数据映射的挑战性和'vibecoding'的主观性。该研究为理解理性主义社区与社会大趋势的差异提供了宝贵见解。",
+    "best_quote_en": "The ACX community is less concerned about AI risk than general population?",
+    "best_quote_zh": "ACX社区对AI风险的担忧程度低于普通民众？"
+  },
+  {
+    "id": 305,
+    "title": "What’s in my NOW? — Ken Batchelor",
+    "title_zh": "我的现在里有什么？ — 肯·巴切勒",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-ken-batchelor/",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Ken Batchelor's 'What's in my NOW?' offers a reflective glimpse into the simple yet profound tools and practices that enrich his life. From physical items like You Matter cards and barefoot shoes to digital tools like LibraryThing and AlphaGuess, each recommendation carries personal significance. The piece culminates in a poignant meditation on mindfulness, quoting Philip K. Dick's longing to hear the 'sound of the anklets on the feet of an insect as it walks' as a metaphor for finding peace. Batchelor's writing blends practicality with spirituality, inviting readers to consider how small, intentional choices can cultivate joy and presence in daily life.",
+    "summary_zh": "肯·巴切勒的《我的现在里有什么？》展现了他在生活中简单而深刻的工具与实践。从物质层面的“重要卡片”和“赤足鞋”，到数字工具“LibraryThing”和“AlphaGuess”，每个推荐都饱含个人意义。文章最终以菲利普·迪克的“倾听昆虫脚铃的声音”为喻，探讨了正念的力量。巴切勒的文字将实用性与精神性交织，邀请读者思考如何通过小而有意的选择，在日常中培育喜悦与当下感。",
+    "best_quote_en": "Listening for the sound of the anklets on the feet of an insect as it walks.",
+    "best_quote_zh": "倾听昆虫脚铃在行走时的声音。"
+  },
+  {
+    "id": 306,
+    "title": "Researchers and Founders",
+    "title_zh": "研究者与创始人",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/researchers-and-founders",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2020-06-19",
+    "summary_en": "This insightful piece compares the traits of top researchers and founders, revealing surprising differences and key similarities. The author highlights that both groups share exceptional problem-solving skills, focusing on the 'Hamming question' of identifying and tackling the most important problems in their fields. They exhibit a unique combination of laser focus on immediate tasks with long-term vision, persistent work ethic, and a bias towards action. Both groups demonstrate creativity, value autonomy, and are driven by genuine curiosity. The analysis serves as a valuable guide for aspiring professionals in these fields, emphasizing the importance of independent thinking and honest self-assessment.",
+    "summary_zh": "这篇文章对比了顶尖研究者与创业者的特质，揭示了他们之间既有惊人的差异，也有关键的共性。作者指出，两者都擅长解决问题，善于思考并攻克领域内最重要的难题。他们兼具短期专注与长远眼光，工作持之以恒，行动力强。两者都富有创造力，重视自主性，并由真正的好奇心驱动。这份分析为有志于这两个领域的人提供了宝贵指南，强调了独立思考和诚实自省的重要性。",
+    "best_quote_en": "They have a laser focus on the next step in front of them combined with long-term vision. Most people only have one or the other.",
+    "best_quote_zh": "他们既有对眼前步骤的激光般专注，又具备长远眼光。大多数人往往只具备其中之一。"
+  },
+  {
+    "id": 307,
+    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+    "title_zh": "通过重新利用现有药物治疗和治愈大脑和身体的疾病 | 大卫·法根鲍姆博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This conversation with Dr. David Fajgenbaum reveals the hidden potential of drug repurposing, a practice where existing medications find new applications beyond their original approval. His personal journey with Castleman's disease illustrates the life-saving possibilities when medical professionals and patients explore unconventional treatments. The discussion highlights the systemic challenges in pharmaceutical development, including patent incentives that discourage exploration of new uses for approved drugs. Dr. Fajgenbaum's work with the Every Cure database demonstrates how AI and integrated medical databases can accelerate discovery of these repurposing opportunities. The interview also explores the psychological and systemic factors that prevent broader adoption of this approach, offering both hope and practical tools for patients facing seemingly untreatable conditions.",
+    "summary_zh": "与大卫·法根鲍姆博士的对话揭示了药物再利用的潜力，这种方法让已获批药物找到新用途。他个人与卡斯尔曼病的抗争展示了非传统治疗方法的生死意义。讨论揭露了药品研发的系统性挑战，包括阻碍探索已有药物新用途的专利激励机制。法根鲍姆博士的Every Cure数据库工作展示了AI和整合医疗数据库如何加速发现这些再利用机会。采访还探讨了心理和系统因素如何阻碍这种方法的广泛应用，为面对看似无法治愈疾病的患者提供了希望和实用工具。",
+    "best_quote_en": "The most exciting part about drug repurposing is that we're not waiting for new drugs to be developed, we're finding new uses for drugs that already exist.",
+    "best_quote_zh": "药物再利用最令人兴奋的地方在于我们不需要等待新药研发，而是找到已有药物的新用途。"
   }
 ]
