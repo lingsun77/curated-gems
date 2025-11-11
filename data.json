@@ -1,29 +1,5 @@
 [
   {
-    "id": 208,
-    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
-    "title_zh": "甜心烘焙书 / 卡斯特罗的古巴",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
-    "tags": [
-      "inspire",
-      "society",
-      "politics",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "政治时事",
-      "新手友好"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "The Sweetapolita Bakebook transforms ordinary baking into edible art, showcasing Rosie Alyea's vibrant creations that blend culinary skill with artistic vision. Her work elevates basic desserts to fine art through intricate decorating techniques and bold color palettes. Meanwhile, Castro's Cuba offers a historical perspective on Cuba's revolutionary period through Lee Lockwood's photographs and interviews. The book provides an intimate look at Fidel Castro's vision for Cuba, contrasting idealism with reality. Both works demonstrate how passion can manifest in different domains—culinary arts and political documentation—each offering unique insights into their respective worlds.",
-    "summary_zh": "《甜心烘焙书》将烘焙变为艺术，展现罗茜·阿莱亚对色彩与创意的热情，将甜点提升为美术品。而《卡斯特罗的古巴》则通过照片和采访，呈现古巴革命的历史与卡斯特罗的理想，反映不同领域中热情的独特表达。两书均值得深入探索。",
-    "best_quote_en": "Her cookies transcend bakery staples into the realm of fine art.",
-    "best_quote_zh": "她的曲奇饼干超越了传统烘焙范畴，进入了美术品的领域。"
-  },
-  {
     "id": 209,
     "title": "Three Observations",
     "title_zh": "关于人工通用智能的三个观察",
@@ -2342,5 +2318,29 @@
     "summary_zh": "与大卫·法根鲍姆博士的对话揭示了药物再利用的潜力，这种方法让已获批药物找到新用途。他个人与卡斯尔曼病的抗争展示了非传统治疗方法的生死意义。讨论揭露了药品研发的系统性挑战，包括阻碍探索已有药物新用途的专利激励机制。法根鲍姆博士的Every Cure数据库工作展示了AI和整合医疗数据库如何加速发现这些再利用机会。采访还探讨了心理和系统因素如何阻碍这种方法的广泛应用，为面对看似无法治愈疾病的患者提供了希望和实用工具。",
     "best_quote_en": "The most exciting part about drug repurposing is that we're not waiting for new drugs to be developed, we're finding new uses for drugs that already exist.",
     "best_quote_zh": "药物再利用最令人兴奋的地方在于我们不需要等待新药研发，而是找到已有药物的新用途。"
+  },
+  {
+    "id": 308,
+    "title": "The problem of graceful deference",
+    "title_zh": "优雅的谦让问题",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/jzy5qqRuqA9iY7Jxu/the-problem-of-graceful-deference-1",
+    "tags": [
+      "solve",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The article explores the psychological and social dynamics of moral deference, particularly in contentious topics like reprogenetics and AI risk. The author examines how people often adopt positions based on social consensus rather than personal conviction, creating a false sense of consensus. This phenomenon, while sometimes justified, can lead to group epistemological failures and hinder critical thinking. The piece advocates for more transparent deference—acknowledging when we're following others' lead—which could improve collective decision-making. It also touches on the broader challenge of deferring to experts in a complex world where we can't be experts on everything. The author's personal reflections on AI safety efforts highlight how even well-intentioned groups can fall into patterns of deferred thinking, emphasizing the need for more open communication about our reasoning processes.",
+    "summary_zh": "这篇文章探讨了道德谦让的心理和社会动态，特别是在像繁殖遗传学和AI风险等有争议话题中。作者分析了人们如何基于社会共识而非个人信念采纳立场，从而制造出虚假的共识。这种现象虽有时有道理，但可能导致群体认知失败并抑制批判性思维。文章倡导更透明的谦让——承认我们在何时追随他人意见，这可能改善集体决策。它还触及在复杂世界中我们无法成为所有问题专家时，如何优雅谦让的更广泛挑战。作者关于AI安全努力的个人反思展示了即使善意的群体也可能陷入谦让思维的模式，强调我们需要更开放地沟通我们的推理过程。",
+    "best_quote_en": "I wish that when someone asked me in, say, 2016, 'Why are you working on decision theory?', I would have not said 'Well I think that a better understanding of decision theory would tell us what sort of agents are possible and then we can understand reflective stability and this will explain the design space of agents which will allow us to figure out what levers we have to set the values of the AI and...'. Instead I wish I had said 'Mainly because Yudkowsky has been working on that and it seems interesting and I know math.'",
+    "best_quote_zh": "我希望当有人在2016年问我'为什么你要研究决策理论？'时，我不会说'我认为更好地理解决策理论会告诉我们什么样的智能体是可能的，然后我们可以理解反射稳定性，这将解释智能体的设计空间，从而让我们能够弄清楚设置AI价值的杠杆...'。相反，我希望我当时可以说'主要因为尤德科夫斯基在研究这个，它看起来很有趣，我懂数学。'"
   }
 ]
