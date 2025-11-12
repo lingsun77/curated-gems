@@ -1,29 +1,5 @@
 [
   {
-    "id": 209,
-    "title": "Three Observations",
-    "title_zh": "关于人工通用智能的三个观察",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/three-observations",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-02-09",
-    "summary_en": "This insightful piece explores the transformative potential of Artificial General Intelligence (AGI) and its economic implications. The authors present three key observations: 1) AI model intelligence scales with resources invested, 2) AI costs drop dramatically (10x every 12 months), and 3) the socioeconomic value of increasing intelligence is super-exponential. They envision a future where AI agents augment human capabilities across all knowledge work fields, comparing AGI's economic impact to the transistor revolution. The piece emphasizes the importance of societal adaptation, policy considerations, and equitable distribution of AGI benefits. It also warns about potential power imbalances between capital and labor, suggesting innovative solutions like universal 'compute budgets'. The authors express optimism about AGI enabling unprecedented human potential while acknowledging the need for careful integration into society.",
-    "summary_zh": "这篇文章深刻探讨了人工通用智能（AGI）的变革潜力及其经济影响。作者提出三个关键观察：1）AI模型智能随投入资源增长，2）AI成本每12个月下降10倍，3）智能提升的社会经济价值呈超指数增长。他们展望了AI代理在各知识领域增强人类能力的未来，将AGI的经济影响与晶体管革命相类比。文章强调了社会适应、政策考量和AGI福利均衡分配的重要性，并警示资本与劳动力之间可能出现的权力失衡，提出创新性解决方案如全球通用“计算预算”。作者对AGI释放人类潜力充满信心，同时承认需要谨慎将其融入社会。",
-    "best_quote_en": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
-    "best_quote_zh": "或许十年后，地球上每个人都能做到比今天最有影响力的人更多的事。"
-  },
-  {
     "id": 210,
     "title": "Ditch ‘shrink it and pink it’ women’s trainer design, say experts",
     "title_zh": "专家建议摒弃“缩小版+粉色”的女性跑鞋设计",
@@ -2342,5 +2318,29 @@
     "summary_zh": "这篇文章探讨了道德谦让的心理和社会动态，特别是在像繁殖遗传学和AI风险等有争议话题中。作者分析了人们如何基于社会共识而非个人信念采纳立场，从而制造出虚假的共识。这种现象虽有时有道理，但可能导致群体认知失败并抑制批判性思维。文章倡导更透明的谦让——承认我们在何时追随他人意见，这可能改善集体决策。它还触及在复杂世界中我们无法成为所有问题专家时，如何优雅谦让的更广泛挑战。作者关于AI安全努力的个人反思展示了即使善意的群体也可能陷入谦让思维的模式，强调我们需要更开放地沟通我们的推理过程。",
     "best_quote_en": "I wish that when someone asked me in, say, 2016, 'Why are you working on decision theory?', I would have not said 'Well I think that a better understanding of decision theory would tell us what sort of agents are possible and then we can understand reflective stability and this will explain the design space of agents which will allow us to figure out what levers we have to set the values of the AI and...'. Instead I wish I had said 'Mainly because Yudkowsky has been working on that and it seems interesting and I know math.'",
     "best_quote_zh": "我希望当有人在2016年问我'为什么你要研究决策理论？'时，我不会说'我认为更好地理解决策理论会告诉我们什么样的智能体是可能的，然后我们可以理解反射稳定性，这将解释智能体的设计空间，从而让我们能够弄清楚设置AI价值的杠杆...'。相反，我希望我当时可以说'主要因为尤德科夫斯基在研究这个，它看起来很有趣，我懂数学。'"
+  },
+  {
+    "id": 309,
+    "title": "‘The chilling effect’: how fear of ‘nudify’ apps and AI deepfakes is keeping Indian women off the internet",
+    "title_zh": "冰冷效应：AI深度伪造与'脱衣'应用如何让印度女性远离互联网",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/nov/05/india-women-ai-deepfakes-internet-social-media-artificial-intelligence-nudify-extortion-abuse",
+    "tags": [
+      "analyze",
+      "cybersecurity",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "网络安全",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This report highlights a disturbing trend where AI tools are increasingly used to create non-consensual deepfakes of women in India, leading to severe psychological and social consequences. The 'chilling effect' described shows how fear of digital manipulation is driving women to self-censor and withdraw from online spaces. High-profile cases like those involving Asha Bhosle and Rana Ayyub demonstrate the pervasive nature of this issue, while the legal and platform response remains inadequate. The report reveals a troubling intersection of technology and gender-based violence, where AI democratizes harassment and makes it more difficult to combat. This analysis raises critical questions about digital safety, platform accountability, and the need for stronger legal protections in the face of rapidly evolving AI capabilities.",
+    "summary_zh": "本报告揭示了印度女性因AI深度伪造和'脱衣'应用而陷入的困境。这些技术被用于非法创作女性照片，导致心理创伤和社会污名化。高调案例表明，从法律到平台的应对措施仍显滞后。这不仅是技术问题，更暴露了性别暴力的新形式。面对AI技术的快速发展，我们需要重新思考数字安全的边界与责任。",
+    "best_quote_en": "'The chilling effect is true,' says Rohini Lakshané. 'The fact that they can be so easily misused makes me extra cautious.'",
+    "best_quote_zh": "罗希尼·拉克什内说:'冰冷效应确实存在。这些图片被滥用的可能性让人不得不加倍小心。'"
   }
 ]
