@@ -1,125 +1,5 @@
 [
   {
-    "id": 210,
-    "title": "Ditch ‘shrink it and pink it’ women’s trainer design, say experts",
-    "title_zh": "专家建议摒弃“缩小版+粉色”的女性跑鞋设计",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/oct/14/ditch-shrink-it-and-pink-it-womens-trainer-design-say-experts",
-    "tags": [
-      "solve",
-      "education",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This study reveals a significant gap in the sports footwear industry where women's running shoes have long been designed based on male anatomy. The 'shrink it and pink it' approach fails to address women's distinct anatomical needs throughout their lives. The research highlights how women prioritize comfort, injury prevention, and performance in their footwear choices, with specific needs evolving during pregnancy and aging. The findings call for a fundamental shift in design philosophy to create gender-specific shoes that better accommodate women's unique foot morphology and preferences.",
-    "summary_zh": "该研究揭示了运动鞋行业的一个重大缺陷：女性跑鞋长期基于男性足部结构设计，简单缩小并涂上粉色的做法无法满足女性独特的生理需求。调查显示，女性在选择跑鞋时最看重舒适性、防伤性能和运动表现，且不同人生阶段需求不同。研究呼吁行业应彻底改变设计思维，开发真正适合女性的专属跑鞋。",
-    "best_quote_en": "We strongly recommend that the footwear industry should move beyond simply scaling down men’s shoes to fit women’s feet.",
-    "best_quote_zh": "我们强烈建议运动鞋行业应超越简单缩小男性鞋型来适应女性脚型的做法。"
-  },
-  {
-    "id": 211,
-    "title": "The Risk of Discovery",
-    "title_zh": "发现的风险",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/disc.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "This insightful piece challenges our perception of genius by examining how historical narratives often obscure the risky nature of groundbreaking work. By focusing on Isaac Newton's diverse pursuits in physics, alchemy, and theology, the author reveals how conventional wisdom retroactively labels some endeavors as valuable while dismissing others as failures. The key insight is that innovative work often involves betting on uncertain outcomes, with success only becoming apparent in hindsight. This perspective encourages us to reevaluate how we assess risk in scientific and intellectual pursuits, suggesting that what appears as 'craziness' today might be tomorrow's revolutionary breakthrough.",
-    "summary_zh": "这篇文章挑战了我们对天才的认知，揭示了历史叙事如何掩盖了突破性工作的风险本质。通过聚焦牛顿在物理学、炼金术和神学上的多元探索，作者揭示了常规智慧如何事后将某些尝试标记为有价值，而贬低其他为失败。核心洞见在于创新工作常涉及对不确定结果的投注，成功往往为后人所见。这一视角促使我们重新评估科学与智力追求中的风险，暗示今日看似荒诞的探索可能是明日革命性突破。",
-    "best_quote_en": "Maybe the smartness and the craziness were not as separate as we think.",
-    "best_quote_zh": "也许智慧与疯狂并不像我们想的那样截然分离。"
-  },
-  {
-    "id": 212,
-    "title": "Give Me Your Data: The Rationalist Mind Meld",
-    "title_zh": "给我你的数据：理性主义者的心灵融合",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
-    "tags": [
-      "solve",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The article explores the concept of 'Rationalist mind meld' as a more effective way to resolve disagreements than traditional logical arguments. It argues that most disagreements stem from differences in intuitions shaped by different data exposures rather than pure logic. The author suggests sharing the underlying data that formed one's beliefs, rather than engaging in logical debates, as a means to foster better understanding. This approach acknowledges that beliefs are often formed through exposure to diverse information sources rather than through pure reasoning. The article uses examples from online discussions and references to the Rationalist community's concept of cruxes to illustrate how this method can lead to more meaningful dialogue and mutual understanding.",
-    "summary_zh": "这篇文章探讨了“理性主义者心灵融合”的概念，认为它比传统的逻辑争论更有效地解决分歧。文章指出，大多数分歧源于不同的直觉，而这些直觉是由不同的数据曝光形成的，而不是纯粹的逻辑。作者建议分享形成自己信念的基础数据，而不是进行逻辑辩论，以促进更好的理解。这种方法承认，信念往往是通过接触各种信息源形成的，而不是通过纯粹的推理。文章通过在线讨论的例子和对理性主义者社区中“核心分歧”概念的引用，说明了这种方法如何促进更有意义的对话和相互理解。",
-    "best_quote_en": "If you spot a logical error in my thinking, then please point it out. But short of that, among mostly-rational people, I think most disagreements come down to a difference of intuitions, which are rooted in a difference in the data people have been exposed to.",
-    "best_quote_zh": "如果你发现我的思维有逻辑错误，请指出来。但除此之外，在大多数理性的人中，我认为大多数分歧归结为直觉的差异，而这些直觉源于人们接触到的数据不同。"
-  },
-  {
-    "id": 213,
-    "title": "Shohei Ohtani and the Los Angeles Dodgers Are a Sight to Behold",
-    "title_zh": "大谷翔平与洛杉矶道奇队令人叹为观止",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/shohei-ohtani-and-the-dodgers-are-a-sight-to-behold",
-    "tags": [
-      "update",
-      "ai-research",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-18",
-    "summary_en": "This article beautifully captures the awe-inspiring presence of Shohei Ohtani and the Los Angeles Dodgers' dominance in baseball. It delves into Ohtani's extraordinary talent, both as a hitter and pitcher, and how his struggles at the plate didn't hinder the team's success due to their depth of talent. The piece also explores the broader implications of payroll disparities in baseball, challenging the narrative that high spending guarantees success. It highlights the Dodgers' unique ability to develop and utilize talent effectively, making them a symbol of excellence rather than just a financial juggernaut. The article's insight into the human aspects of the game, such as Ohtani's grace and Mookie Betts' infectious charm, adds a compelling layer to the analysis.",
-    "summary_zh": "本文生动描绘了大谷翔平的超凡魅力及道奇队在棒球界的统治力。文章探讨了大谷作为击球手和投手的非凡才能，以及尽管他击球表现不佳，道奇队仍能凭借深厚阵容取得成功。文中还深入分析了棒球界薪资差距的问题，挑战了高薪必然带来胜利的说法。道奇队独特的才能开发与利用能力使其成为卓越的象征而非单纯的财力巨无霸。文章对棒球运动人性化的描写，如大谷的优雅和贝茨的魅力，为分析增添了动人层次。",
-    "best_quote_en": "You can’t love baseball and not stand in awe watching perhaps the greatest player who has ever lived.",
-    "best_quote_zh": "你不可能热爱棒球却不为或许是有史以来最伟大的球员而惊叹。"
-  },
-  {
-    "id": 214,
-    "title": "Reflections",
-    "title_zh": "反思",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reflections",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-01-06",
-    "summary_en": "Sam Altman's reflections on OpenAI's journey offer profound insights into the challenges and triumphs of pioneering AGI development. He highlights the rapid evolution from a quiet research lab to a global phenomenon, emphasizing the unpredictable nature of innovation. The piece candidly discusses governance failures, personal growth, and the importance of diverse perspectives in leadership. Altman's gratitude towards colleagues and supporters underscores the human element in technological advancement. The vision for superintelligence, while ambitious, is grounded in iterative safety and broad benefit-sharing principles. This reflection serves as both a personal memoir and a strategic roadmap for AI's future, blending technical ambition with ethical responsibility.",
-    "summary_zh": "Sam Altman对OpenAI发展历程的反思，揭示了人工智能发展的挑战与成就。从默默无闻的研究实验室到全球现象，他强调了创新的不可预测性。坦诚讨论了治理失败、个人成长和领导力中多元视角的重要性。对同事和支持者的感恩之情凸显了技术进步中的人文关怀。尽管超智能愿景宏大，但始终以迭代安全和广泛受益为基础。这既是个人回忆，也是AI未来的战略指南，将技术野心与伦理责任相结合。",
-    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.",
-    "best_quote_zh": "我们现在有信心按照我们传统的理解来构建AGI。我们相信，到2025年，我们可能会看到第一批AI代理加入工作队伍，并从根本上改变公司的产出。"
-  },
-  {
     "id": 215,
     "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
     "title_zh": "《卫报》关于分娩与医疗疏忽的观点：赔偿金上升凸显产科改进的紧迫性",
@@ -2342,5 +2222,125 @@
     "summary_zh": "本报告揭示了印度女性因AI深度伪造和'脱衣'应用而陷入的困境。这些技术被用于非法创作女性照片，导致心理创伤和社会污名化。高调案例表明，从法律到平台的应对措施仍显滞后。这不仅是技术问题，更暴露了性别暴力的新形式。面对AI技术的快速发展，我们需要重新思考数字安全的边界与责任。",
     "best_quote_en": "'The chilling effect is true,' says Rohini Lakshané. 'The fact that they can be so easily misused makes me extra cautious.'",
     "best_quote_zh": "罗希尼·拉克什内说:'冰冷效应确实存在。这些图片被滥用的可能性让人不得不加倍小心。'"
+  },
+  {
+    "id": 310,
+    "title": "Babies born to black mothers 81% more likely to die in neonatal care, NHS study shows",
+    "title_zh": "NHS研究显示，黑人母亲所生婴儿在新生儿护理中死亡风险增加81%",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/nov/04/babies-born-to-black-mothers-81-more-likely-to-die-in-neonatal-care-nhs-study-shows",
+    "tags": [
+      "analyze",
+      "society",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This groundbreaking NHS study reveals alarming disparities in neonatal mortality rates based on ethnicity and socioeconomic status. The research, analyzing over 700,000 births, found that babies born to black mothers face an 81% higher risk of death before discharge compared to white mothers, with Asian mothers also experiencing elevated risks. Socioeconomic factors compound these disparities, with babies from the most deprived areas facing a 63% higher mortality risk. The study underscores the need for systemic changes in healthcare delivery and broader social conditions affecting maternal and infant health. Experts call for urgent action to address these inequalities, emphasizing the need for culturally sensitive care and investment in healthcare infrastructure. This research adds to growing evidence of racial disparities in healthcare outcomes, highlighting systemic biases that persist despite societal progress.",
+    "summary_zh": "这项 NHS 研究揭示了新生儿死亡率在种族和社会经济地位上的惊人差异。研究分析了超过70万例出生数据，发现黑人母亲所生婴儿在出院前死亡的风险比白人母亲高出81%，亚洲母亲所生婴儿的风险也有所增加。社会经济因素加剧了这些差异，来自最贫困地区的婴儿死亡风险增加了63%。该研究强调了需要在医疗服务和更广泛的社会条件方面进行系统性变革。专家呼吁采取紧急行动来解决这些不平等，强调需要文化敏感度的护理和医疗基础设施的投资。这一研究为种族在医疗结果中的差异提供了更多证据，凸显了尽管社会进步，但仍然存在的系统性偏见。",
+    "best_quote_en": "'Socioeconomic and ethnic inequalities independently shape survival in neonatal units, and maternal and birth factors explain only over half of the socioeconomic and ethnic inequalities.' - Samira Saberian, lead author",
+    "best_quote_zh": "“社会经济和种族不平等独立地影响新生儿重症监护病房的存活率，而母亲和分娩因素仅能解释超过一半的社会经济和种族不平等。” —— 主要作者萨米拉·萨贝里安"
+  },
+  {
+    "id": 311,
+    "title": "The Fatal Pinch",
+    "title_zh": "致命挤压",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pinch.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "The 'fatal pinch' describes a critical phase in startups where they have sufficient cash but are burning through it without meaningful revenue growth. Founders often delude themselves about securing additional funding, but investors have higher expectations for existing companies. The situation becomes self-reinforcing as founders delay profitability, making future funding even harder to obtain. The article advises treating each funding round as the last, and if already in the pinch, to either shut down, cut expenses (including firing underperforming staff), or increase revenues through alternative means. The key insight is that startups should pivot to more immediately profitable activities, even if it means temporary consulting work, to ensure survival. The piece offers practical, albeit harsh, advice for startups facing financial distress, emphasizing the importance of ruthless decision-making to avoid a slow, inevitable decline.",
+    "summary_zh": "致命挤压指初创公司在濒临破产前的关键阶段，尽管银行账户有余款，但每月亏损严重且收入增长乏力。创始人往往高估融资概率，但投资者对已融资公司期望更高。这种情况会自我强化，推迟盈利反而降低融资机会。文章建议将每轮融资视为最后一笔，若已陷入困境，需选择关闭公司、削减开支或增加收入。关键在于灵活转型，即使通过临时咨询业务也要确保生存。这篇文章提供了务实但严厉的建议，强调在财务困境中必须做出无情决策，避免缓慢衰败的命运。",
+    "best_quote_en": "The company is now starting to read as a failure. The first time it raised money, it was neither a success nor a failure; it was too early to ask. Now it's possible to ask that question, and the default answer is failure, because at this point that is the default outcome.",
+    "best_quote_zh": "公司现在开始被视为失败。第一次融资时，它既不是成功也不是失败；那时还为时过早。现在可以问这个问题了，而默认答案是失败，因为在这一点上，失败是默认结果。"
+  },
+  {
+    "id": 312,
+    "title": "The Mess at the BBC Will Never End",
+    "title_zh": "BBC的混乱将永无止境",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-uk/the-mess-at-the-bbc-will-never-end",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "The article delves into the ongoing crisis at the BBC, highlighting internal and external pressures threatening its credibility. A leaked memo from former adviser Michael Prescott exposed perceived biases in BBC's coverage of Trump, racial diversity, gender issues, and the Gaza war. The controversy escalated with high-profile resignations and political attacks, revealing deep-seated tensions between the broadcaster and its critics. The piece explores the BBC's struggle to maintain impartiality amid budget cuts, political interference, and public distrust. It raises questions about whether the current crisis stems from genuine concerns or a concerted effort to undermine the institution. The BBC's future hangs in the balance as it grapples with systemic challenges and existential threats to its funding model.",
+    "summary_zh": "文章深入分析了BBC持续的危机，揭示了内部和外部压力对其信誉构成的威胁。前顾问迈克尔·普雷斯科特泄露的备忘录揭露了BBC在报道特朗普、种族多样性、性别问题和加沙战争等问题上的偏见。争议随着高层辞职和政治攻击升级，揭示了广播公司与批评者之间的深层紧张关系。文章探讨了BBC在预算削减、政治干预和公众不信任的压力下，如何维持公正性。它提出了一个问题：当前的危机是出于真正的关切，还是试图破坏这一机构的蓄意努力。随着BBC应对系统性挑战和对其资金模式的生存威胁，其未来命运悬而未决。",
+    "best_quote_en": "It feels as if it’s a criticism which is designed to undermine the BBC as a whole.",
+    "best_quote_zh": "这看起来更像是旨在削弱BBC整体的批评。"
+  },
+  {
+    "id": 313,
+    "title": "What’s in my NOW? — Rob Ray",
+    "title_zh": "What’s in my NOW? — Rob Ray",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-rob-ray-2/",
+    "tags": [
+      "analyze",
+      "education",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "Rob Ray's 'What’s in my NOW?' offers a fascinating blend of practical tools and profound philosophical reflections. On the practical side, he shares his experiences with 3D printing, CAD tools, and gardening, highlighting accessible and reliable technologies. The mention of Bambu Labs A1 Mini 3D printers and Plasticity CAD tool provides valuable insights for educators and hobbyists alike. However, the most compelling part of the piece is the exploration of Drexciya, an Afrofuturist mythology that transforms historical trauma into a narrative of resilience and imagination. This dual focus on tangible tools and intangible inspiration makes the content particularly engaging. It challenges readers to think about how they can integrate both practical and visionary elements into their own lives.",
+    "summary_zh": "罗布·雷的《What’s in my NOW?》结合了实用工具和深刻的哲学思考。在实用层面，他分享了关于3D打印、CAD工具和园艺的经验，突出了易于获取和可靠的技术。提到的Bambu Labs A1 Mini 3D打印机和Plasticity CAD工具为教育工作者和爱好者提供了宝贵的见解。然而，文章最引人入胜的部分是探索Drexciya这一非洲未来主义神话，它将历史创伤转化为抗争和想象力的叙事。这种实用与启发并重的双重视角使内容特别引人深思，挑战读者如何在生活中融合实践与远见。",
+    "best_quote_en": "Drexciya is a mythic, Afrofuturist world imagined by Detroit’s electronic musicians, James Stinson and Gerald Donald, in the early 1990s. They envisioned an underwater kingdom born from the Middle Passage, where the unborn children of enslaved women threw or lost to the sea adapted to breathe underwater and created their own autonomous world.",
+    "best_quote_zh": "Drexciya是由底特律电子音乐人詹姆斯·斯蒂文森和杰拉尔德·唐纳德在1990年代初构想的一个神话般的非洲未来主义世界。他们想象了一个诞生于中途岛的水下王国，那里未出生的奴隶女性被扔进或失踪于大海的孩子们适应了水下呼吸，并创造了自己的自治世界。"
+  },
+  {
+    "id": 314,
+    "title": "Project Covalence",
+    "title_zh": "Project Covalence",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/project-covalence",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-06-16",
+    "summary_en": "Project Covalence emerges as a critical initiative to accelerate COVID-19 clinical trials, addressing a major bottleneck in the pandemic response. By collaborating with TrialSpark and Dr. Mark Fishman, the project offers comprehensive support for trials, including remote data collection, telemedicine, and logistical coordination. What makes this initiative particularly compelling is its focus on community and home-based trials, reducing the burden on overwhelmed healthcare systems. The creation of master protocols for platform studies further demonstrates its innovative approach to trial design. This project exemplifies how technology and strategic partnerships can dramatically improve the efficiency of medical research during global crises.",
+    "summary_zh": "Project Covalence是一个加速COVID-19临床试验的关键项目，解决疫情应对中的重要瓶颈。通过与TrialSpark和Fishman博士合作，该项目为试验提供全面支持，包括远程数据收集、远程医疗和后勤协调。项目特别关注社区和家庭基地试验，减轻医疗系统的负担。创建平台研究的主协议进一步展示了其创新的试验设计方法。该项目展示了技术和战略合作如何在全球危机中显著提高医学研究效率。",
+    "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials, which are usually time-consuming and cost tens to hundreds of millions of dollars, is one of the highest-leverage ways to get out of it faster.",
+    "best_quote_zh": "科学仍然是走出COVID-19危机的唯一途径。大幅提高临床试验效率，通常耗时且成本高昂，是加速走出危机的最高杠杆之一。"
   }
 ]
