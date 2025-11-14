@@ -1,121 +1,5 @@
 [
   {
-    "id": 215,
-    "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
-    "title_zh": "《卫报》关于分娩与医疗疏忽的观点：赔偿金上升凸显产科改进的紧迫性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "This Guardian editorial highlights the alarming rise in medical negligence cases in maternity care, with NHS payouts quadrupling in 20 years. The article examines systemic failures in maternity services, including poor staff collaboration, weak leadership, and inadequate staffing, which have led to preventable deaths and injuries. It critiques the government's response as insufficient, noting that agreed targets for reducing maternal and neonatal deaths are likely to be missed. The piece emphasizes that improving maternity care requires addressing complex factors like demographic changes and staff workloads, rather than relying on simplistic solutions. The editorial serves as a stark reminder of the urgent need for meaningful reform in this critical area of healthcare.",
-    "summary_zh": "《卫报》社论揭露英国产科服务存在系统性缺陷，医疗疏忽赔偿金20年增长4倍。分析指出，临床协作不足、领导力薄弱、人员配置不足等问题导致不可避免的死亡和伤害。对政府应对措施不足提出批评，强调产妇和新生儿死亡率减半目标可能无法实现。文章指出，提升产科服务需要综合考虑人口变化和工作量等复杂因素，而非简单方案。这一社论警示产科改革刻不容缓。",
-    "best_quote_en": "'Poor care is all-too-frequently tolerated as normal, and women are treated as an inconvenience'",
-    "best_quote_zh": "“差的护理常常被视为正常，而女性被当作麻烦”"
-  },
-  {
-    "id": 216,
-    "title": "How to Make Pittsburgh a Startup Hub",
-    "title_zh": "如何让匹兹堡成为创业中心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pgh.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "This insightful talk reveals Pittsburgh's untapped potential as a startup hub, leveraging its unique advantages like affordable housing, historic architecture, and a growing young population. The author argues that the city's food scene is a leading indicator of its appeal to 25-29 year olds - the demographic that fuels startup ecosystems. Unlike typical startup advice, the author emphasizes organic growth through cultural preservation and university excellence rather than forced innovation programs. The key insight is that Pittsburgh's path to becoming a tech hub mirrors its historic identity as a place of tolerance and pragmatic innovation. While investor capital remains a challenge, trends in affordable startup costs and remote funding options mitigate this hurdle.",
-    "summary_zh": "这篇演讲揭示了匹兹堡作为创业中心的潜力，利用其独特优势：经济适用的住房、历史建筑和不断增长的年轻人口。作者认为，食品场景是吸引25-29岁群体的先兆，而这一年龄段正是推动创业生态的核心力量。不同于常规的创业建议，作者强调通过文化保护和大学优势实现有机增长，而非强制推动创新项目。关键洞察在于匹兹堡成为科技中心的道路与其作为包容和务实创新之地的历史身份相符。尽管投资资本仍是挑战，但低成本创业和远程融资等趋势缓解了这一瓶颈。",
-    "best_quote_en": "The way to get innovation is not to aim for innovation but to aim for something more specific, like better batteries or better 3D printing.",
-    "best_quote_zh": "获得创新的方式不是追求创新本身，而是要专注于更具体的目标，比如更好的电池或更好的3D打印技术。"
-  },
-  {
-    "id": 217,
-    "title": "GPT-4o",
-    "title_zh": "GPT-4o",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/gpt-4o",
-    "tags": [
-      "solve",
-      "ai-research",
-      "ai-product",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "AI产品",
-      "未来预测"
-    ],
-    "date": "2024-05-13",
-    "summary_en": "The announcement of GPT-4o highlights two transformative aspects: democratizing access to advanced AI tools and introducing a revolutionary voice and video interface. OpenAI's commitment to providing world-class AI models for free aligns with their mission to create widespread benefits. The shift from creating AI applications themselves to enabling others to build amazing things represents an evolution in their business model. The new voice mode, described as the best computer interface ever, achieves human-level response times and expressiveness, making human-computer interaction feel natural. This advancement opens possibilities for personalized AI assistance and expanded capabilities. The announcement reflects both technical achievement and a vision for AI's future role in enhancing human productivity and interaction.",
-    "summary_zh": "GPT-4o的发布聚焦两大突破：让先进AI工具普惠大众和引入革命性的语音视频交互。OpenAI坚持提供顶级AI模型免费使用，体现其造福全人类的使命。从自建应用转向赋能他人创新，标志着商业模式的进化。新语音模式被誉为最佳计算机界面，实现了人类级响应速度和表达力，让人机交互变得自然流畅。这一突破预示着个性化AI助手和扩展功能的可能性。发布不仅展示技术成就，更呈现了AI赋能人类提升效率与互动的未来愿景。",
-    "best_quote_en": "Talking to a computer has never felt really natural for me; now it does.",
-    "best_quote_zh": "和电脑交流从未让我觉得自然；现在感觉到了。"
-  },
-  {
-    "id": 218,
-    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "title_zh": "蒂姆·费里斯秀访谈记录：尼克·科科纳斯和诺贝尔经济学奖得主理查德·塞勒——现实经济学、避免赢家诅咒、使用诱惑捆绑法以及对抗体制 (#830)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
-    "tags": [
-      "learn",
-      "economics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "经济金融",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "This podcast transcript offers a deep dive into behavioral economics through the conversation between Tim Ferriss, Nick Kokonas, and Nobel laureate Richard Thaler. Thaler, known for his contributions to behavioral economics, challenges traditional economic models that assume perfect rationality and selfishness. He highlights the limitations of these models, which often fail to account for human behavior in real-world scenarios. The discussion covers key concepts like loss aversion, the winner's curse, and the importance of fairness in economic decisions. Kokonas shares practical examples from his business ventures, demonstrating how behavioral economics principles can be applied to solve real-world problems. The conversation also touches on the replication crisis in psychology and the enduring relevance of behavioral economics anomalies. Thaler's new book, co-authored with Alex Imas, revisits these anomalies to see if they hold up under scrutiny. The podcast is a fascinating exploration of how understanding human behavior can lead to better economic theories and more effective business strategies.",
-    "summary_zh": "这段播客访谈记录通过蒂姆·费里斯、尼克·科科纳斯和诺贝尔经济学奖得主理查德·塞勒的对话，深入探讨了行为经济学。塞勒以行为经济学的贡献闻名，挑战了传统经济模型中关于人类理性和自私的假设。他指出，这些模型常常无法解释现实中的人类行为。讨论涵盖了损失厌恶、赢家诅咒和经济决策中的公平性等关键概念。科科纳斯分享了他从商业实践中获得的实例，展示了行为经济学原理如何解决现实问题。对话还触及心理学中的复制危机以及行为经济学异常现象的持久相关性。塞勒与阿莱克斯·伊马斯合著的新书重新审视这些异常现象，以检验它们是否经得起时间考验。这段播客是一场关于如何通过理解人类行为来改进经济理论和商业策略的精彩探索。",
-    "best_quote_en": "It might be the guys that are in that Uber for five grand, but even they are going to be a little pissed. But more importantly to Uber, if they did that — the thing is, at the time, when they would have these surges of 10X, they were not making any money off of that, it would be fleeting. So, they'd make a little bit of money just like if Nick had sold one dinner reservation for 10 grand. Yeah, he'd make 10 grand but he'd have thousands of people writing articles.",
-    "best_quote_zh": "也许那些坐着5000美元的Uber的人会有点生气。但更重要的对Uber来说，如果他们那样做了——当时，当他们出现10倍的涨价时，他们并没有从中赚到任何钱，只是昙花一现。他们可能赚到一点钱，就像尼克卖出一份1万美元的晚餐预订一样。是的，他会赚到1万美元，但会有成千上万的人写文章批评他。"
-  },
-  {
-    "id": 219,
-    "title": "2025年国庆假期能做的6件小事",
-    "title_zh": "2025年国庆假期能做的6件小事",
-    "source": "L先生说",
-    "link": "https://mp.weixin.qq.com/s/9tnmoYyMjZZeHEYRfkf-oA",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "This article offers a thoughtful guide to making the most of the upcoming National Day holiday by suggesting six meaningful activities. The author, who has been practicing this for years, emphasizes the importance of creating anticipation, reconnecting with one's body, engaging in deep conversations, experiencing awe through history, starting a personal memoir, and sharing insights online. Each activity is designed to bring joy, self-awareness, and connection, transforming the holiday into a period of personal growth rather than mere leisure. The article stands out for its practical advice and psychological insights, making it valuable for readers seeking to add depth to their holiday plans.",
-    "summary_zh": "文章为国庆假期提供六个充实生活的建议，从创建兴趣日历到重建身体感知，再到深度社交和历史体验，每个建议都蕴含深刻的心理洞察。作者通过这些活动引导读者在假期中寻找意义，超越普通休闲，实现自我成长。文章以亲切的语气分享个人实践，读来如沐春风，令人反思生活方式。",
-    "best_quote_en": "People are creatures that live in anticipation. Often, what makes us happy isn't just how we're doing in the moment, but what hopes we hold for the future.",
-    "best_quote_zh": "人是一种活在期待里的生物。许多时候，令我们感到开心和幸福的，其实不仅仅是当下过得如何，更重要的或许是对未来抱持着什么样的希望。"
-  },
-  {
     "id": 220,
     "title": "Pregnancy skincare products target women at a vulnerable time. Do any work or do they just stretch the truth? | Antiviral",
     "title_zh": "孕期护肤品在女性脆弱时刻锁定目标。它们真的有效还是在夸大其词？| 反病毒",
@@ -2342,5 +2226,121 @@
     "summary_zh": "Project Covalence是一个加速COVID-19临床试验的关键项目，解决疫情应对中的重要瓶颈。通过与TrialSpark和Fishman博士合作，该项目为试验提供全面支持，包括远程数据收集、远程医疗和后勤协调。项目特别关注社区和家庭基地试验，减轻医疗系统的负担。创建平台研究的主协议进一步展示了其创新的试验设计方法。该项目展示了技术和战略合作如何在全球危机中显著提高医学研究效率。",
     "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials, which are usually time-consuming and cost tens to hundreds of millions of dollars, is one of the highest-leverage ways to get out of it faster.",
     "best_quote_zh": "科学仍然是走出COVID-19危机的唯一途径。大幅提高临床试验效率，通常耗时且成本高昂，是加速走出危机的最高杠杆之一。"
+  },
+  {
+    "id": 315,
+    "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
+    "title_zh": "在喀什米尔山区独自生产的女性：森林中的诞生",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/nov/14/healthcare-kashmir-mountains-giving-birth-alone-gujjar-bakarwal-pastoralists-maternal-mortality",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This harrowing account sheds light on the perilous childbirth conditions faced by nomadic Gujjar and Bakarwal women in Kashmir's high mountain passes. The article reveals how these women, often pregnant during their seasonal migrations, must give birth in remote, unsanitary conditions without access to proper medical care. The piece highlights systemic healthcare failures, cultural practices like early marriage, and the critical role of traditional midwives. It also draws parallels with similar challenges faced by pastoralist women globally, offering a stark reminder of the maternal health disparities that persist in marginalized communities. The human stories make this an urgent call for mobile healthcare solutions and policy reforms.",
+    "summary_zh": "这个触目惊心的报道揭露了喀什米尔游牧民族古吉尔和巴卡瓦尔女性在高山迁徙途中面临的危险分娩条件。文章揭示了这些女性在偏远、卫生条件恶劣的地方分娩时，无法获得适当医疗照护的困境。它突出了体制性的医疗失败、早婚等文化习俗，以及传统助产士的关键作用。文章还与全球其他游牧女性面临的类似挑战进行了比较，为我们敲响了边缘群体中持续存在的产妇健康差距的警钟。这些人性化的故事呼吁着移动医疗解决方案和政策改革的迫切性。",
+    "best_quote_en": "We have only the knowledge passed down to us – no medicines, no doctor. If I fall sick, who will help these women?",
+    "best_quote_zh": "我们只有代代相传的知识——没有药物，没有医生。如果我生病或年老了，谁来帮助这些女性？"
+  },
+  {
+    "id": 316,
+    "title": "Mean People Fail",
+    "title_zh": "Why Mean People Fail",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mean.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This insightful essay explores the inverse correlation between meanness and success, particularly in startup ecosystems. The author observes that successful individuals in tech and academia tend to be kind rather than mean, attributing this to several factors. Mean people often engage in fights that limit their intellectual growth and ability to attract top talent. Successful startups win by innovating rather than attacking, and their founders are often driven by a desire to improve the world rather than purely financial motives. The piece argues that the nature of success is shifting from zero-sum games to idea-driven ventures, where kindness and collaboration are increasingly valuable. This historical shift suggests that meanness, which was once advantageous, is now a liability in many professional fields.",
+    "summary_zh": "这篇文章深入探讨了人性中的恶意与成功之间的逆相关性，特别是在创业生态系统中。作者观察到，科技和学术界的成功人士往往更为善良而非恶意，并归因于多个因素。恶意之人常常陷入争斗，限制了他们的智力发展和吸引顶尖人才的能力。成功的创业公司通过创新而非攻击取得胜利，其创始人往往是出于改善世界的愿望而非纯粹的财务动机。文章认为，成功的性质正从零和博弈转向以创意驱动的事业，善良与合作在许多职业领域中越来越有价值。这一历史性的转变表明，恶意，曾经是一种优势，现在却成了一个劣势。",
+    "best_quote_en": "Being mean makes you stupid. That's why I hate fights. You never do your best work in a fight, because fights are not sufficiently general.",
+    "best_quote_zh": "恶意会让你变得愚蠢。这就是我讨厌争斗的原因。在争斗中，你永远无法做到最好，因为争斗并不够全面。"
+  },
+  {
+    "id": 317,
+    "title": "The Epstein Scandal Is Now a Chronic Disease of the Trump Presidency",
+    "title_zh": "艾普斯坦丑闻已成为特朗普总统任期的慢性病",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-epstein-scandal-is-now-a-chronic-disease-of-the-trump-presidency",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "The Epstein scandal has evolved into a persistent political liability for Donald Trump, resurfacing with new vigor during his second term. Initially dismissed as a non-issue, the controversy has gained traction due to the administration's refusal to release Justice Department files, which has sparked conspiracy theories and political maneuvering. Recent document releases reveal Trump's name appears thousands of times, with emails suggesting ongoing ties and potential connections to Russian officials. The White House's damage control efforts have backfired, raising more questions than answers. This scandal, like a chronic disease, continues to afflict Trump's presidency, overshadowing his administration's achievements and fueling political turmoil within his own party.",
+    "summary_zh": "艾普斯坦丑闻已成为特朗普总统任期的慢性病，持续发酵并影响其政治前景。最初未引起重视，但因政府拒绝公开司法部档案，激发阴谋论和政治操弄。近期公布的文件显示特朗普名字出现数千次，邮件暗示两人关系未断，并可能与俄罗斯官员有联系。白宫的损害控制措施适得其反，引发更多质疑。这场丑闻如慢性病般困扰特朗普，掩盖其成就，并加剧其党内矛盾。",
+    "best_quote_en": "The scandal never seemed to stick politically to Trump—until recently, when Trump’s second-term Administration has given it a whole new life.",
+    "best_quote_zh": "这场丑闻从未对特朗普造成政治影响——直到最近，他的第二任期政府才让它重获新生。"
+  },
+  {
+    "id": 318,
+    "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
+    "title_zh": "美国机场混乱/新生活成本估算/亚马逊货柜取货",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/us-airport-mayhem-newlife-estimator-remote-locker-pickups/",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "This newsletter provides practical tips for travelers and expats navigating current challenges. The first piece warns about air travel disruptions due to the US government shutdown, advising alternative transportation and insurance. The second feature offers a useful tool for estimating living costs when relocating abroad, highlighting significant savings potential. A packing hack suggests combining travel with downsizing to reduce luggage. Lastly, it introduces Amazon's locker service as a convenient solution for nomads receiving packages in the US. The content is highly actionable, offering immediate solutions to common travel and relocation problems.",
+    "summary_zh": "这篇周报为旅行者和移民提供实用建议。首先警示美国政府停摆导致的航空混乱，建议考虑替代交通方式和投保。其次介绍一个估算海外生活成本的工具，凸显显著节省空间。提供轻装旅行的技巧，建议将旅行与减负结合。最后推荐亚马逊货柜服务，方便游牧者在美国收取包裹。内容极具实用价值，解决常见出行和移民难题。",
+    "best_quote_en": "If you’re going to get rid of something in your closet, like a pair of shoes, a shirt, or pants, then wear the item(s) on your next flight or pack them. Then ditch them after you’ve worn them a few times in the destination, lightening your load for the remainder or the return.",
+    "best_quote_zh": "如果你打算淘汰衣柜里的东西，比如一双鞋子、一件衬衫或一条裤子，不如在下次飞行时穿上或打包。抵达目的地后穿几次就丢弃，减轻返程的负担。"
+  },
+  {
+    "id": 319,
+    "title": "Idea Generation",
+    "title_zh": "创意产生",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/idea-generation",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2020-05-28",
+    "summary_en": "This article provides a deep dive into the crucial skill of idea generation for startup founders, emphasizing that having a continuous flow of ideas is essential for success. It highlights the importance of surrounding oneself with innovative, future-oriented individuals who embrace unconventional thinking. The author suggests focusing on major technological and societal shifts, identifying opportunities at the leading edge of change, and evaluating ideas based on their potential for massive success. The piece also stresses the importance of founder-company fit and the ability to recognize why an idea might initially seem bad but could ultimately be brilliant. The insights are equally applicable to AI development, showing the timeless nature of these principles.",
+    "summary_zh": "这篇文章深入探讨了创业者必须具备的创意产生能力，强调持续不断的创意流是成功的关键。文中指出，要与富有创新精神、面向未来的人物交往，接受非传统思维。作者建议关注重大技术和社会变革，识别变革前沿的机会，并以潜在成功的可能性评估创意。文章还强调了创始人与公司的契合度，以及辨别初看不佳但可能卓越的创意的能力。这些见解同样适用于AI开发，显示了这些原则的永恒价值。",
+    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
+    "best_quote_zh": "最好的想法很脆弱；大多数人甚至不愿谈论它们，因为它们听起来很愚蠢。"
   }
 ]
