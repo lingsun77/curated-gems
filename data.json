@@ -1,53 +1,5 @@
 [
   {
-    "id": 225,
-    "title": "We were on the brink of a big bush revival - then Kim K released her pubic hair thong | Coco Khan",
-    "title_zh": "我们正处于一场大规模毛发复兴的边缘——然后金·卡戴珊发布了她的阴毛丁字裤 | 科科·卡恩",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/21/big-bush-revival-kim-kardashian-pubic-hair-thong",
-    "tags": [
-      "update",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "Coco Khan's piece offers a sharp critique of the beauty industry's commodification of natural body features, using Kim Kardashian's faux pubic hair thong as a case study. The article explores the tension between the burgeoning body positivity movement and the industry's relentless profit motives. Khan argues that while we may be witnessing a potential revival of natural pubic hair, products like Skims' thong actually perpetuate the same problematic beauty standards they claim to challenge. The piece highlights how celebrity influence, particularly Kardashian's, shapes global beauty norms and questions whether genuine body acceptance is possible within our current capitalist framework. It's a thought-provoking examination of how natural body features become yet another commodity in the beauty industry's endless pursuit of profit.",
-    "summary_zh": "科科·卡恩的文章尖锐批判了美容行业如何将自然身体特征商品化，以金·卡戴珊的假阴毛丁字裤为例。文章探讨了身体正念运动与行业利益之间的张力。卡恩认为，尽管我们可能正见证自然阴毛的复兴，但斯金斯的产品实际上延续了相同的有问题的审美标准。文章凸显了名人影响力如何塑造全球审美规范，并质疑在资本主义框架内是否可能实现真正的身体接受。这是对自然身体特征如何成为美容行业无休止的盈利追求中又一商品的深刻思考。",
-    "best_quote_en": "The beauty industry has mastered selling us back an ersatz version of our own nature for enormous profit.",
-    "best_quote_zh": "美容行业已经掌握了以巨额利润将我们自己的天然本性以仿制品形式卖回给我们的技巧。"
-  },
-  {
-    "id": 226,
-    "title": "Economic Inequality",
-    "title_zh": "经济不平等",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ineq.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This essay challenges conventional wisdom about economic inequality by dissecting its multiple causes and questioning simplistic solutions. The author, a startup founder, argues that while some aspects of inequality stem from harmful practices like tax loopholes, others arise from wealth creation through innovation and entrepreneurship. The piece critiques the tendency to treat inequality as a monolithic issue, highlighting that startup founders' success contributes to inequality but also drives technological progress. It warns against policies that would stifle innovation by preventing wealth creation, suggesting instead that society should focus on addressing root causes of poverty and lack of social mobility rather than inequality itself.",
-    "summary_zh": "这篇文章挑战了关于经济不平等的传统观点，分析其多重成因并质疑简单的解决方案。作者作为创业者，认为不平等的部分源于有害行为如税收漏洞，部分源于创新和创业创造的财富。文章批评将不平等视为单一现象的倾向，指出创业成功者的财富增长虽然加剧了不平等，但也推动了技术进步。它警告说，阻碍创业的政策可能扼杀创新，建议社会应关注解决贫困和社会流动性问题的根源，而非直接针对不平等本身。",
-    "best_quote_en": "The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
-    "best_quote_zh": "关于经济不平等最常见的错误是将其视为单一现象。"
-  },
-  {
     "id": 227,
     "title": "The Real Target of Trump’s War on Drug Boats",
     "title_zh": "特朗普打击毒品船只的真正目标",
@@ -2340,5 +2292,53 @@
     "summary_zh": "这份分析呈现了两本截然不同的书籍，通过不同视角提供深刻见解。《只有必要的》是对查尔斯·舒尔茨《花生漫画》的精心策展，通过罕见文物和深思熟虑的策展展示了这部经典连环漫画的演变。它揭示了舒尔茨",
     "best_quote_en": "Necessary can also mean everything: every line needed to show the characters’ feelings and reactions, every word needed to express the artist’s vision, every single thing needed to show why we still need Charlie Brown, Snoopy, Linus, and Lucy now, and for many years to come.",
     "best_quote_zh": "必要也可以意味着一切：每一条线条都需要表达角色的感受和反应，每一个词语都需要表达艺术家的愿景，每一件事物都需要展示为什么我们仍然需要查理·布朗、史努比、林纳斯和露西现在，以及未来许多年。"
+  },
+  {
+    "id": 325,
+    "title": "Diagonalization: A (slightly) more rigorous model of paranoia",
+    "title_zh": "对角化：一种（稍微）更严谨的偏执模型",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rmkbneSMQHZJ5Svbk/diagonalization-a-slightly-more-rigorous-model-of-paranoia",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "This article delves into the concept of 'diagonalization' as a model for understanding paranoia in adversarial environments. The author explores three core strategies for dealing with more competent adversaries: self-blinding, eliminating deception sources, and acting unpredictably. The piece critically examines the limitations of these strategies in real-world scenarios and discusses how the model might be refined. The author's personal engagement with the topic is evident, particularly in their search for a more accessible term than 'diagonalization' to describe this complex concept. The article blends theoretical rigor with practical insights, making it valuable for those interested in decision-making under adversity.",
+    "summary_zh": "文章深入探讨了“对角化”这一概念，作为理解敌对环境中偏执行为的模型。作者提出了三种核心策略：自我盲化、消除欺骗来源和行为不确定化。文章批判性地分析了这些策略在现实中的局限性，并讨论了如何完善这一模型。作者对该主题的个人参与尤为明显，特别是他们寻找一个比“对角化”更易于理解的术语。这篇文章将理论严谨性与实用见解相结合，对那些在敌对环境中做决策的人具有价值。",
+    "best_quote_en": "The best you can do is to operate on a minimax strategy where you take actions assuming your opponent is playing strictly optimally against you.",
+    "best_quote_zh": "你能做的最好的就是采用最小化最大损失策略，假设你的对手正在以最佳方式对抗你而采取行动。"
+  },
+  {
+    "id": 326,
+    "title": "The Mystery of the Political Assassin",
+    "title_zh": "政治刺客的谜团",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "This essay explores the complex nature of political assassinations, arguing that their outcomes often diverge wildly from their perpetrators' intentions. Through historical examples like Gavrilo Princip and Yitzhak Rabin's assassins, the author examines how assassinations become symbols that outlive their immediate causes. The piece highlights the shift from organized political violence to individual acts driven by personal grievances and online radicalization. It also critiques the public's tendency to project meaning onto these acts, as seen in the case of Luigi Mangione's assassination of a healthcare CEO. The analysis suggests that while assassinations may gain symbolic significance, meaningful change requires organized social movements rather than isolated violent acts.",
+    "summary_zh": "这篇文章探讨了政治刺杀的复杂本质，指出其结果往往与刺客的初衷相去甚远。通过格里尔·普林西普和拉宾刺客等历史案例，作者分析了刺杀如何演变为超越其直接动机的象征。文中强调了政治暴力从组织化行动转向个人行为的转变，这些行为常由个人怨恨和网络激进化驱动。同时，文章批评了公众将意义投射到这些行为上的倾向，如卢伊吉·曼吉奥内刺杀医疗CEO的案例。分析表明，尽管刺杀可能获得象征意义，但真正的变革需要有组织的社会运动，而非孤立的暴力行为。",
+    "best_quote_en": "The problem with most revolutionary acts is that the message is lost on normies. What do you do? You wack the CEO at the annual parasitic bean-counter convention. It's targeted, precise, and doesn't risk innocents.",
+    "best_quote_zh": "大多数革命行为的问题在于，普通人无法理解其信息。你该怎么做？在每年那个寄生虫式的财务分析师大会上干掉CEO。这是精准、有效的，而且不会伤及无辜。"
   }
 ]
