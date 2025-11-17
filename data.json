@@ -1,27 +1,5 @@
 [
   {
-    "id": 227,
-    "title": "The Real Target of Trump’s War on Drug Boats",
-    "title_zh": "特朗普打击毒品船只的真正目标",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-real-target-of-trumps-war-on-drug-boats",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "This article delves into the Trump administration's recent military actions against suspected drug traffickers in the Caribbean, raising serious questions about the true motivations behind these strikes. While justified as counter-narcotics operations, the evidence suggests these actions are more about political posturing and domestic messaging than effective drug interdiction. The piece highlights the lack of concrete evidence linking the targeted vessels to significant drug trafficking, the political motivations in Florida's Venezuelan community, and the dangerous escalation of military action in the region. The analysis also reveals internal administration conflicts over Venezuela policy, with hardliners like Marco Rubio and Stephen Miller pushing for aggressive actions. The broader implications for U.S. relations with Latin America and the potential for wider conflict are deeply concerning, as these actions could set dangerous precedents for executive power and military intervention.",
-    "summary_zh": "这篇文章揭露了特朗普政府近期在加勒比海对所谓毒品走私船只的军事行动背后的真实动机。虽然被宣称为缉毒行动，证据显示这些行为更多是政治表演和国内宣传。文中指出，针对的船只与大规模毒品走私的关联证据薄弱，而佛罗里达州的委内瑞拉社区政治因素在其中扮演重要角色。分析还揭示了政府内部关于委内瑞拉政策的激烈争论，鲁比奥和米勒等强硬派推动激进行动。这些军事行动对美洲国家关系和区域稳定的更广泛影响令人担忧，可能为行政权力扩张和军事干预树立危险先例。",
-    "best_quote_en": "This is basically U.S. propaganda through force. This is not a counter-narcotics mission. It's using a ten-ton truck to kill an ant.",
-    "best_quote_zh": "这实际上是通过武力进行的美国宣传。这不是反毒行动。这就像用十吨重的卡车去杀一只蚂蚁。"
-  },
-  {
     "id": 228,
     "title": "A Wild Swan / The Creative Cottage",
     "title_zh": "野天鹅与创意小屋：重新诠释经典与生活美学",
@@ -2340,5 +2318,27 @@
     "summary_zh": "这篇文章探讨了政治刺杀的复杂本质，指出其结果往往与刺客的初衷相去甚远。通过格里尔·普林西普和拉宾刺客等历史案例，作者分析了刺杀如何演变为超越其直接动机的象征。文中强调了政治暴力从组织化行动转向个人行为的转变，这些行为常由个人怨恨和网络激进化驱动。同时，文章批评了公众将意义投射到这些行为上的倾向，如卢伊吉·曼吉奥内刺杀医疗CEO的案例。分析表明，尽管刺杀可能获得象征意义，但真正的变革需要有组织的社会运动，而非孤立的暴力行为。",
     "best_quote_en": "The problem with most revolutionary acts is that the message is lost on normies. What do you do? You wack the CEO at the annual parasitic bean-counter convention. It's targeted, precise, and doesn't risk innocents.",
     "best_quote_zh": "大多数革命行为的问题在于，普通人无法理解其信息。你该怎么做？在每年那个寄生虫式的财务分析师大会上干掉CEO。这是精准、有效的，而且不会伤及无辜。"
+  },
+  {
+    "id": 327,
+    "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
+    "title_zh": "36岁时冻卵，我希望自己提前知道的一切",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
+    "tags": [
+      "analyze",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "This deeply personal account offers a candid look at the egg freezing process, addressing both the practical and emotional aspects. The author highlights the importance of understanding egg freezing as part of the IVF journey, not a guaranteed path to parenthood. Key insights include the necessity of thorough clinic research, the impact of age on success rates, and the often overlooked logistical challenges like scheduling and physical side effects. The article also debunks common misconceptions, such as the belief that supplements significantly improve outcomes, and warns against clinics that oversell their services. Most importantly, it emphasizes the emotional toll and the need for support networks. The piece serves as both a practical guide and a thoughtful reflection on modern fertility choices.",
+    "summary_zh": "这篇文章深入剖析了冻卵过程的实际和情感两方面，作者强调需要将冻卵视为试管婴儿的第一步，而非保证怀孕的方法。关键点包括选择诊所的重要性、年龄对成功率的影响，以及常被忽视的时间安排和身体反应等实践问题。文章还纠正了补充剂显著提高成功率的误解，并警惕过度营销的诊所。尤其值得注意的，是对情感影响的探讨和支持网络的建议。这既是一份实用指南，也是对当代生育选择的深刻思考。",
+    "best_quote_en": "'It gives you another option to try to become a parent using your own genetic material, but in no way does it guarantee that will happen.'",
+    "best_quote_zh": "它为你提供了用自身遗传物质尝试成为父母的另一种选择，但绝不保证能实现。"
   }
 ]
