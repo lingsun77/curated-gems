@@ -1,123 +1,5 @@
 [
   {
-    "id": 228,
-    "title": "A Wild Swan / The Creative Cottage",
-    "title_zh": "野天鹅与创意小屋：重新诠释经典与生活美学",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/a-wild-swan-the-creative-cottage/",
-    "tags": [
-      "solve",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "This analysis presents two distinct works that reimagine traditional concepts through creative lenses. A Wild Swan offers a literary exploration of fairy tales with modern, often subversive perspectives. Michael Cunningham's reworking of classic stories through different viewpoints and narrative techniques challenges conventional happy endings, offering instead nuanced, sometimes darker reflections on human nature. The collaboration with Yuko Shimizu's exquisite illustrations elevates the work to an art object, blending contemporary storytelling with timeless visual aesthetics. Meanwhile, The Creative Cottage transforms the idea of small-space living into an art form. The book showcases 13 uniquely rehabilitated cottages, each a testament to creative vision and resourcefulness. The detailed descriptions of upcycled and repurposed elements invite readers to see everyday objects in new ways, inspiring creativity in personal living spaces. Both works demonstrate how established forms can be revitalized through innovative approaches, offering valuable insights for writers, designers, and anyone seeking inspiration in reinvention.",
-    "summary_zh": "这两部作品以不同方式重新诠释了经典与生活美学。《野天鹅》通过现代视角解构童话故事，迈克尔·坎宁安用独特叙事颠覆传统结局，揭示人性复杂面。与石泽夕子的精美插画结合，使作品兼具文学与艺术价值。而《创意小屋》则将小空间改造升华为艺术，展示了13座充满创意的小屋，每一处回收利用的元素都体现着主人的独特视野。两部作品均证明创新能赋予传统形式新生命，为作家、设计师及追求创新者提供宝贵启发。",
-    "best_quote_en": "'End of story. 'Happily ever after' fell on everyone like a guillotine's blade.'",
-    "best_quote_zh": "故事结束。'从此快乐地生活在一起'像断头台的刀刃般砍向所有人。"
-  },
-  {
-    "id": 229,
-    "title": "Helion Needs You",
-    "title_zh": "Helion 需要你",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion-needs-you",
-    "tags": [
-      "solve",
-      "economics",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2022-07-13",
-    "summary_en": "Helion's rapid progress in fusion energy represents a potential paradigm shift in global power generation. The company's ambitious goals—achieving Q > 1 fusion and designing mass-producible generators by 2024—could revolutionize the energy landscape with clean, ultra-low-cost electricity. The implications are profound: 1 cent per kilowatt-hour energy could transform industries, elevate global living standards, and enable scalable carbon capture. However, Helion now faces critical engineering and operational challenges that demand exceptional talent. The article highlights the pivotal role of skilled professionals in scaling this technology, emphasizing that the company's success hinges on attracting top engineers and managers to tackle complex manufacturing, infrastructure, and global deployment challenges.",
-    "summary_zh": "Helion在核聚变能源领域的快速进展可能将彻底改变全球能源格局。该公司在2024年实现Q>1聚变和设计可批量生产的发电机的目标极具挑战性，但一旦成功，将带来清洁、超低成本的电力。这一突破可能重塑产业格局，提升全球生活水平，并实现大规模碳捕获。然而，Helion目前面临着关键的工程和运营挑战，需要顶尖人才。文章强调，吸引优秀的工程师和管理者解决复杂的制造、基础设施和全球部署问题，将是公司成功的关键。",
-    "best_quote_en": "Abundant, clean, and radically inexpensive energy will elevate the quality of life for all of us",
-    "best_quote_zh": "丰富、清洁且极其低廉的能源将提升我们所有人的生活质量"
-  },
-  {
-    "id": 230,
-    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
-    "title_zh": "看到公众视野中的孕妇很棒——但她们必须都这么美吗？| 科科·卡汉",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
-    "tags": [
-      "solve",
-      "ai-research",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "Coco Khan critiques the fashion industry's portrayal of pregnancy, questioning why only glamorous, thin models like Victoria's Secret's Jasmine Tookes are showcased. She argues that while representation matters, the industry often perpetuates unrealistic beauty standards by only featuring 'hot mums' with picture-perfect pregnancies. Khan reflects on the physical and mental transformations of pregnancy, suggesting more authentic portrayals could benefit women's body image. The piece blends personal experience with cultural commentary, challenging brands' empowerment messaging while acknowledging the complexity of media representation.",
-    "summary_zh": "科科·卡汉批评时尚行业对孕妇形象的塑造，质疑为何只有像维多利亚的秘密模特贾斯汀·图克斯这样的完美女性才能被展示。她认为虽然代表性重要，但行业往往通过只展示",
-    "best_quote_en": "I’d have hoped that by now we would have learned that we need more than just images of hot mums – glamorous, rich, thin women whose pregnancies appear to be just convenient little bumps.",
-    "best_quote_zh": "我本希望我们已经明白，现在需要的不仅仅是漂亮妈妈的形象——那些光鲜、富有、苗条的女性，她们的孕期看起来只是方便的小肚子。"
-  },
-  {
-    "id": 231,
-    "title": "The Refragmentation",
-    "title_zh": "重新碎片化",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/re.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This essay explores the phenomenon of societal and economic fragmentation, arguing that the mid-20th century's cohesion was an anomaly driven by World War II and the rise of large corporations. The author suggests that the current trend toward fragmentation is a return to normalcy, driven by the erosion of these historical forces. The analysis delves into how war and corporate structures created economic and social uniformity, and how their decline has led to increased polarization, cultural divergence, and economic inequality. The author warns against attempting to recreate mid-century cohesion, as it was a product of unique historical circumstances. Instead, they advocate for addressing the consequences of fragmentation rather than trying to reverse it.",
-    "summary_zh": "这篇文章探讨了社会和经济碎片化的现象，认为中世纪的凝聚力是由二战和大型企业的崛起所驱动的异常现象。作者认为，当前的碎片化趋势是回归常态，是由这些历史力量的消退所驱动的。分析深入探讨了战争和企业结构如何创造了经济和社会的统一性，以及它们的衰落如何导致了日益严重的两极分化、文化差异和经济不平等。作者警告不要尝试重现中世纪的凝聚力，因为它是独特的历史环境的产物。相反，他们主张解决碎片化的后果，而不是试图逆转它。",
-    "best_quote_en": "The day of combination is here to stay. Individualism has gone, never to return.",
-    "best_quote_zh": "组合的时代已经到来，个体主义一去不复返。"
-  },
-  {
-    "id": 232,
-    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
-    "title_zh": "保护家园免受灾难性火灾的新范式",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
-    "tags": [
-      "solve",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This article explores the complex science behind wildland-urban interface fires and challenges conventional wisdom about fire protection. The National Institute of Standards and Technology (NIST) has identified over 50 ways homes can ignite, requiring comprehensive hardening measures. The article reveals that firefighter actions often save homes more than construction choices, and embers from distant fires can be more dangerous than advancing flames. The piece highlights the limitations of current building codes and the need for community-wide fire prevention efforts. It presents both the daunting reality of complete retrofitting and the practical challenges homeowners face in implementing these measures, offering a nuanced look at the future of fire prevention strategies.",
-    "summary_zh": "这篇文章探讨了野地-城市交界处火灾的复杂科学，挑战了关于火灾防护的传统观念。国家标准与技术研究院（NIST）识别出了超过50种房屋起火的方式，需要全面的加固措施。文章揭示，消防员的行动往往比建筑选择更能拯救房屋，远处火灾的火星可能比推进的火墙更危险。它突显了现行建筑法规的局限性以及需要社区共同努力的火灾预防。文章同时呈现了全面翻新的沉重现实和业主在实施这些措施时面临的实际挑战，为火灾预防战略的未来提供了深刻的洞察。",
-    "best_quote_en": "Fire doesn’t care about who owns what.",
-    "best_quote_zh": "火灾不关心谁拥有什么。"
-  },
-  {
     "id": 233,
     "title": "What’s in my NOW? — Aishwarya Goel",
     "title_zh": "我的现在是什么？ — 艾什瓦里娅·戈伊尔",
@@ -2340,5 +2222,125 @@
     "summary_zh": "这篇文章深入剖析了冻卵过程的实际和情感两方面，作者强调需要将冻卵视为试管婴儿的第一步，而非保证怀孕的方法。关键点包括选择诊所的重要性、年龄对成功率的影响，以及常被忽视的时间安排和身体反应等实践问题。文章还纠正了补充剂显著提高成功率的误解，并警惕过度营销的诊所。尤其值得注意的，是对情感影响的探讨和支持网络的建议。这既是一份实用指南，也是对当代生育选择的深刻思考。",
     "best_quote_en": "'It gives you another option to try to become a parent using your own genetic material, but in no way does it guarantee that will happen.'",
     "best_quote_zh": "它为你提供了用自身遗传物质尝试成为父母的另一种选择，但绝不保证能实现。"
+  },
+  {
+    "id": 328,
+    "title": "Untie me! Why big bows are everywhere – feminine, ironic and strangely subversive",
+    "title_zh": "解开我！为什么大蝴蝶结无处不在——女性化、讽刺且奇特地叛逆",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/18/big-bows-style-trend-feminine-ironic-strangely-subversive",
+    "tags": [
+      "guide",
+      "society",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This article explores the cultural phenomenon of oversized bows in fashion, examining their evolution from Victorian times to contemporary trends. The analysis reveals how bows have become a multifaceted symbol, representing both traditional femininity and modern subversion. The piece highlights the irony of bows as both demure and rebellious, worn by celebrities and athletes alike, while also discussing their psychological and social implications. The author argues that bows have transcended their decorative function to become a statement of identity and resistance, challenging gender norms and offering a playful yet powerful form of self-expression.",
+    "summary_zh": "本文探讨了大蝴蝶结在时尚中的文化现象，从维多利亚时代到当代趋势的演变。分析揭示了蝴蝶结如何成为多面象征，既代表传统女性气质又体现现代反叛。文章提到，蝴蝶结既可温婉又可反叛，被名人和运动员所穿戴，同时探讨了其心理和社会影响。作者认为，蝴蝶结超越了装饰功能，成为身份和抵抗的象征，挑战性别规范，以一种有趣而有力的方式表达自我。",
+    "best_quote_en": "The way bows are used today is often in contrast to something darker, a joyful element in a dark time.",
+    "best_quote_zh": "今天的蝴蝶结使用方式往往与黑暗事物形成对比，在黑暗时代成为欢乐的元素。"
+  },
+  {
+    "id": 329,
+    "title": "How to Raise Money",
+    "title_zh": "如何筹集资金",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fr.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This comprehensive guide to startup fundraising offers invaluable insights into the complex process of securing investment. It emphasizes the importance of understanding investor psychology, maintaining focus during the fundraising process, and strategically navigating the various phases of capital raising. The author stresses that fundraising is not an end in itself but a means to accelerate growth, and that founders should avoid becoming distracted by it. Key takeaways include the need to treat investors as saying 'no' until they unequivocally say 'yes,' the value of breadth-first search weighted by expected value, and the importance of closing committed money quickly. The guide also warns against the dangers of wishful thinking and the misleading tactics of some investors. Overall, it provides a practical and nuanced roadmap for founders seeking to navigate the challenging landscape of startup funding.",
+    "summary_zh": "这篇关于如何筹集资金的详细指南为初创公司提供了宝贵的洞察。它强调理解投资者心理、在筹资过程中保持专注以及战略性地规划资本筹集的不同阶段的重要性。作者指出，筹资不是目的，而是加速增长的手段，创始人应避免被其分散注意力。主要观点包括：在投资者明确表示同意之前，应将其视为拒绝；采用基于期望值的广度优先搜索；以及尽快落实承诺的资金。指南还警告说，盲目乐观和一些投资者的误导策略存在危险。总体而言，它为寻求在充满挑战的初创公司融资环境中开辟道路的创始人提供了一个实用且富有洞察力的路线图。",
+    "best_quote_en": "Don't raise money unless you want it and it wants you.",
+    "best_quote_zh": "除非你想要融资且融资也想要你，否则不要融资。"
+  },
+  {
+    "id": 330,
+    "title": "Coral",
+    "title_zh": "珊瑚",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/coral/",
+    "tags": [
+      "learn",
+      "society",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "This article explores the fascinating world of coral reefs and marine life through the lens of field guides and personal experiences. It highlights the alien-like diversity of underwater ecosystems, emphasizing how guides like Peterson's and Humann's work help both beginners and experts identify and appreciate marine species. The piece also delves into the hobby of creating natural reef aquariums, showcasing how amateur reefers contribute to our understanding of marine ecology. The inclusion of 'The Shape of Life' series further underscores the importance of taxonomic education in appreciating life's diversity. The author's personal awe and reverence for these ecosystems add a layer of emotional engagement, making the content both informative and inspiring.",
+    "summary_zh": "这篇文章通过野外指南和个人经历，探索了珊瑚礁和海洋生物的奇妙世界。它强调了海底生态系统的异域般多样性，并说明了像彼得森和哈曼这样的指南如何帮助初学者和专家识别和欣赏海洋物种。文章还深入探讨了创建自然珊瑚礁水族箱的爱好，展示了业余爱好者如何为我们对海洋生态的理解做出贡献。'生命的形态'系列的加入进一步强调了分类学教育在欣赏生命多样性中的重要性。作者对这些生态系统的个人敬畏之情，为内容增添了情感层面，使其既富有信息量又富有启发性。",
+    "best_quote_en": "Life is simply far stranger than we can imagine, and nowhere is that more evident than in the compressed diversity of a coral reef.",
+    "best_quote_zh": "生活比我们想象的要奇妙得多，而在珊瑚礁这种高度浓缩的多样性中，这一点表现得最为明显。"
+  },
+  {
+    "id": 331,
+    "title": "Please Fund More Science",
+    "title_zh": "请为科学研究提供更多资金",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/please-fund-more-science",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2020-03-30",
+    "summary_en": "The article highlights three potential pathways to normalize life post-COVID-19: vaccine development, effective treatments, or robust public health measures. The author criticizes the federal government's insufficient funding for R&D and calls on investors and donors to support scientific efforts. Notably, the piece emphasizes the unprecedented speed and focus of biotech companies and research labs in tackling the pandemic. It positions scientific innovation as the key to overcoming the crisis and urges financial support to accelerate progress. The author also suggests this moment will be transformative, requiring sustained investment in pandemic preparedness.",
+    "summary_zh": "文章提出了三种可能的路径来使生活在新冠疫情后恢复正常：疫苗研发、有效治疗方法，或严格的公共卫生措施。作者批评联邦政府对科研的资助不足，呼吁投资者和捐赠者支持科学研究。尤其值得注意的，作者强调了生物技术公司和研究机构在应对疫情时前所未有的速度和专注。文中将科学创新视为战胜疫情的关键，呼吁提供资金以加速进展。作者还认为，这一时刻将带来变革，需要持续投资于疫情防范。",
+    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
+    "best_quote_zh": "科学家能够帮助我们摆脱困境。他们需要的是资金和人脉。"
+  },
+  {
+    "id": 332,
+    "title": "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+    "title_zh": "精华：呼吸对心理与身体健康和表现的重要性 | 杰克·费尔德曼博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-breathing-mental-physical-health-performance-jack-feldman",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "This episode with Dr. Jack Feldman delves into the fascinating science of breathing, revealing how our breath patterns influence both mental and physical states. Feldman explains the neural circuits behind breathing and how different techniques can reduce anxiety, enhance emotional resilience, and even improve cognitive performance. The discussion goes beyond theory, offering practical tools like box breathing and insights into supplements like magnesium L-threonate. The episode bridges neuroscience with actionable health practices, making it valuable for those seeking to optimize their well-being through scientifically validated methods. Feldman's expertise transforms complex biological processes into understandable concepts, empowering listeners to harness the power of breath in their daily lives.",
+    "summary_zh": "费尔德曼博士深入探讨呼吸的科学原理，揭示呼吸模式如何影响心理和身体状态。他解释了呼吸背后的神经回路，以及不同呼吸技巧如何减轻焦虑、增强情绪韧性并提升认知表现。内容超越理论，提供实用工具如方形呼吸法和关于镁盐补充剂的见解。该节目将神经科学与可操作的健康实践相结合，对希望通过科学验证的方法优化自身健康的人群非常有价值。费尔德曼将复杂的生物过程转化为易懂的概念，使听众能在日常生活中运用呼吸的力量。",
+    "best_quote_en": "Breathing patterns profoundly influence mental states, including their role in reducing anxiety and enhancing emotional resilience.",
+    "best_quote_zh": "呼吸模式深刻影响心理状态，包括减轻焦虑和增强情绪韧性方面的作用。"
   }
 ]
