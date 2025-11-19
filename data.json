@@ -1,125 +1,5 @@
 [
   {
-    "id": 233,
-    "title": "What’s in my NOW? — Aishwarya Goel",
-    "title_zh": "我的现在是什么？ — 艾什瓦里娅·戈伊尔",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "Aishwarya Goel shares her curated selection of essential tools that enhance her daily life, offering a glimpse into the practical innovations that shape her routine. From the Philips Signe Gradient Floor Lamp that adapts to her mood to the DASH Mini Maker Electric Griddle that revolutionizes her breakfast routine, these physical tools demonstrate how thoughtful design can elevate everyday experiences. Her digital tools, like MyNetDiary for health tracking and Bear Blog for writing, highlight the power of intuitive interfaces in maintaining consistency. The quote from James Dyson about excellence as the capacity to take pain adds a philosophical dimension, suggesting that her curated selections are not just about convenience but also about personal growth and resilience.",
-    "summary_zh": "艾什瓦里娅·戈伊尔分享了她日常生活中不可或缺的工具精选，展示了如何通过精心设计的创新提升日常体验。从能够根据情绪调节的飞利浦Signe渐变地灯，到改变早餐习惯的DASH迷你电圆形烤盘，这些物理工具展示了良好设计如何提升日常生活。她的数字工具，如用于健康追踪的MyNetDiary和用于写作的Bear Blog，凸显了直观界面在维持持续性方面的重要性。詹姆斯·戴森关于卓越是忍受痛苦能力的引用，为她的精选工具增添了哲学维度，暗示这些选择不仅仅是为了方便，更是为了个人成长和韧性。",
-    "best_quote_en": "Excellence is the capacity to take pain.",
-    "best_quote_zh": "卓越是忍受痛苦的能力。"
-  },
-  {
-    "id": 234,
-    "title": "DALL•E 2",
-    "title_zh": "DALL•E 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/dall-star-e-2",
-    "tags": [
-      "solve",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2022-04-06",
-    "summary_en": "The introduction of DALL•E 2 marks a significant milestone in AI-driven creativity tools. Beyond its impressive technical capabilities, the tool represents a shift towards natural language interfaces that could redefine human-computer interaction. The author's enthusiasm for its creativity-enhancing potential is balanced by thoughtful consideration of its societal impact, including potential job market disruptions and ethical implications. The research launch approach demonstrates a responsible strategy for deploying powerful AI technologies. This tool not only showcases AI's ability to understand and generate complex creative outputs but also challenges conventional wisdom about the progression of AI capabilities.",
-    "summary_zh": "DALL•E 2的推出标志着AI驱动的创意工具的重要里程碑。除了其令人印象深刻的技术能力，该工具代表了向自然语言界面的转变，这可能重新定义人机交互。作者对其创造力增强潜力的热情与对其社会影响的深刻思考相平衡，包括潜在的就业市场变化和伦理问题。研究发布的方式展示了部署强大AI技术的负责任策略。该工具不仅展示了AI理解和生成复杂创意输出的能力，还挑战了关于AI能力进展的传统智慧。",
-    "best_quote_en": "It’s a reminder that predictions about AI are very difficult to make. A decade ago, the conventional wisdom was that AI would first impact physical labor, and then cognitive labor, and then maybe someday it could do creative work. It now looks like it’s going to go in the opposite order.",
-    "best_quote_zh": "这提醒我们，关于AI的预测非常困难。十年前的常识是，AI首先会影响体力劳动，然后是认知劳动，也许有一天才能进行创造性工作。现在看来，它可能会以相反的顺序发展。"
-  },
-  {
-    "id": 235,
-    "title": "UK women in tech: we would like to hear from you",
-    "title_zh": "英国女性在科技领域：我们想听取您的意见",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "The Lovelace Report 2025, in collaboration with WeAreTechWomen, reveals alarming statistics about women leaving the UK tech sector, costing the economy billions annually. With only 20% of tech workers being women, the report identifies key reasons for attrition including lack of career advancement, inadequate recognition, and pay inequity. This analysis highlights systemic issues in tech industry culture and calls for action to retain and advance women in technology. The Guardian's initiative to collect personal experiences aims to humanize these statistics and drive meaningful change.",
-    "summary_zh": "洛夫莱斯报告2025与WeAreTechWomen合作，揭示英国科技行业女性流失情况严峻，每年造成数十亿英镑经济损失。仅20%的科技从业者是女性，报告指出职业发展受阻、认可不足和薪酬不平等是主要原因。这一分析揭示了科技行业文化中的深层问题，呼吁采取行动留住并提升女性。卫报收集个人经历的倡议，旨在为这些数据注入人性化视角，推动实质性变革。",
-    "best_quote_en": "An estimated £1.4 billion to £2.2 billion is lost every year from women leaving the industry",
-    "best_quote_zh": "每年有14亿至22亿英镑因女性离开行业而流失"
-  },
-  {
-    "id": 236,
-    "title": "Jessica Livingston",
-    "title_zh": "杰西卡·利文斯顿",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/jessica.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This piece reveals the often overlooked but pivotal role of Jessica Livingston in shaping Y Combinator (YC). While YC is often associated with its public-facing founder, the article argues that Jessica's unique qualities were instrumental in creating YC's distinctive culture and success. Her exceptional ability to judge character, dubbed the 'Social Radar,' was crucial in selecting founders who were not just promising but also good people, fostering a remarkable alumni network. The article explores how her aversion to attention and conflict, while sometimes working against her public recognition, actually contributed to YC's authenticity and values. It highlights the irony that her most significant contributions often go unnoticed, and calls for greater acknowledgment of her role in understanding and nurturing startup founders. This is a thoughtful examination of how personal qualities shape organizational culture and success.",
-    "summary_zh": "这篇文章揭示了杰西卡·利文斯顿在塑造Y Combinator（YC）过程中所发挥的关键作用。尽管YC常与其公开形象的创始人联系在一起，但文章指出杰西卡的独特品质才是构建YC独特文化和成功的核心。她的",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 237,
-    "title": "Guys I might be an e/acc",
-    "title_zh": "也许我是一个e/acc",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/QchxwZbk8f5t2uaKX/guys-i-might-be-an-e-acc",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This thought-provoking analysis challenges the consensus around AI pause arguments presented in 'If Anyone Builds It, Everyone Dies' (IABIED). The author, identifying as potentially an 'effective accelerationist' (e/acc), applies personal estimates to the AI timeline and probability of existential risk to question whether an AI pause is justified. Through detailed 'napkin math,' they calculate the trade-offs between immediate human lives lost during a pause versus the potential reduction in existential risk. The piece explores the author's values regarding the importance of humanity's long-term future, questioning whether preventing distant existential risks should take precedence over near-term human suffering. The analysis concludes with a personalized calculator to help others evaluate their stance based on their own values and assumptions, emphasizing the subjective nature of this complex ethical dilemma.",
-    "summary_zh": "这篇深刻的分析质疑了《如果任何人构建它，所有人都会死亡》（IABIED）中关于AI暂停的共识观点。作者可能是一个“有效加速主义者”（e/acc），通过应用个人对AI时间线和存在风险概率的估计，质疑AI暂停是否值得。通过详细的“草纸计算”，他们权衡了暂停期间人类立即死亡与潜在存在风险降低之间的权衡。文章探讨了作者对人类长期未来重要性的价值观，质疑是否应该优先于近期人类痛苦来预防遥远的存在风险。分析以一个个性化计算器结束，帮助他人根据自己的价值观和假设评估立场，强调了这一复杂伦理困境的主观性。",
-    "best_quote_en": "If we pause AI, then based on my estimates, we’ll see an extra 200 million deaths, and the chances of humanity ceasing to exist is halved from 10% to 5%. Is that worth it? That depends on your values.",
-    "best_quote_zh": "根据我的估计，如果我们暂停AI，将会多出2亿人死亡，人类灭绝的几率从10%降至5%。这值得吗？这取决于你的价值观。"
-  },
-  {
     "id": 238,
     "title": "Andrew Cuomo’s Long Goodbye",
     "title_zh": "安德鲁·库默的漫长告别",
@@ -2342,5 +2222,125 @@
     "summary_zh": "费尔德曼博士深入探讨呼吸的科学原理，揭示呼吸模式如何影响心理和身体状态。他解释了呼吸背后的神经回路，以及不同呼吸技巧如何减轻焦虑、增强情绪韧性并提升认知表现。内容超越理论，提供实用工具如方形呼吸法和关于镁盐补充剂的见解。该节目将神经科学与可操作的健康实践相结合，对希望通过科学验证的方法优化自身健康的人群非常有价值。费尔德曼将复杂的生物过程转化为易懂的概念，使听众能在日常生活中运用呼吸的力量。",
     "best_quote_en": "Breathing patterns profoundly influence mental states, including their role in reducing anxiety and enhancing emotional resilience.",
     "best_quote_zh": "呼吸模式深刻影响心理状态，包括减轻焦虑和增强情绪韧性方面的作用。"
+  },
+  {
+    "id": 333,
+    "title": "‘You definitely felt disposable’: models – one 27, one 62 – discuss Botox, weight loss, creativity and the threat of AI",
+    "title_zh": "“你一定觉得自己被轻视”：一位27岁、一位62岁的模特聊瓷肌针、减肥、创造力与AI的威胁",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/04/you-definitely-felt-disposable-models-one-27-one-62-discuss-botox-weight-loss-creativity-and-the-threat-of-ai",
+    "tags": [
+      "analyze",
+      "education",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This insightful interview with models Dee O and Danielle Mareka reveals the stark realities behind the glamorous facade of the modeling industry. The conversation spans decades, highlighting how the profession has evolved with technology and societal changes. Key insights include the mental health challenges models face, the industry's slow progress on diversity and body representation, and the emerging threats from AI and weight-loss drugs. The discussion also touches on the power dynamics and predatory behavior that persist despite movements like #MeToo. What stands out is the models' resilience and their advice to build identities beyond modeling, emphasizing that while the profession offers unique opportunities, it's not without significant personal costs.",
+    "summary_zh": "这篇对话揭示了模特行业背后的残酷现实，从1980年代到当代，模特们面临的挑战和行业变革。两位模特分享了职业的高光与阴暗面，从AI模特到减肥针，从种族代表性到心理健康压力，行业的问题层出不穷。尽管有进步，但性剥削、身材压力等问题依然存在。她们的经历提醒我们，模特职业虽诱人，但需要建立超越职业的自我认同。",
+    "best_quote_en": "When you join the worker council at Model Alliance, they have you sign something just to let you know that getting dropped by your agent because of your connection to the organisation is a possibility.",
+    "best_quote_zh": "当你加入模特联盟工会时，他们会让你签一份文件，提醒你可能因为与组织的关联而被经纪人解约。"
+  },
+  {
+    "id": 334,
+    "title": "How M.B.S. Won Back Washington",
+    "title_zh": "M.B.S. 如何重新赢得华盛顿的支持",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-saudi-arabia-won-back-washington",
+    "tags": [
+      "learn",
+      "politics",
+      "economics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "经济金融",
+      "深度分析"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The article explores the remarkable rehabilitation of Saudi Crown Prince Mohammed bin Salman (M.B.S.) in Washington, particularly after the controversial Khashoggi murder. Despite initial international condemnation, M.B.S. has successfully rebuilt his reputation through strategic investments in sports and aligning with U.S. energy interests, especially after Russia's invasion of Ukraine. The piece delves into the complex Saudi-American relationship, highlighting how both the Biden and Trump administrations have re-embraced M.B.S., driven by economic interests and geopolitical considerations. The interview with F. Gregory Gause reveals M.B.S.'s efforts to modernize Saudi Arabia while maintaining authoritarian control, his cautious foreign policy approach post-Khashoggi, and the nuanced dynamics with Israel, Iran, and regional allies. The analysis underscores the intersection of personal and national interests in U.S.-Saudi relations, raising questions about the future of nonproliferation policies and the sustainability of this renewed partnership.",
+    "summary_zh": "文章探讨了沙特王储穆罕默德·本·萨勒曼（M.B.S.）在华盛顿的形象重塑之路，尤其在哈沙吉事件后。尽管最初受到国际谴责，M.B.S.通过投资体育和与美国能源利益的战略对齐，在乌克兰危机后成功恢复了声誉。采访中，F. Gregory Gause揭示了M.B.S.推动沙特现代化的同时维持专制统治，在哈沙吉事件后调整外交政策，以及与以色列、伊朗和地区盟友的复杂关系。分析凸显了美国与沙特关系中个人与国家利益的交织，并质疑未来核不扩散政策和这一新伙伴关系的可持续性。",
+    "best_quote_en": "The word that best describes what he wants is one that he’s used, which is that he wants Saudi Arabia to be a normal country.",
+    "best_quote_zh": "最能描述他愿望的词，也是他自己使用的，就是他希望沙特成为一个正常的国家。"
+  },
+  {
+    "id": 335,
+    "title": "The Creative Architect / How to Talk to Girls at Parties",
+    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The Creative Architect revisits a fascinating 1958-59 study of mid-century architects, revealing insights into creativity through psychological testing. While it doesn't offer practical creativity recipes, it provides an inspiring historical perspective on creative minds. How to Talk to Girls at Parties is a clever graphic novel adaptation of Neil Gaiman's story, blending humor and sci-fi to explore adolescent awkwardness in social situations. Both works offer unique perspectives on human behavior and creativity, though in very different contexts. The architect study provides historical depth, while Gaiman's work offers contemporary social commentary through fantasy.",
+    "summary_zh": "《创意建筑师》回顾了1958-59年对中世纪建筑师的心理学研究，揭示了创造力的独特见解。虽然它没有提供实用的创造力食谱，但为创造性头脑提供了富有启发的历史视角。这本关于如何在派对上与女孩交谈的图画小说是尼尔·盖曼故事的巧妙改编，将幽默和科幻结合起来，探索了社交场合中的青少年尴尬。这两部作品从不同的角度提供了对人类行为和创造力的独特见解。建筑师研究提供了历史深度，而盖曼的作品则通过幻想提供了当代社会评论。",
+    "best_quote_en": "'What propels creativity is the unfettered expression of the self'",
+    "best_quote_zh": "推动创造力的动力是自我无拘束的表达"
+  },
+  {
+    "id": 336,
+    "title": "Funding for COVID-19 Projects",
+    "title_zh": "新冠项目资助",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
+    "tags": [
+      "analyze",
+      "medicine",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2020-03-15",
+    "summary_en": "This post highlights a unique funding initiative targeting COVID-19 startups, focusing on practical engineering solutions like ventilator production and novel therapeutic approaches. The author's hands-on approach in seeking specific expertise for viral challenge testing demonstrates a proactive stance. The content reveals a gap in traditional funding methods and emphasizes the importance of unconventional solutions in pandemic response. It serves as both a call to action for innovators and a reminder of the critical need for grassroots support in crisis situations.",
+    "summary_zh": "这篇文章介绍了一项针对新冠项目的资助计划，重点关注通风设备生产等实用工程解决方案和创新疗法。作者通过寻求特定专业知识进行病毒挑战测试展现了积极主动的态度。内容揭示了传统资助方法的不足，强调了在疫情应对中非传统解决方案的重要性。既是对创新者的号召，也是危机中基层支持的关键提醒。",
+    "best_quote_en": "I think we will soon have enough testing capacity, so now I’d like to start funding more startups working on novel approaches to vaccines and therapeutics.",
+    "best_quote_zh": "我认为我们很快会有足够的检测能力，现在我想开始资助更多从事新型疫苗和治疗方法的初创企业。"
+  },
+  {
+    "id": 337,
+    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+    "title_zh": "如何构建你的思维并如何塑造它们 | 詹妮弗·格罗医生",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
+    "tags": [
+      "solve",
+      "psychology",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Dr. Jennifer Groh's discussion on how our brains integrate sights and sounds to shape thoughts offers profound insights into cognitive function and personal development. She reveals that focusing on specific stimuli can rewire neural circuits, influencing both immediate and future thought patterns. The conversation extends to practical applications for improving focus, happiness, and task management, highlighting tools like bone conduction headphones and mental interval training. Groh's exploration of sensory integration and attention mechanics provides a scientific foundation for understanding and enhancing cognitive processes, making this content invaluable for those seeking to optimize their mental performance and well-being.",
+    "summary_zh": "詹妮弗·格罗医生探讨大脑如何整合视觉和听觉以塑造思维，揭示专注特定刺激可重塑神经回路，影响当下及未来的思维模式。对话延伸至提升专注力、幸福感和任务管理的实用方法，强调骨传导耳机等工具。她对感官整合与注意力机制的深入探讨，为理解和优化认知过程提供了科学依据，对希望提升心理表现和幸福感的读者极具价值。",
+    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
+    "best_quote_zh": "你关注的事物决定了你的思维，不仅是当下，更影响未来的思考方向。"
   }
 ]
