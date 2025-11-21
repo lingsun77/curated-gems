@@ -1,125 +1,5 @@
 [
   {
-    "id": 240,
-    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
-    "title_zh": "每次出门，我首先想到的就是我的前额：接受头发移植的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
-    "tags": [
-      "solve",
-      "psychology",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This article explores the growing trend of women undergoing hair transplants, a procedure once primarily associated with men. It delves into the psychological and societal pressures that drive women to seek this solution, highlighting the unique challenges they face due to differing patterns of hair loss and societal beauty standards. The piece also examines the risks and ethical concerns surrounding the procedure, including the prevalence of botched jobs and the lack of regulation in the industry. It's a thought-provoking look at how beauty standards and the quest for perfection can impact mental health and self-perception, particularly among women.",
-    "summary_zh": "这篇文章探讨了越来越多女性选择接受头发移植手术的现象，这一手术曾主要面向男性。它深入分析了推动女性寻求这一解决方案的心理和社会压力，突出了她们因不同的脱发模式和社会美容标准面临的独特挑战。该文还检视了该手术的风险和伦理问题，包括劣质手术的普遍性和行业监管缺失。这是一篇发人深省的文章，揭示了美容标准和完美追求如何影响心理健康和自我认知，尤其是对女性而言。",
-    "best_quote_en": "It's just societal pressure. Where once we were obsessed with straight teeth, now it’s the perfect hairline.",
-    "best_quote_zh": "这只是社会压力。我们曾经痴迷于牙齿整齐，现在则是完美的发际线。"
-  },
-  {
-    "id": 241,
-    "title": "A Way to Detect Bias",
-    "title_zh": "A Way to Detect Bias",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/bias.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This article presents a fascinating methodology for detecting bias in selection processes without knowing details about the applicant pool. The core insight is that bias can be identified when certain groups must perform better to be selected, leading to higher performance among selected members of that group. The author illustrates this with venture capital data showing female-founded startups outperforming others, suggesting the VC selection process may be biased. This technique's power lies in its objectivity and potential to uncover hidden biases across various domains where performance metrics exist. The author predicts increased use of this method as data availability grows, offering a powerful tool for analyzing and improving fairness in selection processes.",
-    "summary_zh": "这篇文章介绍了一种检测选择过程中的偏见的方法，无需了解申请者池的具体信息。核心观点是，如果某些群体需要更优秀才能被选中，那么该群体中被选中的成员表现会更好。作者以风投数据为例，显示女性创办的初创公司表现优于其他公司，暗示风投的选择过程可能存在偏见。该方法的价值在于其客观性和在各种有性能指标的领域中揭示隐藏偏见的潜力。作者预测，随着数据可用性的增加，这种方法将被更广泛使用，为分析和改善选择过程的公平性提供强大工具。",
-    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
-    "best_quote_zh": "这不仅仅是一种检测偏见的启发式方法。这是偏见的本质。"
-  },
-  {
-    "id": 242,
-    "title": "Musings on Reported Cost of Compute (Oct 2025)",
-    "title_zh": "关于报告的计算成本思考（2025年10月）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This analysis provides a detailed breakdown of the complex economics behind AI compute infrastructure, revealing how costs can be reported in vastly different ways depending on perspective. The author examines capital expenditures (capex) for infrastructure and hardware, operational expenses, and contract structures, highlighting how a $300bn contract might actually represent just 5 GW of capacity. The piece challenges common assumptions about Nvidia's dominance in GPU costs, suggesting non-Nvidia hardware might not be significantly cheaper. Looking ahead to 2026, the analysis predicts substantial increases in both compute capacity and model sizes, with implications for Mixture of Experts (MoE) models and computational efficiency. The author's deep dive into these financial and technical considerations offers valuable insights for anyone navigating the economics of AI infrastructure.",
-    "summary_zh": "这篇分析详细拆解了AI计算基础设施背后的复杂经济学，揭示了成本报告方式的多样性。作者探讨了基础设施和硬件的资本支出、运营费用和合同结构，指出3000亿美元的合同可能仅代表5 GW的容量。文章挑战了关于英伟达GPU成本主导地位的常见假设，认为非英伟达硬件可能并不便宜很多。展望2026年，分析预测计算容量和模型规模将大幅增加，对混合专家（MoE）模型和计算效率有深远影响。作者对这些财务和技术考量的深度分析，为任何涉足AI基础设施经济的人士提供了宝贵见解。",
-    "best_quote_en": "Thus a $300bn contract might mean about 5 GW of total capacity, while a $27bn datacenter site could simultaneously mean 2 GW of total capacity.",
-    "best_quote_zh": "因此，3000亿美元的合同可能意味着大约5 GW的总容量，而270亿美元的数据中心站点同时可能意味着2 GW的总容量。"
-  },
-  {
-    "id": 243,
-    "title": "Tales from Toddlerhood",
-    "title_zh": "幼儿期的趣事",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/10/toddler.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This humorous and insightful piece explores the paradoxes of toddler parenting with sharp observations and self-deprecating wit. The author shares eight revelations about toddler behavior that range from endearing to exasperating, capturing the unique challenges and joys of this developmental stage. With illustrations that enhance the comedic effect, the article offers a relatable look at the absurdities of toddler logic, the intensity of their personalities, and the universal experience of parenting judgment. It's a refreshing mix of personal anecdotes and universal truths that will resonate with any parent who's navigated the toddler years.",
-    "summary_zh": "文章以幽默的笔触探讨了育儿过程中幼儿期的各种悖论，作者通过八个发现揭示了幼儿行为的矛盾之处。从孩子既令人着迷又让人无聊的矛盾性，到幼儿独特的世界观，再到育儿观念的多样性，内容既真实又充满智慧。这种亲子互动的独特体验，让每个经历过幼儿期的家长都能深有体会。",
-    "best_quote_en": "If you’re walking down the street and an elephant flies down from the sky, hovers ten feet above you and says hello in a silly cartoon voice before flying off, would you be like 'OH MY GOD WHAT JUST HAPPENED' or would you shrug and be like 'I guess that’s something that happens'?",
-    "best_quote_zh": "如果你走在街上，突然有只大象从天而降，悬停在你十英尺上方用滑稽的卡通声音向你打招呼后飞走，你会像‘哦我的天发生了什么’还是会耸耸肩说‘算了，这应该是正常的吧’？"
-  },
-  {
-    "id": 244,
-    "title": "Retro Recomendo: Science",
-    "title_zh": "Retro Recomendo: 科学",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-science/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "This 'Retro Recomendo' issue is a clever revival of past recommendations, focusing on science. It highlights evergreen resources that remain valuable years after their initial publication. The selections span from visual explanations of cutting-edge research to classic science education books, showing how different mediums can make complex topics accessible. What's particularly noteworthy is the blend of modern digital tools (like the 4D app) with timeless print resources, demonstrating that great educational content transcends format. The inclusion of NASA's citizen science projects also underscues the democratization of science, making it participatory rather than just observational. This issue exemplifies how quality science communication can bridge generations and engage diverse audiences.",
-    "summary_zh": "这期“Retro Recomendo”精选了过去九年最有价值的科学推荐内容，展示了优质教育资源的经典魅力。从视觉化的前沿研究到经典科学教育书籍，再到NASA的公民科学项目，这些资源跨越了数字和印刷格式，证明了优质科学传播的持久价值。值得关注的是，这些推荐不仅让复杂概念变得易于理解，还鼓励读者参与科学探索，展现了科学传播的多样性与包容性。",
-    "best_quote_en": "Doug is a regular-guy geologist who draws his own graphics with pencil, and carries his own camera as he trudges across the landscape, giving the big picture of what has happened to shape the land, and how that shapes the culture on it.",
-    "best_quote_zh": "道格是一个普通的地质学家，他用铅笔自己画图，带着自己的相机跋涉在土地上，向我们展示了塑造这片土地的历史，以及它如何影响这里的文化。"
-  },
-  {
     "id": 245,
     "title": "Write Like You Talk",
     "title_zh": "像说话一样写作",
@@ -2344,5 +2224,123 @@
     "summary_zh": "这篇文章分享了六种提升学习效率的方法，这些方法在作者的终身学习过程中产生了显著影响。策略强调主动参与，如参与式学习让大脑积极处理信息，以及培养动手检索的习惯以建立有价值的信息渠道。作者提倡在不同学科间切换以刷新大脑，并留出时间让大脑放空处理信息。此外，利用碎片时间进行回忆和梳理，以及采用以自我为中心的学习方式，主动寻求解决个人问题的答案。这些方法实用且基于认知科学，为希望提升学习效率的人提供了可行的见解。",
     "best_quote_en": "The process of learning is not about the information you acquire, but the thoughts and reflections it inspires in your mind.",
     "best_quote_zh": "学习的过程中，你学到的东西其实不是最重要的，你脑海中产生的想法和思考，才是最重要的。"
+  },
+  {
+    "id": 340,
+    "title": "Petrolette: women in motorcycle culture – in pictures",
+    "title_zh": "Petrolette：女性摩托车文化——图片展",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2025/nov/20/petrolette-women-in-motorcycle-culture-in-pictures",
+    "tags": [
+      "update",
+      "society",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Lucia Braham's decade-long documentation of women in motorcycle culture reveals a vibrant, supportive community that challenges traditional gender norms. Her work captures the camaraderie, empowerment, and adventure that define this subculture, from female-only events like Dream Roll to grassroots initiatives like Sheila's Shakedown. The photographs not only showcase technical skill but also tell stories of personal growth, community building, and the sheer joy of riding. Braham's project transcends mere documentation, becoming a testament to female resilience and the power of shared passion. It invites viewers to reconsider preconceptions about motorcycle culture and appreciate its inclusive, empowering aspects.",
+    "summary_zh": "卢西亚·布拉姆通过10年的拍摄记录，揭示了女性摩托车文化中充满活力的支持性社群。她的作品捕捉到了女性独有的摩托车营地、自发组织的活动以及骑行乐趣。这些照片不仅展现了技术技巧，更讲述了个人成长、社群建设和骑行带来的快乐。布拉姆的项目超越了单纯记录，成为女性韧性和共同热情力量的见证，挑战了对摩托车文化的传统认知。",
+    "best_quote_en": "'This is a female-only motorcycle camp out in Washington State, USA. I took a risk and attended the first one the year before, not knowing a single person. I left that year with lifelong friendships.'",
+    "best_quote_zh": "“这是美国华盛顿州的女性独有摩托车露营活动。我冒险参加了前一年的第一届，当时我不认识任何人。但那一年我离开时带走了终生的友谊。”"
+  },
+  {
+    "id": 341,
+    "title": "Investor Herd Dynamics",
+    "title_zh": "投资者群体效应",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/herd.html",
+    "tags": [
+      "inspire",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "This insightful essay explores the fascinating dynamics of investor herd mentality in startup funding. The author reveals how investor opinions are significantly influenced by other investors' opinions, creating exponential growth potential but also potential pitfalls. Key insights include how fundraising success makes startups better investments by reducing risk and increasing valuation, how founder confidence impacts investor perception, and the challenges of dealing with mediocre investors who follow the herd. The piece offers practical advice on navigating these dynamics, including how to handle investor inquiries about other offers without manipulation. It's a must-read for founders seeking to understand the psychological and practical aspects of startup funding.",
+    "summary_zh": "这篇文章深入剖析了创投融资中的投资者群体效应。作者揭示了投资者决策如何受他人影响，既带来指数级增长潜力，也潜藏风险。核心观点包括融资成功如何降低风险并提升估值，创始人自信如何影响投资者判断，以及如何应对跟风投资者的挑战。文章提供了实用建议，教创业者在维护谈判诚信的同时应对投资者提问。对希望理解创投心理学和实战策略的创业者非常有价值。",
+    "best_quote_en": "The biggest component in most investors' opinion of you is the opinion of other investors.",
+    "best_quote_zh": "大多数投资者对你的评价中，最大的组成部分是其他投资者的评价。"
+  },
+  {
+    "id": 342,
+    "title": "Dick Cheney’s Long, Strange Goodbye",
+    "title_zh": "迪克·切尼的漫长告别",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/dick-cheneys-long-strange-goodbye",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "This article offers a profound reflection on the political schisms of our time through the lens of Dick Cheney's funeral. The presence of figures like Rachel Maddow alongside Washington elites underscores the bizarre alliances forged in Trump's America. Cheney's legacy remains deeply contentious, yet his opposition to Trump unites diverse political figures. The article contrasts Cheney's principled stance against Trump with his own controversial history, particularly the Iraq War. The funeral becomes a microcosm of our polarized politics, where even in death, Cheney's choices continue to divide. The juxtaposition of Trump's violent rhetoric on social media with the solemn funeral service creates a stark commentary on the state of American democracy. The piece ultimately questions what we remember and why, in an era where political realities seem to defy historical precedent.",
+    "summary_zh": "这篇文章通过迪克·切尼的葬礼，深刻反映了当今政治的分裂。雷切尔·马多在场这一奇景，凸显了特朗普时代怪异的政治联盟。切尼的遗产仍然充满争议，但他反对特朗普的立场却团结了各方政治人物。文章将切尼反特朗普的立场与他本人争议重重的历史，尤其是伊拉克战争，形成鲜明对比。葬礼成了我们政治分裂的缩影，即使在切尼去世后，他的选择仍在继续撕裂我们。特朗普在社交媒体上发出的暴力言论与肃穆的葬礼礼仪形成强烈对比，成为对美国民主现状的尖锐评述。文章最终质问：在政治现实似乎颠覆历史常识的时代，我们究竟记得什么，又为什么记住？",
+    "best_quote_en": "\"He can never be trusted with power again,\" the former Vice-President warned when he endorsed Harris.",
+    "best_quote_zh": "前副总统在支持哈里斯时警告说：“他永远不能再被赋予权力。”"
+  },
+  {
+    "id": 343,
+    "title": "Pricier Mexican Residency/SteriPEN Ultralight/Expat Issue Discussions",
+    "title_zh": "墨西哥居留许可费用翻倍/便携式紫外线消毒器SteriPEN/数字游民讨论",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/pricier-mexican-residency-steripen-ultralight-expat-issue-discussions/",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "This article offers a mix of practical travel advice and social commentary on expat life. The discussion about Mexico's residency fee increases highlights the financial implications for Americans seeking to relocate, while the SteriPEN recommendation provides a sustainable solution for safe water consumption. The podcast segment offers valuable insights into the realities of digital nomad life, and the piece on problematic expats serves as a cautionary tale about cultural adaptation. Together, these sections create a compelling narrative about the challenges and considerations of international relocation and long-term travel.",
+    "summary_zh": "本文结合了实用旅行建议与海外生活的社会评论。墨西哥居留费用上涨的讨论凸显了美国人移居的财务影响，SteriPEN的推荐则提供了安全饮水的可持续解决方案。播客部分深入探讨了数字游民生活的真实情况，而关于不良外籍人士的内容则是文化适应的警示故事。这些片段共同构成了关于国际迁移与长期旅行挑战的引人深思的叙事。",
+    "best_quote_en": "Some people really aren’t meant to move abroad. Some want to shut the door behind them, keeping out 'the others.'",
+    "best_quote_zh": "有些人根本不适合移居海外。有些人想关上身后的门，把'其他人'拒之门外。"
+  },
+  {
+    "id": 344,
+    "title": "The Virus",
+    "title_zh": "病毒",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-virus",
+    "tags": [
+      "solve",
+      "medicine",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2020-03-07",
+    "summary_en": "This piece offers a sobering perspective on the COVID-19 pandemic, emphasizing its potential global impact and serving as a wake-up call for future preparedness. The author highlights the need for societal changes, both temporary and permanent, while warning about the fragility of our economic systems. The advice to young people to avoid infection underscores the collective responsibility in preventing the spread. Most intriguing is the framing of COVID-19 as a 'warm-up' for potentially worse pandemics, challenging us to rethink our global health infrastructure and emergency response capabilities.",
+    "summary_zh": "这篇文章以严肃的视角分析了COVID-19大流行的潜在全球影响，并将其视为未来做好准备的警示。作者强调了社会变革的必要性，包括临时和永久性的变化，同时警示我们经济体系的脆弱性。建议年轻人避免感染，凸显了集体责任在防止疫情传播中的重要性。最引人深思的是将COVID-19视为更严重大流行的前奏，挑战我们重新思考全球卫生基础设施和应急响应能力。",
+    "best_quote_en": "Covid-19 is bad, but only a warm-up. I think it’s unlikely that this is the worst new pandemic we’ll see in our lifetimes.",
+    "best_quote_zh": "COVID-19很严重，但只是预演。我认为这可能不是我们这一生中将要面对的最严重的新流行病。"
   }
 ]
