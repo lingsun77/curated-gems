@@ -1,121 +1,5 @@
 [
   {
-    "id": 245,
-    "title": "Write Like You Talk",
-    "title_zh": "像说话一样写作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/talk.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "新手友好"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This insightful piece argues for writing in conversational language to improve readability and engagement. The author critiques formal, complex writing styles that create unnecessary barriers between writer and reader. Through vivid examples, he demonstrates how informal language makes complex ideas more accessible. The article offers practical advice: write your first draft normally, then edit to match spoken language, or even explain your ideas to a friend and rewrite using that conversation. This approach not only makes writing more engaging but also helps writers avoid the illusion of depth created by complex syntax. The piece challenges the notion that formal writing is inherently better, suggesting instead that clarity and connection should be the primary goals.",
-    "summary_zh": "这篇文章提出了一个简单却有效的写作建议：用说话的方式写作。作者批评了正式、复杂的写作风格，认为它们制造了作者与读者之间的障碍。通过生动的例子，他展示了非正式语言如何使复杂的思想更易于理解。文章提供了实际建议：先写初稿，然后修改成对话式语言，或者向朋友解释你的想法，用那次对话重写。这种方法不仅使写作更具吸引力，还能帮助作者避免因复杂句式而产生的虚假深度。文章挑战了正式写作高于一切的观念，建议以清晰和联系为主要目标。",
-    "best_quote_en": "Informal language is the athletic clothing of ideas.",
-    "best_quote_zh": "非正式语言是思想的运动服装。"
-  },
-  {
-    "id": 246,
-    "title": "Seven-ish Words from My Thought-Language",
-    "title_zh": "七个从未存在的词语",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language",
-    "tags": [
-      "inspire",
-      "science",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This article presents a fascinating exploration of seven invented words that capture nuanced human experiences not easily expressed in English. The author highlights the semantic limitations of English and draws parallels with words from other languages like Korean and Lojban. Each word is meticulously defined with examples and cultural context, revealing universal human experiences that transcend linguistic barriers. The piece serves as both a linguistic curiosity and a thought-provoking reflection on communication, offering expert insight into cognitive psychology and philosophy of mind. It's a blend of creative linguistic exploration and deep intellectual engagement, inviting readers to reconsider how language shapes our perception of the world.",
-    "summary_zh": "这篇文章探讨了七个从未存在却应该存在的词语，揭示了英语表达上的局限性。作者以精妙的定义和生动的例子，展现了这些词语如何捕捉人类复杂的心理状态。从语言学角度看，这是一次创新的尝试；从哲学角度看，它揭示了语言与认知之间的深刻联系。这些词语不仅丰富了我们的表达工具，也提供了独特的视角来理解人类思维的复杂性。",
-    "best_quote_en": "To be tongue-tied not out of a lack of things to say, but out of an overabundance of mutually exclusive things to say, all of equal priority",
-    "best_quote_zh": "语塞不是因为无话可说，而是因为有太多互斥的想法，每个都同样重要"
-  },
-  {
-    "id": 247,
-    "title": "What if the Big Law Firms Hadn’t Caved to Trump?",
-    "title_zh": "如果大型律师事务所没有向特朗普妥协会怎样？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-if-the-big-law-firms-had-not-caved-to-trump",
-    "tags": [
-      "solve",
-      "politics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "深度分析"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This article explores a critical counterfactual: what if major U.S. law firms had resisted Trump's executive orders rather than quickly capitulating? The piece draws a powerful parallel to Marlon Brando's famous speech in 'On the Waterfront,' highlighting how the failure to protect institutions we owe a duty to has enabled Trump's erosion of legal norms. The author argues that law firms, which play a crucial role in upholding the legal system, had a unique responsibility to resist. Instead, firms like Paul, Weiss settled quickly, providing pro-bono services to the administration in exchange for lifting restrictions. This capitulation sent a signal to other firms and emboldened Trump's assault on the rule of law. The piece suggests that collective action among law firms could have provided momentum to defend legal principles.",
-    "summary_zh": "文章探讨了一个关键反事实问题：如果大型美国律师事务所没有迅速向特朗普的行政命令妥协，结果会怎样？作者将特朗普对法律体系的侵蚀与《码头风云》中马龙·白兰度的经典台词相类比，强调律师事务所未能保护其所欠的制度责任。文章指出，律师事务所在维护法律体系方面负有特殊责任，但像Paul, Weiss这样的大型事务所却迅速妥协，用法律援助服务换取行政命令的解除。这种妥协向其他事务所发出了信号，助长了特朗普对法治的侵蚀。作者认为，律师事务所的集体行动本可以为捍卫法律原则提供动力。",
-    "best_quote_en": "\"It wasn’t him, Charlie. It was you. You was my brother, Charlie. You should’ve looked out for me a little bit. You should’ve taken care of me just a little bit, so I wouldn’t have to take them dives for the short-end money.\"",
-    "best_quote_zh": "\"这不是他的错，查理。是你。你是我哥哥啊，查理。你本该多照顾我一点。你本该多关心我一点，这样我就不用为了那点小钱去作假了。\""
-  },
-  {
-    "id": 248,
-    "title": "Helion",
-    "title_zh": "Helion",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion",
-    "tags": [
-      "solve",
-      "leadership",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2021-11-05",
-    "summary_en": "The investment in Helion represents a significant bet on fusion energy as a transformative technology. What makes Helion particularly compelling is its startup-like efficiency and the impressive technical achievements of its founders, David and Chris. They've built a working electricity generator with minimal funding compared to other fusion projects, targeting net electricity production by 2024 and an ambitious goal of 1 cent per kilowatt-hour. The potential implications are profound: abundant, cheap energy could revolutionize our approach to climate change by enabling large-scale carbon capture and dramatically improving quality of life through reduced energy costs. This investment isn't just about energy—it's about reimagining our economic and environmental future.",
-    "summary_zh": "投资Helion是对核聚变能源作为变革性技术的重大押注。Helion最引人注目之处在于其创业公司般的高效运作和创始人David和Chris的卓越技术成就。他们以远低于其他聚变项目的资金，打造出了能够发电的设备，并计划在2024年实现净电力输出，目标是将每千瓦时电力成本降至1美分。其潜在影响深远：充足且低廉的能源可能通过大规模碳捕捉彻底改变应对气候变化的方式，并通过降低能源成本显著提升生活质量。这一投资不仅关乎能源，更是对经济与环境未来的重新想象。",
-    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long-term goal of delivering electricity for 1 cent per kilowatt-hour.",
-    "best_quote_zh": "Helion将在2024年实现净电力输出，并致力于将电力成本降至每千瓦时1美分。"
-  },
-  {
-    "id": 249,
-    "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
-    "title_zh": "本质：感恩的科学及如何建立感恩实践",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-of-gratitude-practice",
-    "tags": [
-      "guide",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This Huberman Lab Essentials episode dives deep into the neuroscience of gratitude, revealing why traditional practices like listing things we're grateful for often fall short. The podcast highlights how story-based gratitude practices activate specific brain regions, fostering calm, social connection, and motivation while reducing anxiety and inflammation. Dr. Huberman emphasizes that genuine gratitude can't be forced, presenting a practical weekly gratitude practice that positively impacts both mental and physical well-being. The episode bridges scientific research with actionable advice, making complex neuroscience accessible while offering tangible benefits for listeners.",
-    "summary_zh": "这个Huberman Lab Essentials节目深入探讨了感恩的神经科学，揭示了传统感恩练习如列出感恩事项为何效果有限。节目强调故事式感恩实践能激活特定大脑区域，增强平静、社交连接和动机，同时减少焦虑和炎症。Huberman博士指出真诚的感恩无法强迫，提供了一个实用的每周感恩练习，对心理和身体健康均有积极影响。该节目将科学研究与可操作建议相结合，使复杂的神经科学知识变得易于理解，同时为听众带来实际收益。",
-    "best_quote_en": "Being grateful activates specific brain regions, which enhance calm, social connection and motivation, while reducing anxiety and inflammation.",
-    "best_quote_zh": "感恩能激活特定大脑区域，增强平静、社交连接和动机，同时减少焦虑和炎症。"
-  },
-  {
     "id": 250,
     "title": "Default Alive or Default Dead?",
     "title_zh": "Default Alive or Default Dead？",
@@ -2342,5 +2226,123 @@
     "summary_zh": "这篇文章以严肃的视角分析了COVID-19大流行的潜在全球影响，并将其视为未来做好准备的警示。作者强调了社会变革的必要性，包括临时和永久性的变化，同时警示我们经济体系的脆弱性。建议年轻人避免感染，凸显了集体责任在防止疫情传播中的重要性。最引人深思的是将COVID-19视为更严重大流行的前奏，挑战我们重新思考全球卫生基础设施和应急响应能力。",
     "best_quote_en": "Covid-19 is bad, but only a warm-up. I think it’s unlikely that this is the worst new pandemic we’ll see in our lifetimes.",
     "best_quote_zh": "COVID-19很严重，但只是预演。我认为这可能不是我们这一生中将要面对的最严重的新流行病。"
+  },
+  {
+    "id": 345,
+    "title": "Fat, fearless and over 50. Thanks to my TikTok outfit posts, I feel powerful and seen | Jen Walshaw",
+    "title_zh": "年过五十，肥胖却无所畏惧：感谢TikTok穿搭分享，我感到充满力量并被看见",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/dec/26/tiktok-outfit-posts-fat-fearless-over-50-jen-walshaw-mum-in-the-madhouse",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "This deeply personal essay by Jen Walshaw offers a poignant reflection on how TikTok, initially a small act of self-care post-illness, transformed into a powerful platform for self-acceptance and community building. Walshaw, a \"fat, flat, over 50\" woman with a feeding tube, challenges societal norms by reclaiming her body descriptors and unapologetically showcasing her personal style. Her journey highlights the profound impact of online communities in fostering support and visibility for underrepresented groups, particularly older women in fashion. The piece thoughtfully explores themes of aging, body image, and the unexpected joy of digital connection, ultimately inspiring readers to embrace authenticity and find strength in shared experiences. It's a compelling narrative on how a simple act can lead to profound personal and communal empowerment.",
+    "summary_zh": "Jen Walshaw的这篇随笔真挚动人，她从病后康复的脆弱中，通过TikTok穿搭分享重新找回了自我价值和力量。她坦然接受“肥胖、扁平、年过五十”的标签，挑战了社会对女性身材和年龄的刻板印象。文章深刻揭示了线上社群如何为边缘群体提供支持与可见性，尤其在时尚领域，年长女性的声音更应被听到。这不仅仅是关于穿搭，更是关于身体自信、社群联结和活出真我的故事，读来令人心生暖意，深受启发。",
+    "best_quote_en": "For too long, society has made older women, especially fat older women, feel invisible. The fashion industry rarely shows bodies like mine, and social media can make it feel like you’re only “allowed” to enjoy fashion if you fit a certain mould. But that needs to change.",
+    "best_quote_zh": "长期以来，社会让老年女性，尤其是肥胖的老年女性，感到自己是隐形的。时尚界很少展示像我这样的身材，社交媒体也让人觉得，只有符合某种特定模式，你才“被允许”享受时尚。但这种情况必须改变。"
+  },
+  {
+    "id": 346,
+    "title": "How to Convince Investors",
+    "title_zh": "如何说服投资者",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/convince.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "This essay offers a pragmatic, almost contrarian, perspective on fundraising, arguing that genuine conviction, rather than salesmanship, is the key to impressing investors. The author posits that founders should prioritize building something inherently valuable and deeply understanding its worth, then communicate this truth clearly and concisely. A critical insight is the emphasis on 'formidable founders' and identifying a 'promising market' as the core pillars of investor appeal, rather than a slick pitch. It challenges the conventional wisdom of 'selling' an idea, instead advocating for a deep, self-convincing evaluation of the startup's investment-worthiness. The piece also provides actionable advice on handling rejection and leveraging market trends, making it a valuable guide for founders navigating the complex world of startup funding.",
+    "summary_zh": "这篇深度分析颠覆了传统的募资观念，核心论点在于：真正的说服力源于创始人对自身项目的深刻信念和价值认同，而非华丽的推销技巧。文章强调，与其刻意“说服”，不如专注于打造一个真正值得投资的项目，并透彻理解其价值，然后以真诚、简洁的方式阐述。我特别欣赏作者对“可畏的创始人”和“有前景的市场”的强调，这揭示了投资决策背后的深层逻辑。这种从内在价值出发的募资策略，不仅能有效应对投资者的质疑，也促使创始人进行更深层次的自我审视和战略规划，这对于任何创业者而言都具有超越募资本身的指导意义。",
+    "best_quote_en": "The way to seem most formidable as an inexperienced founder is to stick to the truth. How formidable you seem isn't a constant. It varies depending on what you're saying. Most people can seem confident when they're saying \"one plus one is two,\" because they know it's true. The magic ability of people who are good at seeming formidable is that they can do this with the sentence \"we're going to make a billion dollars a year.\" But you can do the same, if not with that sentence with some fairly impressive ones, so long as you convince yourself first.",
+    "best_quote_zh": "作为一名经验不足的创始人，显得最有实力的方法是坚持事实。你看起来有多强大并非一成不变。它取决于你在说什么。大多数人在说“一加一等于二”时都能显得自信，因为他们知道这是真的。那些擅长表现出强大能力的人的魔力在于，他们能用“我们每年将赚取十亿美元”这句话做到这一点。但你也能做到，即使不是用那句话，也能用一些相当令人印象深刻的话，只要你首先说服了自己。"
+  },
+  {
+    "id": 347,
+    "title": "Burnout, depression, and AI safety: some concrete mental health strategies",
+    "title_zh": "倦怠、抑郁与AI安全：一些具体的心理健康策略",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Atgb5wcHQT7fHzbS6/burnout-depression-and-ai-safety-some-concrete-mental-health",
+    "tags": [
+      "solve",
+      "psychology",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "This article offers a refreshingly pragmatic perspective on mental health challenges like burnout and depression, particularly within the high-stakes field of AI safety. It challenges the common assumption that overwork is the primary culprit, positing instead that a lack of hope is often the root cause. The author provides actionable strategies for cultivating hope, such as rationally assessing work impact, embracing process-oriented enjoyment, and deliberately visualizing positive outcomes. What truly resonates is the emphasis on understanding the *actual* cause of unhappiness rather than applying generic solutions. The advice to strategically curate one's social environment and consume inspiring narratives highlights the profound social and psychological dimensions of maintaining mental well-being in demanding intellectual pursuits. It's a thoughtful guide for anyone grappling with existential dread or professional disillusionment, particularly those in fields with significant societal implications.",
+    "summary_zh": "这篇文章对AI安全领域的倦怠和抑郁提供了独到见解，指出问题的核心往往不是过度劳累，而是希望的缺失。作者提出的策略，如理性评估工作价值、享受过程而非仅关注结果、以及主动构建积极心态，都极具启发性。我特别欣赏其强调“对症下药”，而非盲目套用通用解方。在面对宏大且充满不确定性的挑战时，如何维护内在的韧性和乐观，这篇文字给出了切实可行的路径。它不仅关乎AI安全，更触及了现代人在高压环境中保持心理健康的普遍困境。",
+    "best_quote_en": "Working on something you don’t think will work and if it doesn’t work, you’ll die? That's a recipe for misery.",
+    "best_quote_zh": "从事一项你认为不会成功的工作，而一旦失败，你就会死去？那简直是苦难的根源。"
+  },
+  {
+    "id": 348,
+    "title": "Trump, Epstein, and the Women",
+    "title_zh": "特朗普、爱泼斯坦和女性",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/trump-epstein-and-the-women",
+    "tags": [
+      "learn",
+      "politics",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "This article critically examines Donald Trump's long-standing attitudes and behaviors towards women, juxtaposing them with the recently released 'Epstein files.' It meticulously recounts instances, from the infamous 'Access Hollywood' tape to numerous sexual misconduct allegations and civil judgments, demonstrating a consistent pattern of disrespect and entitlement. The author compellingly argues that Trump's indecency is well-documented and doesn't require dubious new evidence, such as the recently debunked fake letter from Epstein. The piece highlights the disturbing commonalities between Trump and Epstein, particularly their shared view of women as objects for ego and dominance, as revealed in extensive reporting. It's a sobering read that delves into the societal implications of such figures, prompting reflection on public perception and accountability. The continuous denial strategy employed by Trump is also a key theme, suggesting a cynical manipulation of public belief.",
+    "summary_zh": "这篇文章深入剖析了特朗普对女性的态度和行为模式，并将其与爱泼斯坦案件联系起来。作者通过梳理“走进好莱坞”录音、性行为不端指控等大量证据，揭示了特朗普一贯的轻蔑和自私。最令人深思的是，文章指出特朗普与爱泼斯坦在对待女性上的惊人相似之处，将女性视为满足自我和支配欲的工具。这不禁让人思考，为何如此清晰的证据仍难以动摇某些人的信念。这不仅仅是关于两位人物的故事，更是对社会价值观和公众认知的一次深刻拷问。",
+    "best_quote_en": "“Neither man drank or did drugs. They pursued women in a game of ego and dominance. Female bodies were currency.”",
+    "best_quote_zh": "“这两个男人都不喝酒，也不吸毒。他们把追逐女性当作一场关乎自我和支配欲的游戏。女性的身体就是他们的筹码。”"
+  },
+  {
+    "id": 349,
+    "title": "The sights and sounds of Bhutan",
+    "title_zh": "不丹的景象与声音",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "This piece offers a captivating and deeply personal account of a journey to Bhutan, a country that has long championed Gross National Happiness over GDP. The author skillfully blends vivid descriptions of Bhutan's unique culture, stunning architecture, and deeply Buddhist traditions with insightful observations on its governance, conservation efforts, and the challenges it faces. What truly stands out is the exploration of Bhutan's commitment to preserving its traditional way of life, even as it navigates modernization and global influences. The narrative is infused with a genuine sense of wonder and curiosity, making the reader feel as if they are experiencing this remote kingdom firsthand. It’s a thoughtful reflection on cultural preservation, sustainable development, and the elusive concept of national happiness, prompting a deeper consideration of alternative societal values.",
+    "summary_zh": "这篇文章以一种引人入胜的方式，分享了作者对不丹的深度体验。它不仅仅是旅行记录，更是对一个将“国民幸福总值”置于GDP之上的国家的深刻洞察。作者笔下的不丹，既有令人惊叹的自然风光和独特的佛教文化，也有在传统与现代之间挣扎的现实。最触动我的是不丹国王为民着想的种种举措，以及这个国家在环境保护上的坚定。这不禁让人思考，在追求经济增长的全球浪潮中，我们是否遗忘了更深层次的幸福与可持续发展。不丹的故事，为我们提供了一个与众不同的视角。",
+    "best_quote_en": "In 1972, Bhutan’s king decided that Gross National Happiness was a more important metric than Gross Domestic Product, and their policies cater to this value.",
+    "best_quote_zh": "1972年，不丹国王决定，国民幸福总值是比国内生产总值更重要的衡量标准，他们的政策也迎合了这一价值观。"
   }
 ]
