@@ -1,121 +1,5 @@
 [
   {
-    "id": 250,
-    "title": "Default Alive or Default Dead?",
-    "title_zh": "Default Alive or Default Dead？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/aord.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This insightful piece by Paul Graham delves into the critical but often overlooked question of whether startups are 'default alive' or 'default dead.' By examining the trajectory of a startup's finances, Graham highlights how many founders fail to ask this crucial question until it's too late, leading to the 'fatal pinch'—a situation where slow growth and insufficient runway combine to doom the company. The essay emphasizes the dangers of overhiring, a common pitfall that exacerbates financial woes rather than solving them. Graham advocates for founders to start asking this question early and to have a clear plan B, as relying solely on investor funding is perilous. The piece also underscores the importance of focusing on product-market fit over rapid scaling, using Airbnb's early days as a case study. Ultimately, Graham's analysis serves as a wake-up call for founders to prioritize sustainability and adaptability over reckless growth.",
-    "summary_zh": "保罗·格雷厄姆的这篇文章探讨了一个关键但常被忽视的问题：初创公司是“默认存活”还是“默认死亡”。通过分析初创公司的财务轨迹，他指出许多创始人直到为时已晚才意识到这个问题，导致陷入“致命挤压”——增长缓慢和资金不足的结合体。文章强调过度雇佣的危险，这是一个常见的陷阱，加剧了财务困境而非解决问题。格雷厄姆建议创始人应尽早提出这个问题，并制定明确的备用计划，因为仅依赖投资者融资是危险的。文章还突出了产品市场契合度比快速扩张更重要，以Airbnb早期为例。最终，格雷厄姆的分析是对创始人的一记警钟，提醒他们优先考虑可持续性和适应性而非鲁莽增长。",
-    "best_quote_en": "The reason I want to know first whether a startup is default alive or default dead is that the rest of the conversation depends on the answer.",
-    "best_quote_zh": "我想先了解一家初创公司是否默认存活或死亡，是因为接下来的对话取决于这个答案。"
-  },
-  {
-    "id": 251,
-    "title": "Uncommon Utilitarianism #3: Bounded Utility Functions",
-    "title_zh": "不常见的功利主义#3：有界效用函数",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/jvXF88XmqtsR7uE4w/uncommon-utilitarianism-3-bounded-utility-functions",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "The article explores the concept of bounded utility functions through a mathematical proof by Vann McGee, which shows that agents with unbounded utility functions are vulnerable to Dutch Books. The author discusses the implications of this proof, including the trilemma it presents: agents must either defy reasonable epistemic assumptions, adopt bounded utility functions, or do something else unconventional. The article delves into various paradoxes such as Pascal's Wager and Pascal's Mugging, highlighting the absurdities and exploitative potential of unbounded utility functions. The author argues for the practical and ontological benefits of bounded utility functions, suggesting that they provide clarity and prevent agents from being easily exploited. The discussion extends to real-world applications and the intuitive understanding of utility maximization, making a compelling case for the adoption of bounded utility functions.",
-    "summary_zh": "文章通过Vann McGee的数学证明探讨了有界效用函数的概念，证明了无界效用函数的代理易受荷兰书商利用。作者讨论了该证明的含义，包括三难推理：代理必须违背合理的认识论假设、采用有界效用函数或采取其他不寻常的行动。文章深入探讨了帕斯卡赌注和帕斯卡勒索等各种悖论，指出无界效用函数的荒谬之处和被剥削的可能性。作者主张有界效用函数的实际和本体论益处，认为它们能提供清晰性并防止代理被轻易利用。讨论延伸到现实世界应用和效用最大化的直观理解，为采用有界效用函数提出了有说服力的论据。",
-    "best_quote_en": "This fact isn't quite explained by my concept of Sublinear Utility in Population despite that addressing utility functions asymptoting to some fixed value.",
-    "best_quote_zh": "这一事实并不能完全由我的“人口中的次线性效用”概念解释，尽管该概念涉及效用函数趋近于某个固定值。"
-  },
-  {
-    "id": 252,
-    "title": "Gideon Lewis-Kraus on Rebecca West’s “The Crown Versus William Joyce”",
-    "title_zh": "吉迪恩·刘易斯-克劳斯评雷贝卡·韦斯特的《王冠诉威廉·乔伊斯》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/gideon-lewis-kraus-on-rebecca-wests-the-crown-versus-william-joyce",
-    "tags": [
-      "analyze",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "Gideon Lewis-Kraus delves into Rebecca West's 1946 account of William Joyce's trial, exploring her unique approach to courtroom reportage as dramatic criticism. West's anthropological and psychoanalytic lens reveals the universal themes of betrayal and resentment that drove Joyce, a second-tier fascist broadcaster, to his downfall. The piece reflects on West's literary legacy, her sharp wit, and her ability to find pathos in even the most despicable figures. Lewis-Kraus draws parallels between Joyce's populist resentment and modern political dynamics, offering a nuanced analysis of West's enduring relevance.",
-    "summary_zh": "吉迪恩·刘易斯-克劳斯深入探讨了雷贝卡·韦斯特对威廉·乔伊斯审判的报导，展现其将法庭戏剧化的独特视角。韦斯特以人类学与精神分析的视角揭示了背叛与怨恨的普世主题，使这一二流法西斯广播员走向毁灭。文章反思了韦斯特的文学遗产、她的犀利幽默，以及在最可憎的人物身上发现悲剧性的能力。作者将乔伊斯的民粹主义怨恨与当代政治动态相联系，呈现了韦斯特持久的相关性。",
-    "best_quote_en": "What could the little man do—since he so passionately desired to exercise authority and neither this nor any other sane state would give it to him—but use his trick of gathering together luckless fellows to overturn the state and substitute a mad one?",
-    "best_quote_zh": "既然他如此热切地渴望行使权力，而这个或任何其他正常的国家都不肯给予他，这小个子男人还能做什么？除了使用他的伎俩，聚集不幸的人们来推翻国家，代之以疯狂的国家。"
-  },
-  {
-    "id": 253,
-    "title": "The Strength of Being Misunderstood",
-    "title_zh": "被误解的力量",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "tags": [
-      "solve",
-      "ai-research",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2020-12-01",
-    "summary_en": "This insightful piece challenges the conventional advice about not caring what others think. The author argues that caring selectively and strategically about opinions—especially on a long-term horizon—can be a strength. By focusing on long-term validation rather than immediate approval, individuals can maintain their integrity while working on important, non-consensus ideas. The piece highlights how being misunderstood can create space for innovation and problem-solving that might otherwise go unaddressed. It's a refreshing perspective on status, reputation, and the courage to stand by one's convictions.",
-    "summary_zh": "这篇文章挑战了常规建议，认为不在意别人的看法并非全然正确。作者提出，有选择地、战略性地关注他人意见—尤其是长期视角—可以成为一种力量。通过关注长期认可而非短期认可，个人可以保持诚信，同时致力于重要但非共识的想法。文章强调，被误解可以为创新和解决问题创造空间，否则这些可能不会被关注。这是一种关于地位、声誉和坚持信念勇气的全新视角。",
-    "best_quote_en": "The most impressive people I know care a lot about what people think, even people whose opinions they really shouldn’t value. But what makes them unusual is that they generally care about other people’s opinions on a very long time horizon—as long as the history books get it right, they take some pride in letting the newspapers get it wrong.",
-    "best_quote_zh": "我认识的最出色的人非常在意别人的看法，即使是那些他们不该在意的人的看法。但让他们与众不同的是，他们通常关注的是别人在非常长的时间跨度上的看法—只要历史书记载正确，他们会为让报纸误解而感到自豪。"
-  },
-  {
-    "id": 254,
-    "title": "How to Overcome Inner Resistance | Steven Pressfield",
-    "title_zh": "如何克服内在阻力 | 史蒂芬·普雷斯菲尔德",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/overcome-inner-resistance-steven-pressfield",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "Steven Pressfield's insights on overcoming 'resistance'—that inner force that sabotages our most important work—are both profound and practical. His military background informs his approach, offering concrete tools rather than empty inspirational messages. The discussion spans from cultivating discipline through physical training to structuring productive work sessions, overcoming perfectionism, and embracing failure as part of the creative process. Pressfield's emphasis on turning professional, taking oneself seriously, and the importance of focused, consistent effort provides a roadmap for anyone seeking to unlock their creative potential. His reflections on mortality, family honor, and the cost of pursuing one's calling add depth to the conversation, making it as much about personal growth as it is about productivity.",
-    "summary_zh": "史蒂芬·普雷斯菲尔德关于克服内在阻力的见解既深刻又实用。他军人背景塑造了其方法，提供具体工具而非空洞激励。讨论从通过体能训练培养纪律到构建高效工作时段，战胜完美主义和将失败视为创作过程一部分，无所不包。普雷斯菲尔德强调转型为专业人士、严肃对待自己及保持专注、持续努力的重要性，为任何希望激发创造力的人提供了指南。关于死亡、家庭荣誉和追求使命代价的思考，为对话增添深度，使其不仅关于生产力，更关于个人成长。",
-    "best_quote_en": "Resistance is the most toxic force on the planet. It is our enemy, and it must be defeated.",
-    "best_quote_zh": "抵抗是地球上最有毒的力量。它是我们的敌人，必须被战胜。"
-  },
-  {
     "id": 255,
     "title": "Riot Women and lesbians in the 1970s | Letters",
     "title_zh": "1970年代的激进女性与女同性恋者 | 读者来信",
@@ -2344,5 +2228,115 @@
     "summary_zh": "这篇文章以一种引人入胜的方式，分享了作者对不丹的深度体验。它不仅仅是旅行记录，更是对一个将“国民幸福总值”置于GDP之上的国家的深刻洞察。作者笔下的不丹，既有令人惊叹的自然风光和独特的佛教文化，也有在传统与现代之间挣扎的现实。最触动我的是不丹国王为民着想的种种举措，以及这个国家在环境保护上的坚定。这不禁让人思考，在追求经济增长的全球浪潮中，我们是否遗忘了更深层次的幸福与可持续发展。不丹的故事，为我们提供了一个与众不同的视角。",
     "best_quote_en": "In 1972, Bhutan’s king decided that Gross National Happiness was a more important metric than Gross Domestic Product, and their policies cater to this value.",
     "best_quote_zh": "1972年，不丹国王决定，国民幸福总值是比国内生产总值更重要的衡量标准，他们的政策也迎合了这一价值观。"
+  },
+  {
+    "id": 350,
+    "title": "What happened next: The We Do Not Care Club – how a funny, furious feminist movement began",
+    "title_zh": "接下来发生了什么：《我们不在乎俱乐部》——一个有趣、愤怒的女性主义运动如何开始",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/what-happened-next-the-we-do-not-care-club-how-a-funny-furious-feminist-movement-began",
+    "tags": [
+      "analyze",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "This article beautifully captures the genesis and profound impact of 'The We Do Not Care Club,' a digital movement sparked by Melani Sanders' raw, relatable portrayal of menopausal experiences. What began as a personal 'hot mess moment' quickly resonated with millions, evolving into a global sisterhood offering validation, humor, and a sense of belonging to women navigating perimenopause. The piece highlights how Sanders, despite her own struggles with impostor syndrome, inadvertently became a powerful voice, challenging societal dismissals of women's midlife symptoms. It's a compelling narrative about finding strength in vulnerability, the transformative power of shared experience, and the unexpected ways digital platforms can foster genuine community and empowerment, proving that sometimes, not caring about the trivial allows us to care more deeply about what truly matters.",
+    "summary_zh": "这篇文章深刻描绘了“我们不在乎俱乐部”的诞生及其深远影响。梅拉妮·桑德斯以其真实、幽默的更年期体验，意外地引发了一场全球性的女性运动。这种从个人脆弱中汲取力量，通过数字平台构建社群，让数百万女性感到被看见和理解的现象令人着迷。它不仅是对更年期女性困境的集体发声，更是对社会忽视的反击。我深感这种“不在乎”姿态背后蕴含的巨大勇气和深情关怀，它提醒我们，真正的自由往往源于放下不必要的负担，转而拥抱那些真正重要的连接和支持。",
+    "best_quote_en": "“We are putting the world on notice that we simply do not care much any more.”",
+    "best_quote_zh": "“我们正在告知全世界，我们就是不再那么在乎了。”"
+  },
+  {
+    "id": 351,
+    "title": "Do Things that Don't Scale",
+    "title_zh": "做那些无法规模化的事情",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ds.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "This essay challenges the conventional startup wisdom that emphasizes immediate scalability and grand launches. Instead, it argues that early-stage startups thrive by engaging in intensely manual, seemingly unscalable activities like personally recruiting users, providing hyper-attentive customer service, and even manually fulfilling product functions. The author uses examples like Stripe and Airbnb to illustrate how these 'unscalable' efforts are not just necessary evils, but foundational to building a robust product, understanding user needs deeply, and fostering a strong company culture. It's a compelling argument against premature optimization and for embracing the 'fragility' of a nascent venture, suggesting that the initial, arduous push is what truly propels a startup forward, much like hand-cranking an engine before electric starters existed. This perspective is crucial for founders who might otherwise be daunted by slow growth or feel pressured to mimic the distant, polished operations of established giants.",
+    "summary_zh": "这篇文章颠覆了我们对创业的固有认知。它指出，初创公司早期成功的秘诀并非追求规模化，而是要主动投入那些看似“不可扩展”的艰苦工作，比如亲自招募用户、提供极致的客户服务。这种“手摇启动”的策略，不仅能帮助公司渡过脆弱的初创期，更能深入理解用户需求，塑造公司文化。这对我个人而言，是一个深刻的提醒：真正的创新和增长往往源于对初期的笨拙和投入，而非一开始就追求完美或宏大叙事。它揭示了成功背后那些被忽视的、脚踏实地的努力。",
+    "best_quote_en": "Actually startups take off because the founders make them take off. There may be a handful that just grew by themselves, but usually it takes some sort of push to get them going. A good metaphor would be the cranks that car engines had before they got electric starters.",
+    "best_quote_zh": "实际上，初创公司之所以能起飞，是因为创始人让它们起飞。也许有少数公司是自己发展起来的，但通常都需要某种推动才能启动。一个很好的比喻就是汽车引擎在电动启动器出现之前的手摇曲柄。"
+  },
+  {
+    "id": 352,
+    "title": "Moving Goalposts: Modern Transformer Based Agents Have Been Weak ASI For A Bit Now",
+    "title_zh": "移动的球门柱：现代基于Transformer的Agent早已是弱人工智能了",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/7z7gyTwjDazvW7KYK/moving-goalposts-modern-transformer-based-agents-have-been",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "This thought-provoking essay argues that the goalposts for defining Artificial Intelligence, Artificial General Intelligence, and Artificial Super Intelligence have been continuously moved, obscuring the fact that we've already achieved what past definitions would consider AGI and even weak ASI. The author posits that the rapid advancement of transformer-based models, particularly their self-improvement capabilities (akin to 'Seed AI'), means that AGI, and even early forms of ASI, are already here, or were very recently. The piece critiques the semantic slipperiness of these terms, suggesting that new euphemisms will inevitably emerge to avoid acknowledging the current state of AI. It provocatively highlights how current AI models surpass average human intelligence in many domains, challenging our perception of what constitutes 'superhuman' intelligence and the intellectual revolution it was supposed to bring.",
+    "summary_zh": "这篇引人深思的文章指出，AI、AGI乃至ASI的定义界限一直在被移动，导致我们未能及时认识到，按照旧定义，AGI甚至弱ASI早已实现。作者认为，Transformer模型及其自我改进能力（如“种子AI”）的迅速发展，意味着AGI和早期ASI已经到来。文章批判了这些术语语义上的不确定性，预测未来人们会创造新的委婉语来避免承认AI的真实水平。它还颇具挑衅性地提出，当前AI模型在许多领域已超越普通人类智能，这无疑挑战了我们对“超人”智能的认知，以及它本应带来的智力革命。",
+    "best_quote_en": "We are getting to the point where how superhuman a digital mind has to be in order to be 'called superhuman' is a qualitative issue maybe?",
+    "best_quote_zh": "我们正在达到这样一个临界点，一个数字心智需要“超人”到何种程度才能被“称之为超人”，这也许是一个定性问题？"
+  },
+  {
+    "id": 353,
+    "title": "The Right Wing Rises in Latin America",
+    "title_zh": "拉丁美洲右翼崛起",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-right-wing-rises-in-latin-america",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "This article offers a compelling, albeit unsettling, analysis of the rising tide of right-wing politics across Latin America, exemplified by the recent election of José Antonio Kast in Chile. It meticulously connects contemporary political shifts to historical authoritarian legacies, particularly Chile's Pinochet era, highlighting the disturbing parallels and the uncomfortable irony of Kast's lineage. The author thoughtfully explores the factors contributing to this trend, such as concerns over immigration and public security, and contrasts Kast's understated demeanor with other flamboyant right-wing figures like Milei and Bukele. The piece is a critical examination of how historical revisionism, coupled with populist rhetoric, is reshaping the political landscape, raising profound questions about the future of democracy and human rights in the region. It's a sobering read that prompts reflection on the cyclical nature of political ideologies and the enduring appeal of strongman leadership in times of perceived instability.",
+    "summary_zh": "这篇文章对拉丁美洲右翼政治的崛起进行了深刻而令人不安的剖析，智利新当选的卡斯特便是其缩影。作者巧妙地将当前的政治变迁与历史上的威权主义遗产（特别是皮诺切特时代）联系起来，揭示了令人不安的相似之处和卡斯特家族背景的讽刺意味。文章探讨了移民和公共安全等因素如何助长了这一趋势，并对比了卡斯特内敛的风格与米莱等人的张扬。这不仅是对政治格局重塑的批判性审视，也引发了对该地区民主和人权未来的深思。读完不禁让人感慨，历史似乎总在重演，强人政治在动荡时期为何总能找到土壤？",
+    "best_quote_en": "The twenty-first century was based on the concept of social justice. It worked for a little while, then it became more unjust than before. The core concept became broken. It gave the right an opportunity.",
+    "best_quote_zh": "二十一世纪是建立在社会正义概念之上的。它运作了一段时间，然后变得比以前更加不公正。核心概念被打破了。这给了右翼一个机会。"
+  },
+  {
+    "id": 354,
+    "title": "Expiring Perks/Bone-conducting Earbuds/Forge Travel Wallet",
+    "title_zh": "即将到期的福利/骨传导耳机/Forge旅行钱包",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/expiring-perks-bone-conducting-earbuds-forge-travel-wallet/",
+    "tags": [
+      "solve",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "This content offers a collection of diverse, practical tips for savvy travelers and consumers. It highlights the often-overlooked opportunity to utilize expiring credit card perks, potentially saving significant money on future travel. The piece then shifts to a niche but valuable product recommendation: bone-conducting earbuds, which address a specific health concern (tinnitus) while offering benefits for outdoor enthusiasts. Finally, it sheds light on an unexpected travel cost – airport drop-off fees in England – and introduces an innovative travel wallet designed for efficiency and security. The insights are bite-sized yet actionable, catering to those seeking to optimize their spending and enhance their travel experience with clever solutions and awareness.",
+    "summary_zh": "这篇文章汇集了旅行和消费的实用小贴士，信息量虽小但价值不菲。从提醒读者利用年末到期的信用卡福利，到推荐解决耳鸣困扰的骨传导耳机，再到揭示英国机场高昂的送机费，以及介绍一款创新旅行钱包，每一条都直击用户痛点或提供独特解决方案。我特别欣赏其对细节的关注，比如骨传导耳机对跑步者的益处，以及机场送机费背后的交通政策导向。这不仅是信息分享，更是对精明生活方式的倡导。",
+    "best_quote_en": "I just saved $150 on 2026 hotel stays by tapping a $50 credit on the Chase Sapphire Preferred card and a $100 one on my Delta Amex one that would have expired 12/31.",
+    "best_quote_zh": "我刚刚利用将在12月31日到期的Chase Sapphire Preferred卡上的50美元积分和Delta Amex卡上的100美元积分，为2026年的酒店住宿节省了150美元。"
   }
 ]
