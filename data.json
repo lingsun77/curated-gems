@@ -1,119 +1,5 @@
 [
   {
-    "id": 255,
-    "title": "Riot Women and lesbians in the 1970s | Letters",
-    "title_zh": "1970年代的激进女性与女同性恋者 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2025/oct/26/riot-women-and-lesbians-in-the-1970s",
-    "tags": [
-      "inspire",
-      "society",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This collection of letters responds to a critique of Sally Wainwright's BBC series 'Riot Women,' offering personal perspectives on 1970s feminism and lesbian visibility. Readers share stories of friends who embodied feminist ideals through activism, music, and spiritual leadership, challenging the notion that lesbians were invisible in that era. The letters highlight the cultural impact of feminist movements and the personal transformations they inspired, while defending the series against accusations of superficiality. This exchange reveals the ongoing relevance of 1970s feminist struggles and the enduring power of personal narratives in shaping our understanding of history.",
-    "summary_zh": "这些读者来信回应了对萨莉·温赖特BBC剧《激进女性》的批评，分享了朋友们在70年代如何通过激进主义、音乐和精神领导力践行女权理念的个人故事，挑战了当时女同性恋者不可见的说法。信件展现了女权运动的文化影响力及其激发的个人转变，并为该剧反驳了肤浅的指责。这场讨论揭示了70年代女权斗争的持久意义及个人叙事在历史理解中的力量。",
-    "best_quote_en": "Feminism is the theory, lesbianism is the practice.",
-    "best_quote_zh": "女权主义是理论，女同性恋是实践。"
-  },
-  {
-    "id": 256,
-    "title": "Why It's Safe for Founders to Be Nice",
-    "title_zh": "为什么创始人可以做一个好人",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/safe.html",
-    "tags": [
-      "solve",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "This insightful piece challenges the stereotype of the ruthless businessman, particularly in the startup world. Paul Graham argues that successful founders are often kind and generous, as building exceptional products that spread by word-of-mouth is more valuable than aggressive monetization. Through compelling math examples, he demonstrates that a higher growth rate outweighs the benefits of extracting maximum value from customers. The article concludes that founders should prioritize growth and product excellence over rapacity, as kindness doesn't hinder but rather complements startup success. This perspective is both refreshing and thought-provoking, offering a nuanced view of the qualities that truly drive startup success.",
-    "summary_zh": "保罗·格雷厄姆挑战了对成功商人的刻板印象，认为创业者可以并且应该保持善良。他通过数学模型证明，产品的传播速度比单纯榨取用户价值更重要。文章鼓励创始人专注于增长和产品优化，而非贪婪。这一观点既颠覆常规认知，又提供了实用的商业智慧，值得每个创业者深思。",
-    "best_quote_en": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't.",
-    "best_quote_zh": "创始人可以安全地保持善良，因为创造伟大的东西具有复利效应，而贪婪则不具备。"
-  },
-  {
-    "id": 257,
-    "title": "Heuristics for assessing how much of a bubble AI is in/will be",
-    "title_zh": "评估AI泡沫程度的启发式方法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/xeESG8LmDKejddmZD/heuristics-for-assessing-how-much-of-a-bubble-ai-is-in-will",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "This article provides a nuanced analysis of the AI bubble phenomenon, drawing on historical tech bubble frameworks developed by economists Brent Goldfarb and David A. Kirsch. The piece identifies four key factors that contribute to tech bubbles—uncertainty, pure plays, novice investors, and narratives around commercial innovations—and applies them to the current AI landscape. The author argues that while AI investment levels are unprecedented, it's crucial to assess whether this represents a bubble or justified valuation. The comparison to historical bubbles like aviation and broadcast radio is particularly insightful, suggesting AI may follow similar boom-bust patterns. The article serves as both a warning and an analytical tool for understanding the current AI frenzy.",
-    "summary_zh": "文章通过分析经济学家Brent Goldfarb和David A. Kirsch提出的技术泡沫框架，深入探讨了当前AI泡沫现象。作者指出，技术泡沫的四大关键因素——不确定性、纯粹的投机公司、新手投资者和商业创新叙事，同样适用于AI领域。尽管AI投资规模空前，但需要评估是否为泡沫还是合理估值。将AI与历史泡沫如航空和广播进行对比，揭示了其可能的兴衰轨迹。文章既是警示，也是理解AI狂热的分析工具。",
-    "best_quote_en": "There's no question. It hits all the right notes.",
-    "best_quote_zh": "毫无问题。它完全符合所有特征。"
-  },
-  {
-    "id": 258,
-    "title": "Why Biden’s White House Press Secretary Is Leaving the Democratic Party",
-    "title_zh": "拜登的白宫新闻秘书为何离开民主党",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-bidens-white-house-press-secretary-is-leaving-the-democratic-party",
-    "tags": [
-      "guide",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "Karine Jean-Pierre's departure from the Democratic Party, as detailed in her new book, reveals deep fractures within the party. She accuses Democratic leaders of betraying Joe Biden during the 2024 election cycle, particularly after his disastrous debate performance. Jean-Pierre argues that the party's treatment of Biden was undignified and that his presidency was unfairly dismissed. Her perspective is shaped by her identity as a Black LGBTQ woman, who feels the party has failed to adequately protect marginalized communities. The interview delves into the complexities of loyalty, political strategy, and the challenges faced by Biden and Kamala Harris. Jean-Pierre's critique extends to the party's handling of Harris's candidacy, highlighting systemic biases against women of color. The conversation underscores the tension between party loyalty and the perceived best interests of the country, raising questions about the Democratic Party's future direction and its ability to unite diverse constituencies.",
-    "summary_zh": "卡琳·让-皮埃尔在新书中揭露民主党内部的深层裂痕，她指控民主党领导层在2024年选举周期中背叛了拜登，尤其是在他辩论表现糟糕后。让-皮埃尔认为党内对拜登的待遇不够体面，认为他的总统任期被不公平地否定。作为一名黑人LGBTQ女性，她感到民主党未能充分保护边缘群体。访谈探讨了忠诚、政治策略以及拜登和哈里斯面临的挑战。让-皮埃尔的批评延伸至党内对哈里斯候选资格的处理，凸显了对有色女性的系统性偏见。对话凸显了党内忠诚与国家利益之间的紧张关系，引发对民主党未来方向及其团结多元选民的质疑。",
-    "best_quote_en": "I watched Democratic leadership abandon, and in the end betray, a man who’d led our country through a pandemic and a time of historic political turmoil.",
-    "best_quote_zh": "我目睹民主党领导层抛弃，最终背叛了一位在大流行病和历史性政治动荡时期带领国家前行的男子。"
-  },
-  {
-    "id": 259,
-    "title": "Mowers",
-    "title_zh": "Mowers",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/mowers/",
-    "tags": [
-      "solve",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This article explores a variety of lawn care tools, each with unique advantages for different scenarios. The DR Trimmer Mower stands out as a versatile hybrid tool ideal for managing weeds, grass, and even brambles, especially in tight spaces. The Brill Push Mower offers an eco-friendly alternative with its manual operation, though it requires regular maintenance. The Cyclone Rake proves invaluable for large properties with leaf cleanup, while the Stihl FSE 60 Trimmer excels as a powerful yet quiet electric option. The European Scythe emerges as a surprisingly efficient tool for weed control, combining ergonomic design with manual precision. Each tool's strengths are highlighted through user experiences, offering practical insights for those seeking effective lawn maintenance solutions.",
-    "summary_zh": "本文介绍了多种草坪维护工具，每种工具都有其独特的优势。DR修剪割草机作为一种多功能混合工具，特别适合处理杂草、草地和灌木丛，尤其在狭窄空间中表现出色。Brill推式割草机作为一种环保的手动选择，尽管需要定期维护，但具有生态友好性。Cyclone树叶收集机在清理落叶方面表现出色，而Stihl FSE 60修剪机则以其强大而安静的特性脱颖而出。欧洲镰刀作为一种高效的除草工具，以其人体工学设计和手动精度吸引了用户的关注。每种工具的优势通过用户体验得以凸显，为寻求有效草坪维护解决方案的人们提供了实用见解。",
-    "best_quote_en": "The key is the light weight of the tool and the sharpness of the blade.",
-    "best_quote_zh": "关键在于工具的轻便和刀刃的锋利。"
-  },
-  {
     "id": 260,
     "title": "Exclamation marks! Why do women use them three times as much as men?",
     "title_zh": "惊叹号！为什么女性使用频率是男性的三倍？",
@@ -2338,5 +2224,121 @@
     "summary_zh": "这篇文章汇集了旅行和消费的实用小贴士，信息量虽小但价值不菲。从提醒读者利用年末到期的信用卡福利，到推荐解决耳鸣困扰的骨传导耳机，再到揭示英国机场高昂的送机费，以及介绍一款创新旅行钱包，每一条都直击用户痛点或提供独特解决方案。我特别欣赏其对细节的关注，比如骨传导耳机对跑步者的益处，以及机场送机费背后的交通政策导向。这不仅是信息分享，更是对精明生活方式的倡导。",
     "best_quote_en": "I just saved $150 on 2026 hotel stays by tapping a $50 credit on the Chase Sapphire Preferred card and a $100 one on my Delta Amex one that would have expired 12/31.",
     "best_quote_zh": "我刚刚利用将在12月31日到期的Chase Sapphire Preferred卡上的50美元积分和Delta Amex卡上的100美元积分，为2026年的酒店住宿节省了150美元。"
+  },
+  {
+    "id": 355,
+    "title": "Jess Cartner-Morley on fashion: when it comes to lace, it’s all about the trimmings",
+    "title_zh": "Jess Cartner-Morley谈时尚：说到蕾丝，精髓在于点缀",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/24/jess-cartner-morley-on-fashion-lace-trimmings",
+    "tags": [
+      "guide",
+      "design",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "生活方式"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "This article by Jess Cartner-Morley offers a refreshing and insightful perspective on integrating lace into contemporary fashion, moving beyond its traditional, often overwhelming, full-garment application. The author skillfully argues that \"less is more\" when it comes to lace, advocating for subtle trims, underlayers, and strategic peeks that add sophistication and allure without appearing dated or excessive. I particularly appreciate the psychological insight into why peeking lace is so effective – hinting at lingerie without being overt, creating a sense of 'sartorial flirtation.' The piece provides actionable styling tips, such as pairing lace-trim skirts with matte, loose tops, or using lace bodysuits as versatile winter layering pieces, making it genuinely useful for anyone looking to refresh their wardrobe with this delicate fabric. It challenges the common misconception that lace must be a statement piece, repositioning it as an elegant accent.",
+    "summary_zh": "Jess Cartner-Morley这篇文章对蕾丝的时尚运用提出了独到见解，她精辟地指出，蕾丝的魅力在于“点缀”而非“堆砌”。我非常认同“少即是多”的哲学，她不仅提供了具体的搭配建议，如蕾丝边裙或内搭蕾丝，更深入探讨了这种“若隐若现”的性感心理，那种不经意间的诱惑远胜过铺天盖地的华丽。这不仅是一篇时尚指南，更像是对穿衣智慧的思考，提醒我们真正的风格往往藏于细节与留白之中，充满了一种高级的“欲说还休”之美。",
+    "best_quote_en": "Lace looks hot when it peeks out from underneath something else, and it doesn’t take a genius to figure out the psychology of this.",
+    "best_quote_zh": "蕾丝在其他衣物下若隐若现时最性感，而这背后的心理学原理不难理解。"
+  },
+  {
+    "id": 356,
+    "title": "Startup Investing Trends",
+    "title_zh": "创业投资趋势",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/invtrend.html",
+    "tags": [
+      "inspire",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "This insightful piece from June 2013, delivered to an audience of investors, critically examines the evolving landscape of startup funding, particularly through the lens of Y Combinator's experience. It highlights two major shifts: the decreasing cost of starting a startup and the increasing normalization of entrepreneurship as a career path. The author provocatively argues that while founders will gain more leverage and retain greater equity, top-tier investors stand to make more money due to a projected increase in the number of 'big hit' startups. The analysis also delves into the emerging opportunities for angel investors and critiques the current Series A funding model, suggesting a looming paradigm shift where VCs who prioritize founders' needs will gain a significant competitive advantage. It's a fascinating look at the early indicators of trends that have largely played out in the decade since, offering a valuable historical perspective on venture capital dynamics.",
+    "summary_zh": "这篇2013年的文章深入剖析了创业投资的演变，尤其是Y Combinator的视角。作者独到地指出，创业成本降低和创业常态化是两大驱动力。他大胆预测，尽管创始人将掌握更多主动权，但顶级投资者反而会因“爆款”创业公司数量的增加而获利更多。文章对天使投资的机遇和当时的A轮融资模式进行了批判性反思，预言了VC行业即将到来的变革。重读此文，不禁感叹作者的远见卓识，许多趋势在十年后已成为现实，为我们理解VC生态提供了宝贵的历史坐标。",
+    "best_quote_en": "If you want to find new opportunities for investing, look for things founders complain about. Founders are your customers, and the things they complain about are unsatisfied demand.",
+    "best_quote_zh": "如果你想寻找新的投资机会，那就去关注创始人抱怨的事情。创始人是你的客户，他们抱怨的事情就是未被满足的需求。"
+  },
+  {
+    "id": 357,
+    "title": "Orpheus' Basilisk",
+    "title_zh": "俄耳甫斯的蛇怪",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JzDG7d6J5kZqhQiiT/orpheus-basilisk",
+    "tags": [
+      "inspire",
+      "science",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "This piece brilliantly re-imagines the myth of Orpheus and Eurydice, not as a tragic inevitability, but as a profound philosophical debate on agency, intelligence, and the nature of narrative. The Fates, depicted as a singular entity, attempt to manipulate Orpheus into 'looking back' by framing his failure as a choice that determines the gods' intelligence. Orpheus, however, defies this meta-narrative, presenting a compelling counter-argument rooted in an almost defiant optimism and a refusal to accept pre-ordained failure. His decision to not look back is a radical act of choosing his own story, challenging the very premise of divine omnipotence and offering a fresh, empowering perspective on an ancient tale. It’s a thought-provoking exploration of free will against seemingly insurmountable odds, inviting readers to question their own assumptions about fate and choice.",
+    "summary_zh": "这篇小说以全新的视角重塑了俄耳甫斯的神话，将其从一个悲剧故事转变为一场关于自由意志和叙事力量的哲学辩论。俄耳甫斯拒绝了命运的诱导，没有回头，这一行为不仅是对神祇全能性的挑战，更是对自身选择权的坚定主张。他以一种近乎反叛的乐观主义，重新定义了失败与成功，并赋予了古老传说以现代的思辨深度。这让我深思，我们是否也常被预设的叙事所困，而忽略了自我选择和创造故事的勇气。",
+    "best_quote_en": "“And finally, if we’re doomed anyway, I’d rather my last memory of her be the one where she heard Hades was letting us go. You know, instead of a look of utter horror and despair as she watches me trip inches from the finish line. Just speaking selfishly, I’d rather not carry that for all eternity.”",
+    "best_quote_zh": "“最后，如果我们注定要失败，我宁愿我关于她的最后记忆是她听说哈迪斯放我们走的那一刻。你知道，而不是她看着我在终点线前几英寸处跌倒时，脸上流露出彻底的恐惧和绝望。自私地说，我宁愿不永远背负那种记忆。”"
+  },
+  {
+    "id": 358,
+    "title": "Americans Won’t Ban Kids from Social Media. What Can We Do Instead?",
+    "title_zh": "美国人不会禁止孩子使用社交媒体。我们还能做些什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/americans-wont-ban-kids-from-social-media-what-can-we-do-instead",
+    "tags": [
+      "inspire",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "This thought-provoking analysis delves into the complex issue of children's social media use, particularly in the context of American free-speech norms versus global regulatory attempts like Australia's ban. The author skillfully navigates the tension between protecting minors from digital harms and upholding First Amendment rights, arguing that legal restrictions in the US are unlikely to succeed due to powerful tech lobbies and constitutional protections. Instead, the piece highlights an emerging 'quiet revolution' driven by shifting social norms, parental activism, and school-level policies (e.g., phone bans). It suggests that while outright bans may fail, a broader societal re-evaluation of our digital lives, extending beyond children to adult habits and workplaces, is underway. The article's strength lies in its nuanced perspective, acknowledging the difficulties of enforcement while optimistically pointing towards organic social change as a more probable and sustainable path forward.",
+    "summary_zh": "这篇文章对儿童社交媒体使用问题进行了深入探讨，尤其是在美国言论自由与澳大利亚等国的监管尝试之间寻找平衡。作者巧妙地指出，在美国，由于强大的科技公司和宪法保障，全面禁止社交媒体不太可能。然而，他观察到一场由社会规范转变、家长行动和学校政策推动的“无声革命”正在发生。这不仅仅是关于保护孩子，更是对我们数字生活方式的全面反思，包括成年人的习惯。这种从上而下的法律限制转向自下而上的社会变革，或许才是解决这个复杂问题的更有效途径。我个人认为，这种对社会自发演进的洞察，比单纯呼吁立法更具启发性。",
+    "best_quote_en": "I have come to believe that, in the not too distant future, the concerns of crusty civil libertarians such as myself will be pushed aside, and a new set of social norms will emerge, especially in the middle and upper classes.",
+    "best_quote_zh": "我开始相信，在不远的将来，像我这样顽固的公民自由主义者的担忧将被搁置，一套新的社会规范将会出现，尤其是在中产阶级和上层阶级中。"
+  },
+  {
+    "id": 359,
+    "title": "The Worrier’s Guide to Life / Lost Envoy",
+    "title_zh": "生活焦虑指南 / 迷失的使者",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-worriers-guide-to-life-lost-envoy/",
+    "tags": [
+      "learn",
+      "design",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "心理学"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "This content presents two distinct book reviews, each offering a unique value proposition. 'The Worrier's Guide to Life' is highlighted as a humorous and relatable antidote for anxiety, providing comfort through shared experiences in comic form. Its appeal lies in its practical applicability for personal well-being and as a thoughtful gift. The second review, 'Lost Envoy,' delves into the rediscovery of artist Austin Osman Spare's long-lost tarot deck. This segment offers significant educational and historical value for art enthusiasts, occult scholars, and fans of Spare, detailing the meticulous reproduction of the deck and accompanying scholarly essays. The contrast between a light-hearted guide for everyday worries and an in-depth exploration of esoteric art history showcases the diverse intellectual curiosity of the reviewer, suggesting a broad appeal to readers seeking both self-help and niche cultural insights.",
+    "summary_zh": "这篇文章带来了两本风格迥异的书评。《生活焦虑指南》以幽默漫画的形式，为焦虑者提供了情感慰藉和共鸣，其价值在于轻松解决日常困扰。而《迷失的使者》则深入探讨了艺术家奥斯汀·奥斯曼·斯派尔失落的塔罗牌，对艺术史、神秘学爱好者而言，这无疑是重大的发现与学习机会。两本书的对比，体现了内容在提供实用心理支持与深度文化探索之间的平衡，引人思考不同形式的出版物如何满足人们多样化的精神需求。",
+    "best_quote_en": "Are you an every-second second-guesser? Do pizza, sweatpants, and pugs sound like your perfect Friday night? Do you ever want to punch your brain in the face?",
+    "best_quote_zh": "你是不是每时每刻都在怀疑自己？披萨、运动裤和巴哥犬听起来像是你完美的周五之夜吗？你有没有过想揍自己大脑一顿的冲动？"
   }
 ]
