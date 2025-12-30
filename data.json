@@ -1,121 +1,5 @@
 [
   {
-    "id": 265,
-    "title": "Jess Cartner-Morley: this season, your jeans should be stiff, smart and straight",
-    "title_zh": "杰斯·卡特纳-莫利：本季，你的牛仔裤应该是笔挺、聪明且直筒的",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/29/jess-cartner-morley-this-season-jeans-trend-stiff-smart-straight",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Jess Cartner-Morley challenges the notion that jeans are merely casual wear, presenting them as versatile pieces capable of elevating both day and evening looks. She argues that well-tailored, straight-leg jeans with minimal stretch can transition seamlessly from office to dinner, especially when paired with structured blazers and polished accessories. The author emphasizes that the key to smart denim lies in intentional styling - embracing the jeans rather than trying to hide them. With insights on proportions, textures, and accessories, this piece serves as a practical guide for those looking to incorporate denim into more formal settings while maintaining style and confidence.",
-    "summary_zh": "杰斯·卡特纳-莫利颠覆了牛仔裤仅适合休闲的传统观念，将其塑造为可提升日常与晚间造型的百搭单品。她指出，版型修身的直筒牛仔裤搭配西装外套和精致配饰，能轻松驾驭商务场合。文章强调了牛仔裤的正确穿搭之道在于主动展现而非掩饰，为想在正式场合穿牛仔裤的人提供了实用指南。",
-    "best_quote_en": "A blazer is to jeans what lipstick is to a bare face. The juxtaposition makes the look feel deliberate and intentional, which radiates confidence.",
-    "best_quote_zh": "西装外套之于牛仔裤，就像唇膏之于素颜。这种对比让整体造型显得用心且有目的性，自然散发出自信。"
-  },
-  {
-    "id": 266,
-    "title": "What Microsoft Is this the Altair Basic of?",
-    "title_zh": "微软是否是阿尔泰尔的BASIC？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/altair.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "This article explores the counterintuitive nature of successful startup ideas, using historical examples like Microsoft's Altair Basic to illustrate how initially unpromising concepts can evolve into groundbreaking companies. The author argues that many revolutionary ideas appear ridiculous at first glance, even to knowledgeable observers, because their founders are 'living in the future' and sense unmet needs others can't perceive. The key insight is to reframe seemingly lame startup ideas as potential 'Altair Basic' moments - asking 'What could this grow into?' rather than dismissing them outright. This approach shifts the perspective from ridicule to curiosity, potentially uncovering multiple paths to significant impact that even founders may not initially recognize.",
-    "summary_zh": "这篇文章探讨了成功创业想法的反直觉特性，以微软的阿尔泰尔BASIC为例，说明看似平凡的想法如何演变成颠覆性公司。作者认为，许多革命性想法初现时看似荒谬，甚至连内行人也会嗤之以鼻，因为创始人'生活在未来'，能感知他人未察觉的需求。核心洞见是将看似低俗的创业想法重新框定为潜在的'阿尔泰尔BASIC'时刻，问'这能成长为什么？'而非直接否定。这种方法将视角从嘲笑转向好奇，可能揭示连创始人尚未意识到的多重影响路径。",
-    "best_quote_en": "Most people's first impulse when they hear about a lame-sounding new startup idea is to make fun of it. Even a lot of people who should know better.",
-    "best_quote_zh": "大多数人听到一个听起来很无聊的新创业想法时，第一反应就是嘲笑它。甚至很多应该更懂行的人也是如此。"
-  },
-  {
-    "id": 267,
-    "title": "LLM Hallucinations: An Internal Tug of War",
-    "title_zh": "LLM幻觉：内部的拉锯战",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JbNtWT4iG65wCxW4v/llm-hallucinations-an-internal-tug-of-war-1",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "This article presents a fascinating exploration of LLM hallucinations, reframing them not as mere random errors but as a result of competing processes within the model. The author's experiments with Llama2-13b-chat-hf reveal a compelling 'tug of war' between certainty and uncertainty circuits, with the model defaulting to confident responses despite uncertain user input. The discovery that layers 20-39 are responsible for both certainty and uncertainty suggests a deep interconnection between user representation and model behavior. This research opens new avenues for addressing hallucinations by treating them as engineering challenges rather than statistical issues, potentially offering more computationally efficient solutions. The article's interdisciplinary approach and rigorous methodology make it a valuable contribution to AI research.",
-    "summary_zh": "该文章深入探讨了LLM幻觉现象，提出这是模型内部不同过程竞争的结果，而非随机错误。作者通过对Llama2-13b-chat-hf的实验发现，模型在用户不确定时仍倾向于自信回应，揭示了确定性与不确定性之间的内部拉锯战。研究表明，第20-39层同时负责两种回应，证明了用户表示与模型行为的深层关联。这一发现将幻觉问题从统计视角转向工程视角，为高效解决方案提供了新思路。文章严谨的研究方法和跨学科视角令人信服。",
-    "best_quote_en": "LLM hallucination is not a failure of knowledge but a policy failure.",
-    "best_quote_zh": "LLM幻觉不是知识上的失败，而是策略上的失败。"
-  },
-  {
-    "id": 268,
-    "title": "Girl boss or tradwife? An economist on how a workforce built for men has failed women",
-    "title_zh": "女强人还是家庭主妇？经济学家揭示为男性设计的职场如何让女性失望",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/money/2025/oct/26/having-it-all-book-women-workforce",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "Corinne Low's book 'Having It All' challenges societal structures that fail to accommodate working women, highlighting the 'squeeze' of balancing career and home life. She argues that women's economic contributions have been historically undervalued and that the 'girl boss' era's advice ignores structural barriers. Low advocates for recognizing gender differences and finding personal balance through intentional decision-making, emphasizing that societal changes are needed to address ongoing gender gaps in work and home life.",
-    "summary_zh": "科琳·洛的新书《全都拥有》揭示了社会结构如何无法容纳职业女性，强调女性在事业与家庭之间面临的“挤压”现象。她指出女性的经济贡献长期被低估，而“女强人”时代的建议忽视了结构性障碍。洛倡导承认性别差异，并通过主动决策找到个人平衡，强调需要社会变革来解决工作与家庭中的性别差距问题。",
-    "best_quote_en": "You have 24 hours in a day, being the Instagrammable tradwife or being Sheryl Sandberg are two separate full-time jobs. You cannot do those two together, but you can have elements of both of those – it is not all or nothing.",
-    "best_quote_zh": "你每天只有24小时，成为Instagram上的传统家庭主妇或成为谢丽尔·桑德伯格需要投入全部时间。你无法同时做到这两点，但你可以兼顾两者的部分元素——不是非此即彼。"
-  },
-  {
-    "id": 269,
-    "title": "The Ronco Principle",
-    "title_zh": "罗恩科原则",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ronco.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The article explores the counterintuitive success of Ron Conway in the startup investment world through his genuine benevolence. It argues that in today's transparent and unpredictable startup ecosystem, being genuinely good is not just morally superior but also strategically advantageous. The author suggests that transparency makes it difficult to fake goodness, while unpredictability requires consistent good behavior to navigate rapidly changing power dynamics. Conway's success demonstrates that in such environments, only those who are genuinely good can maintain their position. The piece also notes this trend isn't limited to startups but reflects broader societal shifts toward more transparent and interconnected systems.",
-    "summary_zh": "文章探讨了罗恩科在创业投资领域通过真诚的善良取得成功的反直觉现象。在当今透明且不可预测的创业生态系统中，真诚的善良不仅道德上更优越，而且在战略上也更有利。作者指出，透明度使得虚假的善良难以维持，而不可预测性要求始终如一的良好行为才能应对快速变化的权力动态。罗恩科的成功证明，在这样的环境中，只有真正善良的人才能保持自己的地位。文章还指出，这一趋势不仅限于创业领域，也反映了社会向更透明、更相互连接的系统发展的更广泛趋势。",
-    "best_quote_en": "In a sufficiently connected and unpredictable world, you can't seem good without being good.",
-    "best_quote_zh": "在足够相互连接且不可预测的世界里，你无法表现出善良而不真正善良。"
-  },
-  {
     "id": 270,
     "title": "A (bad) Definition of AGI",
     "title_zh": "AGI的(不好的)定义",
@@ -2342,5 +2226,123 @@
     "summary_zh": "这篇文章评论了两本关于建筑和改造的经典著作。《Renovation》被誉为最全面的房屋改造指南，它不仅提供了从专业人士那里收集的实战知识，还涵盖了现代节能和材料应用。它让我思考，真正的“知识”不仅仅是理论，更是那些在实践中反复验证的集体智慧。而《How Buildings Learn》则提出了“适应性建筑”的深刻理念，它不仅仅是关于物理空间，更像是在提醒我们，无论构建什么，都要预留演变和学习的空间。这对于当今快速变化的科技领域，比如软件开发，无疑具有哲学层面的指导意义。这些书的价值在于，它们超越了工具本身，触及了创造与持久的本质。",
     "best_quote_en": "What differentiates this book from others of its ilk is that the author has gathered all this information in the field, interviewing carpenters, electricians, plumbers, and contractors, finding out what’s important, what works, what’s new. These guys love to talk about what they do well, and in this sense, the book is one of collective wisdom.",
     "best_quote_zh": "这本书与其他同类书籍不同之处在于，作者是在实地收集所有这些信息的，采访了木匠、电工、水管工和承包商，了解什么重要、什么有效、什么新鲜。这些人喜欢谈论他们擅长的事情，从这个意义上说，这本书是一种集体智慧的结晶。"
+  },
+  {
+    "id": 365,
+    "title": "Collecting memories and stories of feminists | Letters",
+    "title_zh": "收集女权主义者的记忆和故事 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/22/collecting-memories-and-stories-of-feminists",
+    "tags": [
+      "solve",
+      "society",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "This article, presented as 'Letters to the Editor,' offers a poignant reflection on the women's liberation movement (WLM) and the ongoing struggle for gender equality. It highlights the ephemeral nature of living memories surrounding historical movements and issues a call to action for documenting the grassroots experiences of feminists before they are lost. The piece underscores the WLM's informal yet impactful structure, emphasizing its role as a movement for consciousness-raising rather than a formal organization. A second letter broadens the historical scope by introducing the pioneering efforts of the wartime Air Transport Auxiliary (ATA) in establishing workplace sex equality, including equal pay, long before official legislation. This juxtaposition reveals the continuous, often unacknowledged, battles for equality across different eras and contexts, urging us to recognize the diverse forms of feminist struggle.",
+    "summary_zh": "这篇读者来信，以其独特的视角，深刻反思了女性解放运动的非正式力量及其在历史长河中的逐渐模糊。它不仅仅是对过去的回顾，更是一声紧迫的呼唤：在那些珍贵的、鲜活的记忆消逝之前，我们必须记录下女权主义者的真实故事和草根经验。文章还通过对战时航空运输辅助队平等薪酬制度的提及，巧妙地拓展了我们对性别平等斗争历史的理解。这让我不禁思考，那些不为人知的先行者们，她们的努力是如何在历史的缝隙中默默推动社会进步的？我们又该如何确保这些宝贵的遗产不被遗忘，并从中汲取继续前进的力量？",
+    "best_quote_en": "Rustin is so right that the struggles (we all spoke of struggles) taking place both around the law and equal rights, and among the women who considered themselves more radical, are fading from living memories via lived experiences. For an inclusive history’s sake, it’s time to record as many of those voices, including grassroots ones, before it’s too late.",
+    "best_quote_zh": "拉斯汀说得太对了，那些围绕法律和平等权利的斗争，以及那些自认为是更激进的女性之间的斗争，正通过亲身经历从鲜活的记忆中消逝。为了一个包容的历史，是时候在一切太晚之前，记录下尽可能多的声音，包括那些来自基层的声音。"
+  },
+  {
+    "id": 366,
+    "title": "The Hardware Renaissance",
+    "title_zh": "硬件复兴",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hw.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "This essay from Y Combinator in 2012 provocatively argues for an impending \"Hardware Renaissance,\" challenging the prevailing investor bias against hardware startups. It highlights early trends observed at Y Combinator, where hardware companies were not only present but performing well, despite investor skepticism. The author attributes this shift to several converging factors: the rise of crowdfunding, ubiquitous wireless connectivity, improved manufacturing processes, and accessible prototyping tools like Arduinos and 3D printing. The core insight is that while software's dominance has been undeniable, the inherent appeal and increasing feasibility of hardware development suggest its advantage might be temporary. It's a compelling call to action for founders, urging them not to be deterred by traditional investor mindsets, and positions Y Combinator as an early believer in this evolving landscape. The piece effectively challenges established norms and offers a forward-looking perspective on technological innovation.",
+    "summary_zh": "这篇2012年的文章超前地预言了“硬件复兴”，挑战了当时投资界对硬件根深蒂固的偏见。它指出，尽管软件占据主导，但众筹、无线技术进步、制造简化和原型工具普及等因素正共同推动硬件创业的崛起。作者的洞察在于，软件的优势并非永恒，物理世界的魅力和创新潜力正重新被点燃。这不仅是对创业者的鼓舞，也是对传统投资理念的深刻反思。读来不禁让人思考，我们是否总在追逐已然成熟的趋势，而错过了下一个“史蒂夫·乔布斯”在硬件领域的开创性机遇？",
+    "best_quote_en": "The best founders are better at seeing the future than the best investors, because the best founders are making it.",
+    "best_quote_zh": "最优秀的创始人比最优秀的投资者更能洞察未来，因为最优秀的创始人正在创造未来。"
+  },
+  {
+    "id": 367,
+    "title": "Chromosome identification methods",
+    "title_zh": "染色体识别方法",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/PneJmhC769dygaM8D/chromosome-identification-methods",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "This article delves into the critical challenge of chromosome identification, a foundational step for the hypothetical yet promising technology of chromosome selection in reprogenetics. The author meticulously analyzes existing methods, highlighting a fundamental trade-off between destructiveness and identification confidence. Traditional approaches either damage chromosomes (e.g., DNA sequencing) or offer insufficient detail (e.g., light microscopy). The core insight is a novel proposal for \"complementary identification,\" where a single chromosome's identity is inferred by destructively analyzing all others from the same cell. This indirect approach, alongside methods like single-cell RNA sequencing, aims to overcome current limitations, offering a path towards non-destructive, high-confidence chromosome identification. The article thoughtfully frames this technical problem within the broader context of creating modified genomes for future children, underscoring the profound implications of such advancements. It's a fascinating exploration of a complex biological engineering problem.",
+    "summary_zh": "这篇文章深入探讨了染色体识别这一关键技术，它是生殖遗传学中染色体选择这一设想性技术的基石。作者精辟地分析了现有方法的局限性，揭示了破坏性与识别准确性之间的根本矛盾。文章提出了一种新颖的“互补识别”范式，即通过破坏性分析同细胞中其他染色体来推断单个染色体的身份。这种间接方法，结合单细胞RNA测序等，为实现无损、高置信度的染色体识别提供了新思路。我深感其对未来基因工程的潜在影响，这不仅仅是技术突破，更是对生命改造伦理的深刻叩问。",
+    "best_quote_en": "It seems that existing methods are subject to a tradeoff where they either destroy or damage the chromosomes they measure, or else they fail to confidently identify chromosomes.",
+    "best_quote_zh": "现有的方法似乎都面临一个权衡：它们要么破坏或损害所测量的染色体，要么无法自信地识别染色体。"
+  },
+  {
+    "id": 368,
+    "title": "A Reckoning for the Stalled Gaza Peace Plan",
+    "title_zh": "加沙和平计划停滞不前的清算",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-reckoning-for-the-stalled-gaza-peace-plan",
+    "tags": [
+      "solve",
+      "politics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "This critical analysis dissects the inherent flaws and likely failure of the proposed Gaza peace plan, focusing on its structural contradictions and the exclusion of Palestinian agency. The author meticulously details how the three-phase scheme, despite its stated goals of peace and reconstruction, appears designed to solidify a new, permanent order of control, rather than genuine resolution. Key insights include the plan's encoding of displacement, the problematic role and vague mandate of the International Stabilization Force (I.S.F.), and the significant disparity between the plan's theoretical framework and the grim realities on the ground. The piece compellingly argues that without genuine Palestinian consent and political process, any 'peace' derived from this plan will be merely a more tightly managed form of control, inevitably leading to future conflict. It's a sobering read that challenges conventional narratives surrounding peace efforts in the region.",
+    "summary_zh": "这篇文章对加沙和平计划进行了深刻的批判性分析，揭示了其内在缺陷和潜在的失败。作者敏锐地指出，该计划表面上旨在实现和平与重建，实则可能固化一种新的、永久性的控制秩序。尤其令人担忧的是，巴勒斯坦人民被排除在决策之外，以及国际维稳部队（I.S.F.）角色模糊且充满矛盾。这种缺乏当地合法性和政治基础的安排，恐怕只会为未来的冲突埋下伏笔。读罢此文，我深感和平之路何其艰难，真正的解决方案必须根植于公正与包容。",
+    "best_quote_en": "It’s hard to imagine that an arrangement designed without local consent, implemented by a multinational force that has not yet been assembled, and dependent on institutions that have no legitimacy, would be able to produce anything other than a new, more tightly managed, form of control.",
+    "best_quote_zh": "很难想象，一项在没有当地同意的情况下设计、由尚未组建的多国部队实施、并依赖于没有合法性的机构的安排，除了产生一种新的、更严格管控的形式之外，还能带来什么。"
+  },
+  {
+    "id": 369,
+    "title": "Canning",
+    "title_zh": "家庭食品加工：从罐装到研磨",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/canning/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-12-29",
+    "summary_en": "This article delves into the resurgence of traditional home food processing techniques, highlighting modern approaches to canning, pressure cooking, and grain milling. It challenges outdated perceptions, presenting canning not as a survivalist chore but as a culinary art form focused on superior taste and variety, advocating for low-sugar, intensely flavored preserves. The piece also extols the virtues of modern pressure cookers for their efficiency, safety, and ability to enhance flavor and nutrition, showcasing a high-end model as a worthwhile investment. Furthermore, it explores the benefits of grinding fresh grains at home, from flour for baking to fresh oats for cereal, emphasizing the improved taste and nutritional value. The underlying theme is a return to more hands-on, quality-driven food preparation, transforming everyday cooking into an engaging and rewarding experience, often with a nostalgic or communal element.",
+    "summary_zh": "这篇文章让我重新审视了传统家庭食品加工的魅力。它不仅仅是关于保存食物，更是一种对食材本味的追求和生活品质的提升。从低糖、高风味的现代罐装，到高效安全的压力烹饪，再到新鲜研磨谷物的纯粹口感，每一点都透露出对食物的尊重和对家庭生活的热爱。这不仅是技术和工具的革新，更是我们与食物、与家人重新连接的一种方式，让烹饪变得更有趣、更健康、也更富有意义。",
+    "best_quote_en": "Canning these days makes sense as a culinary endeavor — because you can make preserves that taste better, or are far more varied than anything you can buy.",
+    "best_quote_zh": "如今，罐装作为一种烹饪尝试是很有意义的——因为你可以制作出比市面上任何产品都更美味、种类更丰富的蜜饯。"
   }
 ]
