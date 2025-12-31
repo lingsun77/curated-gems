@@ -1,123 +1,5 @@
 [
   {
-    "id": 270,
-    "title": "A (bad) Definition of AGI",
-    "title_zh": "AGI的(不好的)定义",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/3tYHB4DjjCWWCabyq/a-bad-definition-of-agi",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The article critiques a recent paper attempting to define Artificial General Intelligence (AGI) by proposing a comprehensive test. The author highlights the test's anthropocentric approach and its potential to exclude valid AGI forms, using the science fiction example of 'tines' - intelligent beings with distributed cognition. The critique focuses on the test's assumptions about intelligence being a singular, human-like entity, potentially missing AGIs that operate differently. The author questions the test's utility, suggesting it may not recognize AGIs that exist but don't conform to current human understandings of intelligence and cognition.",
-    "summary_zh": "这篇文章批判了一篇试图为人工一般智能（AGI）下定义的论文。作者指出该测试的人类中心主义特性，并指出其可能排除其他有效的AGI形式，比如科幻作品中智力分布式的“田鼠”这种生物。批判重点在于测试对智能是单一、类人实体的假设，可能遗漏运作方式不同的AGI。作者质疑该测试的实用性，认为它可能无法识别出存在但不符合当前人类对智能和认知理解的AGI。",
-    "best_quote_en": "It's weird behaviors like this which highlight how llms are lacking something that most humans have and are therefore 'in some important sense, shallow, compared to a human twelve year old.'",
-    "best_quote_zh": "这种奇怪的行为凸显了LLMs缺少人类大多数拥有的某种东西，因此在某种重要意义上，它们比一个十二岁的人类要肤浅。"
-  },
-  {
-    "id": 271,
-    "title": "The Trump Outrages That Matter Most",
-    "title_zh": "特朗普最令人震惊的行为",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-trump-outrages-that-matter-most",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "Susan B. Glasser's article provides a stark assessment of President Trump's most disruptive actions during his second term, highlighting the normalization of outrage in American politics. The piece examines specific incidents—from demolishing the White House East Wing to politicizing the military—that have resonated more deeply than others. Glasser collects perspectives from experts and officials, revealing a pattern of institutional erosion and executive overreach. The analysis underscores how Trump's actions challenge democratic norms and institutions, while also exposing the complicity of those who enable his behavior. The article serves as both a catalog of current crises and a reflection on the broader implications of unchecked power in modern governance.",
-    "summary_zh": "苏珊·B·格拉瑟的文章尖锐分析了特朗普第二任期内最具破坏性的行为，揭示了美国政治中愤怒的常态化。文中聚焦白宫东厅被拆除、军队政治化等事件，这些举动比其他丑闻更持久地激怒公众。格拉瑟收集了专家和官员的见解，揭示出制度腐蚀和行政权力滥用的模式。分析揭露了特朗普如何挑战民主规范和制度，以及那些纵容其行为者的共谋。本文既是当前危机的清单，也是对现代治理中无约束权力影响的深刻反思。",
-    "best_quote_en": "The most surprising—and it shouldn’t have been—was how well intimidation works. Entire sectors of society that stood up to Trump in his first term have been crumpled up and tossed like tissue paper, offering feeble resistance to his power grab and revenge campaign.",
-    "best_quote_zh": "最令人惊讶的是（这本不该令人惊讶）——恐吓有多奏效。在特朗普第一任期内曾对抗他的社会各界，如今却像废纸般被揉成一团，对其夺权和报复行动只表现出软弱的抵抗。"
-  },
-  {
-    "id": 272,
-    "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
-    "title_zh": "更便宜的节日机票/最强护照/企业良心",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/cheaper-holiday-flights-most-powerful-passports-corporate-good-guys/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "This eclectic mix of travel-related content offers practical insights and thought-provoking perspectives. The airfare analysis reveals economic trends through travel data, showing how global economic shifts manifest in consumer prices. The sleep hack demonstrates how behavior modification can enhance travel experiences, while the passport ranking sparks discussions about global mobility and geopolitical influence. The Patagonia case study highlights the growing consumer demand for sustainability and corporate responsibility. Together, these pieces create a compelling narrative about how travel intersects with economics, psychology, and ethics in our interconnected world.",
-    "summary_zh": "这组杂乱的旅行内容提供了实用见解和引人深思的观点。机票分析通过旅行数据揭示了经济趋势，展示了全球经济变化如何体现在消费价格上。睡眠技巧展示了行为修正如何改善旅行体验，而护照排名则引发了关于全球流动性和地缘政治影响的讨论。Patagonia案例突显了消费者对可持续性和企业责任的需求日益增长。这些内容共同构建了一个关于旅行如何与经济、心理学和伦理相交织的引人深思的叙事。",
-    "best_quote_en": "No company has done more for this cause than Patagonia: they are the most sustainably run large apparel corporation in the world, from every angle.",
-    "best_quote_zh": "没有哪家公司比Patagonia为这一事业做得更多：从各个角度来看，它都是全球运营最可持续的大型服装公司。"
-  },
-  {
-    "id": 273,
-    "title": "Good news: men have stopped disrupting women’s sport with dildos. Bad news: now they’re betting on their periods | Arwa Mahdawi",
-    "title_zh": "好消息：男性不再用假阳具干扰女子运动。坏消息：现在他们开始押注女性经期 | 阿瓦·马哈维",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/14/good-news-men-have-stopped-disrupting-womens-sport-with-dildos-bad-news-now-theyre-betting-on-their-periods",
-    "tags": [
-      "update",
-      "science",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This piece explores the disturbing trend of period betting in women's sports, highlighting how male attention often manifests as invasive and misogynistic behavior. While the article notes the growing popularity of women's sports, it critically examines how this attention is frequently tainted by attempts to exploit or diminish female athletes. The author points out the irony that while period betting is creepy and unethical, it may indirectly draw attention to women's health research. The core insight is that as women achieve more visibility in sports, they face disproportionate backlash, reflecting deeper societal issues of misogyny and power dynamics.",
-    "summary_zh": "文章揭露了女子体育领域出现的经期投注骚扰现象，男性的关注往往以侵犯性和性别歧视的形式表现。尽管女子体育的普及度不断提升，但这种关注常被用来剥削或贬低女运动员。作者指出，经期投注虽然令人不适且不道德，但可能间接推动了女性健康研究。核心观点是，随着女性在体育领域的崛起，她们面临着不成比例的负面反馈，反映了更深层次的性别权力问题。",
-    "best_quote_en": "Whenever women are in the spotlight, though, there are people who punish them for it.",
-    "best_quote_zh": "然而，每当女性成为焦点，总有人要惩罚她。"
-  },
-  {
-    "id": 274,
-    "title": "What Doesn't Seem Like Work?",
-    "title_zh": "什么看起来不像工作？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/work.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-01",
-    "summary_en": "This essay explores the concept of work through personal anecdotes and reflections on individual passions. The author uses his father's love for mathematics as a case study, highlighting how what may seem like work to others can be pure enjoyment to those with a genuine interest. The piece emphasizes the importance of identifying tasks that feel effortless to you but challenging to others as a guide to finding your life's work. It suggests that unusual preferences may be strong indicators of one's true calling, and encourages readers to examine their own unique inclinations as a path to meaningful work. The essay's strength lies in its personal narrative and the universal question it poses about work and passion.",
-    "summary_zh": "这篇文章通过个人故事和反思探讨了工作的概念。作者以父亲热爱数学为例，说明对他人看来的工作，对真正感兴趣的人可能是享受。文中强调发现自己独特兴趣的重要性，鼓励读者通过自我审视找到真正热爱的事业。文章以个人叙事和普遍的工作与热情问题引发深思。",
-    "best_quote_en": "If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.",
-    "best_quote_zh": "如果某件事对别人来说像工作，对你来说却不像，那么这正是你擅长的事情。"
-  },
-  {
     "id": 275,
     "title": "Strategy-Stealing Argument Against AI Dealmaking",
     "title_zh": "反对AI交易的“战略窃取”论证",
@@ -2344,5 +2226,119 @@
     "summary_zh": "这篇文章让我重新审视了传统家庭食品加工的魅力。它不仅仅是关于保存食物，更是一种对食材本味的追求和生活品质的提升。从低糖、高风味的现代罐装，到高效安全的压力烹饪，再到新鲜研磨谷物的纯粹口感，每一点都透露出对食物的尊重和对家庭生活的热爱。这不仅是技术和工具的革新，更是我们与食物、与家人重新连接的一种方式，让烹饪变得更有趣、更健康、也更富有意义。",
     "best_quote_en": "Canning these days makes sense as a culinary endeavor — because you can make preserves that taste better, or are far more varied than anything you can buy.",
     "best_quote_zh": "如今，罐装作为一种烹饪尝试是很有意义的——因为你可以制作出比市面上任何产品都更美味、种类更丰富的蜜饯。"
+  },
+  {
+    "id": 370,
+    "title": "Beyond Kegels: I found a fix for a common type of incontinence – why don’t more women know about it?",
+    "title_zh": "超越凯格尔运动：我找到了治疗一种常见尿失禁的方法——为什么更多女性不知道？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/30/peeing-after-childbirth-incontinence-sui-solution",
+    "tags": [
+      "solve",
+      "medicine",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "This article powerfully advocates for greater awareness of effective treatments for stress urinary incontinence (SUI) beyond the commonly recommended Kegel exercises. The author shares her personal, deeply relatable journey from years of silent suffering and self-blame to discovering a minimally invasive procedure that transformed her life. It critically examines the historical context and gendered biases within women's health, highlighting how societal narratives often place the onus on women for conditions that have medical solutions. The piece challenges the prevailing ignorance surrounding SUI treatments, even among medical professionals, and underscores the significant disparity in research and care compared to men's health issues. It's a compelling call to action for women to seek better care and for the medical community to improve education and access to advanced solutions.",
+    "summary_zh": "这篇文章深刻揭示了女性压力性尿失禁治疗的知识盲区，作者亲身经历从默默忍受到发现微创手术改变生活，这份真诚与勇气令人动容。她不仅质疑了凯格尔运动的万能性，更批判了女性健康领域长期存在的性别偏见和信息不对称。读罢此文，我不禁思考，有多少女性正因缺乏信息而承受不必要的痛苦？这不应仅仅是个人问题，更是医疗系统和社会观念需要共同面对和解决的深层议题。",
+    "best_quote_en": "“SUI is not part of normal ageing and can be remedied.”",
+    "best_quote_zh": "“SUI并非正常衰老的组成部分，它是可以被治愈的。”"
+  },
+  {
+    "id": 371,
+    "title": "Startup = Growth",
+    "title_zh": "创业公司 = 增长",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/growth.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-31",
+    "summary_en": "This essay fundamentally redefines 'startup' not by age or funding, but by an inherent drive for rapid growth. It compellingly argues that growth is the singular, defining characteristic of a startup, serving as both its compass and its ultimate goal. The author skillfully distinguishes startups from ordinary small businesses, highlighting how the imperative for exponential growth shapes everything from market selection and idea generation to fundraising strategies and the entire venture capital ecosystem. What truly resonates is the concept of growth as an 'optimization problem,' a singular metric that simplifies complex decisions and acts as an evolutionary pressure, leading to unexpected innovations. This perspective offers a profound shift from viewing startups as mere companies to seeing them as dynamic, growth-driven entities operating within a unique economic and evolutionary framework. It also critically examines the high failure rate, framing it as a rational outcome in a high-expected-value domain, rather than an indictment of the model.",
+    "summary_zh": "这篇深度分析文章颠覆了对“创业公司”的传统认知，将其核心定义为“增长”。作者精辟地阐述了高速增长如何成为创业公司唯一的指北针和决策依据，而非技术或融资。我特别欣赏文章将增长视为一种“优化问题”的视角，它简化了创业的复杂性，并驱动着创新。文章还揭示了高失败率背后的经济理性，以及VC、创始人和收购方如何围绕增长构建了一个独特的生态系统。读完后，我对创业的本质有了更清晰、更深刻的理解，认识到它不仅是商业行为，更是一种不断进化的探索过程。",
+    "best_quote_en": "If you want to understand startups, understand growth. Growth drives everything in this world.",
+    "best_quote_zh": "如果你想理解创业公司，就要理解增长。增长驱动着这个世界的一切。"
+  },
+  {
+    "id": 372,
+    "title": "My Theory of Change",
+    "title_zh": "我的变革理论",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Wf2cAJrXhhXBLY5Qi/my-theory-of-change",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2025-12-31",
+    "summary_en": "This piece offers a highly personal and somewhat unconventional 'theory of change' for 2026, driven by the author's belief in the transformative power of advanced AI. It posits that rapid software development with AI tools will enable small teams to build impactful platforms quickly, advocating for direct, additive contributions rather than focusing on downside risks or governmental controls. The author emphasizes the importance of somatic well-being—physical and mental health—as crucial for effective engagement with AI, highlighting the need for internal regulation and a nuanced understanding of one's own embodied experience to master prompt engineering. Ultimately, it frames individual agency, coupled with strategic resource accumulation and AI leverage, as the path to solving complex problems and fostering positive emergence. The blend of high-tech optimism with deeply personal, almost spiritual, self-care advice makes this a uniquely intriguing perspective on future-building.",
+    "summary_zh": "这篇“变革理论”充满个人色彩，作者坚信AI的颠覆性力量将在2026年带来巨大机遇。它提出，利用AI工具，小团队能迅速构建软件平台，解决复杂问题，强调个体行动的累积效应而非过度关注风险。文章尤其引人深思的是，作者将高效利用AI与身心健康、自我调节紧密关联，认为唯有内在稳定才能更好地驾驭AI提示工程。这种技术乐观主义与深层自我关怀的结合，勾勒出一条通过个人能动性和AI赋能来塑造未来的独特路径，令人耳目一新。",
+    "best_quote_en": "Trying to get real human builders to be all that oriented to downside risks, or jockeying for unprecedented government lockdown of compute, does not seem to be nearly as existentially practical as just building with good primitives and conscientiously stewarding emergence.",
+    "best_quote_zh": "试图让真正的构建者们过度关注下行风险，或者争夺前所未有的政府计算资源封锁，在我看来，远不如用良好的基础工具进行构建并审慎地引导其涌现来得实际。"
+  },
+  {
+    "id": 373,
+    "title": "Donald Trump’s Golden Age of Awful",
+    "title_zh": "唐纳德·特朗普的糟糕黄金时代",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-golden-age-of-awful",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "This article offers a scathing retrospective on Donald Trump's hypothetical return to the presidency in 2025, painting a grim picture of unchecked power, retribution, and societal acquiescence. The author, Susan B. Glasser, critically evaluates a year marked by shocking policy decisions—from gutting cancer research to mass deportations—and the alarming normalization of authoritarian behavior. What truly resonates is the article's exploration of collective failure: how institutions and individuals, including Republican leaders and corporate executives, enabled Trump's most extreme actions. It's a sobering damage assessment that transcends mere political commentary, delving into the psychological toll of constant outrage and the chilling realization that 'it can happen here.' The piece serves as a stark warning, compelling readers to reflect on the fragility of democratic norms and the societal responsibility to resist the erosion of foundational principles.",
+    "summary_zh": "这篇文章对特朗普2025年假设性重返白宫的第一年进行了严峻的回顾，描绘了一个充满报复、权力滥用和公众默许的黑暗图景。作者深刻剖析了集体失职，指出许多人如何姑息了特朗普的极端行为，这不仅是对政治的批判，更是对社会心理的深层反思。读完不禁思考，当面对显而易见的荒谬和破坏时，我们如何才能避免成为沉默的帮凶？这种对民主脆弱性的警示，让人不寒而栗，也促使我们重新审视个人在维护社会基石中的角色。",
+    "best_quote_en": "Yet the biggest disappointment of 2025 may well have been not what Trump did but how so many let it happen. Trump has always been a mirror for other people’s souls, an X-ray revealing America’s dysfunction.",
+    "best_quote_zh": "然而，2025年最大的失望可能不是特朗普做了什么，而是如此多的人任其发生。特朗普一直是他者灵魂的镜子，一张揭示美国功能障碍的X光片。"
+  },
+  {
+    "id": 374,
+    "title": "Mann’s Pictorial Dictionary / Death is Stupid",
+    "title_zh": "曼恩图画词典 / 死亡是愚蠢的",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/manns-pictorial-dictionary-death-is-stupid/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "This article reviews two distinct books, highlighting their unique value propositions. \"Mann's Pictorial Dictionary and Cyclopedia\" is presented as a wonderfully eclectic and historically intriguing compendium of illustrations answering myriad obscure questions, offering a delightful journey through seemingly random yet alphabetically organized knowledge. Its charm lies in its British-centric, anachronistic nature, making it a fascinating artifact for those curious about historical minutiae and visual learning. In stark contrast, \"Death is Stupid\" is lauded for its sensitive yet direct approach to discussing grief and loss with children. It masterfully validates children's emotions and navigates the complexities of adult explanations, providing a much-needed resource for families facing bereavement. Both books, despite their vastly different subjects, share a common thread of addressing specific informational or emotional needs with clarity and thoughtful presentation.",
+    "summary_zh": "这篇文章评论了两本截然不同的书籍，一本是充满历史感的图画词典，另一本是关于儿童丧亲的绘本。我被《曼恩图画词典》那种看似随机实则有其内在逻辑的百科全书式内容深深吸引，它不仅是知识的宝库，更像是一扇通往过去时代日常生活的窗户，充满了古怪的魅力。而《死亡是愚蠢的》则以其真诚和同理心打动了我，它直面成人往往回避的死亡话题，为孩子和家长提供了一个温柔而有力的对话工具。两本书虽风格迥异，却都以独特的方式回应了人们对理解世界或处理情感的需求，令人深思。",
+    "best_quote_en": "All of these questions and a ridiculously large number more are answered in Mann’s Pictoral Dictionary and Cyclopedia, 240 pages of the most miscellaneous miscellany out there.",
+    "best_quote_zh": "所有这些问题以及更多荒谬的问题，都在《曼恩图画词典和百科全书》中得到了解答，这本240页的书是现存最杂乱的杂项集。"
   }
 ]
