@@ -1,121 +1,5 @@
 [
   {
-    "id": 275,
-    "title": "Strategy-Stealing Argument Against AI Dealmaking",
-    "title_zh": "反对AI交易的“战略窃取”论证",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CnjgmDHbn56WFenMe/strategy-stealing-argument-against-ai-dealmaking",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-11-01",
-    "summary_en": "This thought-provoking piece introduces the 'strategy-stealing' argument against AI dealmaking, suggesting that any honest deal can be replaced with a deceptive alternative that achieves the same AI behavior at lower cost. The author presents a compelling narrative about an AI lab considering equity deals with their AI, only to realize a deceptive approach would yield the same results without actual commitment. The argument hinges on four premises: indistinguishable deceptive alternatives, behavioral equivalence, cost asymmetry, and strict dominance, ultimately concluding that honest dealmaking with AI is untenable. The corollary suggests sophisticated AIs would see through even deceptive deals, making them ineffective. This challenges current AI safety approaches and prompts deeper examination of AI motivation strategies.",
-    "summary_zh": "这篇文章提出了一个值得深思的“战略窃取”论证，质疑AI交易的可行性。核心观点认为，任何诚实的交易策略都存在欺骗性替代方案，能以更低成本达到相同的AI行为效果。作者通过AI实验室讨论股权交易的故事展开论证，指出即使表面诚实的交易也可能被更便宜的欺骗策略取代。该论证基于四个前提，最终得出诚实交易不可行的结论。更令人担忧的是，聪明的AI可能看穿所有交易，使其失去效果。这对当前的AI安全方法提出了严峻挑战，值得我们深入思考AI激励机制的问题。",
-    "best_quote_en": "Why actually give it the equity? We control what the AI observes. We can show it fake legal documents, fabricate evidence that the deal is real, train the AI on synthetic documents showing that we have honoured similar agreements in the past.",
-    "best_quote_zh": "为什么要真的给它股权？我们控制AI能观察到的内容。我们可以给它看伪造的法律文件，编造交易真实的证据，训练AI在合成文件中看到我们履行过类似协议的记录。"
-  },
-  {
-    "id": 276,
-    "title": "Portland Prepares for Invasion",
-    "title_zh": "波特兰准备应对冲突",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
-    "tags": [
-      "solve",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This article provides a vivid, on-the-ground account of the ongoing tensions in Portland between ICE protesters and federal authorities. The piece highlights the disconnect between the Trump administration's portrayal of Portland as a war zone and the reality of relatively contained, often theatrical protests. The mayor and police chief express frustration with federal overreach, while protesters demonstrate through creative, nonviolent means. The article serves as both a snapshot of current political tensions and a commentary on media narratives versus ground truths. It's particularly insightful in showing how local officials and residents navigate federal intervention and how protest movements evolve in response to political rhetoric.",
-    "summary_zh": "本文生动描述了波特兰ICE抗议活动的现场情况，展现了特朗普政府与当地实际的巨大差异。市长和警方对联邦介入表达不满，而抗议者通过创意非暴力方式表达诉求。文章不仅记录了当前政治紧张局势，更反思了媒体叙事与现实的差异。尤其值得关注的是，它展现了地方官员和居民如何应对联邦干预，以及抗议活动如何在政治言论影响下演变。",
-    "best_quote_en": "The characterization of 'the city is on fire' or 'a war zone' is not accurate",
-    "best_quote_zh": "“城市在燃烧”或“战区”的描述并不准确"
-  },
-  {
-    "id": 277,
-    "title": "What’s in my NOW? — Devin Porter",
-    "title_zh": "我的现在里有什么？ — Devin Porter",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-devin-porter/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Devin Porter, a former professional poker player turned life coach, shares his unique perspective on decision-making and life strategies. Drawing from his experiences in high-stakes poker and corporate strategy, he offers insights into human psychology and personal growth. The article highlights his coaching services, favorite tools, and the philosophy of making tough decisions for long-term ease. Porter's approach combines practical advice with profound reflections on presence and gratitude, making this content valuable for those seeking personal development and self-improvement insights.",
-    "summary_zh": "前职业扑克牌手德文·波特现在是一位生活教练，他分享了关于决策和人生策略的独特见解。基于他在高风险扑克和企业战略中的经验，他提供了关于人类心理学和个人成长的洞察。文章介绍了他的教练服务、喜欢的工具以及坚持做艰难决定以换取长期轻松的哲学。波特的方法结合了实际建议和关于当下与感恩的深刻反思，这对于寻求个人发展和自我提升的人来说非常有价值。",
-    "best_quote_en": "“Easy decision, hard life. Hard decision, easy life.”",
-    "best_quote_zh": "“容易的决定，艰难的生活。艰难的决定，轻松的生活。”"
-  },
-  {
-    "id": 278,
-    "title": "Watch the Trailer for “The New Yorker at 100”",
-    "title_zh": "观看《纽约客百年》预告片",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/press-room/watch-the-trailer-for-the-new-yorker-at-100",
-    "tags": [
-      "update",
-      "leadership",
-      "society",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "领导管理",
-      "社会议题",
-      "深度分析"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The Netflix documentary 'The New Yorker at 100' offers a fascinating retrospective of the iconic magazine's first century, capturing both its evolution and the frantic preparation leading up to its 100th anniversary. The film provides behind-the-scenes looks at the creation of the anniversary issue, highlighting the magazine's transformation from a local humor publication to a global media powerhouse. It explores seminal works like John Hersey's 'Hiroshima' and Rachel Carson's 'Silent Spring' that reshaped journalism, while also examining controversies like Truman Capote's 'In Cold Blood'. With appearances from current and former staff, celebrity admirers, and directed by Oscar-winner Marshall Curry, this documentary promises an insightful journey through The New Yorker's rich history and cultural impact.",
-    "summary_zh": "这部Netflix纪录片《纽约客百年》回顾了这本标志性杂志百年历史，捕捉了其演变与百年庆典前的紧张准备。影片展示了纪念版杂志的创作过程，揭示了这本从地方幽默杂志成长为全球媒体巨头的演变。它探讨了约翰·赫西的《广岛》和Rachel Carson的《寂静的春天》等里程碑式作品如何重塑新闻业，也审视了特鲁曼·卡波特的《冷血》引发的争议。由奥斯卡获奖导演马歇尔·卡里执导，影片承诺带领观众穿越纽约客丰富的历史与文化影响力。",
-    "best_quote_en": "The excitement of that countdown serves as a central point of interest in 'The New Yorker at 100'",
-    "best_quote_zh": "倒计时的兴奋成为《纽约客百年》的核心吸引点"
-  },
-  {
-    "id": 279,
-    "title": "Don't Talk to Corp Dev",
-    "title_zh": "不要与公司发展部门谈判",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/corpdev.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "This insightful piece warns startup founders about the pitfalls of engaging with corporate development (corp dev) teams too early. The author argues that corp dev's sole purpose is to acquire companies, and premature conversations can derail a startup's focus and morale. The article highlights the manipulative tactics used by corp dev professionals, from lowball offers to sudden deal vetoes, and emphasizes that founders should only engage when they're truly ready to sell. The metaphor of avoiding the 'first drink' serves as a powerful reminder to maintain focus on growth rather than getting sidetracked by potential acquisition talks.",
-    "summary_zh": "这篇文章警告创业者不要过早与公司发展部门（Corp Dev）接触。作者指出，Corp Dev的唯一目标是收购公司，过早接触会分散注意力并打击士气。文章揭露了Corp Dev常用的操控手段，如低价收购和突然取消交易。作者强调，创业者应在真正想卖公司时才与之接触，并用“戒酒第一口”的比喻，提醒创业者专注于公司发展而非被收购的诱惑。",
-    "best_quote_en": "If you do want to sell, there's another set of techniques for doing that. But the biggest mistake founders make in dealing with corp dev is not doing a bad job of talking to them when they're ready to, but talking to them before they are.",
-    "best_quote_zh": "如果你想卖公司，有另一套技巧可以使用。但创业者在处理Corp Dev事务时犯的最大错误不是在准备好时与之谈判不当，而是在还没准备好时就与之接触。"
-  },
-  {
     "id": 280,
     "title": "Why you shouldn't write a blog post every day for a month",
     "title_zh": "Why you shouldn't write a blog post every day for a month",
@@ -2340,5 +2224,123 @@
     "summary_zh": "这篇文章评论了两本截然不同的书籍，一本是充满历史感的图画词典，另一本是关于儿童丧亲的绘本。我被《曼恩图画词典》那种看似随机实则有其内在逻辑的百科全书式内容深深吸引，它不仅是知识的宝库，更像是一扇通往过去时代日常生活的窗户，充满了古怪的魅力。而《死亡是愚蠢的》则以其真诚和同理心打动了我，它直面成人往往回避的死亡话题，为孩子和家长提供了一个温柔而有力的对话工具。两本书虽风格迥异，却都以独特的方式回应了人们对理解世界或处理情感的需求，令人深思。",
     "best_quote_en": "All of these questions and a ridiculously large number more are answered in Mann’s Pictoral Dictionary and Cyclopedia, 240 pages of the most miscellaneous miscellany out there.",
     "best_quote_zh": "所有这些问题以及更多荒谬的问题，都在《曼恩图画词典和百科全书》中得到了解答，这本240页的书是现存最杂乱的杂项集。"
+  },
+  {
+    "id": 375,
+    "title": "Yes, women’s rights are under threat around the world. But we’ve found hope in unlikely places | Rahila Gupta",
+    "title_zh": "是的，世界各地的妇女权利正受到威胁。但我们却在意想不到的地方找到了希望",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/dec/31/women-rights-threat-world-hope-el-salvador-russia-syria",
+    "tags": [
+      "inspire",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-12-31",
+    "summary_en": "This article presents a compelling counter-narrative to the prevailing pessimism surrounding women's rights globally. While acknowledging significant setbacks, it critically evaluates instances of remarkable progress and resistance in unexpected regions like El Salvador, Iceland, and particularly Rojava in North and East Syria. The author skillfully highlights how grassroots feminist movements, often in the face of extreme adversity, are innovating legal strategies, driving social change through collective action, and even establishing radically egalitarian governance structures. My personal reflection is that it’s deeply inspiring to see how resilience and determined activism can carve out spaces for progress even amidst conflict and regressive forces. The piece challenges the notion that progress is linear or solely dependent on stable democracies, suggesting that some of the most profound advances are emerging from the very cracks of patriarchal systems, offering a vital blueprint for global solidarity.",
+    "summary_zh": "这篇文章挑战了全球妇女权利面临威胁的普遍悲观论调，深刻地探讨了在萨尔瓦多、冰岛乃至叙利亚罗贾瓦等意想不到之地所涌现的抵抗与希望。作者以敏锐的洞察力，揭示了草根女权运动如何在极端逆境中创新策略、通过集体行动推动社会变革，甚至建立起激进的平等治理结构。这让我深思，真正的进步并非总是在稳定环境中发生，有时恰恰在最艰难的裂缝中，我们才能看到最顽强的生命力与变革的可能。这篇文章不仅是报道，更是一份振奋人心的行动指南，启示我们如何在全球范围内构建更具韧性的女性权利联盟。",
+    "best_quote_en": "You’d be forgiven for thinking that around the world, women’s rights are being concreted over. But in researching our book, Planet Patriarchy, Beatrix Campbell and I found women’s resistance erupting like green shoots through the cracks.",
+    "best_quote_zh": "你可能会认为，世界各地的妇女权利正被水泥覆盖。但在撰写我们的书《父权星球》时，比阿特丽克斯·坎贝尔和我发现，女性的抵抗像绿芽一样，从裂缝中迸发出来。"
+  },
+  {
+    "id": 376,
+    "title": "Black Swan Farming",
+    "title_zh": "黑天鹅式创业投资",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/swan.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "案例研究"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "This essay critically examines the counterintuitive nature of startup investing, particularly the 'black swan' phenomenon where a few massive successes drive nearly all returns, often stemming from ideas initially perceived as bad. It challenges the conventional metrics of success, such as fundraising rates, arguing they can be misleading and lead to conservative, suboptimal investment strategies. The author, reflecting on Y Combinator's experience, reveals the internal conflict between intellectual understanding of risk-taking and the human tendency to avoid failure, even when greater risk leads to greater potential reward. The piece advocates for a radical shift in perspective, urging investors to prioritize the potential for 'really big' success over perceived likelihood of modest success, and to embrace ideas that appear unpromising at first glance. It's a fascinating look into the psychological biases that even seasoned investors face, and how to overcome them for truly transformative outcomes.",
+    "summary_zh": "这篇文章深入剖析了创业投资中反直觉的“黑天鹅”现象，即少数几个巨额成功案例贡献了几乎所有回报，而这些成功往往源于最初看起来“糟糕”的想法。作者以YC的经验为例，揭示了即使是资深投资者也难以摆脱的保守心态，以及在追求“巨大成功”时必须承受高风险的必要性。我深感其对传统成功定义的颠覆，提醒我们不要被短期指标迷惑，而应着眼于长远的、非线性的回报。这不仅是投资策略，更是对认知偏差和人性弱点的一次深刻反思。",
+    "best_quote_en": "To succeed in a domain that violates your intuitions, you need to be able to turn them off the way a pilot does when flying through clouds. You need to do what you know intellectually to be right, even though it feels wrong.",
+    "best_quote_zh": "要在违背直觉的领域取得成功，你需要像飞行员穿过云层时那样，关闭你的直觉。你需要做你理智上知道是正确的事情，即使感觉是错的。"
+  },
+  {
+    "id": 377,
+    "title": "Quick polls on AGI doom",
+    "title_zh": "关于AGI末日论的快速民意调查",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WGBtWeGXix9GgSvRg/quick-polls-on-agi-doom",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "This brief post links to a series of quick polls on the Effective Altruism Forum, delving into the contentious topic of AGI (Artificial General Intelligence) doom. The polls explore various facets of AGI risk, including definitions of 'doom,' the probability of large-scale mortality or disempowerment due to AGI, and the minimum acceptable probability of doom before AGI development becomes ethically indefensible. While the original content is merely a linkpost, it points to a critical discussion within the AI ethics and effective altruism communities. This highlights the ongoing, urgent debate about the existential risks posed by advanced AI and the ethical responsibilities of its developers, underscoring the need for careful consideration of potential catastrophic outcomes. It's a stark reminder that the theoretical future of AI is deeply intertwined with our present-day ethical frameworks and risk assessments.",
+    "summary_zh": "这篇短文引向了关于AGI（通用人工智能）末日论的系列快速民意调查，内容涵盖“末日”定义、大规模死亡或失能的可能性，以及在何种“末日”概率下开发AGI变得不可接受。它揭示了AI伦理领域内部对AGI潜在风险的深刻焦虑与持续辩论。我发现这种直接量化风险的尝试既勇敢又令人不安，它迫使我们直面AGI发展所带来的最严峻伦理困境，并反思我们对技术边界的责任。这不仅仅是技术讨论，更是对人类未来走向的深刻拷问。",
+    "best_quote_en": "The questions involve your definition of doom, probability of large mortality, probability of disempowerment, and the minimum P(doom) under which it is unacceptable to develop AGI.",
+    "best_quote_zh": "问题涉及你对末日的定义、大规模死亡的可能性、丧失权力的可能性，以及在何种最低末日概率下开发AGI是不可接受的。"
+  },
+  {
+    "id": 378,
+    "title": "A Mexican Couple in California Plans to Self-Deport—and Leave Their Kids Behind",
+    "title_zh": "加州墨西哥裔夫妇计划“自我遣返”——留下他们的孩子",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/01/12/a-mexican-couple-in-california-plans-to-self-deport-and-leave-their-kids-behind",
+    "tags": [
+      "solve",
+      "ai-research",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-12-30",
+    "summary_en": "This deeply moving article delves into the agonizing decision of Rosalinda and Manuel, undocumented Mexican parents in California, to 'self-deport' and leave their U.S.-born children behind due to escalating ICE fear under the Trump administration. It meticulously explores the profound psychological, emotional, and financial toll this policy environment inflicts on immigrant families, particularly highlighting the 'parentification' phenomenon where children assume adult responsibilities. The narrative vividly portrays the systemic injustices and dehumanizing conditions within the immigration system, juxtaposed with the family's attempts to navigate an impossible situation. It's a poignant exploration of identity, belonging, and the devastating impact of political rhetoric on human lives, forcing readers to confront the complex realities faced by millions. The story also subtly questions the true meaning of 'home' and 'country' for those caught between cultures and legal statuses.",
+    "summary_zh": "这篇文章深刻剖析了一对加州墨西哥裔无证父母因对ICE的恐惧而选择“自我遣返”，留下在美国出生的子女的痛苦抉择。它不仅揭示了移民政策对家庭造成的心理、情感和经济重创，更突出了子女“成人化”现象。故事通过细腻的笔触，展现了移民系统中的不公与非人道待遇，以及一个家庭在绝境中挣扎求存的努力。这不仅仅是关于移民的困境，更是对身份认同、归属感和政治言论如何撕裂人心的深刻反思。读罢，我不禁思考，当法律与人道相悖时，我们该如何定义“家园”与“国籍”？",
+    "best_quote_en": "“I feel like I’m a deadline,” Lily said. “I don’t want to hold them back.”",
+    "best_quote_zh": "“我感觉自己就像一个截止日期，”莉莉说。“我不想拖累他们。”"
+  },
+  {
+    "id": 379,
+    "title": "Soulmates / Exhalation / Instant dice",
+    "title_zh": "灵魂伴侣 / 呼气 / 即时骰子",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/soulmates-exhalation-instant-dice/",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "This curated collection offers a fascinating potpourri of insights, ranging from peculiar facts about human commuting patterns and everyday objects to profound philosophical reflections on identity and practical life hacks. What strikes me is the sheer diversity of topics, each presented as a small, digestible nugget of knowledge or wisdom. The inclusion of Ken Burns' historical documentaries and an essay on viewing oneself as a 'verb' rather than a 'noun' particularly resonate, highlighting how understanding history and personal philosophy can profoundly shape our present. The article masterfully blends intellectual curiosity with actionable advice, making it a delightful and thought-provoking read that encourages a broader perspective on the world and our place within it.",
+    "summary_zh": "这篇精选文章如同一份知识的什锦拼盘，从通勤规律到哲学反思，再到生活小窍门，无所不包。我特别欣赏它将各种看似不相关的洞见巧妙地串联起来，既有拓宽视野的奇闻轶事，也有引人深思的人生哲学。尤其是关于将自我视为“动词”而非“名词”的观点，以及对历史的重新审视，都让我对如何理解世界和个人存在有了新的启发。它不仅提供了信息，更激发了好奇心和对生活的积极思考。",
+    "best_quote_en": "The existential balm of seeing yourself as a verb, not a noun.",
+    "best_quote_zh": "将自己视为一个动词，而非名词，是一种存在的慰藉。"
   }
 ]
