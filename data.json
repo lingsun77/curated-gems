@@ -1,119 +1,5 @@
 [
   {
-    "id": 280,
-    "title": "Why you shouldn't write a blog post every day for a month",
-    "title_zh": "Why you shouldn't write a blog post every day for a month",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/qyvHknFazR9avH5e6/why-you-shouldn-t-write-a-blog-post-every-day-for-a-month",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "The author challenges the common advice of writing daily blog posts by examining the hidden costs and benefits. While rapid writing may seem efficient, it often leads to lower quality content that could harm reputation. However, the author argues these costs are manageable through strategies like selective editing and practice. The piece also highlights how quick writing can improve skills and productivity, though it acknowledges the motivational challenges of long-form content creation. Ultimately, it suggests that the act of creation, despite its difficulties, holds intrinsic value that consumption cannot match.",
-    "summary_zh": "作者质疑了每天写博客的建议，分析了快速写作的潜在成本与收益。虽然快速写作看似高效，但可能导致质量下降，影响声誉。不过，作者认为这些成本可以通过选择性编辑和练习来管理。文章还强调了快速写作如何提升技能和效率，尽管承认长篇内容创作的动力挑战。最终，它认为创作行为，尽管困难，但具有消费和批评无法模仿的内在价值。",
-    "best_quote_en": "The act of creation is life-affirming in a way that consumption and critique can only shallowly imitate.",
-    "best_quote_zh": "创作行为以一种消费和批评只能浅薄模仿的方式肯定生命。"
-  },
-  {
-    "id": 281,
-    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
-    "title_zh": "佐兰·曼达尼竞选市长揭示美国穆斯林面临的现实",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-02",
-    "summary_en": "The article examines the Islamophobic attacks faced by Zohran Mamdani, a Muslim democratic socialist running for NYC mayor, and how they reflect enduring prejudices in America. It traces historical parallels from Obama's 2008 campaign to current political rhetoric, highlighting the systemic nature of Islamophobia. The piece critiques political leaders' willingness to use anti-Muslim tropes without consequence, while noting Mamdani's strategic focus on policy issues despite facing discrimination. It also explores the broader societal context of Muslim experiences post-9/11, including surveillance, hate crimes, and economic struggles. The analysis suggests that Mamdani's campaign is forcing America to confront whether Muslim identity remains incompatible with political leadership.",
-    "summary_zh": "这篇文章分析了穆斯林民主社会主义者佐兰·曼达尼在竞选纽约市长过程中遭遇的伊斯兰恐惧症攻击，以及这些攻击如何反映美国长期存在的偏见。从奥巴马2008年的竞选到当前的政治修辞，文章追溯了历史类比，揭示了伊斯兰恐惧症的系统性。文章批评了政客们肆无忌惮地使用反穆斯林修辞却不受惩罚的现象，同时指出曼达尼在面对歧视的情况下仍坚持将竞选焦点放在政策问题上。它还探讨了9/11后穆斯林群体的更广泛社会经历，包括监视、仇恨犯罪和经济困境。分析表明，曼达尼的竞选正在迫使美国直面穆斯林身份是否仍被视为政治领导力障碍的问题。",
-    "best_quote_en": "To be Muslim in New York is to expect indignity. But indignity does not make us distinct—there are many New Yorkers who face it. It is the tolerance of that indignity.",
-    "best_quote_zh": "在纽约做穆斯林，意味着要接受耻辱。但耻辱并不让我们与众不同——有许多纽约人都在经历这种耻辱。真正的区别在于对这种耻辱的容忍。"
-  },
-  {
-    "id": 282,
-    "title": "Ambient music streams/Thinking skills guide/Kindle hand strap",
-    "title_zh": "环境音乐流/思维技能指南/Kindle手带",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/ambient-music-streams-thinking-skills-guide-kindle-hand-strap/",
-    "tags": [
-      "guide",
-      "education",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "This eclectic collection of recommendations spans diverse topics from cognitive enhancement to digital tools and lifestyle improvements. 'The Great Mental Models' offers timeless critical thinking frameworks, particularly valuable for students and lifelong learners. The Dark Patterns Hall of Shame serves as both a cautionary tale and educational resource about deceptive design practices. Practical recommendations like the Kindle hand strap and Perplexity browser showcase innovative solutions to everyday problems. André Mack's wine expertise provides both education and inspiration for enthusiasts, while the ambient music streaming suggestion revives Brian Eno's original vision for background soundscapes. Each recommendation demonstrates thoughtful curation with clear value propositions.",
-    "summary_zh": "这些五花八门的推荐涵盖认知提升、数字工具到生活改善等多个领域。《大脑思维模型》提供了永恒的批判性思维框架，对学生和终身学习者尤其有价值。黑暗模式名人堂既是警示故事也是关于欺骗性设计实践的教育资源。Kindle手带和Perplexity浏览器等实用推荐展示了对日常问题的创新解决方案。安德烈·麦克的葡萄酒专业知识为爱好者提供了教育和启发，而环境音乐流媒体的建议则复兴了布莱恩·伊诺对背景音景的原始构想。每个推荐都展示了富有洞察力的策展和明确的价值主张。",
-    "best_quote_en": "These are all post-AI skills.",
-    "best_quote_zh": "这些都是AI时代后的技能。"
-  },
-  {
-    "id": 283,
-    "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
-    "title_zh": "Essentials: 减缓与逆转衰老的生物学 | 大卫·辛克莱博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-biology-slowing-reversing-aging-dr-david-sinclair",
-    "tags": [
-      "update",
-      "medicine",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "This Huberman Lab Essentials episode with Dr. David Sinclair dives deep into the biology of aging, offering profound insights into how cellular and molecular mechanisms contribute to the aging process. Sinclair, a Harvard geneticist, discusses actionable strategies like fasting, exercise, and NAD+-boosting compounds such as NMN to activate longevity pathways. The conversation challenges conventional views of aging as inevitable, presenting it as a potentially reversible process influenced by lifestyle choices. The episode is rich with expert insights on epigenetics, sirtuins, and personalized medicine, making it invaluable for those seeking to understand and influence their biological age. Sinclair's approach combines rigorous scientific research with practical advice, offering a roadmap for anyone interested in extending healthspan and potentially lifespan.",
-    "summary_zh": "哈佛大学遗传学教授大卫·辛克莱博士在本期节目中揭示了衰老的生物学机制，指出通过断食、运动和NAD+增强剂等方式可激活延长寿命的途径。他将衰老视为可干预的过程，而非不可避免的命运。辛克莱的研究不仅提供了科学依据，更给出了具体的生活方式建议，让听众能够主动掌控自己的生物年龄。这期内容深入浅出，兼具专业性和实用性，是想延长健康寿命的人士的宝贵资源。",
-    "best_quote_en": "Aging is not a natural process we have to accept, but a disease we can treat.",
-    "best_quote_zh": "衰老并非不可避免的自然过程，而是可以治疗的疾病。"
-  },
-  {
-    "id": 284,
-    "title": "My extreme sickness in pregnancy feels like a personal failure, even as society glorifies motherhood as divine suffering | Intifar Chowdhury",
-    "title_zh": "怀孕期间严重恶心让我感到个人失败，尽管社会将母性神圣化为苦难",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/13/extreme-sickness-pregnancy-feels-like-personal-failure-as-society-glorifies-motherhood-as-divine",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "Intifar Chowdhury's powerful personal account of hyperemesis gravidarum (HG) exposes the devastating physical and psychological toll of extreme pregnancy sickness. The piece challenges societal romanticization of motherhood, revealing how medical dismissal and cultural narratives contribute to women's suffering. Chowdhury's journey highlights the urgent need for better diagnosis, treatment, and cultural understanding of HG, which affects quality of life so severely that many consider pregnancy termination. The cross-cultural minimization of this condition underscores systemic gender bias in medicine and society, where maternal suffering is often dismissed as natural or even virtuous. This thought-provoking piece serves as both a personal catharsis and a call for systemic change in how we perceive and treat pregnancy-related health conditions.",
-    "summary_zh": "Intifar Chowdhury的文章揭露了严重孕吐对女性身体和心理造成的巨大伤害，挑战了社会对母性苦难的浪漫化描述。她的经历凸显了医学上的忽视和文化叙事如何加剧女性的痛苦。文章呼吁改善对妊娠剧吐的诊断和治疗，并呼吁社会更好地理解这一影响生活质量的疾病。这种跨文化忽视暴露了医学和社会中存在的性别偏见。这篇文章既是个人的宣泄，也是对改变我们看待和处理孕期健康问题的系统性呼吁。",
-    "best_quote_en": "'Hyperemesis gravidarum is not a spectrum, it's a cliff. And once you fall off it, there's no soft landing.'",
-    "best_quote_zh": "“妊娠剧吐不是一个连续体，而是一个悬崖。一旦掉下去，就没有柔软的着陆。”"
-  },
-  {
     "id": 285,
     "title": "Let the Other 95% of Great Programmers In",
     "title_zh": "让美国以外的95%的优秀程序员进入美国",
@@ -2342,5 +2228,117 @@
     "summary_zh": "这篇精选文章如同一份知识的什锦拼盘，从通勤规律到哲学反思，再到生活小窍门，无所不包。我特别欣赏它将各种看似不相关的洞见巧妙地串联起来，既有拓宽视野的奇闻轶事，也有引人深思的人生哲学。尤其是关于将自我视为“动词”而非“名词”的观点，以及对历史的重新审视，都让我对如何理解世界和个人存在有了新的启发。它不仅提供了信息，更激发了好奇心和对生活的积极思考。",
     "best_quote_en": "The existential balm of seeing yourself as a verb, not a noun.",
     "best_quote_zh": "将自己视为一个动词，而非名词，是一种存在的慰藉。"
+  },
+  {
+    "id": 380,
+    "title": "The best slippers for men and women, from cosy sheepskin mules to chic ballet shoes",
+    "title_zh": "男女最佳拖鞋：从舒适羊皮便鞋到时尚芭蕾舞鞋",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2024/dec/28/best-slippers-men-women",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "This article offers a delightful and surprisingly insightful guide to selecting the perfect slippers, transcending mere product recommendations to touch upon personal values and lifestyle choices. The author, a self-proclaimed slipper enthusiast, articulates how the right pair can enhance comfort, productivity, and even social interactions within the home. What resonates most is the nuanced categorization of slippers not just by material or style, but by their intended use—whether for warmth, entertaining guests, quick outdoor errands, or even boosting work-from-home focus. The piece subtly champions the idea of self-care and intentional living through seemingly mundane choices, providing practical advice interwoven with a charmingly personal narrative. It's a thoughtful exploration of how a simple item can profoundly impact daily well-being.",
+    "summary_zh": "这篇文章以一种出人意料的深度，探讨了拖鞋的选择哲学。作者将拖鞋视为个人价值观和生活方式的体现，而非仅仅是御寒工具。她不仅细致地分类了不同场景下的最佳选择，更通过个人经历，阐述了合适的拖鞋如何提升居家舒适度、工作效率乃至社交体验。这不仅仅是一篇导购，更是一次关于如何通过微小选择提升生活品质的洞察，充满了人情味和实用智慧，让人重新审视居家服饰的意义。",
+    "best_quote_en": "If it’s true that you can judge a person by their shoes, then it’s perhaps even more so when it comes to their slippers. What you choose to put on your feet in your own home is a window into what you value most. As such, buying the perfect pair for yourself is an act of self-nurture.",
+    "best_quote_zh": "如果说你可以通过一个人的鞋子来判断他，那么在拖鞋方面可能更是如此。你在自己家里选择穿什么在脚上，是了解你最看重什么的一个窗口。因此，为自己购买一双完美的拖鞋，是一种自我呵护的行为。"
+  },
+  {
+    "id": 381,
+    "title": "The Top of My Todo List",
+    "title_zh": "我的待办事项清单之首",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/todo.html",
+    "tags": [
+      "solve",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略"
+    ],
+    "date": "2026-01-02",
+    "summary_en": "This piece offers a profound reflection on the common regrets of the dying, distilling them into actionable advice for living a more fulfilled life. It critically examines the 'errors of omission' – the dreams forgotten, relationships neglected, and happiness suppressed – that often lead to these regrets. The author's personal commitment to inverting these regrets into a set of 'commands' for daily living resonates deeply. It's a powerful reminder that true fulfillment often lies in actively pursuing what matters, rather than passively conforming. The insight that these mistakes are made 'by default' is particularly striking, prompting a re-evaluation of one's own life defaults and priorities.",
+    "summary_zh": "这篇文章深刻反思了临终前的五大遗憾，并将其转化为积极生活的五条诫命。它揭示了我们常常因“不作为的错误”而错失梦想、忽略亲友、压抑情感，最终导致悔恨。作者将这些遗憾逆转为日常行动指令的个人实践，令人深受启发。这不仅是一份待办事项，更是对生命默认设置的重新审视，提醒我们主动塑造人生，而非随波逐流。",
+    "best_quote_en": "Errors of omission are a particularly dangerous type of mistake, because you make them by default.",
+    "best_quote_zh": "不作为的错误是一种特别危险的错误，因为你默认就会犯它们。"
+  },
+  {
+    "id": 382,
+    "title": "2025 in AI predictions",
+    "title_zh": "2025年AI预测回顾",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/69qnNx8S7wkSKXJFY/2025-in-ai-predictions",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-01-02",
+    "summary_en": "This article provides a fascinating retrospective on AI predictions for 2025, made in 2023, 2024, and 2025, and extends to predictions for 2026-2045. The author, jessicata, diligently evaluates the accuracy of these near-term forecasts, revealing a consistent overestimation of AI capabilities, particularly concerning AGI. What struck me most was the humility in self-correction by some predictors and the stark contrast between optimistic industry timelines and more cautious academic views. It highlights the inherent difficulty in forecasting exponential technological progress and the fluid definition of 'AGI.' This collection serves as a valuable historical record, offering critical insights into the evolving perception of AI's trajectory and the challenges of operationalizing complex predictions in a rapidly advancing field.",
+    "summary_zh": "这篇文章对2025年的AI预测进行了引人入胜的回顾，并展望至2045年。作者细致地评估了这些短期预测的准确性，发现AI能力，尤其是通用人工智能（AGI）的发展，普遍被高估。这让我深思，预测指数级技术进步的难度远超想象，且AGI的定义本身也在不断演变。行业领袖的乐观与学界的审慎形成鲜明对比，这不仅是一份历史记录，更是对我们如何理解和预测未来科技发展的一次深刻反思。",
+    "best_quote_en": "As time goes on, \"AGI\" becomes a less useful term, so operationalizing predictions is especially important.",
+    "best_quote_zh": "随着时间的推移，“AGI”这个术语变得越来越不实用，因此对预测进行操作化变得尤为重要。"
+  },
+  {
+    "id": 383,
+    "title": "What Zohran Mamdani and Michael Bloomberg Have in Common",
+    "title_zh": "佐兰·马姆达尼和迈克尔·布隆伯格的共通之处",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/new-york-journal/what-zohran-mamdani-and-michael-bloomberg-have-in-common",
+    "tags": [
+      "analyze",
+      "politics",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "This insightful analysis delves into the surprising parallels between New York's new socialist mayor, Zohran Mamdani, and former plutocrat mayor, Michael Bloomberg. It highlights how both figures, despite their ideological differences, embody outsized visions for the city and share an unconventional approach to governance, particularly in talent acquisition and empowering their teams. The article critically examines their distinct forms of 'capital' – Bloomberg's financial might versus Mamdani's command of attention and social media virality – and how these influence their political strategies and public engagement. It thoughtfully explores the tension between their differing urban ideals, from Bloomberg's 'luxury product' city to Mamdani's vision of affordability and community, ultimately suggesting that both represent a departure from traditional political norms and offer a compelling study in leadership.",
+    "summary_zh": "这篇文章对纽约新任市长佐兰·马姆达尼与前市长迈克尔·布隆伯格进行了引人深思的比较。尽管意识形态截然不同，他们都在城市治理中展现出非传统的领导力，尤其在吸引人才和赋予团队权力方面有共通之处。布隆伯格的金融资本与马姆达尼的注意力资本形成了鲜明对比，这不仅塑造了他们的政治策略，也反映了时代变迁中政治资本的多元化。我个人认为，这种跨越阶层和意识形态的相似性，揭示了在复杂城市管理中，个人魅力和创新方法可能比传统政治路线更具影响力。文章启发我们思考，领导者的个人特质和对城市愿景的坚定信念，才是其政治遗产的真正核心。",
+    "best_quote_en": "“If he’s a technocrat like Mike was, he’ll be a good mayor.”",
+    "best_quote_zh": "“如果他像迈克一样是个技术官僚，他会是个好市长。”"
+  },
+  {
+    "id": 384,
+    "title": "Best Retiree Spots/Welcoming Nomad Destinations/Loyalty Doesn’t Pay",
+    "title_zh": "最佳退休地点/欢迎游民目的地/忠诚度不再有回报",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/best-retiree-spots-welcoming-nomad-destinations-loyalty-doesnt-pay/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "leadership"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "领导管理"
+    ],
+    "date": "2026-01-01",
+    "summary_en": "This piece offers a fascinating, albeit fragmented, look into global lifestyle and travel economics. It critically evaluates popular retirement destinations, highlighting factors beyond mere popularity like medical care and residency perks, prompting readers to consider nuanced aspects of relocation. The article also provides a practical guide for digital nomads, distinguishing between countries offering easy long-term stays versus those with complex visa requirements, which is incredibly useful for location-independent professionals. Most intriguingly, it challenges the conventional wisdom of airline loyalty programs, advocating for credit card maximization as a superior strategy for earning travel rewards. This insight is particularly salient in an era where traditional loyalty programs are increasingly devalued. The inclusion of an alternative points currency further empowers travelers to optimize their spending, reflecting a savvy, consumer-first perspective on travel hacking.",
+    "summary_zh": "这篇文章以其独特的视角，将退休、数字游民和旅行忠诚度这三个看似不相关的议题巧妙地串联起来。它不仅提供了实用的全球退休和游民目的地建议，更深刻揭示了航空公司忠诚计划的局限性，鼓励读者跳出传统思维，转而利用信用卡积分等更高效的方式获取旅行福利。这种对现有模式的批判性审视和对替代方案的探索，无疑为追求自由和高性价比生活的读者提供了极具价值的启发。我特别欣赏作者对“忠诚度不再有回报”的直白论断，这触及了现代消费主义下消费者与品牌关系的核心问题。",
+    "best_quote_en": "Forget loyalty: if you want to earn free flights, you’ll get there far faster by just maximizing your credit card spending instead, preferably with a card that allows multi-airline transfers.",
+    "best_quote_zh": "忘掉忠诚度吧：如果你想赚取免费航班，通过最大化你的信用卡消费会快得多，最好是使用一张允许多航空公司转账的卡。"
   }
 ]
