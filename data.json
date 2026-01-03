@@ -1,123 +1,5 @@
 [
   {
-    "id": 285,
-    "title": "Let the Other 95% of Great Programmers In",
-    "title_zh": "让美国以外的95%的优秀程序员进入美国",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/95.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This insightful essay argues that American technology companies' push for easier immigration is justified by the global distribution of exceptional programming talent. The author contends that only 5% of the world's great programmers are born in the US, making immigration essential to maintain technological leadership. The piece highlights the qualitative difference between competent and exceptional programmers, noting that exceptional talent can't be trained but must be nurtured. The author warns that failing to attract top global talent could lead to a brain drain, with the best programmers potentially concentrating in other hubs. The article combines economic reasoning with a passionate plea for policy change, emphasizing that this is an opportunity that costs nothing to seize.",
-    "summary_zh": "美国技术公司呼吁简化移民程序，本文从全球优秀程序员分布的角度深入分析了这一现象。作者指出，仅5%的顶尖程序员出生于美国，移民是保持技术领先地位的关键。文中强调优秀程序员与普通程序员的质的差异，认为这种天赋无法通过培训获得。作者警告，若无法吸引全球顶尖人才，可能导致人才流失，优秀程序员集中于其他中心。这篇文章以经济分析为基础，结合激情洋溢的政策倡议，强调这是一个几乎不需要成本的机会。",
-    "best_quote_en": "The US has less than 5% of the world's population. Which means if the qualities that make someone a great programmer are evenly distributed, 95% of great programmers are born outside the US.",
-    "best_quote_zh": "美国拥有全球不到5%的人口。这意味着如果构成优秀程序员的特质均匀分布，那么95%的优秀程序员出生在国外。"
-  },
-  {
-    "id": 286,
-    "title": "Rainbows, fractals, and crumpled paper: Hölder continuity",
-    "title_zh": "彩虹、分形与皱纸：Hölder连续性",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/msurwpyppAbyQrE9y/rainbows-fractals-and-crumpled-paper-hoelder-continuity",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This exploration of space-filling curves and color mapping reveals fascinating mathematical connections between dimensions. The author examines the challenge of creating smooth transitions between color spaces using bijections, with particular focus on the Hölder continuity of such mappings. The discussion of the Hilbert curve as a solution for the 2D-to-1D case provides insight into fractal dimensions and their applications. The piece bridges abstract mathematics with practical visualizations like allRGB images, offering a unique perspective on how mathematical theory can solve real-world problems in image processing and data visualization.",
-    "summary_zh": "这篇文章探讨了空间填充曲线与色彩映射之间的数学联系，揭示了维度转换的奥秘。作者通过分析色彩空间的平滑过渡问题，重点研究了Hölder连续性映射。对于二维到一维的映射问题，希尔伯特曲线提供了一个完美的解决方案，展示了分形维度的应用。这篇文章将抽象的数学理论与实际的图像处理问题结合，展现了数学如何解决现实世界的挑战。",
-    "best_quote_en": "The Hilbert curve has the nice property that an interval of length r of the unit interval gets mapped to a reasonably compact region of area r in the square, which has a diameter on the order of √r.",
-    "best_quote_zh": "希尔伯特曲线有一个很好的性质，即单位区间内长度为r的区间会被映射到正方形内面积为r的相当紧凑区域，其直径约为√r。"
-  },
-  {
-    "id": 287,
-    "title": "Joachim Trier Has Put Oslo on the Cinematic Map",
-    "title_zh": "约阿希姆·特里尔让奥斯陆在电影地图上占据一席之地",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/11/10/joachim-trier-profile",
-    "tags": [
-      "analyze",
-      "education",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "This profile of Joachim Trier offers a deep dive into the Norwegian director's unique approach to filmmaking and his profound connection with his hometown of Oslo. The article highlights Trier's empathetic directing style, his preference for intimate character studies, and his ability to capture the melancholic beauty of Oslo as a character in its own right. The piece explores Trier's recurring themes of depression, familial relationships, and the transience of human life, as seen in his latest film 'Sentimental Value' and his previous works like 'The Worst Person in the World'. The article also delves into Trier's personal background, his collaborative relationships with actors and co-writer Eskil Vogt, and his distinctive aesthetic influenced by his skateboarding background and cinematic influences. It's a thoughtful examination of an artist who blends personal introspection with universal themes, making his films resonate with audiences worldwide.",
-    "summary_zh": "约阿希姆·特里尔的独特导演风格和他与故乡奥斯陆深厚的情感联系。文章突出了特里尔富有同情心的导演风格，他对亲密角色研究的偏好，以及他能够将奥斯陆的忧郁之美拍摄成影片中一个独特的角色。该文探讨了特里尔在其最新电影《情感价值》和之前的作品如《世界上最差劲的人》中反复出现的主题：抑郁、家庭关系以及人类生命的短暂性。文章还深入挖掘了特里尔的个人背景，他与演员和合作编剧埃斯基尔·沃格特之间的协作关系，以及受他的滑板背景和电影影响而形成的独特美学。这是对一个将个人内省与普遍主题相结合的艺术家的深刻探讨，使他的电影能够引起全球观众的共鸣。",
-    "best_quote_en": "People work better that way—at least, the people I want to work with.",
-    "best_quote_zh": "人们这样工作效率更高——至少，这是我喜欢与之合作的人。"
-  },
-  {
-    "id": 288,
-    "title": "Podcast Magic/Snap-on phone charger/OpenWebcam Database",
-    "title_zh": "播客魔法/手机磁吸充电器/开放网络摄像头数据库",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/podcast-magic-snap-on-phone-charger-openwebcam-database/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This collection of recommendations showcases clever solutions to everyday problems, blending practicality with innovation. Podcast Magic offers a simple way to capture and transcribe podcast moments without complex setups, appealing to audio content consumers who value efficiency. The Anker 621 MagGo charger solves the traveler's dilemma of managing cables and portable power, demonstrating how magnetic technology can enhance convenience. The OpenWebcam Database provides a fascinating window into global daily life, serving as both a productivity reset tool and a source of cultural connection. These recommendations highlight the intersection of technology and human needs, offering both immediate utility and deeper engagement with the world.",
-    "summary_zh": "这些推荐展示了解决日常问题的巧妙方案，兼具实用性与创新性。播客魔法提供了不需要复杂设置的录制和转录功能，吸引了重视效率的音频内容消费者。安克621 MagGo充电器解决了旅行者管理电缆和便携电源的困境，展示了磁力技术如何提升便利性。开放网络摄像头数据库为全球日常生活提供了令人着迷的窗口，既是提高效率的工具，也是文化连接的源泉。这些推荐凸显了技术与人类需求的交汇点，既提供即时实用性，又带来更深层次的世界观。",
-    "best_quote_en": "This slim 5,000mAh power bank magnetically snaps to newer iPhones. No more fumbling with cables and separate battery packs.",
-    "best_quote_zh": "这个薄型5000mAh电池组可以磁吸到新款iPhone上。不再需要摸索电缆和单独的电池包。"
-  },
-  {
-    "id": 289,
-    "title": "Jess Cartner-Morley on fashion: introducing the twinset 2.0 – where practicality meets panache",
-    "title_zh": "杰斯·卡特纳-莫利关于时尚：介绍双套装2.0——实用与优雅并存",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/nov/05/jess-cartner-morley-winter-style-twinset-jumper-trend",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "Jess Cartner-Morley's piece on the resurgence of the twinset offers a fascinating exploration of how fashion trends evolve while maintaining their core appeal. The 'twinset 2.0' represents a modern interpretation of the classic matched sweater and cardigan set, embracing layering, texture, and a more casual aesthetic. This trend speaks to our collective desire for comfort without sacrificing style, reflecting a post-pandemic shift towards polished yet approachable fashion. The analysis highlights how fashion can reinvent traditional elements, making them relevant to contemporary sensibilities while offering practical benefits like added warmth and visual interest. The piece also touches on the democratic nature of this trend, requiring no new purchases but simply creative styling of existing knitwear.",
-    "summary_zh": "杰斯·卡特纳-莫利的文章探讨了双套装复兴的现象，展现了时尚趋势如何在保持核心魅力的同时不断演变。新版双套装将传统的毛衣与针织衫搭配升级为时尚层叠，强调质感与随性风格。这一趋势反映了人们对舒适与时尚并重的渴望，体现了疫情后对休闲却不失精致的审美追求。分析指出时尚如何赋予传统元素新生，既符合当代审美又提供实用价值，如保暖和视觉层次感。文中还提到这股风潮不需新购置衣物，仅需巧妙搭配现有针织品，展现了时尚的包容性与创造力。",
-    "best_quote_en": "The new twinset is a way to experiment with texture, proportion and colour",
-    "best_quote_zh": "新版双套装为质感、比例和色彩的实验提供了途径"
-  },
-  {
     "id": 290,
     "title": "How to Be an Expert in a Changing World",
     "title_zh": "在变化的世界中如何成为专家",
@@ -2340,5 +2222,119 @@
     "summary_zh": "这篇文章以其独特的视角，将退休、数字游民和旅行忠诚度这三个看似不相关的议题巧妙地串联起来。它不仅提供了实用的全球退休和游民目的地建议，更深刻揭示了航空公司忠诚计划的局限性，鼓励读者跳出传统思维，转而利用信用卡积分等更高效的方式获取旅行福利。这种对现有模式的批判性审视和对替代方案的探索，无疑为追求自由和高性价比生活的读者提供了极具价值的启发。我特别欣赏作者对“忠诚度不再有回报”的直白论断，这触及了现代消费主义下消费者与品牌关系的核心问题。",
     "best_quote_en": "Forget loyalty: if you want to earn free flights, you’ll get there far faster by just maximizing your credit card spending instead, preferably with a card that allows multi-airline transfers.",
     "best_quote_zh": "忘掉忠诚度吧：如果你想赚取免费航班，通过最大化你的信用卡消费会快得多，最好是使用一张允许多航空公司转账的卡。"
+  },
+  {
+    "id": 385,
+    "title": "UN distances itself from International Women’s Day website winning corporate partnerships",
+    "title_zh": "联合国与通过企业合作盈利的国际妇女节网站划清界限",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/18/international-womens-day-website-owned-london-pr-firm-not-linked-to-un",
+    "tags": [
+      "learn",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This article uncovers a significant ethical and branding issue surrounding International Women's Day. It reveals how a London-based marketing firm, IWD Support Ltd., has successfully leveraged the widely recognized event through its website, internationalwomensday.com, to sell merchandise, host corporate partnerships, and set themes, despite having no affiliation with the United Nations, the traditional custodian of IWD. The piece critically highlights how major corporations and institutions have inadvertently adopted themes and endorsed activities from this commercial entity, mistaking it for an official UN-sanctioned platform. The UN's explicit disavowal underscores a concerning trend where commercial interests can co-opt and potentially dilute the authentic message and purpose of global social movements. This situation prompts reflection on the vigilance required to protect the integrity of such important observances from commercial exploitation.",
+    "summary_zh": "这篇文章揭露了一个令人深思的现象：一个商业实体如何巧妙地利用“国际妇女节”这一全球性节日进行商业运作，甚至误导了众多知名企业和机构。联合国明确否认与其网站存在关联，这不仅是对品牌混淆的澄清，更是对社会运动商业化倾向的警示。它促使我们反思，在信息爆炸的时代，如何辨别和维护公共议题的纯粹性，避免其被商业利益所绑架。这种现象值得我们高度关注，以保护重要社会议题的公信力。",
+    "best_quote_en": "Your inquiry provides an important opportunity to clarify that UN Women and the United Nations are not affiliated with the website referenced.",
+    "best_quote_zh": "您的询问提供了一个重要的机会来澄清，联合国妇女署和联合国与所提及的网站没有关联。"
+  },
+  {
+    "id": 386,
+    "title": "Writing and Speaking",
+    "title_zh": "写作与演讲",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/speak.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "psychology"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "心理学"
+    ],
+    "date": "2026-01-03",
+    "summary_en": "This essay offers a thought-provoking comparison between writing and speaking, arguing that while good ideas are paramount in writing, they play a surprisingly minor role in effective public speaking. The author, reflecting on personal experiences, suggests that compelling speaking often prioritizes audience engagement, emotional resonance, and even a degree of 'bullshitting' over substantive intellectual content, especially as audience size increases. He posits that writing allows for deeper ideation and refinement, whereas speaking, particularly extemporaneous delivery, can sometimes sacrifice intellectual depth for immediate impact and audience connection. This analysis challenges conventional wisdom, urging us to reconsider the true purpose and value of different communication forms. It’s a fascinating exploration of how the medium shapes the message and the audience's reception.",
+    "summary_zh": "这篇文章对写作与演讲进行了深刻的对比，作者以亲身经历为证，提出好的想法是写作的核心，但在演讲中，其重要性却可能被夸大。我特别认同他关于演讲有时为了迎合听众、制造氛围而牺牲深度思考的观点。这让我反思，我们是否过于追求演讲的“表演性”，而忽略了其作为思想载体的本质。文章揭示了不同沟通形式的内在逻辑，以及它们如何塑造我们的思想和认知，非常值得一读。",
+    "best_quote_en": "Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction.",
+    "best_quote_zh": "成为一个真正优秀的演讲者，不仅与拥有好的想法不相干，在许多方面甚至会把你推向相反的方向。"
+  },
+  {
+    "id": 387,
+    "title": "Why We Should Talk Specifically Amid Uncertainty",
+    "title_zh": "在不确定性中，我们为何应该具体地表达",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WLJeHLLnhCyQ9tyb7/why-we-should-talk-specifically-amid-uncertainty",
+    "tags": [
+      "solve",
+      "leadership",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-01-03",
+    "summary_en": "This thought-provoking article argues for the critical importance of specific, intentional communication, especially in times of uncertainty. The author critiques the prevalent tendency towards vague discourse in both professional and political spheres, highlighting its detrimental effects on decision-making and organizational efficiency. Drawing on personal experiences and even a declassified CIA sabotage manual, the piece illustrates how ambiguity can undermine progress and foster inertia. It extends this argument to pressing issues like AI safety and climate change, urging communities to move beyond abstract ideals to propose concrete, actionable policies. The article champions courage in advocacy, emphasizing that real change stems from specific proposals, even if imperfect, rather than mere 'vibes' or general consensus. It's a compelling call to action for clearer, bolder communication as a pathway to effective problem-solving.",
+    "summary_zh": "这篇文章深刻剖析了在不确定性中，具体表达的重要性。作者认为，无论是职场还是政治，模糊的言辞不仅效率低下，更阻碍了实际问题的解决。我特别欣赏作者引用中情局破坏手册来反证，这无疑增添了论证的趣味性和说服力。文章最终呼吁在AI安全、气候变化等关键领域，我们需要抛弃空泛的“氛围感”，勇敢提出具体可行的政策，即便不完美，也胜过无止尽的讨论。这不仅是沟通技巧，更是推动社会进步的责任与勇气。",
+    "best_quote_en": "Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.",
+    "best_quote_zh": "只有危机——无论是真实的还是感知到的——才能带来真正的改变。当危机发生时，所采取的行动取决于现有的思想。我相信，这是我们的基本职能：发展现有政策的替代方案，并使其保持活力和可用，直到政治上不可能的事情变得政治上不可避免。"
+  },
+  {
+    "id": 388,
+    "title": "Gaza After the Ceasefire",
+    "title_zh": "停火后的加沙",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/gaza-after-the-ceasefire",
+    "tags": [
+      "solve",
+      "politics",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2026-01-02",
+    "summary_en": "This interview offers a stark, first-hand account of the humanitarian crisis persisting in Gaza post-ceasefire, as described by Ayed Abu Ramadan, Chairman of the Gaza Chamber of Commerce. It critically evaluates the limited and restricted aid flow, highlighting Israel's alleged 'economic warfare' tactics, such as imposing exorbitant 'coordination commissions' and preventing essential goods from entering. The piece underscores the dire living conditions for hundreds of thousands, the near-total unemployment, and the severe lack of basic necessities. Despite the grim reality, Abu Ramadan expresses a surprising, almost desperate, hope in the 'Trump plan' for a lasting solution and emphasizes the resilience of Gazans determined to rebuild their lives and stay in their homeland. It's a poignant exploration of resilience amidst systemic suffering, prompting reflection on the complexities of international aid, political leverage, and human dignity.",
+    "summary_zh": "这篇访谈揭示了停火后加沙地带持续的人道主义危机，通过加沙商会主席阿耶德·阿布·拉马丹的视角，我们看到了一种令人心碎的坚韧。以色列对援助物资的严格限制，以及所谓的“经济战”，让加沙人民的生存条件异常艰难。然而，令人动容的是，在如此绝望的境地中，拉马丹先生仍对“特朗普计划”抱有希望，并强调了加沙人民不屈不挠的生存意志和对家园的深切眷恋。这不仅是对现状的控诉，更是对人性韧性与希望的深刻思考。",
+    "best_quote_en": "I think it’s economic warfare. I think it’s to allow some Israeli-favored people to profit here from this. It’s also to shock Palestinians so their health will deteriorate. It’s about deepening malnutrition, making life difficult.",
+    "best_quote_zh": "我认为这是经济战。我认为这是为了让一些以色列偏爱的人从中获利。这也是为了震慑巴勒斯坦人，让他们健康状况恶化。这是为了加深营养不良，让生活变得艰难。"
+  },
+  {
+    "id": 389,
+    "title": "52 Surprising Things / Watchable American history / See yourself as a verb",
+    "title_zh": "52个惊喜 / 可观看的美国历史 / 将自己视为动词",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/52-surprising-things-watchable-american-history-see-yourself-as-a-verb/",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "This eclectic collection offers a fascinating glimpse into diverse topics, ranging from historical observations like Marchetti's Constant to practical life hacks such as sharpening Airbnb knives, and profound philosophical reflections on selfhood. What truly captivates me is the sheer breadth of human curiosity and ingenuity showcased here. The piece on seeing oneself as a verb particularly resonates, offering a refreshing perspective on existential anxieties by reframing identity as a dynamic process rather than a static entity. Similarly, the curated quotes provide concise bursts of wisdom that can reframe perspectives on problems and opportunities. It's a delightful reminder that learning and insight can come from the most unexpected corners, encouraging a perpetual state of wonder and critical thought.",
+    "summary_zh": "这篇内容包罗万象，从历史常数到生活妙招，再到深刻的哲学思考，都令人耳目一新。我特别喜欢“将自己视为动词”的理念，它为存在的焦虑提供了一种全新的视角，将自我定义为一个不断发展的过程，而非固定的实体。这种思维转变不仅能减轻完美主义的压力，也让人对生命有了更豁达的理解。而那些精选的语录，则像思想的火花，瞬间点亮认知，引导我们以更开放的心态面对问题与机遇。它提醒我们，智慧无处不在，只要保持好奇心，便能不断发现惊喜。",
+    "best_quote_en": "The existential balm of seeing yourself as a verb, not a noun” is a perspective‑shifting essay that explores a gentler way to hold the fear of death by reframing the self not as something fixed, but as a natural unfolding process.",
+    "best_quote_zh": "“将自己视为动词，而非名词的存在慰藉”是一篇视角转换的文章，它通过将自我重新定义为一种自然的展开过程而非固定不变的事物，探索了一种更温和地面对死亡恐惧的方式。"
   }
 ]
