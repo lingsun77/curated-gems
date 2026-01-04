@@ -1,121 +1,5 @@
 [
   {
-    "id": 290,
-    "title": "How to Be an Expert in a Changing World",
-    "title_zh": "在变化的世界中如何成为专家",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ecw.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This essay explores the challenge of maintaining expertise in a rapidly changing world. The author argues that traditional expertise can become obsolete as conditions evolve, and offers strategies from startup investing to stay adaptable. Key insights include: (1) Actively seek change rather than assuming static conditions, (2) Cultivate aggressive open-mindedness and sensitivity to emerging trends, (3) Focus on people rather than just ideas when evaluating potential, and (4) Surround yourself with innovative individuals. The piece blends practical advice with philosophical reflection on knowledge and belief systems, offering valuable perspective for professionals across fields.",
-    "summary_zh": "这篇文章探讨了在快速变化的世界中保持专业知识的挑战。作者认为，随着条件变化，传统专业知识可能变得过时，并提出了从创业投资中得到的保持适应力的策略。核心观点包括：(1) 主动寻找变化而非假设静态条件，(2) 培养开放包容的心态和对新趋势的敏感度，(3) 在评估潜力时更关注人而非仅仅是想法，(4) 与创新人士为伍。文章将实用建议与对知识和信念体系的哲学思考相结合，为各领域专业人士提供了宝贵的视角。",
-    "best_quote_en": "The way to come up with new ideas is not to try explicitly to, but to try to solve problems and simply not discount weird hunches you have in the process.",
-    "best_quote_zh": "产生新想法的方式不是刻意尝试，而是解决问题时不要忽略那些奇怪的直觉。"
-  },
-  {
-    "id": 291,
-    "title": "Geometric UDT",
-    "title_zh": "几何UDT",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Gmaq7vMj9NWLyQkEx/geometric-udt",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This thought-provoking essay explores the intersection of updateless decision theory (UDT) and value learning in artificial superintelligence. The author presents 'Geometric UDT,' a novel approach combining Nash bargaining with UDT to address challenges in value learning while maintaining reflective consistency. The core insight is that traditional UDT struggles with 'nosy neighbor' utility functions that consider outcomes across hypothetical worlds. Geometric UDT proposes a bargaining framework between value hypotheses, using an updateful policy as a baseline to ensure fairness. The analysis reveals important implications for AI alignment, particularly how to handle value uncertainty without sacrificing optimal decision-making. The essay's technical depth and interdisciplinary approach make it valuable for researchers in AI ethics and decision theory.",
-    "summary_zh": "这篇文章深入探讨了无更新决策理论（UDT）与价值学习在人工超级智能中的结合。作者提出了“几何UDT”，通过将纳什协商解与UDT结合，解决价值学习中遇到的反射一致性问题。核心观点是传统UDT难以处理“窥探邻居”效应，即价值函数跨多个假设世界考虑结果。几何UDT建议通过假设之间的协商解决方案，以更新型政策为基准保证公平性。分析揭示了人工智能对齐领域的重要启示，特别是如何在保持最优决策的同时处理价值不确定性。文章的技术深度和跨学科方法使其成为AI伦理与决策理论研究者的重要参考。",
-    "best_quote_en": "Geometric UDT advises us to use a fair prior (in the Nash Bargaining Solution sense) instead of our honest prior. The honest prior has a chance of completely screwing over humans (completely ignoring the correct value-hypothesis even in the face of overwhelming evidence), whereas the fair prior does not.",
-    "best_quote_zh": "几何UDT建议我们使用公平先验（在纳什协商解的意义上）而不是我们的真实先验。真实先验有可能完全忽略正确的价值假设（即使面对压倒性的证据），而公平先验则不会。"
-  },
-  {
-    "id": 292,
-    "title": "What the Democrats’ Good Night Means for 2026 and Beyond",
-    "title_zh": "民主党在2025年的大胜意味着什么？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/what-the-democrats-good-night-means-for-2026-and-beyond",
-    "tags": [
-      "guide",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "The 2025 election results reveal significant insights about the shifting political landscape. Democrats outperformed expectations in key races, suggesting that their strategy of focusing on economic issues and moderation resonated with voters. The analysis highlights the polarization of the electorate and the challenges Republicans face without Trump on the ballot. The discussion also touches on the structural advantages Democrats hold in off-year elections and the potential implications for future races, including the 2028 presidential election. The interview with Sean Trende, a senior elections analyst, provides a nuanced perspective on voter behavior and party strategies, emphasizing the importance of turnout over persuasion in a highly polarized environment.",
-    "summary_zh": "2025年的选举结果揭示了政治格局的显著变化。民主党在关键选举中超出预期，表明其聚焦经济议题和温和路线的策略赢得了选民支持。分析指出选民极化加剧，共和党在特朗普缺席情况下面临挑战。讨论还涉及民主党在非大选年中的结构性优势及未来选举的潜在影响，包括2028年总统大选。与选举分析师肖恩·特伦德的访谈，提供了关于选民行为和政党策略的深入见解，强调在高度极化的环境中，动员选民比说服选民更为重要。",
-    "best_quote_en": "Elections are referenda on the party in power. People's dislike of some things that Democrats believe and do might be a problem for governing when Democrats win, but I don’t think it’s a problem for elections.",
-    "best_quote_zh": "选举是对执政党的公投。人们对民主党的一些信念和行为的不满，可能在民主党赢得选举后成为治理的问题，但我认为这并不影响选举结果。"
-  },
-  {
-    "id": 293,
-    "title": "Free Press / Building Stories",
-    "title_zh": "自由媒体 / 建筑故事",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/free-press-building-stories/",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This content presents two distinct creative works that explore different aspects of storytelling and visual communication. The first, 'Free Press,' is a visual history of underground newspapers from 1965-1975, showcasing how counterculture movements used alternative media to challenge societal norms and promote progressive ideas. The book serves as both a historical document and a design reference, highlighting the raw energy and experimental nature of the era's underground press. The second work, 'Building Stories,' is Chris Ware's magnum opus that deconstructs traditional comic storytelling through its innovative physical presentation and exploration of human struggle. Both works demonstrate how media can be used to challenge conventions and connect with audiences on deeper emotional levels.",
-    "summary_zh": "本内容介绍了两部探索叙事与视觉传达的艺术作品。第一部《自由媒体》是1965-1975年地下报纸的视觉史，展示了反文化运动如何通过替代媒体挑战社会规范，推动进步理念。这本书既是历史文献，也是设计参考，凸显了那个时代地下媒体的原始能量与实验精神。第二部《建筑故事》是克里斯·韦尔的代表作，通过创新的物理呈现方式和对人类困境的探索，颠覆了传统漫画叙事。两部作品都展示了媒体如何挑战常规，在更深层次上与受众产生共鸣。",
-    "best_quote_en": "When I was designing bOING bOING (the late 1980s/early 1990s zine) I was inspired by the precious few samples of The East Village Other, The Realist, and The Gothic Blimp Works that I could find in used bookstores.",
-    "best_quote_zh": "当我在设计《嘟嘟声》（20世纪80年代末/90年代初的杂志）时，我从旧书店中能找到的《东村他报》《现实主义者》和《哥特气球工厂》的寥寥几份样本中获得了灵感。"
-  },
-  {
-    "id": 294,
-    "title": "Single mothers in China find a new kind of partner – other single mothers",
-    "title_zh": "中国单亲妈妈找到新伴侣——其他单亲妈妈",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers",
-    "tags": [
-      "solve",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "This article explores an emerging social trend in China where single mothers are forming cohabitation arrangements with other single mothers to share childcare responsibilities and living costs. The piece highlights the practical benefits of these arrangements, including emotional support and shared household management, while also acknowledging the societal challenges and lack of formal legal protections. The story is framed through personal narratives of women who have successfully navigated these relationships, offering a nuanced look at how economic pressures and changing social dynamics are reshaping family structures in China. The article raises important questions about state welfare provisions and the evolving perception of single-parent families in a society traditionally rooted in conventional family values.",
-    "summary_zh": "中国单身母亲在经济压力和社会变迁下，开始尝试与同类人共同生活，分担抚养孩子的责任和生活成本。这篇文章通过真实案例展现了这种新型家庭模式带来的实际益处，同时也揭示了社会对单亲母亲的偏见和国家福利体系的不足。当前社会对离婚和单亲家庭的看法正在逐渐改变，但传统家庭价值观仍在农村地区根深蒂固。这种非正式的共居安排既有成功案例，也存在挑战，反映了中国家庭结构正在经历的深刻变革。",
-    "best_quote_en": "'At the core, we both know very clearly why we’re together – it’s about sharing and managing the risks and pressures of life.'",
-    "best_quote_zh": "我们核心的原因就是分享和应对生活中的风险与压力。"
-  },
-  {
     "id": 295,
     "title": "How You Know",
     "title_zh": "你是如何知道的",
@@ -2336,5 +2220,119 @@
     "summary_zh": "这篇内容包罗万象，从历史常数到生活妙招，再到深刻的哲学思考，都令人耳目一新。我特别喜欢“将自己视为动词”的理念，它为存在的焦虑提供了一种全新的视角，将自我定义为一个不断发展的过程，而非固定的实体。这种思维转变不仅能减轻完美主义的压力，也让人对生命有了更豁达的理解。而那些精选的语录，则像思想的火花，瞬间点亮认知，引导我们以更开放的心态面对问题与机遇。它提醒我们，智慧无处不在，只要保持好奇心，便能不断发现惊喜。",
     "best_quote_en": "The existential balm of seeing yourself as a verb, not a noun” is a perspective‑shifting essay that explores a gentler way to hold the fear of death by reframing the self not as something fixed, but as a natural unfolding process.",
     "best_quote_zh": "“将自己视为动词，而非名词的存在慰藉”是一篇视角转换的文章，它通过将自我重新定义为一种自然的展开过程而非固定不变的事物，探索了一种更温和地面对死亡恐惧的方式。"
+  },
+  {
+    "id": 390,
+    "title": "Shackled, alone and scared: the grim reality for women forced to give birth in prison",
+    "title_zh": "被镣铐束缚、孤立无援、恐惧万分：女性被迫在监狱中分娩的残酷现实",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/dec/18/shackled-alone-pregnant-women-forced-birth-prison",
+    "tags": [
+      "solve",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This article starkly illuminates the harrowing experiences of pregnant women incarcerated globally, revealing a systemic failure to uphold basic human rights. It critically examines how many prison systems, designed primarily for men, are inherently ill-equipped to provide humane care for pregnant individuals, leading to deplorable conditions, denial of medical attention, and even infant deaths. The piece powerfully uses individual stories, like Dina Hernández's and Nora Calandra's, to underscore the devastating personal impact of these policies, while also highlighting the global rise in female incarceration. It prompts a crucial re-evaluation of punitive justice systems, advocating for community-based solutions and adherence to international guidelines like the Bangkok Rules, which are currently widely flouted. The article's true value lies in its unflinching exposure of a hidden crisis and its call for urgent reform.",
+    "summary_zh": "这篇文章揭示了全球范围内被监禁孕妇的残酷现实，读来令人心痛。我深感震惊于这些女性所遭受的非人待遇，以及国际准则被公然漠视的现状。它不仅是关于监狱条件的报道，更是对社会正义、性别平等等深层问题的拷问。文章通过个案触及人心，呼吁我们反思，为何一个社会会允许如此基本的人权被践踏。这不仅仅是法律问题，更是人性的缺失，我们必须为此发声，推动改革。",
+    "best_quote_en": "“Many prisons were built with men in mind, so women were an afterthought. There are lots of issues around violence, a lack of resources, a lack of sanitation, overcrowding, but also a real lack of gender-responsive care.”",
+    "best_quote_zh": "“许多监狱在建造时只考虑了男性，所以女性是被忽视的。存在许多问题，包括暴力、资源匮乏、卫生条件差、过度拥挤，以及真正缺乏针对性别的关怀。”"
+  },
+  {
+    "id": 391,
+    "title": "How Y Combinator Started",
+    "title_zh": "Y Combinator 是如何开始的",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ycstart.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "This article offers a fascinating, candid account of Y Combinator's humble beginnings, revealing that the now-iconic startup accelerator was born almost serendipitously from a desire to improve angel investing and a need for Jessica Livingston to quit her dissatisfying job. Paul Graham details how YC evolved from an initial concept of standardized seed funding to its revolutionary synchronous batch model, a structure initially adopted for convenience rather than foresight. The narrative highlights key insights: the importance of small, founder-friendly investments, the unexpected success of early batches, and the strategic decision to move to Silicon Valley. It's a testament to how groundbreaking innovations often emerge from iterative experimentation and a willingness to challenge conventional wisdom, even when the full scope of their impact isn't immediately apparent. The initial dismissal of YC as a 'toy' underscores the often-unrecognized potential in nascent ideas.",
+    "summary_zh": "这篇文章生动地描绘了Y Combinator的诞生，其起源竟是如此偶然，从保罗·格雷厄姆夫妇对天使投资模式的不满和杰西卡辞职的愿望中萌芽。YC从一个标准化种子基金的模糊概念，逐步迭代出其标志性的同步批次模式，这一演变过程充满了意外和运气。我尤其欣赏格雷厄姆的坦诚，他承认最初并未完全预见到这种模式的巨大潜力，这正体现了创新往往是渐进式探索的结果。YC从被视为“小玩意”到如今的行业巨头，其成长历程深刻地启发我们，要敢于挑战现状，并对那些看似微不足道的想法保持开放心态。",
+    "best_quote_en": "Initially we didn't have what turned out to be the most important idea: funding startups synchronously, instead of asynchronously as it had always been done before. Or rather we had the idea, but we didn't realize its significance.",
+    "best_quote_zh": "最初我们并没有意识到最重要的那个想法：同步资助创业公司，而不是像以前那样异步进行。或者说，我们有了这个想法，但没有意识到它的重要性。"
+  },
+  {
+    "id": 392,
+    "title": "Humanity's Gambit",
+    "title_zh": "人类的赌注",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9jNQeqtm8F225rkZH/humanity-s-gambit",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "This thought-provoking piece delves into the contrasting narratives surrounding AI: AI Doomers, AI Accelerationists, and AI Ethicists. The author, Ben Ihrig, thoughtfully dissects how the first two perspectives, despite their opposing views on outcomes, share a common belief in AI's 'godlike' potential. He then introduces the AI Ethics narrative, which challenges this exceptionalism by focusing on the tangible, often overlooked, costs of AI development—environmental impact, resource consumption, and exacerbation of socioeconomic inequality. Ihrig frames humanity's intense pursuit of advanced AI as a 'gambit' to solve existing global crises, acknowledging its potential for salvation or catastrophe, or even a mere distraction from more pressing issues. The article brilliantly advocates for a holistic understanding, urging recognition of all perspectives to navigate the complex future of AI responsibly. It's a nuanced call for intellectual humility amidst fervent debate.",
+    "summary_zh": "这篇文章对AI末日论、加速主义和伦理学派的观点进行了深刻剖析。作者Ben Ihrig巧妙地指出，前两者虽立场相悖，却共享AI“神性”的设想。他引入AI伦理视角，强调AI发展带来的实际成本和对社会不公的加剧。我尤其欣赏作者将人类对AI的追求比作一场“赌注”，既可能带来救赎，也可能导致灾难，甚至只是徒劳的消耗。这促使我反思，在技术狂热中，我们是否忽略了更根本的责任和更广泛的现实。多元视角的并存与理解，或许才是应对AI挑战的关键。",
+    "best_quote_en": "AI is humanity’s gambit to save a dying world. Maybe it will help us. Maybe it will kill us. Maybe it will be a flashy waste of time, and we’ll have to deal with everything else on our own after all.",
+    "best_quote_zh": "人工智能是人类拯救垂死世界的赌注。也许它会帮助我们。也许它会杀死我们。也许它只是一场华而不实的浪费时间，最终我们还得靠自己处理所有事情。"
+  },
+  {
+    "id": 393,
+    "title": "The Brazen Illegality of Trump’s Venezuela Operation",
+    "title_zh": "特朗普对委内瑞拉行动的公然非法性",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-brazen-illegality-of-trumps-venezuela-operation",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-01-03",
+    "summary_en": "This article, an interview with international law scholar Oona Hathaway, critically dissects the legal ramifications of a hypothetical (at the time of writing) U.S. military operation to arrest Venezuelan President Nicolás Maduro. Hathaway meticulously argues that such an action, justified by the Trump administration as self-defense against narco-terrorism or based on Maduro's alleged illegitimacy, fundamentally violates international law and the UN Charter's prohibition on the use of force. She highlights the dangerous precedent this sets, potentially eroding all legal limits on military intervention globally, and draws parallels to the illegal 1989 U.S. invasion of Panama to arrest Manuel Noriega. The piece thoughtfully explores the complexities of head-of-state immunity and the potential for domestic courts to defer to executive branch decisions, ultimately concluding that such an operation represents a catastrophic shift towards a world governed by force rather than peaceful resolution. It's a stark warning about the fragility of international legal norms when confronted with unilateral power.",
+    "summary_zh": "这篇文章通过对国际法学者的访谈，深入剖析了特朗普政府对委内瑞拉采取军事行动逮捕马杜罗的潜在法律后果。作者尖锐地指出，无论以反毒品恐怖主义为由，还是质疑马杜罗的合法性，这种单边行动都公然违反了国际法和联合国宪章，开创了一个极度危险的先例。文章不仅探讨了国家元首豁免权的复杂性，更令人深思的是，它揭示了当权力凌驾于法律之上时，国际秩序将如何崩塌。这不仅是对美国国内法治的挑战，更是对全球和平与稳定的严峻警示，令人不寒而栗。",
+    "best_quote_en": "If that were the case, that’s the end of international law, that’s the end of the U.N. charter, that’s the end of any kind of legal limits on the use of force. And if the President can do that, what’s to stop a Russian leader from doing it, or a Chinese leader from doing it, or anyone with the power to do so?",
+    "best_quote_zh": "如果真是这样，那就是国际法的终结，就是联合国宪章的终结，就是对使用武力的一切法律限制的终结。如果美国总统可以这样做，那又有什么能阻止俄罗斯领导人、中国领导人或任何有权势的人这样做呢？"
+  },
+  {
+    "id": 394,
+    "title": "Functional Traveler Gifts/Tougher Italian Passport/Cheaper Streaming Options",
+    "title_zh": "实用旅行者礼物/更难获得的意大利护照/更便宜的流媒体选项",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/functional-traveler-gifts-tougher-italian-passport-cheaper-streaming-options/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This content offers a collection of practical insights for travelers, ranging from thoughtful gift ideas that prioritize utility and portability to strategic advice on leveraging international pricing for streaming services. It also sheds light on the increasing difficulty of obtaining an Italian passport, reflecting broader shifts in immigration policies. The inclusion of health research on the benefits of longer walks over short bursts adds a holistic dimension, emphasizing well-being for those with an active, travel-oriented lifestyle. The piece serves as a concise update for digital nomads and frequent travelers, providing actionable tips that directly address common challenges and opportunities in the modern travel landscape, encouraging a more informed and efficient approach to global living.",
+    "summary_zh": "这篇文章就像一位经验丰富的旅行家在与你分享他的私藏秘籍。从那些真正能派上用场的旅行小物件，到利用国际价差订阅流媒体服务的精明算计，再到获取意大利护照的门槛提高——每一条都切中要害，让人不禁思考全球化背景下个人策略的重要性。尤其是关于长距离步行对健康的益处，更是在提醒我们，旅行不仅是地理上的移动，更是生活方式和身心健康的全面升级。这份内容不仅实用，更引发我对如何在变动不居的世界中，更智慧地生活与旅行的思考。",
+    "best_quote_en": "You can play this arbitrage game with most of the streaming services—I once got HBO on sale for $5 a month. In Mexico you can get the highest tier of Netflix for the price of the middle tier stateside, a 39% monthly savings (with a better studio movie selection too).",
+    "best_quote_zh": "你可以利用大多数流媒体服务的这种套利游戏——我曾以每月5美元的价格买到打折的HBO。在墨西哥，你可以用美国中等套餐的价格获得Netflix的最高级套餐，每月节省39%（而且还有更好的工作室电影选择）。"
   }
 ]
