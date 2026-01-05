@@ -1,123 +1,5 @@
 [
   {
-    "id": 295,
-    "title": "How You Know",
-    "title_zh": "你是如何知道的",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/know.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The essay explores the persistent impact of reading and experiences on our mental models, even when we forget the specific details. The author shares the insight that knowledge is 'compiled' into our understanding, much like a program's source code is compiled into executable form. This realization transforms the act of rereading from a sign of failure to a valuable practice, as our evolving perspectives allow us to extract new insights from familiar material. The piece also speculates about future technologies that might enable us to relive and edit experiences, potentially changing our relationship with knowledge retention. The core insight challenges our anxiety about forgetting and offers a more nuanced view of learning and memory.",
-    "summary_zh": "这篇文章探讨了阅读和经历如何持久地影响我们的认知模型，即使我们忘记了具体细节。作者分享了知识被“编译”到我们理解中的见解，就像程序的源代码被编译成可执行文件。这一认识将重读从失败的标志转变为有价值的实践，因为我们不断变化的视角使我们能从熟悉的材料中获取新的见解。文章还推测未来的技术可能使我们能够重新体验并编辑经历，从而可能改变我们对知识保留的关系。核心观点挑战了我们对遗忘的焦虑，并提供了一个更复杂的学习和记忆的观点。",
-    "best_quote_en": "A perfect formulation of a problem is already half its solution.",
-    "best_quote_zh": "一个问题的完美表述已经是解决它的一半。"
-  },
-  {
-    "id": 296,
-    "title": "Did you know you can just buy blackbelts?",
-    "title_zh": "你知道吗？你可以直接购买黑带？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/XpfyNxH7sH7JCLhhA/did-you-know-you-can-just-buy-blackbelts",
-    "tags": [
-      "solve",
-      "education",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The article explores the concept of superficial achievement through loopholes and shortcuts, using the metaphor of buying black belts as a symbol of misplaced effort. The author critiques instances where people exploit system gaps for personal gain without achieving the actual goals, such as in calibration trivia games or educational settings. The core insight is the distinction between finding loopholes and genuinely achieving the intended outcome, emphasizing the importance of aligning actions with true objectives. The piece encourages deeper reflection on whether shortcuts truly serve one's goals or merely create illusory success.",
-    "summary_zh": "这篇文章通过购买黑带这一比喻，探讨了通过漏洞和捷径获得表面成就的现象。作者批评了人们在校准游戏、教育等场景中利用系统漏洞谋取私利却未达到真正目标的行为。核心观点在于区分发现漏洞与真正实现目标的区别，强调行动与真实目标的一致性。文章鼓励人们深入思考，捷径是否真正服务于自身目标，还是仅仅制造虚幻的成功。",
-    "best_quote_en": "It's like going to the gym with a car jack and claiming you can lift five hundred pounds because you put the jack under the dumbell.",
-    "best_quote_zh": "这就像带着千斤顶去健身房，声称能举起五百磅，因为你把千斤顶放在哑铃下面。"
-  },
-  {
-    "id": 297,
-    "title": "America Begins Clapping Back at Donald Trump",
-    "title_zh": "美国开始对特朗普进行反击",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
-    "tags": [
-      "update",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "Susan B. Glasser's article examines the political backlash against Donald Trump as America begins to push back against his divisive leadership. The piece highlights Trump's brazen actions, from hosting a controversial Halloween party during a government shutdown to freezing critical infrastructure funding, which have sparked significant opposition. The recent election results, where Democrats won by wide margins, suggest growing voter dissatisfaction. Trump's typical response—blaming others and escalating conflicts—may no longer be effective as the political landscape shifts. The article also notes generational changes, with new leaders like Zohran Mamdani emerging, while figures like Dick Cheney and Nancy Pelosi symbolize the old guard. The piece ultimately questions whether this backlash is a temporary protest or a lasting repudiation of Trump's leadership.",
-    "summary_zh": "苏珊·B·格拉斯的文章分析了美国对特朗普领导力的反抗。特朗普在政府关门期间举办争议性派对并冻结关键基础设施资金等行为引发广泛反对。民主党在选举中获胜，显示选民不满情绪加深。特朗普的典型回应——甩锅和升级冲突，可能失效。文章还提到政治新生代崛起，而切尼和佩洛西等人物象征旧时代。这场反抗是暂时的抗议，还是对特朗普领导力的持久否定？",
-    "best_quote_en": "The retirement of Nancy Pelosi is a great thing for America. She was evil, corrupt, and highly overrated. I’m very honored that she impeached me twice and failed miserably twice.",
-    "best_quote_zh": "佩洛西的退休对美国来说是好事。她邪恶、腐败且被高估。我非常荣幸她两次弹劾我却两次失败。"
-  },
-  {
-    "id": 298,
-    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
-    "title_zh": "改善旅行体验：舒适枕头、必备洗漱包、热门旅行趋势与最佳侨居国",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This newsletter offers practical travel insights with a mix of personal recommendations and data-driven trends. The inflatable travel pillow review provides a clever solution to common airline comfort issues, demonstrating thoughtful product testing. The pre-packed toiletry kit tip showcases efficiency in travel preparation. The Expedia travel trends report highlights emerging destinations and new travel concepts like 'set jetting,' offering valuable market insights. The expat survey reveals Asia's growing appeal, particularly China, for its convenience. The content balances personal experience with broader industry trends, making it valuable for both casual travelers and those considering long-term relocation.",
-    "summary_zh": "这封新闻稿结合了个人旅行体验和数据驱动的趋势分析。可折叠旅行枕头的评测提供了解决航空旅行舒适度的实用方案，展现了产品测试的细致思考。预装洗漱包的建议体现了旅行准备的高效性。Expedia的旅行趋势报告揭示了新兴目的地和",
-    "best_quote_en": "Convenience is a recurring theme, with expats across China raving about fast public transportation to efficient online shopping.",
-    "best_quote_zh": "便利性是一个反复出现的主题，中国各地的外籍人士纷纷赞赏快速的公共交通和高效的在线购物。"
-  },
-  {
-    "id": 299,
-    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
-    "title_zh": "派对穿搭的意外升级：鸡尾酒T恤",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
-    "tags": [
-      "inspire",
-      "science",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The cocktail T-shirt represents a fascinating evolution in party fashion, blending casual comfort with elegant sophistication. This trend challenges traditional notions of formal attire by offering a versatile, thermodynamically superior alternative to conventional party wear. The piece's understated elegance and practical benefits—like temperature regulation and better fit—reflect a growing consumer demand for multifunctional, sustainable fashion. The industry's embrace of this hybrid category, from luxury brands like Prada to high street retailers, signals a broader shift toward practical elegance in evening wear. The trend also addresses environmental concerns by potentially reducing overconsumption of single-use party garments. This innovation in knitwear demonstrates how fashion can adapt to both personal comfort and ethical considerations, making it a compelling development in contemporary style.",
-    "summary_zh": "鸡尾酒T恤将休闲舒适与优雅融为一体，挑战了正式着装的传统观念。这种趋势反映了消费者对多功能、可持续时尚的需求，同时解决了环境问题。从普拉达到高街品牌的普及，标志着晚装向实用优雅的转变。这一创新展示了时尚如何适应个人舒适与伦理考量，成为当代风格的重要发展。",
-    "best_quote_en": "They have that sort of understated look that a T-shirt tends to give the wearer, but unlike the way a cotton T-shirt sort of unravels by midday, the knit has a more polished effect.",
-    "best_quote_zh": "它们给人一种低调的感觉，但与棉T恤不同，羊毛衫的针织材质能保持更精致的效果。"
-  },
-  {
     "id": 300,
     "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
     "title_zh": "达尔富尔叛军发布大规模屠杀视频，世界袖手旁观",
@@ -2334,5 +2216,119 @@
     "summary_zh": "这篇文章就像一位经验丰富的旅行家在与你分享他的私藏秘籍。从那些真正能派上用场的旅行小物件，到利用国际价差订阅流媒体服务的精明算计，再到获取意大利护照的门槛提高——每一条都切中要害，让人不禁思考全球化背景下个人策略的重要性。尤其是关于长距离步行对健康的益处，更是在提醒我们，旅行不仅是地理上的移动，更是生活方式和身心健康的全面升级。这份内容不仅实用，更引发我对如何在变动不居的世界中，更智慧地生活与旅行的思考。",
     "best_quote_en": "You can play this arbitrage game with most of the streaming services—I once got HBO on sale for $5 a month. In Mexico you can get the highest tier of Netflix for the price of the middle tier stateside, a 39% monthly savings (with a better studio movie selection too).",
     "best_quote_zh": "你可以利用大多数流媒体服务的这种套利游戏——我曾以每月5美元的价格买到打折的HBO。在墨西哥，你可以用美国中等套餐的价格获得Netflix的最高级套餐，每月节省39%（而且还有更好的工作室电影选择）。"
+  },
+  {
+    "id": 395,
+    "title": "‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act",
+    "title_zh": "“漂亮的鸟儿和愚蠢的奶牛”：性别歧视法案背后的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/18/pretty-birds-and-silly-moos-the-women-behind-the-sex-discrimination-act",
+    "tags": [
+      "inspire",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This article offers a compelling deep dive into the often-overlooked history and relentless efforts of the women who campaigned for the UK's Sex Discrimination Act of 1975. It masterfully weaves together personal anecdotes from journalists like Celia Brayfield and policymakers like Patricia Hewitt with broader historical context, revealing the pervasive sexism of the era and the strategic, sometimes unconventional, tactics employed by various feminist groups. What stands out is the nuanced portrayal of internal tensions within the movement—between radical activists and those focused on legislative change, or between older and younger generations—highlighting that progress is rarely monolithic. The piece critically evaluates the compromises made in the final legislation, reminding us that legal victories are often just starting points in an ongoing struggle against deeply entrenched social injustices. It's a powerful testament to persistence and a thoughtful reflection on the continuous nature of social change.",
+    "summary_zh": "这篇文章深入探讨了英国1975年《性别歧视法案》背后那些被忽视的女性斗争史，读来令人动容。它不仅讲述了 Celia Brayfield 等记者和 Patricia Hewitt 等政策制定者的亲身经历，还展现了当时普遍存在的性别歧视以及女权团体采取的策略。最引人深思的是，文章揭示了运动内部的张力——激进派与立法派、老一辈与年轻一代之间的分歧，这让我意识到社会变革的复杂性。法案的妥协性也说明，法律胜利往往只是漫长斗争的起点。这篇报道是对坚韧不拔精神的有力证明，也是对社会进步持续性的深刻反思。",
+    "best_quote_en": "“What I remember most is the sense that we actually achieved something. We were dealing with an enormous social injustice and an extremely resistant patriarchy or power structure that didn’t want to change. We really did set out to change our society and to make life better for our daughters but it’s a fight you have to keep winning. There’s never any sitting back and saying ‘we’ve won’ because you never have.”",
+    "best_quote_zh": "“我记得最清楚的是，我们确实取得了一些成就。我们正在处理巨大的社会不公，以及一个极其抗拒改变的父权制或权力结构。我们确实致力于改变我们的社会，让我们的女儿过上更好的生活，但这仍然是一场必须不断争取胜利的斗争。永远不能安坐下来，说‘我们赢了’，因为你从未真正一劳永逸地赢过。”"
+  },
+  {
+    "id": 396,
+    "title": "Defining Property",
+    "title_zh": "财产的定义",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/property.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "This essay offers a thought-provoking analysis of the evolving concept of property, using a compelling analogy of 'stealing smells' to critique modern copyright enforcement. The author argues that what constitutes property is not fixed but changes with societal and technological advancements. He insightfully connects the RIAA and MPAA's aggressive tactics to a misguided attempt to apply an obsolete definition of property in a new digital landscape, driven by short-term greed rather than long-term equity. The piece brilliantly highlights the tension between technological progress and legal frameworks, suggesting that a functional definition of property must 'work' for society without warping it. It's a critical examination of how powerful entities try to maintain control by resisting inevitable change, ultimately advocating for common sense and adaptable legal systems in the face of rapid technological shifts.",
+    "summary_zh": "这篇文章以“偷窃气味”的生动比喻，深刻剖析了财产定义在技术变革下的演进。作者独到地指出，财产的本质并非一成不变，而是由社会功能和技术进步共同塑造。他批判了RIAA和MPAA等机构在数字时代试图强加过时产权观念的行为，认为这源于短视的利益驱动。文章呼吁我们应以更具适应性的法律和常识来拥抱而非抵制技术发展带来的变革，这不仅是维护社会公平，更是推动进步的必然选择。",
+    "best_quote_en": "What counts as property depends on what works to treat as property. And that not only can change, but has changed.",
+    "best_quote_zh": "什么算作财产，取决于将什么视为财产是有效的。而这不仅可以改变，而且已经改变了。"
+  },
+  {
+    "id": 397,
+    "title": "Axiological Stopsigns",
+    "title_zh": "价值停止标志",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/z2uqkmohWKvgytsy6/axiological-stopsigns",
+    "tags": [
+      "learn",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "This essay introduces the concept of \"axiological stopsigns,\" which are natural breakpoints in our predictive reasoning and value assessments. The author argues that while it's tempting to pursue infinite value calculations, our finite minds and resources necessitate these stopsigns for practical planning. Using analogies from poker, chess board evaluation functions, and Go strategy (sente, miai, aji), the piece illustrates how strategically placed stopsigns allow for tractable decision-making in complex, uncertain environments. It delves into the trade-offs between deep, far-future analysis and efficient, near-term valuation, suggesting that well-calibrated, pre-computed values can serve as proxies for extensive foresight. The essay thoughtfully explores the implications for personal well-being, suggesting that managing axiological stopsigns in life, like setting boundaries for social interactions, can contribute to sustained happiness and prevent burnout from endless optimization. It's a fascinating blend of cognitive science, game theory, and practical philosophy, encouraging a nuanced approach to how we define and pursue value.",
+    "summary_zh": "这篇探讨“价值停止标志”的文章引人深思，它以精妙的比喻（如国际象棋和围棋策略）阐释了我们有限心智如何在无限的价值计算中找到实用边界。作者指出，人生并非永无止境的博弈，适时设置“停止标志”能让复杂决策变得可行，这与我长期以来对“适度”和“留白”的理解不谋而合。它不仅是理论探讨，更提供了认知工具，指导我们如何平衡深度思考与即时行动，从而在个人生活和宏观规划中，以更智慧的方式定义和追求价值，避免陷入无休止的“最佳化”困境。这提醒我们，有时“足够好”就是最好的选择。",
+    "best_quote_en": "The word \"value\" is a VERB, and no verb should be performed forever with all of your mind, in this finite world, full of finite beings, with finite brains, running on a finite amounts of energy.",
+    "best_quote_zh": "“价值”是一个动词，在这个有限的世界里，充满了有限的生命，有限的大脑，运行在有限的能量上，任何一个动词都不应该用你全部的心思永远地执行下去。"
+  },
+  {
+    "id": 398,
+    "title": "The Folly of Trump’s Oil Imperialism",
+    "title_zh": "特朗普石油帝国主义的愚蠢",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-financial-page/the-folly-of-trumps-oil-imperialism",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "This article critically examines Donald Trump's stated intention to seize Venezuela's oil reserves, drawing parallels and distinctions with the 2003 Iraq invasion. The author, John Cassidy, uses historical context and expert insights to argue against the feasibility and wisdom of such a 'petro-imperialist' approach. He highlights the complexities of rebuilding Venezuela's oil industry, including the massive investment required, low oil prices, and the need for long-term political stability, which was sorely lacking in post-invasion Iraq. The piece suggests that major oil companies are wary of investing without guarantees, and that a comprehensive 'Marshall Plan' approach, rather than mere resource extraction, is what Venezuela truly needs. It's a compelling argument against short-sighted geopolitical resource grabs, grounded in historical lessons and economic realities.",
+    "summary_zh": "这篇文章对特朗普攫取委内瑞拉石油的意图进行了深刻批判，并以2003年伊拉克战争的教训为鉴。作者通过历史对比和专家观点，揭示了这种“石油帝国主义”策略的愚蠢与不可行。他强调，重建委内瑞拉的石油工业远比想象中复杂，需要巨额投资和长期政治稳定，而非简单的资源掠夺。读罢此文，我不禁思考，历史的教训为何总被权力蒙蔽，真正解决问题所需的远见和人文关怀，何时才能超越短视的利益驱动？",
+    "best_quote_en": "“What the U.S. needs to do is to implement a form of a Marshall Plan,” Orlando Ochoa, a Venezuelan economist who teaches at the Universidad Católica Andrés Bello, in Caracas, told the Wall Street Journal over the weekend. “This is about much more than coming into the oil and gas sector just to extract crude from the ground.”",
+    "best_quote_zh": "“美国需要做的是实施某种形式的马歇尔计划，”加拉加斯天主教安德烈斯贝洛大学的委内瑞拉经济学家奥兰多·奥乔亚周末告诉《华尔街日报》。“这远不止是进入石油和天然气领域仅仅为了开采原油。”"
+  },
+  {
+    "id": 399,
+    "title": "KK / Flat phone grip / Is it a cult?",
+    "title_zh": "KK / 扁平手机支架 / 它是一个邪教吗？",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/kk-flat-phone-grip-is-it-a-cult/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-01-04",
+    "summary_en": "This collection of short recommendations offers a diverse range of practical insights, from consumer product reviews to thought-provoking tools for self-assessment and personal development. The article touches on the utility of a flat phone grip and an air fryer, highlighting their practical benefits. More profoundly, it introduces a nuanced 'Cult Assessment Tool' that encourages critical thinking about organized groups, moving beyond a binary view to a continuum of traits. Additionally, it provides actionable advice on reclaiming personal time through a 'five-to-nine' method, emphasizing the importance of transitioning between professional and personal identities. The inclusion of a newsletter and an advice guru points to resources for continuous learning and personal growth. This piece implicitly encourages a mindful approach to both consumption and self-management, making it a valuable read for those seeking to optimize daily life and foster critical awareness.",
+    "summary_zh": "这篇推荐集锦充满趣味且实用，从科技产品到个人成长工具，内容丰富。我特别欣赏其中对“邪教”评估工具的介绍，它提醒我们审视群体时应超越非黑即白的二元对立，这在当今信息爆炸的时代尤为重要。同时，关于“五点到九点”时间管理法也深具启发性，它鼓励我们平衡工作与生活，找回自我。这些看似零散的推荐，实则共同指向一种更审慎、更充实的生活态度，引发读者思考如何更明智地选择工具和管理时间。",
+    "best_quote_en": "The assessment looks at things like unusualness, conformity, isolation, control of information, ethics, and sacrifice, reflecting the nuanced criteria behind their Cult Assessment tool. ClearerThinking’s programs and assessments are grounded in empirical data and are balanced in perspective, and this particular questionnaire understands that being a cult is not binary—it’s a set of traits, each of which lies on a continuum.",
+    "best_quote_zh": "该评估工具考察了不寻常性、从众性、孤立、信息控制、道德和牺牲等方面，反映了其邪教评估工具背后细致入微的标准。ClearerThinking的项目和评估都基于实证数据并保持平衡的视角，这个特殊的问卷理解到，成为邪教并非二元选择——它是一系列特质，每个特质都处于一个连续体上。"
   }
 ]
