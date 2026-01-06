@@ -1,123 +1,5 @@
 [
   {
-    "id": 300,
-    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
-    "title_zh": "达尔富尔叛军发布大规模屠杀视频，世界袖手旁观",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
-    "tags": [
-      "solve",
-      "politics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "This harrowing report details the systematic atrocities committed by the Rapid Support Forces (RSF) in Darfur, Sudan, following their capture of El Fasher. The article highlights the posting of graphic execution videos on social media, the strategic use of drones and artillery supplied by the UAE, and the construction of a berm to prevent humanitarian aid. Expert analysis from Yale's Humanitarian Research Lab reveals a pattern of mass killings visible from satellite imagery, with estimates of tens of thousands of deaths in just five days. The piece also explores the historical context of genocide in Darfur, the international community's inaction, and the complex geopolitical interests at play, particularly the UAE's involvement in arming the RSF. The report underscores the urgent need for global intervention to prevent further atrocities and the potential for escalation in Tawila.",
-    "summary_zh": "本文揭露了苏丹达尔富尔地区快速支持部队（RSF）在攻占埃尔法舍尔后的系统性暴行。报道指出，RSF在社交媒体上发布了血腥的处决视频，并利用阿联酋提供的无人机和炮兵设备围困城市，阻止人道主义援助。耶鲁人道主义研究实验室的专家分析卫星图像发现，RSF在短短五天内可能造成数万人死亡。文章还探讨了达尔富尔历史上的种族灭绝背景、国际社会的漠视以及阿联酋支持RSF的复杂地缘政治因素。报道强调了迫切需要国际干预以阻止进一步暴行，并警惕塔维拉地区可能面临的升级风险。",
-    "best_quote_en": "\"The world hasn't caught up to what a big deal El Fasher is.\"",
-    "best_quote_zh": "\"世界还没有意识到埃尔法舍尔有多重要。\""
-  },
-  {
-    "id": 301,
-    "title": "PG and Jessica",
-    "title_zh": "PG和Jessica",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/pg-and-jessica",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "深度分析"
-    ],
-    "date": "2020-09-25",
-    "summary_en": "The article reveals the often overlooked secret behind Y Combinator's success: the unique combination of Paul Graham and Jessica Livingston's leadership. Unlike conventional wisdom that attributes YC's growth to replicable strategies or network effects, the author argues that the real magic was their personal approach. They took risks on unknown talents, established strong community norms, and prioritized long-term ecosystem building over short-term gains. The piece highlights how their unwavering conviction, hands-on mentorship, and willingness to challenge existing power structures created an environment where founders could thrive. The author reflects on how this combination of qualities has been remarkably difficult to replicate, despite seeming straightforward. This analysis serves as both a tribute to their impact and a challenge to others to understand the deeper, more human elements of building transformative communities.",
-    "summary_zh": "文章揭示了Y Combinator成功背后常被忽视的关键：Paul Graham和Jessica Livingston的独特领导力。与常见的将YC成长归因于可复制策略或网络效应的观点不同，作者认为真正的魔力在于他们的个人风格。他们敢于押注未知人才，建立严格的社区规范，并优先考虑长期生态建设而非短期利益。文章强调他们坚定信念、亲力亲为的指导和挑战现有权力结构的勇气，为创始人创造了茁壮成长的环境。作者反思，尽管这些品质看似简单，但15年来鲜有复制者。这既是对他们的致敬，也是对他人理解构建变革性社区中更深层次、更人性化因素的挑战。",
-    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
-    "best_quote_zh": "YC起步的全部秘诀就是PG和Jessica——没有其他魔法配方。"
-  },
-  {
-    "id": 302,
-    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
-    "title_zh": "Essentials: 使用现代神经科学消除恐惧与创伤",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
-    "tags": [
-      "solve",
-      "psychology",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This episode of Huberman Lab Essentials dives deep into the neuroscience behind fear and trauma, offering actionable strategies for processing and eliminating traumatic responses. The key insight is that effective fear treatment requires both extinguishing old fearful responses and replacing them with positive associations, not just cognitive reframing. The discussion explores how the threat reflex activates specific neural circuits involving the amygdala, prefrontal cortex, and dopamine systems, and how detailed recounting of traumatic events can reduce their physiological impact over time. The episode also reviews evidence-based approaches like prolonged exposure therapy and cognitive behavioral therapy, and introduces the concept of using five minutes of deliberate stress through cyclic hyperventilation to rewire fear responses. The critical role of social connection in trauma recovery and supplementation options for managing anxiety are also covered, making this a comprehensive guide for anyone seeking to understand and overcome fear-based challenges.",
-    "summary_zh": "本集Huberman Lab Essentials深入探讨了恐惧和创伤背后的神经科学机制，并提供了处理和消除创伤反应的实际策略。核心观点是，有效的恐惧治疗需要同时消除旧的恐惧反应并用积极联想取代，而不仅仅是认知重构。节目探讨了威胁反射如何激活涉及杏仁核、前额叶皮层和多巴胺系统的特定神经回路，以及详细回忆创伤事件如何逐渐减少其生理影响。此外，还介绍了基于证据的疗法如漫长暴露疗法和认知行为疗法，以及通过循环性过度换气进行5分钟的刻意压力以重塑恐惧反应的方法。节目还强调了社交联系在创伤康复中的关键作用以及管理焦虑的补充剂选择，使其成为任何想要理解和克服恐惧挑战的人的全面指南。",
-    "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
-    "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并用新的积极联想取代，而不仅仅是认知重构。"
-  },
-  {
-    "id": 303,
-    "title": "Emma Barnett says she felt ‘mugged, robbed’ after perimenopause at 38",
-    "title_zh": "艾玛·巴纳特称在40岁前经历绝经期后感到被抢劫般失去自我",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/nov/07/emma-barnett-bbc-perimenopause",
-    "tags": [
-      "update",
-      "medicine",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "Emma Barnett's candid discussion about her experience with perimenopause at 38 highlights the profound identity crisis many women face during this transitional phase. Her raw description of feeling 'mugged, robbed' of her identity resonates with the broader struggle women encounter as hormonal changes reshape their sense of self. The conversation underscores the urgent need for better public awareness and support systems for perimenopausal women, as current healthcare gaps leave many feeling abandoned. Barnett's experience also touches on the commercialization of menopause information, raising important questions about the ethics of profit-driven health advice. This discussion is a powerful call for normalization and education around perimenopause, challenging societal silence and offering solidarity to those experiencing similar struggles.",
-    "summary_zh": "艾玛·巴纳特在BBC新播客中坦言40岁前经历更年期时感到被抢劫般失去自我，这揭示了许多女性在这个转变期面临的深刻身份危机。她直白的描述引发共鸣，凸显女性在荷尔蒙变化中自我认知的挑战。这场对话凸显了对更年期女性支持系统的迫切需求，当前医疗空白让许多人感到被遗弃。她的经历也触及更年期信息商业化的伦理问题，呼吁社会正视和教育公众关于更年期的知识，打破沉默，为经历者提供支持。",
-    "best_quote_en": "'I do feel there has been a theft. I do feel there’s no emergency number to call. 'I’d like to report a crime. Yeah, someone stole me.' There is no one to report this to.'",
-    "best_quote_zh": "我确实觉得被盗了。确实没有紧急电话可以打。'我想报案。是的，有人偷走了我。'但没有人可以报告。"
-  },
-  {
-    "id": 304,
-    "title": "The General Social Survey and the ACX Survey",
-    "title_zh": "《一般社会调查与ACX调查》",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/xrazcGthGB4JB6hrp/the-general-social-survey-and-the-acx-survey",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "This analysis compares demographic and attitudinal data between the Astral Codex Ten (ACX) community and the general population via the General Social Survey (GSS). The study reveals striking differences: the ACX community is significantly younger, more male-dominated, and more educated. Politically, ACX respondents lean heavily Democratic, while the GSS shows more Independents. The most intriguing finding is that the ACX community expresses less concern about AI existential risks than the general population, though this disparity is explained by differing question framings. The author acknowledges potential data mapping challenges and the subjective nature of 'vibecoding' in this comparative analysis. The study offers valuable insights into the demographics and attitudes of the rationalist community compared to broader societal trends.",
-    "summary_zh": "本分析通过一般社会调查(GSS)对比了天文代码十号(ACX)社区与普通民众的人口统计和态度数据。研究发现，ACX社区成员年龄更轻、性别比例更为失衡、受教育程度更高。在政治立场上，ACX受访者明显倾向于民主党，而GSS显示独立派比例更高。最引人注目的是，ACX社区对AI存在风险的担忧程度低于普通民众，但这种差异源于问题设置不同。作者承认数据映射的挑战性和'vibecoding'的主观性。该研究为理解理性主义社区与社会大趋势的差异提供了宝贵见解。",
-    "best_quote_en": "The ACX community is less concerned about AI risk than general population?",
-    "best_quote_zh": "ACX社区对AI风险的担忧程度低于普通民众？"
-  },
-  {
     "id": 305,
     "title": "What’s in my NOW? — Ken Batchelor",
     "title_zh": "我的现在里有什么？ — 肯·巴切勒",
@@ -2330,5 +2212,119 @@
     "summary_zh": "这篇推荐集锦充满趣味且实用，从科技产品到个人成长工具，内容丰富。我特别欣赏其中对“邪教”评估工具的介绍，它提醒我们审视群体时应超越非黑即白的二元对立，这在当今信息爆炸的时代尤为重要。同时，关于“五点到九点”时间管理法也深具启发性，它鼓励我们平衡工作与生活，找回自我。这些看似零散的推荐，实则共同指向一种更审慎、更充实的生活态度，引发读者思考如何更明智地选择工具和管理时间。",
     "best_quote_en": "The assessment looks at things like unusualness, conformity, isolation, control of information, ethics, and sacrifice, reflecting the nuanced criteria behind their Cult Assessment tool. ClearerThinking’s programs and assessments are grounded in empirical data and are balanced in perspective, and this particular questionnaire understands that being a cult is not binary—it’s a set of traits, each of which lies on a continuum.",
     "best_quote_zh": "该评估工具考察了不寻常性、从众性、孤立、信息控制、道德和牺牲等方面，反映了其邪教评估工具背后细致入微的标准。ClearerThinking的项目和评估都基于实证数据并保持平衡的视角，这个特殊的问卷理解到，成为邪教并非二元选择——它是一系列特质，每个特质都处于一个连续体上。"
+  },
+  {
+    "id": 400,
+    "title": "Jess Cartner-Morley on fashion: my top tips for gifting clothes this Christmas",
+    "title_zh": "Jess Cartner-Morley谈时尚：今年圣诞节送衣服的秘诀",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/17/jess-cartner-morley-top-tips-gifting-clothes-christmas",
+    "tags": [
+      "solve",
+      "ai-research",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "This article by Jess Cartner-Morley offers practical, insightful advice on the often-tricky task of gifting clothes for Christmas. It moves beyond generic tips, diving into the psychological nuances of gift-giving, distinguishing between a recipient's 'style' and 'taste,' and emphasizing the importance of focusing on the receiver's preferences over the giver's wit. The piece intelligently guides readers away from high-risk items like jeans or dresses, suggesting safer categories such as jumpers, jewelry, or homewear, and even advocates for including a receipt – a pragmatic touch often overlooked. I found the distinction between style and taste particularly illuminating, as it reframes how one approaches selecting a truly thoughtful gift. This isn't just about fashion; it's about empathetic giving.",
+    "summary_zh": "Jess Cartner-Morley这篇关于圣诞节送衣物的文章，提供了非常实用的指导，远超一般建议。我特别欣赏她区分了收礼者的“风格”与“品味”，这不仅是时尚洞察，更是对人际关系和同理心的深刻理解。文章提醒我们，送礼的重点在于对方的喜好，而非送礼者的幽默感，甚至建议附上收据，这简直是化解尴尬的智慧之举。读完后，我对挑选礼物有了更清晰、更体贴的思路，这不仅仅是关于时尚，更是关于如何用心表达关爱。",
+    "best_quote_en": "Your style is the mode in which you present to the world; your taste is what you consider beautiful.",
+    "best_quote_zh": "你的风格是你向世界展示自己的方式；你的品味是你认为美的东西。"
+  },
+  {
+    "id": 401,
+    "title": "Frighteningly Ambitious Startup Ideas",
+    "title_zh": "令人望而却步的雄心勃勃的创业点子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ambitious.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This essay by Paul Graham delves into the counter-intuitive nature of truly ambitious startup ideas: they often appear frightening and repel rather than attract. He argues that the biggest ideas threaten one's identity and seem impossible, yet it's precisely this daunting quality that makes them less crowded and more likely to succeed. Graham presents several such ideas, including replacing Google Search, email, and universities, as well as pioneering next-gen hardware, reviving Moore's Law, and implementing continuous medical diagnosis. He concludes with tactical advice, emphasizing the importance of starting small and obliquely, like Columbus sailing west, rather than launching a direct frontal assault on a grand vision. This piece offers a profound psychological insight into entrepreneurship, suggesting that discomfort is often a compass pointing towards significant opportunity.",
+    "summary_zh": "保罗·格雷厄姆的这篇随笔深入探讨了那些真正雄心勃勃的创业想法的反直觉特质：它们往往令人望而生畏，而非充满吸引力。我读后不禁思考，或许正是这种压倒性的挑战感，筛选掉了平庸的竞争者，为少数敢于直面恐惧的创业者留下了巨大的空间。文章提出的取代谷歌、电子邮件或大学等想法，听起来确实“疯狂”，但这正是其价值所在——它们挑战了现状，预示着未来的巨大变革。格雷厄姆的战术建议也极具启发性，他主张从小处着手，逐步推进，这与我理解的“千里之行始于足下”不谋而合，提醒我们宏伟目标需要耐心和策略，而非盲目冲锋。",
+    "best_quote_en": "The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.",
+    "best_quote_zh": "最大的想法似乎威胁着你的身份：你怀疑自己是否有足够的雄心去实现它们。"
+  },
+  {
+    "id": 402,
+    "title": "Do we need sparsity afterall?",
+    "title_zh": "我们到底还需要稀疏性吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Hk8tCLZKdAPHdoSdb/do-we-need-sparsity-afterall",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This paper provocatively challenges the prevailing assumption in mechanistic interpretability that sparsity is essential for understanding AI models. The author, Giuseppe Birardi, presents experimental findings from intervening on Gemma-2-2B's dense MLP neurons. While acknowledging the polysemantic nature of these neurons, the research demonstrates that a small subset of 'high-leverage' neurons, identified through a novel δ×gradient metric, disproportionately influences next-token decisions. By steering these neurons, the model's behavior can be reliably shifted, even transferring factual associations. The work suggests that causal localization can partially compensate for the lack of a learned sparse basis, offering a new avenue for interpretability in dense models. The findings are particularly insightful when examining safety-relevant scenarios, where the base model's engagement can be flipped by targeting a few neurons, though instruction-tuned models prove more resistant due to distributed safety mechanisms. This exploration opens up fascinating questions about the true necessity of sparsity and the potential for interpreting complex, dense representations.",
+    "summary_zh": "这篇论文大胆质疑了稀疏性在AI可解释性中的核心地位。作者通过在Gemma-2-2B密集MLP神经元上进行干预，发现一小部分“高杠杆”神经元对模型行为有决定性影响，并能通过梯度引导的修补来精确操控。这表明，即使在没有稀疏基础的情况下，我们也能通过因果定位实现部分可解释性。最让我深思的是，这种方法在基础模型中能有效“翻转”安全行为，但在经过指令微调的模型中却举步维艰，暗示了安全机制可能以更分布式、更难干预的方式存在。这不仅为AI可解释性提供了新思路，也深刻揭示了模型安全防护的复杂性，挑战我们重新思考稀疏性与理解之间的关系。",
+    "best_quote_en": "Overall, sparsity appears helpful but not strictly necessary for limited forms of causal interpretability in dense models, though generality beyond these settings remains uncertain.",
+    "best_quote_zh": "总的来说，稀疏性似乎有帮助，但对于密集模型中有限形式的因果可解释性而言并非严格必要，尽管这些设置之外的普遍性仍不确定。"
+  },
+  {
+    "id": 403,
+    "title": "The Maduro Regime Without Maduro",
+    "title_zh": "没有马杜罗的马杜罗政权",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-maduro-regime-without-maduro",
+    "tags": [
+      "analyze",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This interview dissects the intricate power dynamics of the Maduro regime post-Maduro's seizure by the Trump administration. It offers a political scientist's perspective on how Maduro maintained control through a decentralized 'confederacy' of loyalists granted significant autonomy, rather than a top-down autocracy like Chávez's. The analysis highlights the critical distinction between Chávez's popularity-driven co-option and Maduro's reliance on favors and illicit economic opportunities for his inner circle, especially after the oil boom ended. The discussion also critically evaluates the Venezuelan opposition, particularly María Corina Machado's controversial alliance with Trump, and the profound implications of Trump's transparently self-serving motives for intervention. It's a sobering look at how geopolitical power plays intersect with internal political structures, revealing a continuity of power even without the figurehead, driven by a transactional approach to international relations.",
+    "summary_zh": "这篇访谈深入剖析了马杜罗政权在马杜罗被特朗普政府抓捕后的复杂权力结构。它揭示了马杜罗如何通过赋予其亲信高度自治的“邦联”而非集权式独裁来维系统治，这与查韦斯时期依赖民众支持的策略截然不同。文章还批判性地审视了委内瑞拉反对派，特别是玛丽亚·科里娜·马查多与特朗普的争议性联盟，以及特朗普干预背后赤裸裸的自利动机。这让人不禁思考，当国家利益被个人算计所取代，政治伦理的底线在哪里？权力交接的表象下，深层结构和外部干预如何共同塑造了一个国家的命运。",
+    "best_quote_en": "I think there are many members of the Venezuelan opposition who are not used to a President who really doesn’t care about the same values that they care about. There has always been the belief that the U.S. President defended many different objectives in foreign policy, but that the promotion of democracy, good governance, and rule of law were there. It may not be a priority, but it’s always there.",
+    "best_quote_zh": "我认为委内瑞拉反对派的许多成员不习惯一位根本不关心他们所珍视的价值观的总统。人们一直认为美国总统在外交政策中捍卫着许多不同的目标，但民主、善治和法治的推广始终存在。它可能不是优先事项，但它总是在那里。"
+  },
+  {
+    "id": 404,
+    "title": "Paper Cutting",
+    "title_zh": "剪纸工具推荐",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/paper-cutting/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "生活方式"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "This article compiles a diverse range of specialized tools for paper cutting, moving beyond the ubiquitous scissors to offer more precise, efficient, and safer alternatives. From self-healing cutting mats that preserve surfaces and guide blades, to self-sharpening rotary paper cutters like the Dahle 550, and versatile Fiskars rotary cutters that handle various materials, the recommendations cater to different needs. It also highlights niche tools such as Fiskars paper trimmers for perfectly straight cuts, bone folders for professional scoring and creasing, single-sheet cutters for clipping newspaper articles without damaging underlying pages, and rolling scissors ideal for wrapping paper or children. The insights are practical, emphasizing durability, safety, and performance, providing a valuable resource for anyone seeking to upgrade their cutting implements for crafts, office work, or household tasks.",
+    "summary_zh": "这篇文章汇集了各种专业的剪纸工具，超越了传统剪刀的局限，提供了更精准、高效且安全的替代方案。从能自我修复的切割垫，到自动磨刀的Dahle 550滚刀，再到多功能Fiskars旋转切割器，每件工具都解决了特定的痛点。尤其令我印象深刻的是骨质折叠器（bone folder），它能将普通的纸张变成带有专业折痕的艺术品，体现了对细节的极致追求。这些推荐不仅实用，更蕴含着一种对工具美学和功能极致化的探索精神，对于追求效率与品质的创作者而言，无疑是极具启发性的宝藏指南。",
+    "best_quote_en": "The self-healing rubber keeps the surface uniformly smooth, clean, and firm. And protects your table. Get the largest one you have room for and can afford. A large mat also says: don’t pile stuff here.",
+    "best_quote_zh": "自我修复的橡胶使表面保持均匀光滑、清洁和坚固，并保护您的桌面。买你能负担得起、空间又允许的最大尺寸。一张大垫子也意味着：别把东西堆在这里。"
   }
 ]
