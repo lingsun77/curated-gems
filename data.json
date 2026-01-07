@@ -1,123 +1,5 @@
 [
   {
-    "id": 305,
-    "title": "What’s in my NOW? — Ken Batchelor",
-    "title_zh": "我的现在里有什么？ — 肯·巴切勒",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-ken-batchelor/",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "Ken Batchelor's 'What's in my NOW?' offers a reflective glimpse into the simple yet profound tools and practices that enrich his life. From physical items like You Matter cards and barefoot shoes to digital tools like LibraryThing and AlphaGuess, each recommendation carries personal significance. The piece culminates in a poignant meditation on mindfulness, quoting Philip K. Dick's longing to hear the 'sound of the anklets on the feet of an insect as it walks' as a metaphor for finding peace. Batchelor's writing blends practicality with spirituality, inviting readers to consider how small, intentional choices can cultivate joy and presence in daily life.",
-    "summary_zh": "肯·巴切勒的《我的现在里有什么？》展现了他在生活中简单而深刻的工具与实践。从物质层面的“重要卡片”和“赤足鞋”，到数字工具“LibraryThing”和“AlphaGuess”，每个推荐都饱含个人意义。文章最终以菲利普·迪克的“倾听昆虫脚铃的声音”为喻，探讨了正念的力量。巴切勒的文字将实用性与精神性交织，邀请读者思考如何通过小而有意的选择，在日常中培育喜悦与当下感。",
-    "best_quote_en": "Listening for the sound of the anklets on the feet of an insect as it walks.",
-    "best_quote_zh": "倾听昆虫脚铃在行走时的声音。"
-  },
-  {
-    "id": 306,
-    "title": "Researchers and Founders",
-    "title_zh": "研究者与创始人",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/researchers-and-founders",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2020-06-19",
-    "summary_en": "This insightful piece compares the traits of top researchers and founders, revealing surprising differences and key similarities. The author highlights that both groups share exceptional problem-solving skills, focusing on the 'Hamming question' of identifying and tackling the most important problems in their fields. They exhibit a unique combination of laser focus on immediate tasks with long-term vision, persistent work ethic, and a bias towards action. Both groups demonstrate creativity, value autonomy, and are driven by genuine curiosity. The analysis serves as a valuable guide for aspiring professionals in these fields, emphasizing the importance of independent thinking and honest self-assessment.",
-    "summary_zh": "这篇文章对比了顶尖研究者与创业者的特质，揭示了他们之间既有惊人的差异，也有关键的共性。作者指出，两者都擅长解决问题，善于思考并攻克领域内最重要的难题。他们兼具短期专注与长远眼光，工作持之以恒，行动力强。两者都富有创造力，重视自主性，并由真正的好奇心驱动。这份分析为有志于这两个领域的人提供了宝贵指南，强调了独立思考和诚实自省的重要性。",
-    "best_quote_en": "They have a laser focus on the next step in front of them combined with long-term vision. Most people only have one or the other.",
-    "best_quote_zh": "他们既有对眼前步骤的激光般专注，又具备长远眼光。大多数人往往只具备其中之一。"
-  },
-  {
-    "id": 307,
-    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
-    "title_zh": "通过重新利用现有药物治疗和治愈大脑和身体的疾病 | 大卫·法根鲍姆博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "This conversation with Dr. David Fajgenbaum reveals the hidden potential of drug repurposing, a practice where existing medications find new applications beyond their original approval. His personal journey with Castleman's disease illustrates the life-saving possibilities when medical professionals and patients explore unconventional treatments. The discussion highlights the systemic challenges in pharmaceutical development, including patent incentives that discourage exploration of new uses for approved drugs. Dr. Fajgenbaum's work with the Every Cure database demonstrates how AI and integrated medical databases can accelerate discovery of these repurposing opportunities. The interview also explores the psychological and systemic factors that prevent broader adoption of this approach, offering both hope and practical tools for patients facing seemingly untreatable conditions.",
-    "summary_zh": "与大卫·法根鲍姆博士的对话揭示了药物再利用的潜力，这种方法让已获批药物找到新用途。他个人与卡斯尔曼病的抗争展示了非传统治疗方法的生死意义。讨论揭露了药品研发的系统性挑战，包括阻碍探索已有药物新用途的专利激励机制。法根鲍姆博士的Every Cure数据库工作展示了AI和整合医疗数据库如何加速发现这些再利用机会。采访还探讨了心理和系统因素如何阻碍这种方法的广泛应用，为面对看似无法治愈疾病的患者提供了希望和实用工具。",
-    "best_quote_en": "The most exciting part about drug repurposing is that we're not waiting for new drugs to be developed, we're finding new uses for drugs that already exist.",
-    "best_quote_zh": "药物再利用最令人兴奋的地方在于我们不需要等待新药研发，而是找到已有药物的新用途。"
-  },
-  {
-    "id": 308,
-    "title": "The problem of graceful deference",
-    "title_zh": "优雅的谦让问题",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/jzy5qqRuqA9iY7Jxu/the-problem-of-graceful-deference-1",
-    "tags": [
-      "solve",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "The article explores the psychological and social dynamics of moral deference, particularly in contentious topics like reprogenetics and AI risk. The author examines how people often adopt positions based on social consensus rather than personal conviction, creating a false sense of consensus. This phenomenon, while sometimes justified, can lead to group epistemological failures and hinder critical thinking. The piece advocates for more transparent deference—acknowledging when we're following others' lead—which could improve collective decision-making. It also touches on the broader challenge of deferring to experts in a complex world where we can't be experts on everything. The author's personal reflections on AI safety efforts highlight how even well-intentioned groups can fall into patterns of deferred thinking, emphasizing the need for more open communication about our reasoning processes.",
-    "summary_zh": "这篇文章探讨了道德谦让的心理和社会动态，特别是在像繁殖遗传学和AI风险等有争议话题中。作者分析了人们如何基于社会共识而非个人信念采纳立场，从而制造出虚假的共识。这种现象虽有时有道理，但可能导致群体认知失败并抑制批判性思维。文章倡导更透明的谦让——承认我们在何时追随他人意见，这可能改善集体决策。它还触及在复杂世界中我们无法成为所有问题专家时，如何优雅谦让的更广泛挑战。作者关于AI安全努力的个人反思展示了即使善意的群体也可能陷入谦让思维的模式，强调我们需要更开放地沟通我们的推理过程。",
-    "best_quote_en": "I wish that when someone asked me in, say, 2016, 'Why are you working on decision theory?', I would have not said 'Well I think that a better understanding of decision theory would tell us what sort of agents are possible and then we can understand reflective stability and this will explain the design space of agents which will allow us to figure out what levers we have to set the values of the AI and...'. Instead I wish I had said 'Mainly because Yudkowsky has been working on that and it seems interesting and I know math.'",
-    "best_quote_zh": "我希望当有人在2016年问我'为什么你要研究决策理论？'时，我不会说'我认为更好地理解决策理论会告诉我们什么样的智能体是可能的，然后我们可以理解反射稳定性，这将解释智能体的设计空间，从而让我们能够弄清楚设置AI价值的杠杆...'。相反，我希望我当时可以说'主要因为尤德科夫斯基在研究这个，它看起来很有趣，我懂数学。'"
-  },
-  {
-    "id": 309,
-    "title": "‘The chilling effect’: how fear of ‘nudify’ apps and AI deepfakes is keeping Indian women off the internet",
-    "title_zh": "冰冷效应：AI深度伪造与'脱衣'应用如何让印度女性远离互联网",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/nov/05/india-women-ai-deepfakes-internet-social-media-artificial-intelligence-nudify-extortion-abuse",
-    "tags": [
-      "analyze",
-      "cybersecurity",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "网络安全",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "This report highlights a disturbing trend where AI tools are increasingly used to create non-consensual deepfakes of women in India, leading to severe psychological and social consequences. The 'chilling effect' described shows how fear of digital manipulation is driving women to self-censor and withdraw from online spaces. High-profile cases like those involving Asha Bhosle and Rana Ayyub demonstrate the pervasive nature of this issue, while the legal and platform response remains inadequate. The report reveals a troubling intersection of technology and gender-based violence, where AI democratizes harassment and makes it more difficult to combat. This analysis raises critical questions about digital safety, platform accountability, and the need for stronger legal protections in the face of rapidly evolving AI capabilities.",
-    "summary_zh": "本报告揭示了印度女性因AI深度伪造和'脱衣'应用而陷入的困境。这些技术被用于非法创作女性照片，导致心理创伤和社会污名化。高调案例表明，从法律到平台的应对措施仍显滞后。这不仅是技术问题，更暴露了性别暴力的新形式。面对AI技术的快速发展，我们需要重新思考数字安全的边界与责任。",
-    "best_quote_en": "'The chilling effect is true,' says Rohini Lakshané. 'The fact that they can be so easily misused makes me extra cautious.'",
-    "best_quote_zh": "罗希尼·拉克什内说:'冰冷效应确实存在。这些图片被滥用的可能性让人不得不加倍小心。'"
-  },
-  {
     "id": 310,
     "title": "Babies born to black mothers 81% more likely to die in neonatal care, NHS study shows",
     "title_zh": "NHS研究显示，黑人母亲所生婴儿在新生儿护理中死亡风险增加81%",
@@ -2326,5 +2208,115 @@
     "summary_zh": "这篇文章汇集了各种专业的剪纸工具，超越了传统剪刀的局限，提供了更精准、高效且安全的替代方案。从能自我修复的切割垫，到自动磨刀的Dahle 550滚刀，再到多功能Fiskars旋转切割器，每件工具都解决了特定的痛点。尤其令我印象深刻的是骨质折叠器（bone folder），它能将普通的纸张变成带有专业折痕的艺术品，体现了对细节的极致追求。这些推荐不仅实用，更蕴含着一种对工具美学和功能极致化的探索精神，对于追求效率与品质的创作者而言，无疑是极具启发性的宝藏指南。",
     "best_quote_en": "The self-healing rubber keeps the surface uniformly smooth, clean, and firm. And protects your table. Get the largest one you have room for and can afford. A large mat also says: don’t pile stuff here.",
     "best_quote_zh": "自我修复的橡胶使表面保持均匀光滑、清洁和坚固，并保护您的桌面。买你能负担得起、空间又允许的最大尺寸。一张大垫子也意味着：别把东西堆在这里。"
+  },
+  {
+    "id": 405,
+    "title": "Best of 2025: Don’t call it morning sickness: ‘At times in my pregnancy I wondered if this was death coming for me’ – podcast",
+    "title_zh": "2025年精选：别再叫它晨吐了：'怀孕期间我曾怀疑死神降临' – 播客",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/dec/17/best-of-2025-dont-call-it-morning-sickness-at-times-in-my-pregnancy-i-wondered-if-this-was-death-coming-for-me-podcast",
+    "tags": [
+      "learn",
+      "medicine"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "This podcast delves into the severe and often debilitating condition of hyperemesis gravidarum, moving beyond the dismissive term 'morning sickness.' It highlights the historical context, acknowledging that even the Victorians recognized its severity as 'pernicious vomiting of pregnancy,' yet modern medicine has struggled to provide adequate relief. The content implicitly critiques the medical establishment's past failures and celebrates recent advancements offering hope. For me, it's a stark reminder of how deeply personal and physically brutal some medical conditions can be, especially those disproportionately affecting women, often underestimated or mislabeled by society. It raises important questions about medical empathy and the need for continuous research into conditions that profoundly impact quality of life.",
+    "summary_zh": "这期播客深刻探讨了妊娠剧吐的痛苦，超越了“晨吐”这一轻描淡写的称谓。维多利亚时代已称之为“恶性妊娠呕吐”，可见其严重性，但现代医学长期未能有效解决。这让我反思，社会对女性特有疾病的认知和重视程度是否足够？它不仅揭示了医学进步的必要性，也触及了对患者痛苦的共情与理解。内容虽短，却掷地有声，期待未来能有更多针对此类被忽视病症的深入研究与解决方案。",
+    "best_quote_en": "At times in my pregnancy I wondered if this was death coming for me.",
+    "best_quote_zh": "怀孕期间我曾怀疑死神降临。"
+  },
+  {
+    "id": 406,
+    "title": "A Word to the Resourceful",
+    "title_zh": "致足智多谋者的一席话",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/word.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "This essay from Y Combinator founder Paul Graham delves into the critical, yet often overlooked, trait of 'resourcefulness' among startup founders. He observes a distinct pattern: successful founders are 'fire-and-forget' – capable of independently pursuing leads and understanding implications, even uncomfortable ones. Conversely, less successful founders exhibit a 'conversational resourcefulness' deficit, manifesting as an inability or unwillingness to fully grasp and act upon advice, often bordering on denial. Graham astutely links this to the adage \"a word to the wise is sufficient,\" suggesting that true resourcefulness isn't just about intellect, but a proactive eagerness to engage with reality, chase down opportunities, and confront challenges head-on. It's a compelling argument for self-reliance and intellectual honesty as foundational pillars for startup success.",
+    "summary_zh": "这篇文章深刻剖析了创业者成功的核心特质——“足智多谋”。作者观察到，成功的创业者往往是“放手不管”型，他们能主动追寻机遇，并理解建议的深层含义，哪怕这些含义令人不适。而失败者则缺乏这种“对话式应变能力”，表现为不愿或不能充分理解并执行建议，甚至陷入否认。我个人认为，这不仅关乎智力，更是一种积极面对现实、主动出击并勇于解决问题的内在驱动力，是创业精神的真正体现。",
+    "best_quote_en": "The startups that do best are fire-and-forget in the sense that all you have to do is give them a lead, and they'll close it, whatever type of lead it is.",
+    "best_quote_zh": "最成功的初创公司是那种“即发即忘”的，你只需给他们一个线索，无论是什么类型的线索，他们都会搞定。"
+  },
+  {
+    "id": 407,
+    "title": "Algorithmic Dating",
+    "title_zh": "算法式约会",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/mLzEWfeSTNFkHW7bX/algorithmic-dating",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "This provocative piece reimagines dating as an algorithmic process, advocating for a \"45-degree straight line\" approach to intimacy building, eschewing sudden \"moves\" in favor of gradual, consistent interaction. The author, a self-proclaimed conservative male, contrasts his proposed methodical, low-risk strategy with the seemingly irrational, liberal dating behaviors he observes among his friends. While the analogy to computer programs and smooth functions offers a novel perspective, its practical applicability is questionable, as human interaction rarely adheres to such rigid, linear progression. The article's strength lies in its unconventional framing of a common challenge, prompting readers to critically examine their own dating strategies, even if its prescriptive advice feels overly simplistic and culturally specific. It's a fascinating thought experiment on the mechanics of relationship initiation.",
+    "summary_zh": "这篇文章以一种新颖的视角，将约会比作算法，提出了一种“45度直线”的渐进式亲密关系建立策略，而非突然的“攻势”。作者作为一名保守派男性，批评了朋友们在约会中的“非理性”行为。虽然将人际互动程序化颇具创意，但现实中情感的复杂性远非线性算法所能涵盖。文章的价值在于其独特的思维框架，引发读者反思约会模式，尽管其建议可能过于简单化且带有强烈的个人文化偏好。这是一次对人际关系启动机制的有趣智力探索。",
+    "best_quote_en": "What should happen is a 45 degree angle straight line. On the first day, you simply say “hello”. Then you increase interaction length to 2 words on the second day, then to 3 words on the third day, then to 4 words on the 4th day.",
+    "best_quote_zh": "应该发生的是一条45度角的直线。第一天，你只需说“你好”。然后第二天你将互动长度增加到两个词，第三天增加到三个词，第四天增加到四个词。"
+  },
+  {
+    "id": 408,
+    "title": "J. D. Vance’s Notable Absence on Venezuela",
+    "title_zh": "J. D. 范斯在委内瑞拉事件中的显著缺席",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/j-d-vances-notable-absence-on-venezuela",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This article critically examines Vice President J. D. Vance's notable absence from a high-stakes U.S. operation in Venezuela to capture Nicolás Maduro. It delves into whether his exclusion was due to his anti-interventionist stance or a shrewd political calculation, especially given the operation's mixed public reception. The author meticulously dissects the contradictory rationales offered by various Trump administration figures—Rubio's anti-communism, Miller's imperialistic vision, and Trump's focus on oil—highlighting a profound lack of coherent strategy. The piece suggests that Vance, as a potential political heir, might be strategically distancing himself from a potentially unpopular foreign policy entanglement, showcasing a keen awareness of both the moral and political anxieties surrounding military force. It's a fascinating look at the intricate dance between ideology, political ambition, and the messy realities of foreign intervention.",
+    "summary_zh": "本文深入剖析了副总统J. D. 范斯在委内瑞拉行动中的缺席，这引发了我对政治策略与个人立场的深思。文章揭示了特朗普政府内部在行动理由上的混乱与矛盾，从反共到帝国主义再到石油利益，每个核心人物都有自己的叙事。范斯的缺席，或许并非简单的意识形态之争，更像是一种精明的政治避险，尤其是在民意对军事干预普遍不看好的背景下。这不禁让人思考，在权力更迭的微妙时刻，个人如何在复杂的国际棋局中定位自己，以求最大化政治资本。这不仅仅是外交政策的分析，更是对政治人性与权力运作的深刻洞察。",
+    "best_quote_en": "Vance’s general absence from the Venezuela initiative has been taken as an expression of his ideological identity. He is a dove, at least in the relative terms of Trumpworld, and this has been an operation for the hawks. But his more salient position may be as Trump’s political heir, and the Venezuela adventure is beginning to look like a very hard political sell.",
+    "best_quote_zh": "范斯普遍缺席委内瑞拉行动，这被视为他意识形态身份的体现。至少在特朗普世界里，他是一只鸽子，而这次行动是鹰派的。但他更重要的定位可能是特朗普的政治继承人，而委内瑞拉的冒险正变得越来越难以在政治上推销。"
+  },
+  {
+    "id": 409,
+    "title": "The Wolves of Currumpaw / Sinatra 100",
+    "title_zh": "库伦波之狼 / 辛纳特拉100",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-wolves-of-currumpaw-a-true-story-about-lobo-a-wolf-from-the-old-west/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This content features reviews of two distinct books: \"The Wolves of Currumpaw\" and \"Sinatra 100.\" The first is a beautifully illustrated children's book by William Grill, retelling the true, albeit tragic, story of a legendary wolf named Lobo and the hunter Ernest Thompson Seton, who later became a wolf activist. It highlights the book's artistic merit and its poignant historical narrative, noting its potential emotional impact on sensitive readers. The second review is for \"Sinatra 100,\" a lavish coffee-table book celebrating Frank Sinatra's life with text and rare photographs. It details Sinatra's career trajectory, from his early struggles to his iconic status, emphasizing the visual storytelling. Both reviews offer insights into the books' content, artistic qualities, and target audiences, with a critical note on the small text size in the Sinatra book.",
+    "summary_zh": "这篇文章评论了两本截然不同的书。《库伦波之狼》通过精美插图讲述了一匹传奇狼和猎人的悲剧故事，触动人心，也让我思考人类与自然的关系。猎人由捕杀到觉醒的转变，更是令人深思。而《辛纳特拉100》则是一本回顾传奇歌手法兰克·辛纳特拉生平的精美画册，虽然文字略小，但丰富的图片无疑是了解他辉煌生涯的绝佳窗口，仿佛穿越时空，亲历那个黄金时代。两本书都以独特的方式，记录了历史的片段。",
+    "best_quote_en": "These were the dying days of the Old West and the fate of wolves was sealed in it.",
+    "best_quote_zh": "那是旧西部时代的末期，狼的命运也随之注定。"
   }
 ]
