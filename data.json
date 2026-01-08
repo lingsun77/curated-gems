@@ -1,125 +1,5 @@
 [
   {
-    "id": 310,
-    "title": "Babies born to black mothers 81% more likely to die in neonatal care, NHS study shows",
-    "title_zh": "NHS研究显示，黑人母亲所生婴儿在新生儿护理中死亡风险增加81%",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/nov/04/babies-born-to-black-mothers-81-more-likely-to-die-in-neonatal-care-nhs-study-shows",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This groundbreaking NHS study reveals alarming disparities in neonatal mortality rates based on ethnicity and socioeconomic status. The research, analyzing over 700,000 births, found that babies born to black mothers face an 81% higher risk of death before discharge compared to white mothers, with Asian mothers also experiencing elevated risks. Socioeconomic factors compound these disparities, with babies from the most deprived areas facing a 63% higher mortality risk. The study underscores the need for systemic changes in healthcare delivery and broader social conditions affecting maternal and infant health. Experts call for urgent action to address these inequalities, emphasizing the need for culturally sensitive care and investment in healthcare infrastructure. This research adds to growing evidence of racial disparities in healthcare outcomes, highlighting systemic biases that persist despite societal progress.",
-    "summary_zh": "这项 NHS 研究揭示了新生儿死亡率在种族和社会经济地位上的惊人差异。研究分析了超过70万例出生数据，发现黑人母亲所生婴儿在出院前死亡的风险比白人母亲高出81%，亚洲母亲所生婴儿的风险也有所增加。社会经济因素加剧了这些差异，来自最贫困地区的婴儿死亡风险增加了63%。该研究强调了需要在医疗服务和更广泛的社会条件方面进行系统性变革。专家呼吁采取紧急行动来解决这些不平等，强调需要文化敏感度的护理和医疗基础设施的投资。这一研究为种族在医疗结果中的差异提供了更多证据，凸显了尽管社会进步，但仍然存在的系统性偏见。",
-    "best_quote_en": "'Socioeconomic and ethnic inequalities independently shape survival in neonatal units, and maternal and birth factors explain only over half of the socioeconomic and ethnic inequalities.' - Samira Saberian, lead author",
-    "best_quote_zh": "“社会经济和种族不平等独立地影响新生儿重症监护病房的存活率，而母亲和分娩因素仅能解释超过一半的社会经济和种族不平等。” —— 主要作者萨米拉·萨贝里安"
-  },
-  {
-    "id": 311,
-    "title": "The Fatal Pinch",
-    "title_zh": "致命挤压",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pinch.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "The 'fatal pinch' describes a critical phase in startups where they have sufficient cash but are burning through it without meaningful revenue growth. Founders often delude themselves about securing additional funding, but investors have higher expectations for existing companies. The situation becomes self-reinforcing as founders delay profitability, making future funding even harder to obtain. The article advises treating each funding round as the last, and if already in the pinch, to either shut down, cut expenses (including firing underperforming staff), or increase revenues through alternative means. The key insight is that startups should pivot to more immediately profitable activities, even if it means temporary consulting work, to ensure survival. The piece offers practical, albeit harsh, advice for startups facing financial distress, emphasizing the importance of ruthless decision-making to avoid a slow, inevitable decline.",
-    "summary_zh": "致命挤压指初创公司在濒临破产前的关键阶段，尽管银行账户有余款，但每月亏损严重且收入增长乏力。创始人往往高估融资概率，但投资者对已融资公司期望更高。这种情况会自我强化，推迟盈利反而降低融资机会。文章建议将每轮融资视为最后一笔，若已陷入困境，需选择关闭公司、削减开支或增加收入。关键在于灵活转型，即使通过临时咨询业务也要确保生存。这篇文章提供了务实但严厉的建议，强调在财务困境中必须做出无情决策，避免缓慢衰败的命运。",
-    "best_quote_en": "The company is now starting to read as a failure. The first time it raised money, it was neither a success nor a failure; it was too early to ask. Now it's possible to ask that question, and the default answer is failure, because at this point that is the default outcome.",
-    "best_quote_zh": "公司现在开始被视为失败。第一次融资时，它既不是成功也不是失败；那时还为时过早。现在可以问这个问题了，而默认答案是失败，因为在这一点上，失败是默认结果。"
-  },
-  {
-    "id": 312,
-    "title": "The Mess at the BBC Will Never End",
-    "title_zh": "BBC的混乱将永无止境",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-uk/the-mess-at-the-bbc-will-never-end",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-11-12",
-    "summary_en": "The article delves into the ongoing crisis at the BBC, highlighting internal and external pressures threatening its credibility. A leaked memo from former adviser Michael Prescott exposed perceived biases in BBC's coverage of Trump, racial diversity, gender issues, and the Gaza war. The controversy escalated with high-profile resignations and political attacks, revealing deep-seated tensions between the broadcaster and its critics. The piece explores the BBC's struggle to maintain impartiality amid budget cuts, political interference, and public distrust. It raises questions about whether the current crisis stems from genuine concerns or a concerted effort to undermine the institution. The BBC's future hangs in the balance as it grapples with systemic challenges and existential threats to its funding model.",
-    "summary_zh": "文章深入分析了BBC持续的危机，揭示了内部和外部压力对其信誉构成的威胁。前顾问迈克尔·普雷斯科特泄露的备忘录揭露了BBC在报道特朗普、种族多样性、性别问题和加沙战争等问题上的偏见。争议随着高层辞职和政治攻击升级，揭示了广播公司与批评者之间的深层紧张关系。文章探讨了BBC在预算削减、政治干预和公众不信任的压力下，如何维持公正性。它提出了一个问题：当前的危机是出于真正的关切，还是试图破坏这一机构的蓄意努力。随着BBC应对系统性挑战和对其资金模式的生存威胁，其未来命运悬而未决。",
-    "best_quote_en": "It feels as if it’s a criticism which is designed to undermine the BBC as a whole.",
-    "best_quote_zh": "这看起来更像是旨在削弱BBC整体的批评。"
-  },
-  {
-    "id": 313,
-    "title": "What’s in my NOW? — Rob Ray",
-    "title_zh": "What’s in my NOW? — Rob Ray",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-rob-ray-2/",
-    "tags": [
-      "analyze",
-      "education",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-11-12",
-    "summary_en": "Rob Ray's 'What’s in my NOW?' offers a fascinating blend of practical tools and profound philosophical reflections. On the practical side, he shares his experiences with 3D printing, CAD tools, and gardening, highlighting accessible and reliable technologies. The mention of Bambu Labs A1 Mini 3D printers and Plasticity CAD tool provides valuable insights for educators and hobbyists alike. However, the most compelling part of the piece is the exploration of Drexciya, an Afrofuturist mythology that transforms historical trauma into a narrative of resilience and imagination. This dual focus on tangible tools and intangible inspiration makes the content particularly engaging. It challenges readers to think about how they can integrate both practical and visionary elements into their own lives.",
-    "summary_zh": "罗布·雷的《What’s in my NOW?》结合了实用工具和深刻的哲学思考。在实用层面，他分享了关于3D打印、CAD工具和园艺的经验，突出了易于获取和可靠的技术。提到的Bambu Labs A1 Mini 3D打印机和Plasticity CAD工具为教育工作者和爱好者提供了宝贵的见解。然而，文章最引人入胜的部分是探索Drexciya这一非洲未来主义神话，它将历史创伤转化为抗争和想象力的叙事。这种实用与启发并重的双重视角使内容特别引人深思，挑战读者如何在生活中融合实践与远见。",
-    "best_quote_en": "Drexciya is a mythic, Afrofuturist world imagined by Detroit’s electronic musicians, James Stinson and Gerald Donald, in the early 1990s. They envisioned an underwater kingdom born from the Middle Passage, where the unborn children of enslaved women threw or lost to the sea adapted to breathe underwater and created their own autonomous world.",
-    "best_quote_zh": "Drexciya是由底特律电子音乐人詹姆斯·斯蒂文森和杰拉尔德·唐纳德在1990年代初构想的一个神话般的非洲未来主义世界。他们想象了一个诞生于中途岛的水下王国，那里未出生的奴隶女性被扔进或失踪于大海的孩子们适应了水下呼吸，并创造了自己的自治世界。"
-  },
-  {
-    "id": 314,
-    "title": "Project Covalence",
-    "title_zh": "Project Covalence",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/project-covalence",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-06-16",
-    "summary_en": "Project Covalence emerges as a critical initiative to accelerate COVID-19 clinical trials, addressing a major bottleneck in the pandemic response. By collaborating with TrialSpark and Dr. Mark Fishman, the project offers comprehensive support for trials, including remote data collection, telemedicine, and logistical coordination. What makes this initiative particularly compelling is its focus on community and home-based trials, reducing the burden on overwhelmed healthcare systems. The creation of master protocols for platform studies further demonstrates its innovative approach to trial design. This project exemplifies how technology and strategic partnerships can dramatically improve the efficiency of medical research during global crises.",
-    "summary_zh": "Project Covalence是一个加速COVID-19临床试验的关键项目，解决疫情应对中的重要瓶颈。通过与TrialSpark和Fishman博士合作，该项目为试验提供全面支持，包括远程数据收集、远程医疗和后勤协调。项目特别关注社区和家庭基地试验，减轻医疗系统的负担。创建平台研究的主协议进一步展示了其创新的试验设计方法。该项目展示了技术和战略合作如何在全球危机中显著提高医学研究效率。",
-    "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials, which are usually time-consuming and cost tens to hundreds of millions of dollars, is one of the highest-leverage ways to get out of it faster.",
-    "best_quote_zh": "科学仍然是走出COVID-19危机的唯一途径。大幅提高临床试验效率，通常耗时且成本高昂，是加速走出危机的最高杠杆之一。"
-  },
-  {
     "id": 315,
     "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
     "title_zh": "在喀什米尔山区独自生产的女性：森林中的诞生",
@@ -2318,5 +2198,117 @@
     "summary_zh": "这篇文章评论了两本截然不同的书。《库伦波之狼》通过精美插图讲述了一匹传奇狼和猎人的悲剧故事，触动人心，也让我思考人类与自然的关系。猎人由捕杀到觉醒的转变，更是令人深思。而《辛纳特拉100》则是一本回顾传奇歌手法兰克·辛纳特拉生平的精美画册，虽然文字略小，但丰富的图片无疑是了解他辉煌生涯的绝佳窗口，仿佛穿越时空，亲历那个黄金时代。两本书都以独特的方式，记录了历史的片段。",
     "best_quote_en": "These were the dying days of the Old West and the fate of wolves was sealed in it.",
     "best_quote_zh": "那是旧西部时代的末期，狼的命运也随之注定。"
+  },
+  {
+    "id": 410,
+    "title": "Cod conflict between two Nato members | Brief letters",
+    "title_zh": "北约两个成员国之间的鳕鱼冲突 | 短信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/jan/07/cod-conflict-between-two-nato-members",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "This collection of brief letters offers a fascinating, albeit fragmented, glimpse into diverse societal and historical topics. The most compelling insight stems from the 'Cod Wars' letter, which highlights the ironic geopolitical dynamics of NATO members in conflict, with the US intervening to preserve alliance unity. This particular piece serves as a potent reminder that even within seemingly stable alliances, national interests can clash, and external pressures often dictate resolutions. The other letters, ranging from Shakespearean wisdom on power to quirky local greetings and humorous road sign vandalism, provide a rich tapestry of human experience and communication. While individually anecdotal, collectively they underscore the varied ways people engage with and react to the world around them, reflecting broader cultural and political currents in miniature.",
+    "summary_zh": "这组短函如同一面棱镜，折射出社会与历史的斑斓碎片。最引人深思的是关于“鳕鱼战争”的信件，它揭示了北约内部成员国冲突的讽刺地缘政治，以及美国为维护联盟统一所扮演的角色。这不禁让人思考，即便在看似稳固的联盟中，国家利益的碰撞也难以避免，而外部压力往往是解决冲突的关键。其他信件，从莎士比亚的智慧到地方问候的趣闻，则展现了人类体验和沟通的多元性，这些看似琐碎的日常，却也映射出更广泛的文化与政治图景。",
+    "best_quote_en": "Not at all in the same league as a possible US attack on Greenland, but the cod wars of the 1970s between the UK and Iceland are an example of conflict between two Nato members.",
+    "best_quote_zh": "虽然与美国可能袭击格陵兰岛的事件完全不同，但1970年代英国和冰岛之间的鳕鱼战争是两个北约成员国之间冲突的一个例子。"
+  },
+  {
+    "id": 411,
+    "title": "Schlep Blindness",
+    "title_zh": "苦差事盲区",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/schlep.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "This essay introduces 'schlep blindness,' a psychological phenomenon where individuals, particularly startup founders, unconsciously avoid identifying or pursuing valuable opportunities because they involve tedious, unpleasant tasks ('schleps'). The author argues that embracing these 'schleps' is fundamental to business success, using Stripe as a prime example of a company that tackled a universally acknowledged but avoided problem (online payments). He provocatively suggests that ignorance can be an asset for young founders, as they underestimate both their capacity for growth and the magnitude of challenges, leading them to tackle ambitious problems others shy away from. Ultimately, the piece encourages a shift in perspective: instead of asking 'what problem should I solve?', ask 'what problem do I wish someone else would solve for me?' to uncover overlooked opportunities.",
+    "summary_zh": "这篇文章提出了一个引人深思的观点——“苦差事盲区”，即人们会无意识地避开那些虽有巨大价值但伴随繁琐工作的机会。作者以Stripe为例，揭示了许多创业者因惧怕“苦差事”而错失解决核心痛点的机会。这让我反思，我们是否也常被表面的困难所迷惑，而忽视了深藏其后的巨大价值？文章还提出，年轻创业者的“无知”反而是优势，因为他们敢于跳入“冷水池”。这不仅是创业智慧，更是人生哲学：真正的成长往往隐藏在那些我们最不愿面对的“苦差事”中。",
+    "best_quote_en": "The most dangerous thing about our dislike of schleps is that much of it is unconscious. Your unconscious won't even let you see ideas that involve painful schleps.",
+    "best_quote_zh": "我们不喜欢苦差事最危险的地方在于，这种不喜欢在很大程度上是无意识的。你的潜意识甚至不会让你看到那些涉及痛苦苦差事的想法。"
+  },
+  {
+    "id": 412,
+    "title": "Using Anki to memorise the names of the MATS 9 cohort",
+    "title_zh": "使用Anki记住MATS 9学员的名字",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/W2CxiAKDcdTkMgopu/using-anki-to-memorise-the-names-of-the-mats-9-cohort",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "This post offers a practical, firsthand account of leveraging Anki, a spaced repetition flashcard system, to effectively memorize a large cohort's names and faces. The author, initially poor with names, details the process of creating a custom Anki deck from provided profiles and shares insights into its success, noting significantly improved recall and social interactions. Critically, the piece also addresses challenges like overfitting to profile picture details and discrepancies between photos and real-life appearances, providing a balanced perspective. It's a compelling case study on applying a learning tool to a common social hurdle, suggesting broader applicability for similar large-group scenarios and even hinting at potential cognitive improvements in name recall over time. The author's proactive approach and honest reflection make this a valuable read for anyone looking to enhance their memory skills.",
+    "summary_zh": "这篇博文记录了作者如何利用Anki记忆MATS 9期学员的名字，读来颇受启发。作者原本不擅长记名字，却通过制作专属Anki牌组，成功克服了这一社交难题。文章不仅分享了操作细节和显著成效，还坦诚地探讨了记忆过程中的挑战，如过度依赖照片细节或现实与照片的差异。这种将学习工具应用于实际社交场景的创新思维，以及对结果的客观反思，让我觉得非常有价值。它不仅解决了眼前问题，更展望了未来记忆能力提升的可能性，确实是一篇既实用又富有洞察力的分享。",
+    "best_quote_en": "I certainly feel like I learnt far more names on the first day than I would have without Anki. At previous similar events, I’d be lucky to properly remember 6 to 8 people’s names, but I’m pretty sure I learnt 10 to 15 new names on the first day (and this I attribute to Anki).",
+    "best_quote_zh": "我确实觉得第一天记住的名字比没有Anki要多得多。在以前类似活动中，我能记住6到8个人的名字就不错了，但我很确定第一天就记住了10到15个新名字（这都归功于Anki）。"
+  },
+  {
+    "id": 413,
+    "title": "The Former Trump Skeptics Getting Behind His War in Venezuela",
+    "title_zh": "前特朗普怀疑论者支持他对委内瑞拉的战争",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-former-trump-skeptics-getting-behind-his-war-in-venezuela",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "This article delves into the complex geopolitical landscape surrounding a hypothetical future U.S. military intervention in Venezuela under a renewed Trump presidency, featuring an interview with Matthew Kroenig, a former 'Never Trump' Republican now advocating for the use of force. Kroenig argues that such actions, while controversial, can serve American interests by removing adversaries like Maduro and deterring other 'bad actors,' asserting that the U.S. has been 'too cautious' post-Iraq and Afghanistan. The piece provocatively explores the tension between geopolitical strategy and democratic values, questioning whether Trump's motivations extend beyond raw power and resource acquisition. It highlights the shifting alliances within the Republican party and the pragmatic, albeit unsettling, rationalizations for military intervention, raising critical questions about the criteria for justified force and the long-term implications for global stability and democratic norms. The discussion around Greenland further complicates the narrative, revealing the unpredictable nature of Trump's 'Art of the Deal' approach to international relations.",
+    "summary_zh": "这篇文章探讨了特朗普政府未来可能对委内瑞拉采取军事行动的复杂性，通过采访一位曾是“永不特朗普”阵营但现支持动武的前共和党人，揭示了地缘政治策略与民主价值观之间的紧张关系。受访者认为，美国在伊拉克和阿富汗战争后过于谨慎，军事干预有时是最佳选择，这不禁让人思考，在追求国家利益时，我们是否正在模糊道德界限？特朗普的行动究竟是基于原则还是纯粹的权力游戏？文章也反映了共和党内部立场的微妙变化，以及对军事干预合理性的功利主义辩护，这让我对国际政治的未来走向感到一丝不安。尤其对格陵兰的讨论，更凸显了特朗普外交手腕的不可预测性，令人深思。",
+    "best_quote_en": "I think the U.S. has been too cautious regarding the use of force, especially since Iraq and Afghanistan, because I think we’ve taken the lesson that this stuff never works, when, in fact, sometimes military force is the best option.",
+    "best_quote_zh": "我认为美国在使用武力方面过于谨慎，尤其是在伊拉克和阿富汗之后，因为我们认为这种做法永远行不通，而事实上，有时军事力量是最佳选择。"
+  },
+  {
+    "id": 414,
+    "title": "What’s in my NOW? — Magnus Ojala",
+    "title_zh": "我现在的工具箱里有什么？— 马格努斯·奥亚拉",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-magnus-ojala/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "Magnus Ojala, a Swedish construction professional, shares his curated list of physical, digital, and 'invisible' tools for managing complexity and enhancing productivity in both work and life. His selections, ranging from liquid chalk for weightlifting to a personalized Todoist setup based on Tiago Forte's methodology, emphasize flow, systems thinking, and continuous learning. Ojala's insights are particularly valuable for anyone seeking practical, low-friction strategies to maintain focus, optimize capacity, and ensure long-term effectiveness. The inclusion of the 'Herbie, the bottleneck' concept from 'The Goal' underscores his systems-thinking approach, highlighting that overall performance is limited by constraints, not just individual speed. This article offers a thoughtful blend of personal recommendations and foundational productivity principles.",
+    "summary_zh": "马格努斯·奥亚拉分享了他用于管理复杂性和提升效率的个人工具箱，涵盖物理、数字和“无形”层面。从运动辅助到个性化任务管理系统，他强调了流程、系统思维和持续学习的重要性。最引人深思的是他引用“瓶颈赫比”的理念，这提醒我们系统性能的上限并非由最快的环节决定，而是由最慢的瓶颈所制约。这不仅仅是工具推荐，更是一种关于如何优化个人系统、保护长期产能的深刻反思，对于寻求实用高效方法的读者具有启发意义。",
+    "best_quote_en": "The insight is simple: system performance is governed by its constraints, not by the individual speed of its fastest parts.",
+    "best_quote_zh": "这个洞察很简单：系统性能由其约束条件决定，而非由其最快部分的个体速度决定。"
   }
 ]
