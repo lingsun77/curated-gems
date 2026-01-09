@@ -1,121 +1,5 @@
 [
   {
-    "id": 315,
-    "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
-    "title_zh": "在喀什米尔山区独自生产的女性：森林中的诞生",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/nov/14/healthcare-kashmir-mountains-giving-birth-alone-gujjar-bakarwal-pastoralists-maternal-mortality",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "This harrowing account sheds light on the perilous childbirth conditions faced by nomadic Gujjar and Bakarwal women in Kashmir's high mountain passes. The article reveals how these women, often pregnant during their seasonal migrations, must give birth in remote, unsanitary conditions without access to proper medical care. The piece highlights systemic healthcare failures, cultural practices like early marriage, and the critical role of traditional midwives. It also draws parallels with similar challenges faced by pastoralist women globally, offering a stark reminder of the maternal health disparities that persist in marginalized communities. The human stories make this an urgent call for mobile healthcare solutions and policy reforms.",
-    "summary_zh": "这个触目惊心的报道揭露了喀什米尔游牧民族古吉尔和巴卡瓦尔女性在高山迁徙途中面临的危险分娩条件。文章揭示了这些女性在偏远、卫生条件恶劣的地方分娩时，无法获得适当医疗照护的困境。它突出了体制性的医疗失败、早婚等文化习俗，以及传统助产士的关键作用。文章还与全球其他游牧女性面临的类似挑战进行了比较，为我们敲响了边缘群体中持续存在的产妇健康差距的警钟。这些人性化的故事呼吁着移动医疗解决方案和政策改革的迫切性。",
-    "best_quote_en": "We have only the knowledge passed down to us – no medicines, no doctor. If I fall sick, who will help these women?",
-    "best_quote_zh": "我们只有代代相传的知识——没有药物，没有医生。如果我生病或年老了，谁来帮助这些女性？"
-  },
-  {
-    "id": 316,
-    "title": "Mean People Fail",
-    "title_zh": "Why Mean People Fail",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mean.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "This insightful essay explores the inverse correlation between meanness and success, particularly in startup ecosystems. The author observes that successful individuals in tech and academia tend to be kind rather than mean, attributing this to several factors. Mean people often engage in fights that limit their intellectual growth and ability to attract top talent. Successful startups win by innovating rather than attacking, and their founders are often driven by a desire to improve the world rather than purely financial motives. The piece argues that the nature of success is shifting from zero-sum games to idea-driven ventures, where kindness and collaboration are increasingly valuable. This historical shift suggests that meanness, which was once advantageous, is now a liability in many professional fields.",
-    "summary_zh": "这篇文章深入探讨了人性中的恶意与成功之间的逆相关性，特别是在创业生态系统中。作者观察到，科技和学术界的成功人士往往更为善良而非恶意，并归因于多个因素。恶意之人常常陷入争斗，限制了他们的智力发展和吸引顶尖人才的能力。成功的创业公司通过创新而非攻击取得胜利，其创始人往往是出于改善世界的愿望而非纯粹的财务动机。文章认为，成功的性质正从零和博弈转向以创意驱动的事业，善良与合作在许多职业领域中越来越有价值。这一历史性的转变表明，恶意，曾经是一种优势，现在却成了一个劣势。",
-    "best_quote_en": "Being mean makes you stupid. That's why I hate fights. You never do your best work in a fight, because fights are not sufficiently general.",
-    "best_quote_zh": "恶意会让你变得愚蠢。这就是我讨厌争斗的原因。在争斗中，你永远无法做到最好，因为争斗并不够全面。"
-  },
-  {
-    "id": 317,
-    "title": "The Epstein Scandal Is Now a Chronic Disease of the Trump Presidency",
-    "title_zh": "艾普斯坦丑闻已成为特朗普总统任期的慢性病",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-epstein-scandal-is-now-a-chronic-disease-of-the-trump-presidency",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "The Epstein scandal has evolved into a persistent political liability for Donald Trump, resurfacing with new vigor during his second term. Initially dismissed as a non-issue, the controversy has gained traction due to the administration's refusal to release Justice Department files, which has sparked conspiracy theories and political maneuvering. Recent document releases reveal Trump's name appears thousands of times, with emails suggesting ongoing ties and potential connections to Russian officials. The White House's damage control efforts have backfired, raising more questions than answers. This scandal, like a chronic disease, continues to afflict Trump's presidency, overshadowing his administration's achievements and fueling political turmoil within his own party.",
-    "summary_zh": "艾普斯坦丑闻已成为特朗普总统任期的慢性病，持续发酵并影响其政治前景。最初未引起重视，但因政府拒绝公开司法部档案，激发阴谋论和政治操弄。近期公布的文件显示特朗普名字出现数千次，邮件暗示两人关系未断，并可能与俄罗斯官员有联系。白宫的损害控制措施适得其反，引发更多质疑。这场丑闻如慢性病般困扰特朗普，掩盖其成就，并加剧其党内矛盾。",
-    "best_quote_en": "The scandal never seemed to stick politically to Trump—until recently, when Trump’s second-term Administration has given it a whole new life.",
-    "best_quote_zh": "这场丑闻从未对特朗普造成政治影响——直到最近，他的第二任期政府才让它重获新生。"
-  },
-  {
-    "id": 318,
-    "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
-    "title_zh": "美国机场混乱/新生活成本估算/亚马逊货柜取货",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/us-airport-mayhem-newlife-estimator-remote-locker-pickups/",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "This newsletter provides practical tips for travelers and expats navigating current challenges. The first piece warns about air travel disruptions due to the US government shutdown, advising alternative transportation and insurance. The second feature offers a useful tool for estimating living costs when relocating abroad, highlighting significant savings potential. A packing hack suggests combining travel with downsizing to reduce luggage. Lastly, it introduces Amazon's locker service as a convenient solution for nomads receiving packages in the US. The content is highly actionable, offering immediate solutions to common travel and relocation problems.",
-    "summary_zh": "这篇周报为旅行者和移民提供实用建议。首先警示美国政府停摆导致的航空混乱，建议考虑替代交通方式和投保。其次介绍一个估算海外生活成本的工具，凸显显著节省空间。提供轻装旅行的技巧，建议将旅行与减负结合。最后推荐亚马逊货柜服务，方便游牧者在美国收取包裹。内容极具实用价值，解决常见出行和移民难题。",
-    "best_quote_en": "If you’re going to get rid of something in your closet, like a pair of shoes, a shirt, or pants, then wear the item(s) on your next flight or pack them. Then ditch them after you’ve worn them a few times in the destination, lightening your load for the remainder or the return.",
-    "best_quote_zh": "如果你打算淘汰衣柜里的东西，比如一双鞋子、一件衬衫或一条裤子，不如在下次飞行时穿上或打包。抵达目的地后穿几次就丢弃，减轻返程的负担。"
-  },
-  {
-    "id": 319,
-    "title": "Idea Generation",
-    "title_zh": "创意产生",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/idea-generation",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2020-05-28",
-    "summary_en": "This article provides a deep dive into the crucial skill of idea generation for startup founders, emphasizing that having a continuous flow of ideas is essential for success. It highlights the importance of surrounding oneself with innovative, future-oriented individuals who embrace unconventional thinking. The author suggests focusing on major technological and societal shifts, identifying opportunities at the leading edge of change, and evaluating ideas based on their potential for massive success. The piece also stresses the importance of founder-company fit and the ability to recognize why an idea might initially seem bad but could ultimately be brilliant. The insights are equally applicable to AI development, showing the timeless nature of these principles.",
-    "summary_zh": "这篇文章深入探讨了创业者必须具备的创意产生能力，强调持续不断的创意流是成功的关键。文中指出，要与富有创新精神、面向未来的人物交往，接受非传统思维。作者建议关注重大技术和社会变革，识别变革前沿的机会，并以潜在成功的可能性评估创意。文章还强调了创始人与公司的契合度，以及辨别初看不佳但可能卓越的创意的能力。这些见解同样适用于AI开发，显示了这些原则的永恒价值。",
-    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
-    "best_quote_zh": "最好的想法很脆弱；大多数人甚至不愿谈论它们，因为它们听起来很愚蠢。"
-  },
-  {
     "id": 320,
     "title": "’Tis the season for dubious TV adverts | Letters",
     "title_zh": "圣诞季节充满可疑的电视广告 | 读者来信",
@@ -2310,5 +2194,121 @@
     "summary_zh": "马格努斯·奥亚拉分享了他用于管理复杂性和提升效率的个人工具箱，涵盖物理、数字和“无形”层面。从运动辅助到个性化任务管理系统，他强调了流程、系统思维和持续学习的重要性。最引人深思的是他引用“瓶颈赫比”的理念，这提醒我们系统性能的上限并非由最快的环节决定，而是由最慢的瓶颈所制约。这不仅仅是工具推荐，更是一种关于如何优化个人系统、保护长期产能的深刻反思，对于寻求实用高效方法的读者具有启发意义。",
     "best_quote_en": "The insight is simple: system performance is governed by its constraints, not by the individual speed of its fastest parts.",
     "best_quote_zh": "这个洞察很简单：系统性能由其约束条件决定，而非由其最快部分的个体速度决定。"
+  },
+  {
+    "id": 415,
+    "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+    "title_zh": "冈比亚最高法院审理推翻FGM禁令的企图",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+    "tags": [
+      "solve",
+      "society",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This article details the ongoing legal battle in The Gambia to overturn the ban on Female Genital Mutilation (FGM), highlighting a concerning global trend of regression in women's rights. Religious leaders and an MP are challenging the ban in the supreme court, despite recent FGM-related infant deaths and widespread international condemnation of the practice. The content effectively exposes the arguments of pro-FGM proponents, including claims of cultural and religious freedom, and disturbing justifications like reducing women's sexual desire. It also connects this local struggle to a broader international anti-rights movement, citing examples from Sierra Leone, Afghanistan, the US, and Iran. This piece is crucial for understanding the complex interplay of tradition, law, and human rights, and the persistent challenges in safeguarding women's bodily autonomy.",
+    "summary_zh": "这篇文章揭示了冈比亚企图推翻FGM禁令的法律斗争，这不仅仅是当地事件，更是全球范围内女性权利倒退浪潮中的一个缩影。读来令人深思，当所谓的“文化和宗教自由”被用来合理化对女性身体的残害时，我们必须警惕其背后对人权的漠视。文章中提及的婴儿死亡案例，以及某些支持者将FGM与降低女性性欲挂钩的言论，无疑是对人性和尊严的极大侮辱。这提醒我们，争取女性权利的道路依然漫长且充满挑战，需要持续的关注和坚定的行动。",
+    "best_quote_en": "“If this issue is still being [debated at a national level], it shows us that women’s rights are really regressing. This is not an isolated issue – it’s part of a global regression on women’s rights.”",
+    "best_quote_zh": "“如果这个问题仍在（国家层面）被辩论，这表明女性权利确实正在倒退。这不是一个孤立的问题——它是全球女性权利倒退的一部分。”"
+  },
+  {
+    "id": 416,
+    "title": "Snapshot: Viaweb, June 1998",
+    "title_zh": "快照：Viaweb，1998年6月",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vw.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This piece offers a fascinating retrospective on Viaweb, a pioneering e-commerce platform co-founded by Paul Graham, just before its acquisition by Yahoo in 1998. It provides a vivid snapshot of early internet technology and startup culture, highlighting the stark differences in web design, marketing, and infrastructure compared to today. Graham's personal anecdotes, like Robert Morris's aversion to publicity or Trevor Blackwell's instant millionaire status, inject a delightful human element. The insights into bandwidth constraints, the nascent state of SEO, and the challenges of online payment processing underscore the ingenuity required to build a successful tech company in the pre-Google, pre-AWS era. It’s a compelling look at the foundational struggles that paved the way for modern digital commerce, offering valuable lessons on adaptability and resourcefulness.",
+    "summary_zh": "这篇关于Viaweb的回顾文章，如同打开了时间胶囊，让我们窥见了1998年互联网的原始风貌。保罗·格雷厄姆的个人视角，不仅揭示了早期电商创业的艰辛与智慧，更勾勒出那个时代技术局限下的创新精神。从简陋的网页设计到带宽的稀缺，再到搜索引擎和支付的萌芽，每一处细节都让人感叹今昔之变。它不只是一段科技史，更是一堂生动的创业课，提醒我们，今天的便利都源于昨天的无数次试错和突破。",
+    "best_quote_en": "In those days there was no AWS. Even colocating servers seemed too risky, considering how often things went wrong with them. So we had our servers in our offices. Or more precisely, in Trevor's office.",
+    "best_quote_zh": "在那些日子里，还没有AWS。即使是托管服务器也显得风险太大，考虑到它们经常出问题。所以我们的服务器就在办公室里。或者更准确地说，在特雷弗的办公室里。"
+  },
+  {
+    "id": 417,
+    "title": "Parameters of Metacognition - The Anesthesia Patient",
+    "title_zh": "元认知参数：麻醉患者",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/vtxZtjiR9Rb9HC72N/parameters-of-metacognition-the-anesthesia-patient",
+    "tags": [
+      "analyze",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This article delves into the parameters of metacognition through the lens of a compelling clinical case study: a patient experiencing awareness during general anesthesia. It masterfully dissects the patient's terrifying ordeal—hearing conversations, feeling pressure, and struggling to breathe while paralyzed—to introduce three quantifiable parameters: Working Memory Bandwidth (B), Nested Observer Depth (d), and Metacognitive Intransparency (τ). The author argues these parameters offer a more nuanced understanding of conscious states than a binary 'awake/unaware' distinction. I found the intellectual rigor in connecting a harrowing real-world scenario to abstract cognitive science concepts truly fascinating. The discussion on how these parameters can generalize to various mental states, from sleep to meditation, provides a robust framework for future research into consciousness and self-awareness. The integration of information theory and neuroscience to formalize these concepts is particularly insightful, offering a path to empirically measure subjective experience.",
+    "summary_zh": "这篇文章通过一个令人震惊的麻醉患者案例，深入探讨了元认知参数。患者在全身麻醉中保持意识，经历着听觉、触觉和呼吸受阻的恐惧，作者以此引出工作记忆带宽（B）、嵌套观察者深度（d）和元认知不透明性（τ）三个可量化参数。这种将恐怖的临床经验与抽象认知科学概念相结合的分析方法令人着迷，它超越了简单的“清醒/无意识”二分法。文章将这些参数推广到睡眠和冥想等多种精神状态，为意识和自我意识研究提供了新的框架。结合信息论和神经科学来量化主观体验，展现了极高的理论价值和实践潜力。",
+    "best_quote_en": "Instead of asking 'were they awake/aware?' you can point to a region and ask if they were in one region or another.",
+    "best_quote_zh": "与其问“他们是醒着还是有意识的？”，不如指向一个区域，问他们是否处于某个区域。"
+  },
+  {
+    "id": 418,
+    "title": "Why Donald Trump Wants Greenland (and Everything Else)",
+    "title_zh": "为什么唐纳德·特朗普想要格陵兰岛（以及其他一切）",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/why-donald-trump-wants-greenland-and-everything-else",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This article offers a chilling glimpse into a hypothetical 2026 where Donald Trump, in his second term, has escalated his transactional foreign policy into aggressive unilateralism, exemplified by his persistent desire to acquire Greenland and a recent military raid in Venezuela. The author, Susan B. Glasser, critically analyzes Trump's worldview, portraying it not as isolationism but as a narcissistic pursuit of power where 'ownership is very important' and military force is an end in itself. The piece effectively uses the Greenland anecdote, initially dismissed as a whim, to illustrate a broader, dangerous pattern of international behavior. It raises profound questions about the future of alliances like NATO and the U.S. role in global stability, concluding with a stark warning about the potential for institutional resistance to crumble under such an administration. The shift from historical curiosity to a current crisis makes the narrative particularly impactful.",
+    "summary_zh": "这篇分析描绘了一个令人不安的2026年，特朗普的第二任期内，其外交政策已演变为赤裸裸的单边主义和权力攫取。文章以他执意收购格陵兰岛和对委内瑞拉的军事行动为例，深刻揭示了特朗普将军事力量视为目的而非手段的危险心态。作者的笔触冷静而犀利，通过一个看似荒诞的“格陵兰梦”，剖析了其对国际秩序和盟友关系的颠覆性影响。读罢，我不禁思考，当权力脱缰，国际规则和道德底线将如何被重塑？这不仅是对特定政治人物的批判，更是对全球治理未来走向的深刻警示。",
+    "best_quote_en": "Trump’s approach to the world is not the isolationism that many of his supporters celebrated when he returned to the White House, vowing an “America First” shift away from the liberal internationalism of his predecessors, but a narcissistic form of unilateralism that says, loudly, I can do whatever I want, whenever and however I want to do it.",
+    "best_quote_zh": "特朗普对世界的态度，并非许多支持者在他重返白宫时所庆祝的孤立主义——他曾誓言将“美国优先”转向其前任的自由国际主义——而是一种自恋式的单边主义，大声宣称：我想做什么，何时做，如何做，都由我说了算。"
+  },
+  {
+    "id": 419,
+    "title": "Busiest Air Routes/Best Headphones/TSA + Staples",
+    "title_zh": "最繁忙航线/最佳耳机/TSA + Staples",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/busiest-air-routes-best-headphones-tsa-staples/",
+    "tags": [
+      "update",
+      "cybersecurity",
+      "marketing",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全",
+      "市场营销",
+      "数据驱动"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "This article offers a concise yet insightful collection of travel and consumer tips, leveraging data and expert reviews to challenge common assumptions. The analysis of busiest air routes highlights a significant disparity between North American and Asian travel volumes, providing a data-driven perspective often overlooked in general travel advice. The headphone review is particularly compelling, as it debunks the 'price equals quality' myth with a blind test, showcasing an affordable product outperforming expensive counterparts. The updates on Vrbo and TSA Pre-check at Staples reveal practical, user-centric solutions to common travel frustrations, demonstrating a keen understanding of consumer pain points. The content effectively blends practical advice with data-backed insights, making it highly valuable for savvy travelers and consumers looking to optimize their experiences and expenditures.",
+    "summary_zh": "这篇文章以精炼的笔触，提供了旅行和消费领域的独到见解。最繁忙航线的分析揭示了亚洲航线的惊人客流量，这与我们惯常对北美航线的认知形成鲜明对比，令人深思。耳机评测则通过盲测推翻了“价格决定品质”的刻板印象，推荐了一款性价比极高的产品，这无疑是消费者的福音。而Vrbo政策更新和TSA Pre-check在Staples办理的资讯，则精准切中了旅行者的痛点，提供了切实可行的解决方案。整体而言，这篇文章短小精悍，却充满了数据支持的实用智慧，对于追求高效与性价比的读者而言，是不可多得的宝藏。",
+    "best_quote_en": "One glance at this list will make it obvious that the supposedly busy flight paths in North America have nothing on Asia.",
+    "best_quote_zh": "看一眼这份榜单就会明白，北美那些所谓的繁忙航线和亚洲的根本没法比。"
   }
 ]
