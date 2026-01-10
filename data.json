@@ -1,123 +1,5 @@
 [
   {
-    "id": 320,
-    "title": "’Tis the season for dubious TV adverts | Letters",
-    "title_zh": "圣诞季节充满可疑的电视广告 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/business/2025/nov/14/tis-the-season-for-dubious-tv-adverts",
-    "tags": [
-      "solve",
-      "marketing",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "市场营销",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "This collection of letters critiques the John Lewis Christmas advertisement, highlighting its perceived insincerity and negative societal impacts. Readers argue that the ad manipulates consumers into thinking their purchases are meaningful while ignoring the company's lack of employee bonuses. Others point out historical inaccuracies and gender stereotyping in the ad's portrayal of family dynamics. The discussion reveals deeper concerns about consumerism, advertising ethics, and societal expectations around gender roles during the holiday season. The letters collectively serve as a critical examination of corporate messaging and its cultural implications.",
-    "summary_zh": "读者来信集中批评了John Lewis的圣诞广告，指出其虚伪和对社会的负面影响。读者认为，广告试图让消费者误以为购物有意义，却忽略了公司多年未发放员工奖金的事实。还有人指出广告中对历史的错误描绘和对性别角色的刻板印象。这些来信共同构成了对企业宣传和文化影响的批判性分析。",
-    "best_quote_en": "This ad is a shameless attempt to make consumers think they are doing something worthwhile in buying overpriced gifts in a failing store that used to share its profits with staff but hasn't paid them any bonus in the past few years.",
-    "best_quote_zh": "这则广告是赤裸裸地试图让消费者认为，在一家曾经与员工分享利润但近年来未发放任何奖金的失败商店里购买高价礼物是一件有意义的事情。"
-  },
-  {
-    "id": 321,
-    "title": "Before the Startup",
-    "title_zh": "启动之前",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/before.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-11-15",
-    "summary_en": "Paul Graham's 'Before the Startup' offers counterintuitive wisdom about launching startups, emphasizing that conventional instincts often lead to mistakes. He compares startup challenges to learning to ski, where natural impulses must be overcome. Key insights include: trusting gut feelings about people, focusing on user needs over startup expertise, recognizing that startups are all-consuming, and that true startup ideas emerge from genuine curiosity rather than forced brainstorming. Graham advises against starting a startup in college, suggesting that broad exploration in early 20s is more valuable. The essay ultimately champions deep learning and working on interesting problems as the best preparation for entrepreneurial success.",
-    "summary_zh": "保罗·格雷厄姆在《启动之前》中揭示了创业的反直觉智慧，指出常规的直觉往往导致错误。他将创业挑战比作学习滑雪，需要克服自然冲动。核心观点包括：信任对人的直觉、专注用户需求而非创业专业知识、认识到创业将彻底占据生活、真正的创业想法源于真诚的好奇心而非强行头脑风暴。他建议大学生不要创业，认为二十岁出头的人应广泛探索。文章最终倡导深入学习和投身有趣的问题作为创业成功的最佳准备。",
-    "best_quote_en": "Starting a startup is like a brutally fast depth-first search. Most people should still be searching breadth-first at 20.",
-    "best_quote_zh": "创业就像一个残酷的深度优先搜索。大多数人在20岁的时候仍然应该进行广度优先搜索。"
-  },
-  {
-    "id": 322,
-    "title": "\"Middlemarch\" is inane and also one of my favorite books",
-    "title_zh": "《米德尔马契》无聊却是我最喜欢的书之一",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/5pgpwshssLmA9kZGz/middlemarch-is-inane-and-also-one-of-my-favorite-books",
-    "tags": [
-      "analyze",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-11-15",
-    "summary_en": "The analysis explores the complex relationship between idealism and reality through the character Dorothea in Middlemarch. The author appreciates how the novel captures the struggle of principled individuals when faced with emotional and practical challenges. Key insights include the nuanced portrayal of Dorothea's evolving principles regarding beauty and religion, the tension between high aspirations and real-world limitations, and the universal experience of disillusionment after marriage. The text also reflects on personal growth through failure and the natural process of forming opinions under emotional duress. The analysis highlights the novel's enduring relevance in depicting human nature and societal expectations.",
-    "summary_zh": "这篇文章探讨了《米德尔马契》中理想与现实冲突的主题。作者欣赏小说如何描绘原则性格者面对情感和实际挑战的挣扎。核心见解包括多罗西娅在美与宗教原则上的演变，理想与现实限制的张力，以及婚后幻灭的普遍体验。文字还反思了通过失败实现的个人成长，以及在情感压力下自然形成观点的过程。分析强调小说描绘人性和社会期望的持久意义。",
-    "best_quote_en": "'The weight of unintelligible Rome might lie easily on bright nymphs to whom it formed a background for the brilliant picnic of Anglo-foreign society; but Dorothea had no such defence against deep impressions.'",
-    "best_quote_zh": "‘对那些将其视为英法社会灿烂野餐背景的明媚仙女而言，难以理解的罗马重量或许轻而易举；但多罗西娅却没有这样的防护来抵挡深刻的印象。’”"
-  },
-  {
-    "id": 323,
-    "title": "The Liberal Scholars Who Influenced Trump’s Attack on Birthright Citizenship",
-    "title_zh": "影响特朗普限制出生公民权的自由派学者",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-liberal-scholars-who-influenced-trumps-attack-on-birthright-citizenship",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "This article explores the unintended consequences of academic research, tracing how a 1985 book by liberal Yale professors Peter H. Schuck and Rogers M. Smith became the foundation for modern challenges to birthright citizenship. Their work, initially dismissed by peers, was later adopted by anti-immigration activists and eventually influenced Trump's executive order. The piece examines the historical context of the 14th Amendment, the legal debates surrounding 'subject to the jurisdiction,' and how scholarly ideas can be weaponized for political purposes. It serves as a cautionary tale about the long-term impact of academic theories and the responsibility scholars have in shaping public policy.",
-    "summary_zh": "这篇文章探讨了学术研究的意外后果，追溯了1985年两位耶鲁大学自由派学者彼得·舒克和罗杰斯·史密斯的著作如何成为现代挑战出生公民权的基础。他们的作品最初被学术界忽视，后来被反移民活动家采纳，并最终影响了特朗普的行政命令。文章分析了第十四修正案的历史背景，围绕“受其管辖”的法律争议，以及学术观点如何被政治化。它警示我们学术理论可能对公共政策产生的长期影响和学者的责任。",
-    "best_quote_en": "When we wrote the book, we thought that it was such a novel argument that people would disregard it. They never imagined that being taken seriously would be the bigger problem.",
-    "best_quote_zh": "我们写这本书时，以为这是一个如此新颖的论点，人们会忽视它。他们从未想象被认真对待反而会成为更大的问题。"
-  },
-  {
-    "id": 324,
-    "title": "Only What’s Necessary / The White Donkey",
-    "title_zh": "只有必要的/白驴",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/only-whats-necessary-the-white-donkey/",
-    "tags": [
-      "analyze",
-      "education",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "This analysis presents two distinct books that offer profound insights through contrasting lenses. 'Only What’s Necessary' is a meticulously curated celebration of Charles Schulz's Peanuts, showcasing the evolution of the iconic comic strip through rare artifacts and thoughtful curation. It reveals Schulz's artistic philosophy of minimalism and emotional resonance, demonstrating how simplicity can convey complex human experiences. The book's production values and contextual analysis make it a treasure trove for both casual fans and scholars. In contrast, 'The White Donkey' offers a raw, unflinching look at military service through the lens of Terminal Lance creator Maximillian Uriarte. This graphic novel explores themes of privilege, purpose, and the psychological toll of war, using stark visual storytelling to convey the disillusionment of a Marine's journey. Both works demonstrate the power of visual storytelling in different contexts, one celebrating the enduring appeal of childhood nostalgia, the other exposing the harsh realities of modern warfare.",
-    "summary_zh": "这份分析呈现了两本截然不同的书籍，通过不同视角提供深刻见解。《只有必要的》是对查尔斯·舒尔茨《花生漫画》的精心策展，通过罕见文物和深思熟虑的策展展示了这部经典连环漫画的演变。它揭示了舒尔茨",
-    "best_quote_en": "Necessary can also mean everything: every line needed to show the characters’ feelings and reactions, every word needed to express the artist’s vision, every single thing needed to show why we still need Charlie Brown, Snoopy, Linus, and Lucy now, and for many years to come.",
-    "best_quote_zh": "必要也可以意味着一切：每一条线条都需要表达角色的感受和反应，每一个词语都需要表达艺术家的愿景，每一件事物都需要展示为什么我们仍然需要查理·布朗、史努比、林纳斯和露西现在，以及未来许多年。"
-  },
-  {
     "id": 325,
     "title": "Diagonalization: A (slightly) more rigorous model of paranoia",
     "title_zh": "对角化：一种（稍微）更严谨的偏执模型",
@@ -2310,5 +2192,117 @@
     "summary_zh": "这篇文章以精炼的笔触，提供了旅行和消费领域的独到见解。最繁忙航线的分析揭示了亚洲航线的惊人客流量，这与我们惯常对北美航线的认知形成鲜明对比，令人深思。耳机评测则通过盲测推翻了“价格决定品质”的刻板印象，推荐了一款性价比极高的产品，这无疑是消费者的福音。而Vrbo政策更新和TSA Pre-check在Staples办理的资讯，则精准切中了旅行者的痛点，提供了切实可行的解决方案。整体而言，这篇文章短小精悍，却充满了数据支持的实用智慧，对于追求高效与性价比的读者而言，是不可多得的宝藏。",
     "best_quote_en": "One glance at this list will make it obvious that the supposedly busy flight paths in North America have nothing on Asia.",
     "best_quote_zh": "看一眼这份榜单就会明白，北美那些所谓的繁忙航线和亚洲的根本没法比。"
+  },
+  {
+    "id": 420,
+    "title": "Brooklyn Peltz Beckham set an important trend. Will other men follow? | Polly Hudson",
+    "title_zh": "布鲁克林·佩尔茨·贝克汉姆开创了一项重要趋势。其他男性会效仿吗？ | 波莉·哈德森",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/08/brooklyn-peltz-beckham-set-an-important-trend-will-other-men-follow",
+    "tags": [
+      "inspire",
+      "society",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "Polly Hudson's article insightfully examines the emerging trend of men adopting their wives' surnames, alongside their own, in marriage. Brooklyn Peltz Beckham is highlighted as a surprising catalyst, challenging traditional gender norms where women typically surrender their names. The piece argues that this 'double-barreling' by men, exemplified also by Adam Ramsay Peaty, signifies a progressive shift towards equality and compromise in modern relationships. While acknowledging the historical roots of double-barreling for preserving family wealth, Hudson emphasizes its renewed significance through a feminist lens. The article provocatively suggests that even motivations like 'spite' can drive societal progress, questioning why such an obvious step towards marital equality has taken so long. It's a thought-provoking look at how personal choices can subtly reshape deeply ingrained societal traditions.",
+    "summary_zh": "这篇文章探讨了男性在婚姻中冠妻姓这一出人意料的趋势，布鲁克林·佩尔茨·贝克汉姆成为了一个有趣的引爆点。我原以为这种传统根深蒂固，但文章指出男性双姓化象征着婚姻中性别平等的进步，甚至可能是一种反叛精神的体现。这不仅仅是名字的改变，更深层地反映了现代伴侣关系中对妥协和身份认同的新理解。它让我思考，那些看似微小的个人选择，如何能悄然推动社会观念的巨大转变，打破陈旧的性别规范。",
+    "best_quote_en": "Men happily joining the double-barrel brigade feels new, welcome and so obvious it’s hard to believe it’s taken this long.",
+    "best_quote_zh": "男性欣然加入双姓行列，这感觉新鲜、受欢迎，而且如此显而易见，令人难以置信竟然花了这么长时间。"
+  },
+  {
+    "id": 421,
+    "title": "Why Startup Hubs Work",
+    "title_zh": "创业中心为何能成功",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hubs.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "This insightful analysis by Paul Graham delves into the critical factors that enable startup ecosystems, particularly Silicon Valley, to thrive where others falter. He reframes the common perception that most places actively 'kill' startups, arguing instead that failure is the default state, and successful hubs provide a crucial 'antidote.' This antidote consists of two main components: an environment where starting a startup is seen as normal and even fashionable, and the high frequency of serendipitous encounters with helpful individuals. Graham emphasizes that the density of 'startup people' is the fundamental driver for both these components, fostering a culture of support, collaboration, and the constant emergence of necessary connections. His observations offer a compelling, data-driven perspective on the social dynamics that underpin innovation and entrepreneurial success, suggesting that it's the human element, not just infrastructure, that truly makes a startup hub work. The article provides a strong argument for cultivating dense, supportive communities rather than merely replicating physical infrastructure.",
+    "summary_zh": "Paul Graham的这篇文章深刻剖析了创业中心成功的核心要素。他颠覆了“多数地方扼杀创业公司”的传统观点，提出失败才是常态，而成功的创业中心则提供了“解药”。这种解药并非物理基础设施，而是高度集中的创业人群所营造的独特环境：将创业视为常态与时尚，以及高频次的偶遇，从而促成关键合作与灵感碰撞。这让我深思，一个社区的活力和创新力，归根结底在于其内部的人文生态和连接密度。它不仅仅是经济现象，更是社会心理学和网络效应的体现，对于任何希望培养创新土壤的地区都具有极强的指导意义。",
+    "best_quote_en": "The problem is not that most towns kill startups. It's that death is the default for startups, and most towns don't save them. Instead of thinking of most places as being sprayed with startupicide, it's more accurate to think of startups as all being poisoned, and a few places being sprayed with the antidote.",
+    "best_quote_zh": "问题不在于大多数城镇扼杀创业公司。而是创业公司的默认状态就是死亡，而大多数城镇未能拯救它们。与其认为大多数地方都被喷洒了“创业杀虫剂”，不如说创业公司都中了毒，而少数地方被喷洒了“解药”。"
+  },
+  {
+    "id": 422,
+    "title": "AI Incident Forecasting",
+    "title_zh": "AI事件预测",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XhhzDYEJ3huiKhEku/ai-incident-forecasting",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "This post announces a hackathon win for a team that developed statistical models to forecast AI-related incidents. The models, trained on the AI Incidents Database, predict a significant 6-11x increase in incidents over the next five years, particularly in areas like misuse, misinformation, and system safety. While not prescribing policy, the team's work offers crucial data to help prioritize risk domains for policy attention and deeper evaluation. This insight is particularly valuable for policymakers, researchers, and anyone concerned with the ethical and safety implications of accelerating AI development, highlighting specific areas where proactive measures are most urgently needed.",
+    "summary_zh": "这篇帖子分享了AI事件预测黑客马拉松的获奖成果。团队利用统计模型预测，未来五年内AI相关事件，尤其是在滥用、错误信息和系统安全方面，将激增6-11倍。这不仅仅是一个数字，它为我们敲响了警钟，指明了AI发展中亟需关注和干预的关键风险领域。对于政策制定者和研究人员而言，这份预测是宝贵的证据，能帮助我们更明智地分配资源，应对AI带来的挑战，确保其负责任地发展。",
+    "best_quote_en": "We trained statistical models on the AI Incidents Database and predicted that AI-related incidents could increase by 6-11x within the next five years, particularly in misuse, misinformation, and system safety issues.",
+    "best_quote_zh": "我们利用AI事件数据库训练了统计模型，预测未来五年内AI相关事件可能增加6-11倍，尤其是在滥用、错误信息和系统安全问题方面。"
+  },
+  {
+    "id": 423,
+    "title": "Minneapolis Reacts to ICE’s Killing of Renee Nicole Good",
+    "title_zh": "明尼阿波利斯对ICE杀害Renee Nicole Good事件的反应",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/an-ice-killing-puts-minneapolis-on-the-brink",
+    "tags": [
+      "analyze",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This article delves into the killing of Renee Nicole Good by an ICE officer in Minneapolis, drawing stark parallels to the murder of George Floyd. It meticulously details how federal immigration enforcement, under the Trump administration, has escalated tensions in a city already grappling with police brutality and racial injustice. The author highlights the profound sense of collective trauma and indignation among residents, exacerbated by what they perceive as federal overreach and disregard for local sovereignty. The piece critically examines the breakdown of trust between federal and local authorities, the targeting of immigrant communities, and the tragic consequences when state violence intersects with political agendas. It's a poignant reflection on how historical wounds resurface, creating a volatile environment where fear and anger simmer beneath the surface, challenging the very fabric of community and governance.",
+    "summary_zh": "文章深入探讨了ICE在明尼阿波利斯杀害Renee Nicole Good的事件，并将其与George Floyd的谋杀案进行对比，令人深思。联邦移民执法部门的介入，在特朗普政府的背景下，加剧了这座城市本已存在的警察暴力和种族不公。居民普遍感到集体创伤和愤慨，这不仅源于联邦权力过度扩张，也源于对地方主权的漠视。联邦与地方当局之间信任的瓦解，移民社区成为目标，以及国家暴力与政治议程交织的悲剧后果，都令人痛心。历史的伤痕再次浮现，营造出一个充满恐惧和愤怒的动荡环境，挑战着社区和治理的根基，这不禁让我反思：我们何时才能真正从过去的错误中吸取教训？",
+    "best_quote_en": "“History is repeating itself.”",
+    "best_quote_zh": "“历史正在重演。”"
+  },
+  {
+    "id": 424,
+    "title": "Book Freak #192: Arrow",
+    "title_zh": "书呆子 #192: 箭",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-192-arrow/",
+    "tags": [
+      "inspire",
+      "psychology"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "This analysis delves into William Gadea's 'Arrow,' a book that provocatively posits storytelling as humanity's defining superpower, drawing on neuroscience, evolutionary biology, and Buddhist philosophy. The core insight is that our 'self' is a narrative construct, and these self-told stories can either empower or constrain us. The book uniquely bridges scientific understanding of cognitive faculties with spiritual wisdom, highlighting the dual nature of narrative as both medicine and poison. It encourages readers to cultivate a mindful distance from their personal narratives, treating them as fluid constructs rather than immutable truths. This perspective offers a path to greater contentment and resilience, challenging readers to re-evaluate their relationship with their own internal monologues and external expressions of identity.",
+    "summary_zh": "《箭》这本书深入探讨了叙事如何成为人类的超级能力，这让我深思。它融合了神经科学、进化生物学和佛学智慧，指出我们所谓的“自我”其实是一个不断构建的故事。最引人入胜的是，它揭示了这些故事既能赋予我们力量，也可能成为束缚。书中提供的方法，如将自我叙事视为电影情节，并质疑其真实性，提供了一条超越叙事依赖、走向内在平静的实践之路。这不仅仅是理论，更是一种深刻的自我觉察练习，对现代人如何处理内心独白和外部世界有着重要的启示。",
+    "best_quote_en": "“The stories we don’t pay enough attention to are the stories we tell ourselves about ourselves. My practice isn’t about losing those stories — it’s about constantly remembering that they are just stories.”",
+    "best_quote_zh": "“我们没有给予足够关注的故事，是我们对自己讲述的故事。我的实践并非要摆脱这些故事——而是要不断提醒自己，它们仅仅是故事。”"
   }
 ]
