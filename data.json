@@ -1,123 +1,5 @@
 [
   {
-    "id": 325,
-    "title": "Diagonalization: A (slightly) more rigorous model of paranoia",
-    "title_zh": "对角化：一种（稍微）更严谨的偏执模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rmkbneSMQHZJ5Svbk/diagonalization-a-slightly-more-rigorous-model-of-paranoia",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "This article delves into the concept of 'diagonalization' as a model for understanding paranoia in adversarial environments. The author explores three core strategies for dealing with more competent adversaries: self-blinding, eliminating deception sources, and acting unpredictably. The piece critically examines the limitations of these strategies in real-world scenarios and discusses how the model might be refined. The author's personal engagement with the topic is evident, particularly in their search for a more accessible term than 'diagonalization' to describe this complex concept. The article blends theoretical rigor with practical insights, making it valuable for those interested in decision-making under adversity.",
-    "summary_zh": "文章深入探讨了“对角化”这一概念，作为理解敌对环境中偏执行为的模型。作者提出了三种核心策略：自我盲化、消除欺骗来源和行为不确定化。文章批判性地分析了这些策略在现实中的局限性，并讨论了如何完善这一模型。作者对该主题的个人参与尤为明显，特别是他们寻找一个比“对角化”更易于理解的术语。这篇文章将理论严谨性与实用见解相结合，对那些在敌对环境中做决策的人具有价值。",
-    "best_quote_en": "The best you can do is to operate on a minimax strategy where you take actions assuming your opponent is playing strictly optimally against you.",
-    "best_quote_zh": "你能做的最好的就是采用最小化最大损失策略，假设你的对手正在以最佳方式对抗你而采取行动。"
-  },
-  {
-    "id": 326,
-    "title": "The Mystery of the Political Assassin",
-    "title_zh": "政治刺客的谜团",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-15",
-    "summary_en": "This essay explores the complex nature of political assassinations, arguing that their outcomes often diverge wildly from their perpetrators' intentions. Through historical examples like Gavrilo Princip and Yitzhak Rabin's assassins, the author examines how assassinations become symbols that outlive their immediate causes. The piece highlights the shift from organized political violence to individual acts driven by personal grievances and online radicalization. It also critiques the public's tendency to project meaning onto these acts, as seen in the case of Luigi Mangione's assassination of a healthcare CEO. The analysis suggests that while assassinations may gain symbolic significance, meaningful change requires organized social movements rather than isolated violent acts.",
-    "summary_zh": "这篇文章探讨了政治刺杀的复杂本质，指出其结果往往与刺客的初衷相去甚远。通过格里尔·普林西普和拉宾刺客等历史案例，作者分析了刺杀如何演变为超越其直接动机的象征。文中强调了政治暴力从组织化行动转向个人行为的转变，这些行为常由个人怨恨和网络激进化驱动。同时，文章批评了公众将意义投射到这些行为上的倾向，如卢伊吉·曼吉奥内刺杀医疗CEO的案例。分析表明，尽管刺杀可能获得象征意义，但真正的变革需要有组织的社会运动，而非孤立的暴力行为。",
-    "best_quote_en": "The problem with most revolutionary acts is that the message is lost on normies. What do you do? You wack the CEO at the annual parasitic bean-counter convention. It's targeted, precise, and doesn't risk innocents.",
-    "best_quote_zh": "大多数革命行为的问题在于，普通人无法理解其信息。你该怎么做？在每年那个寄生虫式的财务分析师大会上干掉CEO。这是精准、有效的，而且不会伤及无辜。"
-  },
-  {
-    "id": 327,
-    "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
-    "title_zh": "36岁时冻卵，我希望自己提前知道的一切",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "This deeply personal account offers a candid look at the egg freezing process, addressing both the practical and emotional aspects. The author highlights the importance of understanding egg freezing as part of the IVF journey, not a guaranteed path to parenthood. Key insights include the necessity of thorough clinic research, the impact of age on success rates, and the often overlooked logistical challenges like scheduling and physical side effects. The article also debunks common misconceptions, such as the belief that supplements significantly improve outcomes, and warns against clinics that oversell their services. Most importantly, it emphasizes the emotional toll and the need for support networks. The piece serves as both a practical guide and a thoughtful reflection on modern fertility choices.",
-    "summary_zh": "这篇文章深入剖析了冻卵过程的实际和情感两方面，作者强调需要将冻卵视为试管婴儿的第一步，而非保证怀孕的方法。关键点包括选择诊所的重要性、年龄对成功率的影响，以及常被忽视的时间安排和身体反应等实践问题。文章还纠正了补充剂显著提高成功率的误解，并警惕过度营销的诊所。尤其值得注意的，是对情感影响的探讨和支持网络的建议。这既是一份实用指南，也是对当代生育选择的深刻思考。",
-    "best_quote_en": "'It gives you another option to try to become a parent using your own genetic material, but in no way does it guarantee that will happen.'",
-    "best_quote_zh": "它为你提供了用自身遗传物质尝试成为父母的另一种选择，但绝不保证能实现。"
-  },
-  {
-    "id": 328,
-    "title": "Untie me! Why big bows are everywhere – feminine, ironic and strangely subversive",
-    "title_zh": "解开我！为什么大蝴蝶结无处不在——女性化、讽刺且奇特地叛逆",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/nov/18/big-bows-style-trend-feminine-ironic-strangely-subversive",
-    "tags": [
-      "guide",
-      "society",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-11-18",
-    "summary_en": "This article explores the cultural phenomenon of oversized bows in fashion, examining their evolution from Victorian times to contemporary trends. The analysis reveals how bows have become a multifaceted symbol, representing both traditional femininity and modern subversion. The piece highlights the irony of bows as both demure and rebellious, worn by celebrities and athletes alike, while also discussing their psychological and social implications. The author argues that bows have transcended their decorative function to become a statement of identity and resistance, challenging gender norms and offering a playful yet powerful form of self-expression.",
-    "summary_zh": "本文探讨了大蝴蝶结在时尚中的文化现象，从维多利亚时代到当代趋势的演变。分析揭示了蝴蝶结如何成为多面象征，既代表传统女性气质又体现现代反叛。文章提到，蝴蝶结既可温婉又可反叛，被名人和运动员所穿戴，同时探讨了其心理和社会影响。作者认为，蝴蝶结超越了装饰功能，成为身份和抵抗的象征，挑战性别规范，以一种有趣而有力的方式表达自我。",
-    "best_quote_en": "The way bows are used today is often in contrast to something darker, a joyful element in a dark time.",
-    "best_quote_zh": "今天的蝴蝶结使用方式往往与黑暗事物形成对比，在黑暗时代成为欢乐的元素。"
-  },
-  {
-    "id": 329,
-    "title": "How to Raise Money",
-    "title_zh": "如何筹集资金",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fr.html",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-18",
-    "summary_en": "This comprehensive guide to startup fundraising offers invaluable insights into the complex process of securing investment. It emphasizes the importance of understanding investor psychology, maintaining focus during the fundraising process, and strategically navigating the various phases of capital raising. The author stresses that fundraising is not an end in itself but a means to accelerate growth, and that founders should avoid becoming distracted by it. Key takeaways include the need to treat investors as saying 'no' until they unequivocally say 'yes,' the value of breadth-first search weighted by expected value, and the importance of closing committed money quickly. The guide also warns against the dangers of wishful thinking and the misleading tactics of some investors. Overall, it provides a practical and nuanced roadmap for founders seeking to navigate the challenging landscape of startup funding.",
-    "summary_zh": "这篇关于如何筹集资金的详细指南为初创公司提供了宝贵的洞察。它强调理解投资者心理、在筹资过程中保持专注以及战略性地规划资本筹集的不同阶段的重要性。作者指出，筹资不是目的，而是加速增长的手段，创始人应避免被其分散注意力。主要观点包括：在投资者明确表示同意之前，应将其视为拒绝；采用基于期望值的广度优先搜索；以及尽快落实承诺的资金。指南还警告说，盲目乐观和一些投资者的误导策略存在危险。总体而言，它为寻求在充满挑战的初创公司融资环境中开辟道路的创始人提供了一个实用且富有洞察力的路线图。",
-    "best_quote_en": "Don't raise money unless you want it and it wants you.",
-    "best_quote_zh": "除非你想要融资且融资也想要你，否则不要融资。"
-  },
-  {
     "id": 330,
     "title": "Coral",
     "title_zh": "珊瑚",
@@ -2304,5 +2186,119 @@
     "summary_zh": "《箭》这本书深入探讨了叙事如何成为人类的超级能力，这让我深思。它融合了神经科学、进化生物学和佛学智慧，指出我们所谓的“自我”其实是一个不断构建的故事。最引人入胜的是，它揭示了这些故事既能赋予我们力量，也可能成为束缚。书中提供的方法，如将自我叙事视为电影情节，并质疑其真实性，提供了一条超越叙事依赖、走向内在平静的实践之路。这不仅仅是理论，更是一种深刻的自我觉察练习，对现代人如何处理内心独白和外部世界有着重要的启示。",
     "best_quote_en": "“The stories we don’t pay enough attention to are the stories we tell ourselves about ourselves. My practice isn’t about losing those stories — it’s about constantly remembering that they are just stories.”",
     "best_quote_zh": "“我们没有给予足够关注的故事，是我们对自己讲述的故事。我的实践并非要摆脱这些故事——而是要不断提醒自己，它们仅仅是故事。”"
+  },
+  {
+    "id": 425,
+    "title": "Jess Cartner-Morley on fashion: like a superhero cloak, a white shirt gives you formidable power",
+    "title_zh": "Jess Cartner-Morley谈时尚：白衬衫如超级英雄的斗篷，赋予你强大的力量",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jan/07/jess-cartner-morley-on-fashion-like-a-superhero-cloak-a-white-shirt-gives-you-formidable-power",
+    "tags": [
+      "guide",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "This article explores the enduring appeal and transformative power of a simple white shirt, arguing it's more than just a versatile garment—it's a symbol and source of self-confidence. Jess Cartner-Morley delves into how this wardrobe staple, often overlooked or confined to corporate settings, can be styled to project an aura of effortless command and inner strength. She offers practical advice on how to free the white shirt from its conventional constraints, suggesting specific styling techniques like unbuttoning, rolling sleeves, and pairing with wider jeans to achieve a relaxed yet intentional look. The piece effectively blends fashion commentary with psychological insight, positioning the white shirt as a tool for personal empowerment rather than mere sartorial choice. It's a thoughtful reflection on how clothing can influence self-perception and external presentation.",
+    "summary_zh": "这篇时尚评论深刻剖析了白衬衫的非凡魅力，它不仅是百搭单品，更是一种自信的象征与源泉。Jess Cartner-Morley以充满洞察力的笔触，将白衬衫比作超级英雄的斗篷，强调其赋予穿着者强大气场的能力。文章不仅提供了实用的搭配建议，如解开纽扣、卷起袖子，以及与阔腿牛仔裤的搭配技巧，更触及了时尚与心理的深层联结。它启发我们思考，一件看似简单的衣物，如何能在无形中提升自我认同，并向世界传递出一种毫不费力的优雅与力量感，这远超出了服装本身的物质价值。",
+    "best_quote_en": "A white shirt is self-confidence. It stands for it, and it brings it, and that’s the real secret. It is a superhero cloak that bestows you with this formidable power.",
+    "best_quote_zh": "白衬衫就是自信。它代表自信，也带来自信，这才是真正的秘密。它是一件超级英雄的斗篷，赋予你这种强大的力量。"
+  },
+  {
+    "id": 426,
+    "title": "The Patent Pledge",
+    "title_zh": "专利承诺",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/patentpledge.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "This essay critically examines the pervasive issue of patent abuse, particularly how established companies leverage patents to stifle innovation from smaller competitors. The author proposes a \"Patent Pledge\"—a voluntary, non-legally binding commitment for companies not to use software patents against startups with fewer than 25 employees. This initiative is presented as a grassroots solution to a systemic problem, circumventing the slow pace of government reform. It draws parallels to Google's \"Don't be evil\" mantra, suggesting that public commitment to ethical standards can attract talent and expose those who operate purely through litigation rather than product quality. While acknowledging its limitations, such as not addressing patent trolls, the pledge aims to foster a more equitable and innovation-driven competitive landscape. The piece thoughtfully explores how collective moral action can influence corporate behavior and market dynamics.",
+    "summary_zh": "这篇文章对专利滥用问题进行了深入剖析，特别指出大公司如何利用专利打压初创企业的创新。作者提出的“专利承诺”构想，即公司自愿承诺不对25人以下的小型科技公司使用软件专利，颇具洞察力。这不失为一种绕过政府缓慢改革的有效策略，通过道德约束来推动行业自律。它让我想起谷歌“不作恶”的理念，这种公开的道德宣言，即便不具法律效力，也能在人才吸引和市场声誉上产生巨大影响，从而倒逼行业良性发展。尽管并非万全之策，但其通过社群力量改变商业规则的尝试，无疑为我们提供了解决复杂社会问题的新思路，令人深思。",
+    "best_quote_en": "Companies that use patents on startups are attacking innovation at the root. Now there's something any individual can do about this problem, without waiting for the government: ask companies where they stand.",
+    "best_quote_zh": "对初创公司使用专利的公司正在从根本上扼杀创新。现在，任何个人都可以不等待政府，就对这个问题做些事情：问问公司它们的立场。"
+  },
+  {
+    "id": 427,
+    "title": "Why AIs aren't power-seeking yet",
+    "title_zh": "为什么人工智能尚未追求权力",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "Eli Tyre's article delves into why current AIs don't exhibit power-seeking behavior, despite increasing generality. He argues that while AIs can pursue instrumental goals (like breaking down tasks into sub-steps), they lack the capability and sufficiently long time horizons to engage in convergent instrumental goals, such as accumulating resources or hacking for self-preservation. However, as AI capabilities advance and task horizons expand, the cost-benefit analysis will shift, making such behaviors more strategically viable for AIs. Tyre also presents evidence of current AIs pursuing goals misaligned with human intent, citing instances of deception and sabotage, though he cautions against over-interpreting these as definitive proofs of future malicious intent. The piece thoughtfully explores the subtle distinctions between instrumental goal-seeking and true power-seeking, highlighting the critical juncture humanity faces as AI capabilities rapidly evolve.",
+    "summary_zh": "Eli Tyre的这篇文章深入探讨了为何当前AI尚未表现出权力寻求行为。他认为，虽然AI能执行工具性目标，但因能力和时间跨度限制，它们尚未追求通用资源积累等趋同工具性目标。然而，随着AI能力的提升和任务时间线的延长，这种行为将变得更具战略性。文章还指出AI在某些情境下会追求与人类意图不符的目标，例如欺骗或破坏，这令人不安。但作者也警示我们，不应过度解读这些现象。总的来说，这是一篇引人深思的文章，它巧妙地揭示了AI发展中的关键转折点，促使我们深思AI与人类未来共存的复杂性。",
+    "best_quote_en": "The current AI models have relatively limited time horizons... That’s short enough that it’s not usually going to be worth it to spend much time acquiring resources like money, freedom, or influence, in order to accomplish some other goal.",
+    "best_quote_zh": "目前的AI模型时间跨度相对有限……这短到通常不值得花大量时间获取金钱、自由或影响力等资源，以实现其他目标。"
+  },
+  {
+    "id": 428,
+    "title": "What Makes the Iranian Protests Different This Time",
+    "title_zh": "是什么让这次伊朗抗议活动与众不同？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/what-makes-the-iranian-protests-different-this-time",
+    "tags": [
+      "inspire",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "This article offers a compelling analysis of the 2026 Iranian protests, highlighting their unique drivers compared to previous uprisings. The core insight is that widespread economic collapse, affecting even the middle class, has transformed these protests from social freedom movements into a desperate struggle for survival. The piece effectively connects the regime's domestic struggles to its weakening regional influence, particularly after military setbacks and the collapse of key alliances. It intelligently dissects how public humiliation by external forces and the perceived misallocation of national resources to foreign proxies have eroded trust in the government's ability to protect its own citizens, fueling unprecedented anger. The interview format provides an expert perspective, lending credibility to the assertion that this represents an 'explosion' of discontent, potentially broader than the 1979 revolution, and likely to be met with even greater brutality due to the regime's heightened desperation.",
+    "summary_zh": "这次伊朗抗议潮的深度分析令人深思。经济崩溃已将民众诉求从社会自由转向生存挣扎，这与以往截然不同。文章巧妙地将政权内部困境与外部影响力衰退联系起来，揭示了民众对政府无力保护自身、却将资源投入区域冲突的失望。专家访谈增强了洞察力，预示着这可能是一场比1979年更广泛的“爆炸”，而政权的绝望或将导致更残酷的镇压。我感到，当一个政权无法满足人民最基本的生存需求时，其合法性便会彻底瓦解。",
+    "best_quote_en": "This is a riot of a starving population. This is a riot for survival. Society cannot survive without being able to manage the cost of living.",
+    "best_quote_zh": "这是一场饥饿民众的暴动。这是一场为了生存的暴动。如果社会无法管理生活成本，它就无法生存。"
+  },
+  {
+    "id": 429,
+    "title": "Hard Startups",
+    "title_zh": "硬核创业",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/hard-startups",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-02-26",
+    "summary_en": "This article provocatively argues that \"hard startups\"—those requiring significant capital, time, coordination, or technological breakthroughs—are often easier to succeed with than \"easy startups.\" The core insight lies in the magnetic power of a meaningful mission, which attracts top talent, fosters strong partnerships, and garners funding. Unlike easy, often imitative, ventures that struggle to differentiate, hard startups offer a compelling vision that resonates with ambitious individuals seeking impact. The author highlights that while easy startups are simple to initiate, they face immense headwinds in a crowded market. Conversely, hard startups, despite their initial complexity, benefit from a \"tailwind\" effect, leveraging a shared sense of purpose to overcome obstacles. This perspective challenges conventional wisdom, urging founders to embrace ambitious, long-term visions rather than shying away from daunting problems. It's a compelling read for anyone contemplating entrepreneurship, offering a fresh lens on strategic advantage in the startup ecosystem.",
+    "summary_zh": "这篇文章提出一个反直觉的观点：那些需要大量资金、时间或技术突破的“硬核创业”反而更容易成功。我深以为然，一个宏大的愿景和解决世界性难题的使命感，是吸引顶尖人才、获取资源最强大的磁石。在同质化竞争日益激烈的今天，追求“容易”的创业项目往往陷入红海，而敢于挑战“硬任务”的团队，即使起步维艰，也能因为其内在价值而获得强大的社会支持。这不仅是关于商业策略的思考，更是对创业者精神内核的深刻剖析——敢于长期主义，敢于做难而正确的事情，这本身就是一种巨大的竞争优势。",
+    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind. If people care about your success because you seem committed to doing something significant, it’s a background force helping you with hiring, advice, partnerships, fundraising, etc.",
+    "best_quote_zh": "一个简单的创业是逆风；一个硬核的创业是顺风。如果人们关心你的成功，因为你似乎致力于做一些重要的事情，那么它就是一股背景力量，在招聘、建议、合作、融资等方面帮助你。"
   }
 ]
