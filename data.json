@@ -1,125 +1,5 @@
 [
   {
-    "id": 330,
-    "title": "Coral",
-    "title_zh": "珊瑚",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/coral/",
-    "tags": [
-      "learn",
-      "society",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "This article explores the fascinating world of coral reefs and marine life through the lens of field guides and personal experiences. It highlights the alien-like diversity of underwater ecosystems, emphasizing how guides like Peterson's and Humann's work help both beginners and experts identify and appreciate marine species. The piece also delves into the hobby of creating natural reef aquariums, showcasing how amateur reefers contribute to our understanding of marine ecology. The inclusion of 'The Shape of Life' series further underscores the importance of taxonomic education in appreciating life's diversity. The author's personal awe and reverence for these ecosystems add a layer of emotional engagement, making the content both informative and inspiring.",
-    "summary_zh": "这篇文章通过野外指南和个人经历，探索了珊瑚礁和海洋生物的奇妙世界。它强调了海底生态系统的异域般多样性，并说明了像彼得森和哈曼这样的指南如何帮助初学者和专家识别和欣赏海洋物种。文章还深入探讨了创建自然珊瑚礁水族箱的爱好，展示了业余爱好者如何为我们对海洋生态的理解做出贡献。'生命的形态'系列的加入进一步强调了分类学教育在欣赏生命多样性中的重要性。作者对这些生态系统的个人敬畏之情，为内容增添了情感层面，使其既富有信息量又富有启发性。",
-    "best_quote_en": "Life is simply far stranger than we can imagine, and nowhere is that more evident than in the compressed diversity of a coral reef.",
-    "best_quote_zh": "生活比我们想象的要奇妙得多，而在珊瑚礁这种高度浓缩的多样性中，这一点表现得最为明显。"
-  },
-  {
-    "id": 331,
-    "title": "Please Fund More Science",
-    "title_zh": "请为科学研究提供更多资金",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/please-fund-more-science",
-    "tags": [
-      "solve",
-      "science",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2020-03-30",
-    "summary_en": "The article highlights three potential pathways to normalize life post-COVID-19: vaccine development, effective treatments, or robust public health measures. The author criticizes the federal government's insufficient funding for R&D and calls on investors and donors to support scientific efforts. Notably, the piece emphasizes the unprecedented speed and focus of biotech companies and research labs in tackling the pandemic. It positions scientific innovation as the key to overcoming the crisis and urges financial support to accelerate progress. The author also suggests this moment will be transformative, requiring sustained investment in pandemic preparedness.",
-    "summary_zh": "文章提出了三种可能的路径来使生活在新冠疫情后恢复正常：疫苗研发、有效治疗方法，或严格的公共卫生措施。作者批评联邦政府对科研的资助不足，呼吁投资者和捐赠者支持科学研究。尤其值得注意的，作者强调了生物技术公司和研究机构在应对疫情时前所未有的速度和专注。文中将科学创新视为战胜疫情的关键，呼吁提供资金以加速进展。作者还认为，这一时刻将带来变革，需要持续投资于疫情防范。",
-    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
-    "best_quote_zh": "科学家能够帮助我们摆脱困境。他们需要的是资金和人脉。"
-  },
-  {
-    "id": 332,
-    "title": "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
-    "title_zh": "精华：呼吸对心理与身体健康和表现的重要性 | 杰克·费尔德曼博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-breathing-mental-physical-health-performance-jack-feldman",
-    "tags": [
-      "solve",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "This episode with Dr. Jack Feldman delves into the fascinating science of breathing, revealing how our breath patterns influence both mental and physical states. Feldman explains the neural circuits behind breathing and how different techniques can reduce anxiety, enhance emotional resilience, and even improve cognitive performance. The discussion goes beyond theory, offering practical tools like box breathing and insights into supplements like magnesium L-threonate. The episode bridges neuroscience with actionable health practices, making it valuable for those seeking to optimize their well-being through scientifically validated methods. Feldman's expertise transforms complex biological processes into understandable concepts, empowering listeners to harness the power of breath in their daily lives.",
-    "summary_zh": "费尔德曼博士深入探讨呼吸的科学原理，揭示呼吸模式如何影响心理和身体状态。他解释了呼吸背后的神经回路，以及不同呼吸技巧如何减轻焦虑、增强情绪韧性并提升认知表现。内容超越理论，提供实用工具如方形呼吸法和关于镁盐补充剂的见解。该节目将神经科学与可操作的健康实践相结合，对希望通过科学验证的方法优化自身健康的人群非常有价值。费尔德曼将复杂的生物过程转化为易懂的概念，使听众能在日常生活中运用呼吸的力量。",
-    "best_quote_en": "Breathing patterns profoundly influence mental states, including their role in reducing anxiety and enhancing emotional resilience.",
-    "best_quote_zh": "呼吸模式深刻影响心理状态，包括减轻焦虑和增强情绪韧性方面的作用。"
-  },
-  {
-    "id": 333,
-    "title": "‘You definitely felt disposable’: models – one 27, one 62 – discuss Botox, weight loss, creativity and the threat of AI",
-    "title_zh": "“你一定觉得自己被轻视”：一位27岁、一位62岁的模特聊瓷肌针、减肥、创造力与AI的威胁",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/04/you-definitely-felt-disposable-models-one-27-one-62-discuss-botox-weight-loss-creativity-and-the-threat-of-ai",
-    "tags": [
-      "analyze",
-      "education",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This insightful interview with models Dee O and Danielle Mareka reveals the stark realities behind the glamorous facade of the modeling industry. The conversation spans decades, highlighting how the profession has evolved with technology and societal changes. Key insights include the mental health challenges models face, the industry's slow progress on diversity and body representation, and the emerging threats from AI and weight-loss drugs. The discussion also touches on the power dynamics and predatory behavior that persist despite movements like #MeToo. What stands out is the models' resilience and their advice to build identities beyond modeling, emphasizing that while the profession offers unique opportunities, it's not without significant personal costs.",
-    "summary_zh": "这篇对话揭示了模特行业背后的残酷现实，从1980年代到当代，模特们面临的挑战和行业变革。两位模特分享了职业的高光与阴暗面，从AI模特到减肥针，从种族代表性到心理健康压力，行业的问题层出不穷。尽管有进步，但性剥削、身材压力等问题依然存在。她们的经历提醒我们，模特职业虽诱人，但需要建立超越职业的自我认同。",
-    "best_quote_en": "When you join the worker council at Model Alliance, they have you sign something just to let you know that getting dropped by your agent because of your connection to the organisation is a possibility.",
-    "best_quote_zh": "当你加入模特联盟工会时，他们会让你签一份文件，提醒你可能因为与组织的关联而被经纪人解约。"
-  },
-  {
-    "id": 334,
-    "title": "How M.B.S. Won Back Washington",
-    "title_zh": "M.B.S. 如何重新赢得华盛顿的支持",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/how-saudi-arabia-won-back-washington",
-    "tags": [
-      "learn",
-      "politics",
-      "economics",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "经济金融",
-      "深度分析"
-    ],
-    "date": "2025-11-18",
-    "summary_en": "The article explores the remarkable rehabilitation of Saudi Crown Prince Mohammed bin Salman (M.B.S.) in Washington, particularly after the controversial Khashoggi murder. Despite initial international condemnation, M.B.S. has successfully rebuilt his reputation through strategic investments in sports and aligning with U.S. energy interests, especially after Russia's invasion of Ukraine. The piece delves into the complex Saudi-American relationship, highlighting how both the Biden and Trump administrations have re-embraced M.B.S., driven by economic interests and geopolitical considerations. The interview with F. Gregory Gause reveals M.B.S.'s efforts to modernize Saudi Arabia while maintaining authoritarian control, his cautious foreign policy approach post-Khashoggi, and the nuanced dynamics with Israel, Iran, and regional allies. The analysis underscores the intersection of personal and national interests in U.S.-Saudi relations, raising questions about the future of nonproliferation policies and the sustainability of this renewed partnership.",
-    "summary_zh": "文章探讨了沙特王储穆罕默德·本·萨勒曼（M.B.S.）在华盛顿的形象重塑之路，尤其在哈沙吉事件后。尽管最初受到国际谴责，M.B.S.通过投资体育和与美国能源利益的战略对齐，在乌克兰危机后成功恢复了声誉。采访中，F. Gregory Gause揭示了M.B.S.推动沙特现代化的同时维持专制统治，在哈沙吉事件后调整外交政策，以及与以色列、伊朗和地区盟友的复杂关系。分析凸显了美国与沙特关系中个人与国家利益的交织，并质疑未来核不扩散政策和这一新伙伴关系的可持续性。",
-    "best_quote_en": "The word that best describes what he wants is one that he’s used, which is that he wants Saudi Arabia to be a normal country.",
-    "best_quote_zh": "最能描述他愿望的词，也是他自己使用的，就是他希望沙特成为一个正常的国家。"
-  },
-  {
     "id": 335,
     "title": "The Creative Architect / How to Talk to Girls at Parties",
     "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
@@ -2300,5 +2180,123 @@
     "summary_zh": "这篇文章提出一个反直觉的观点：那些需要大量资金、时间或技术突破的“硬核创业”反而更容易成功。我深以为然，一个宏大的愿景和解决世界性难题的使命感，是吸引顶尖人才、获取资源最强大的磁石。在同质化竞争日益激烈的今天，追求“容易”的创业项目往往陷入红海，而敢于挑战“硬任务”的团队，即使起步维艰，也能因为其内在价值而获得强大的社会支持。这不仅是关于商业策略的思考，更是对创业者精神内核的深刻剖析——敢于长期主义，敢于做难而正确的事情，这本身就是一种巨大的竞争优势。",
     "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind. If people care about your success because you seem committed to doing something significant, it’s a background force helping you with hiring, advice, partnerships, fundraising, etc.",
     "best_quote_zh": "一个简单的创业是逆风；一个硬核的创业是顺风。如果人们关心你的成功，因为你似乎致力于做一些重要的事情，那么它就是一股背景力量，在招聘、建议、合作、融资等方面帮助你。"
+  },
+  {
+    "id": 430,
+    "title": "Exposed: the business linked to baby deaths across the world – The Latest",
+    "title_zh": "曝光：与全球婴儿死亡相关的企业——最新报道",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/dec/12/exposed-the-business-linked-to-baby-deaths-across-the-world-the-latest",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "This piece exposes the Free Birth Society, an organization linked to infant deaths globally, stemming from mothers being 'radicalized' by their podcasts promoting unassisted births. The investigation highlights a disturbing trend where the pursuit of a 'natural' birthing experience, devoid of medical intervention, leads to tragic outcomes. It raises critical questions about the ethical responsibilities of online communities and influencers in health-related fields, particularly concerning vulnerable populations like expectant mothers. The content underscores the profound impact of misinformation and the dangers of rejecting established medical practices, prompting a re-evaluation of how health information is disseminated and consumed in the digital age. It's a stark reminder of the need for critical thinking and evidence-based decision-making in personal health choices.",
+    "summary_zh": "这篇报道揭露了“自由分娩协会”与全球婴儿死亡的关联，令人深思。当母亲们被宣扬无助产士、无医生分娩的播客“激进化”时，其后果是毁灭性的。这不仅仅是一个关于医疗选择的故事，更是关于信息传播伦理、社群责任以及个人健康决策边界的深刻反思。它迫使我们去审视，在追求所谓“自然”的表象下，我们是否正忽视了科学与专业的价值，并付出了惨痛的代价。读罢，心中沉重，对生命与责任有了更深的理解。",
+    "best_quote_en": "A year-long investigation into the Free Birth Society reveals how mothers lost children after being radicalised by uplifting podcast tales of births without midwives or doctors.",
+    "best_quote_zh": "一项长达一年的调查揭示了自由分娩协会如何导致母亲们在被宣扬无助产士或医生分娩的播客故事“激进化”后失去了孩子。"
+  },
+  {
+    "id": 431,
+    "title": "Subject: Airbnb",
+    "title_zh": "主题：Airbnb",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnb.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "This fascinating retrospective by Paul Graham offers a rare, unfiltered glimpse into the early-stage VC decision-making process, specifically around Airbnb. It highlights the inherent skepticism and internal debate VCs face, even with what would become a generational company. Graham's persistent advocacy for Airbnb, emphasizing founder quality, user-centricity, and market potential, is a masterclass in early-stage conviction. Fred Wilson's initial hesitation, rooted in market size concerns and comparisons to existing models like Etsy, underscores how difficult it is to foresee disruptive innovation. The email exchange reveals the dynamic interplay between founders, accelerators, and investors, and the crucial role of a trusted voice like Graham in championing nascent ideas. It's a compelling case study on vision, persuasion, and the often-unseen struggles of groundbreaking startups to gain initial traction and funding, even with strong backing.",
+    "summary_zh": "这篇文章是早期风险投资决策过程的罕见写照，揭示了即使是对像Airbnb这样颠覆性的公司，VC们最初的犹豫和内部辩论是多么普遍。保罗·格雷厄姆的坚持和洞察力令人印象深刻，他看到了创始人的潜力和市场规模，并努力说服弗雷德·威尔逊。这不仅是投资策略的案例，更是关于远见、信念和如何推动创新从萌芽走向成功的深刻思考。它让我反思，许多如今习以为常的成功，在初期都曾面临重重阻碍和不被理解，而那些敢于挑战传统观念的少数人，才是真正的先行者。",
+    "best_quote_en": "Ideas can morph. Practically every really big startup could say, five years later, \"believe it or not, we started out doing ___.\"",
+    "best_quote_zh": "想法是可以演变的。几乎每一个真正的大型初创公司，五年后都可以说，“信不信由你，我们最初是做___的。”"
+  },
+  {
+    "id": 432,
+    "title": "--dangerously-skip-permissions",
+    "title_zh": "--dangerously-skip-permissions",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WSog3tgxEZgBFpHrR/dangerously-skip-permissions",
+    "tags": [
+      "solve",
+      "ai-research",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "This article critically examines the practice of AI safety advocates using coding agents with dangerously unrestricted permissions. The author challenges common justifications for this behavior, such as the 'not dangerous yet' argument, by emphasizing the gradual increase in AI capabilities and the 'frog-boiling' effect on risk perception. While acknowledging the immense benefits of AI agents for productivity, the piece argues against a simplistic utilitarian calculus, highlighting that the risks are often invisible while benefits are concrete. It also refutes the MIRI-inspired 'AGI or nothing' mindset, stressing that even 'non-AGI' agents can pose significant threats like data theft or malicious code execution. The core insight is that while current agents might seem benign, a cautious, explicit risk-modeling approach is crucial for navigating the evolving landscape of AI safety, urging users to define acceptable risk and set hard limits on agent 'blast radius' rather than waiting for an existential AGI event.",
+    "summary_zh": "这篇文章对AI安全倡导者在AI编码代理中使用危险的无限制权限进行了批判性审视。作者挑战了常见的辩护理由，比如“目前还不危险”的论点，强调了AI能力渐进式增强以及风险感知的“温水煮青蛙”效应。尽管承认AI代理对生产力的巨大好处，文章反对简单的功利主义计算，指出风险往往是隐形的而好处是具体的。它也反驳了受MIRI启发的“AGI或无”心态，强调即使是“非AGI”代理也可能带来数据窃取或恶意代码执行等重大威胁。核心洞察是，尽管当前的代理可能看起来无害，但采取谨慎、明确的风险建模方法对于驾驭不断发展的AI安全领域至关重要。这促使我们思考，在追求效率的同时，如何划定清晰的界限，而非被动等待终极风险的降临。",
+    "best_quote_en": "Instead of making sure it's more beneficial than harmful, I believe that when working with agents, it is better to set up hard limits on the blast radius, then maximize your productivity within these limits.",
+    "best_quote_zh": "与其确保它利大于弊，我认为在使用代理时，最好是设定硬性限制其“爆炸半径”，然后在这些限制内最大化你的生产力。"
+  },
+  {
+    "id": 433,
+    "title": "The Bloody Lesson the Ayatollah Took from the Shah",
+    "title_zh": "阿亚图拉从沙阿那里吸取的血腥教训",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-bloody-lesson-the-ayatollah-took-from-the-shah",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "This insightful article delves into the historical parallels between the Shah's downfall in 1979 and the current dilemmas faced by Ayatollah Ali Khamenei amidst widespread protests in Iran. It highlights Khamenei's perceived lesson from the Shah's 'weakness' – leading to a more brutal crackdown – and draws further comparisons with Gorbachev's failed reforms in the Soviet Union, which fostered a deep suspicion of internal change within the Iranian regime. The analysis critically examines the current protests, noting their economic roots and the unprecedented fragility of the Islamic Republic, exacerbated by the regime's foreign proxy spending and internal corruption. It concludes by exploring various post-Khamenei scenarios, emphasizing the difficulty of predicting Iran's future given its complex history and current chaos. The piece serves as a potent reminder of how historical interpretations shape present-day authoritarian responses.",
+    "summary_zh": "这篇文章深刻剖析了伊朗沙阿倒台的历史教训，以及阿亚图拉阿里·哈梅内伊在当前大规模抗议中面临的困境。哈梅内伊似乎从沙阿的“软弱”中吸取了教训，选择了更残酷的镇压。文章还将其与戈尔巴乔夫在苏联改革失败的案例进行对比，揭示了伊朗政权对内部变革的根深蒂固的怀疑。当前的抗议活动，其经济根源和政权前所未有的脆弱性，都值得我们深思。最终，文章探讨了哈梅内伊时代后的各种可能性，强调了在伊朗复杂历史和当前混乱局势下预测未来的挑战。这无疑是对历史如何塑造威权主义回应的有力警示。",
+    "best_quote_en": "“Unfortunately, if the Ayatollah is taking any lesson from the Shah, it’s that the Shah was weak and caved. Brutally speaking, if the Shah had been tougher and had instructed his soldiers to indiscriminately kill people in the streets, he might have been saved.”",
+    "best_quote_zh": "“不幸的是，如果阿亚图拉从沙阿那里吸取了任何教训，那就是沙阿太软弱，屈服了。残酷地说，如果沙阿更强硬，并指示他的士兵在街头不分青红皂白地杀人，他可能就得救了。”"
+  },
+  {
+    "id": 434,
+    "title": "Retro Recomendo: Career",
+    "title_zh": "复古推荐：职业生涯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-career/",
+    "tags": [
+      "solve",
+      "design",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-01-11",
+    "summary_en": "This 'Retro Recomendo' compilation offers a highly practical and actionable guide to career development, drawing on evergreen advice from prominent figures like Paul Graham, John Cleese, Ali Abdaal, and Ryan Holiday. It intelligently curates insights on diverse topics ranging from achieving great work and conducting productive meetings to mastering professional communication, optimizing job applications, and managing burnout. What makes this collection particularly valuable is its focus on immediately applicable strategies and frameworks, providing readers with tangible tools to enhance their professional lives. The inclusion of a burnout checkup tool and refined communication alternatives demonstrates a thoughtful approach to holistic career well-being, moving beyond mere productivity hacks to address deeper professional challenges. It's a concise yet potent resource for anyone looking to proactively shape their career trajectory.",
+    "summary_zh": "这期“复古推荐”汇集了职业生涯的诸多真知灼见，从如何高效工作、开会，到优化求职、应对职业倦怠，内容全面且极具实操性。我特别欣赏它不仅提供理论，更给出具体工具和方法，比如职业倦怠自测和专业表达替代语，这让我意识到职业发展远不止于技能提升，更关乎自我管理与心智健康。这些跨越时间的智慧，至今仍能启发我们深思如何在复杂职场中找到自己的节奏，活出价值。",
+    "best_quote_en": "Your creative output, your personal relationships, and your social life—balancing all three is impossible. You can excel in two if you say no to one. If you can’t, you’ll have none.",
+    "best_quote_zh": "你的创意产出、人际关系和社交生活——平衡这三者是不可能的。如果你对其中一个说不，你可以在另外两个方面表现出色。如果你不能，你将一无所有。"
   }
 ]
