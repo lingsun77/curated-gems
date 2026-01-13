@@ -1,125 +1,5 @@
 [
   {
-    "id": 335,
-    "title": "The Creative Architect / How to Talk to Girls at Parties",
-    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
-    "tags": [
-      "solve",
-      "design",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-18",
-    "summary_en": "The Creative Architect revisits a fascinating 1958-59 study of mid-century architects, revealing insights into creativity through psychological testing. While it doesn't offer practical creativity recipes, it provides an inspiring historical perspective on creative minds. How to Talk to Girls at Parties is a clever graphic novel adaptation of Neil Gaiman's story, blending humor and sci-fi to explore adolescent awkwardness in social situations. Both works offer unique perspectives on human behavior and creativity, though in very different contexts. The architect study provides historical depth, while Gaiman's work offers contemporary social commentary through fantasy.",
-    "summary_zh": "《创意建筑师》回顾了1958-59年对中世纪建筑师的心理学研究，揭示了创造力的独特见解。虽然它没有提供实用的创造力食谱，但为创造性头脑提供了富有启发的历史视角。这本关于如何在派对上与女孩交谈的图画小说是尼尔·盖曼故事的巧妙改编，将幽默和科幻结合起来，探索了社交场合中的青少年尴尬。这两部作品从不同的角度提供了对人类行为和创造力的独特见解。建筑师研究提供了历史深度，而盖曼的作品则通过幻想提供了当代社会评论。",
-    "best_quote_en": "'What propels creativity is the unfettered expression of the self'",
-    "best_quote_zh": "推动创造力的动力是自我无拘束的表达"
-  },
-  {
-    "id": 336,
-    "title": "Funding for COVID-19 Projects",
-    "title_zh": "新冠项目资助",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
-    "tags": [
-      "analyze",
-      "medicine",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2020-03-15",
-    "summary_en": "This post highlights a unique funding initiative targeting COVID-19 startups, focusing on practical engineering solutions like ventilator production and novel therapeutic approaches. The author's hands-on approach in seeking specific expertise for viral challenge testing demonstrates a proactive stance. The content reveals a gap in traditional funding methods and emphasizes the importance of unconventional solutions in pandemic response. It serves as both a call to action for innovators and a reminder of the critical need for grassroots support in crisis situations.",
-    "summary_zh": "这篇文章介绍了一项针对新冠项目的资助计划，重点关注通风设备生产等实用工程解决方案和创新疗法。作者通过寻求特定专业知识进行病毒挑战测试展现了积极主动的态度。内容揭示了传统资助方法的不足，强调了在疫情应对中非传统解决方案的重要性。既是对创新者的号召，也是危机中基层支持的关键提醒。",
-    "best_quote_en": "I think we will soon have enough testing capacity, so now I’d like to start funding more startups working on novel approaches to vaccines and therapeutics.",
-    "best_quote_zh": "我认为我们很快会有足够的检测能力，现在我想开始资助更多从事新型疫苗和治疗方法的初创企业。"
-  },
-  {
-    "id": 337,
-    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
-    "title_zh": "如何构建你的思维并如何塑造它们 | 詹妮弗·格罗医生",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
-    "tags": [
-      "solve",
-      "psychology",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "Dr. Jennifer Groh's discussion on how our brains integrate sights and sounds to shape thoughts offers profound insights into cognitive function and personal development. She reveals that focusing on specific stimuli can rewire neural circuits, influencing both immediate and future thought patterns. The conversation extends to practical applications for improving focus, happiness, and task management, highlighting tools like bone conduction headphones and mental interval training. Groh's exploration of sensory integration and attention mechanics provides a scientific foundation for understanding and enhancing cognitive processes, making this content invaluable for those seeking to optimize their mental performance and well-being.",
-    "summary_zh": "詹妮弗·格罗医生探讨大脑如何整合视觉和听觉以塑造思维，揭示专注特定刺激可重塑神经回路，影响当下及未来的思维模式。对话延伸至提升专注力、幸福感和任务管理的实用方法，强调骨传导耳机等工具。她对感官整合与注意力机制的深入探讨，为理解和优化认知过程提供了科学依据，对希望提升心理表现和幸福感的读者极具价值。",
-    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
-    "best_quote_zh": "你关注的事物决定了你的思维，不仅是当下，更影响未来的思考方向。"
-  },
-  {
-    "id": 338,
-    "title": "What’s in my NOW? — Molly Harris",
-    "title_zh": "What’s in my NOW? — Molly Harris",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-molly-harris/",
-    "tags": [
-      "analyze",
-      "psychology",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-11-19",
-    "summary_en": "Molly Harris shares a personal and insightful look into her toolkit for managing physical discomfort, digital organization, and emotional well-being. Her recommendations range from practical gadgets like a digital hygrometer to digital tools like Inoreader and Tetr.io, which she uses to manage stress and trauma. The inclusion of the Persian proverb 'This too shall pass' adds a philosophical layer to her practical advice, emphasizing the transient nature of both good and bad experiences. This piece offers a unique blend of personal anecdotes, product recommendations, and psychological insights, making it valuable for those seeking both practical solutions and emotional resilience strategies.",
-    "summary_zh": "莫莉·哈里斯分享了她管理身体不适、数字组织和情绪健康的工具包。她的推荐从实用的数字湿度计到用于管理压力和创伤的数字工具如Inoreader和Tetr.io。波斯谚语“此事终将过去”为她的实用建议增添了哲学层面，强调了美好和不好的时刻都是短暂的。这篇文章结合了个人轶事、产品推荐和心理洞见，对寻求实用解决方案和情绪韧性的读者很有价值。",
-    "best_quote_en": "“This too shall pass.”",
-    "best_quote_zh": "“此事终将过去。”"
-  },
-  {
-    "id": 339,
-    "title": "分享6个让我学习效率产生质变的方法",
-    "title_zh": "分享6个让我学习效率产生质变的方法",
-    "source": "L先生说",
-    "link": "https://mp.weixin.qq.com/s/zd7b9USHwOf6HS--GQ2fjA",
-    "tags": [
-      "inspire",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-20",
-    "summary_en": "This article presents six transformative learning efficiency methods that have significantly improved the author's lifelong learning journey. The strategies emphasize active engagement, such as participatory learning where the brain is actively involved in processing information, and cultivating the habit of manual research to build valuable information channels. The author advocates for switching between different subjects to refresh the brain and leaving time for mental processing. Additionally, utilizing fragmented time for recall and organization, and adopting a self-centered learning approach where one actively seeks answers to personal questions are highlighted. The methods are practical, data-driven, and rooted in cognitive science, offering actionable insights for anyone looking to enhance their learning efficiency.",
-    "summary_zh": "这篇文章分享了六种提升学习效率的方法，这些方法在作者的终身学习过程中产生了显著影响。策略强调主动参与，如参与式学习让大脑积极处理信息，以及培养动手检索的习惯以建立有价值的信息渠道。作者提倡在不同学科间切换以刷新大脑，并留出时间让大脑放空处理信息。此外，利用碎片时间进行回忆和梳理，以及采用以自我为中心的学习方式，主动寻求解决个人问题的答案。这些方法实用且基于认知科学，为希望提升学习效率的人提供了可行的见解。",
-    "best_quote_en": "The process of learning is not about the information you acquire, but the thoughts and reflections it inspires in your mind.",
-    "best_quote_zh": "学习的过程中，你学到的东西其实不是最重要的，你脑海中产生的想法和思考，才是最重要的。"
-  },
-  {
     "id": 340,
     "title": "Petrolette: women in motorcycle culture – in pictures",
     "title_zh": "Petrolette：女性摩托车文化——图片展",
@@ -2298,5 +2178,121 @@
     "summary_zh": "这期“复古推荐”汇集了职业生涯的诸多真知灼见，从如何高效工作、开会，到优化求职、应对职业倦怠，内容全面且极具实操性。我特别欣赏它不仅提供理论，更给出具体工具和方法，比如职业倦怠自测和专业表达替代语，这让我意识到职业发展远不止于技能提升，更关乎自我管理与心智健康。这些跨越时间的智慧，至今仍能启发我们深思如何在复杂职场中找到自己的节奏，活出价值。",
     "best_quote_en": "Your creative output, your personal relationships, and your social life—balancing all three is impossible. You can excel in two if you say no to one. If you can’t, you’ll have none.",
     "best_quote_zh": "你的创意产出、人际关系和社交生活——平衡这三者是不可能的。如果你对其中一个说不，你可以在另外两个方面表现出色。如果你不能，你将一无所有。"
+  },
+  {
+    "id": 435,
+    "title": "One look at my baby’s dungarees was all it took to give me the rage",
+    "title_zh": "看到我宝宝的背带裤，我瞬间怒火中烧",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/jan/12/one-look-at-my-babys-dungarees-was-all-it-took-to-give-me-the-rage",
+    "tags": [
+      "solve",
+      "society",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "This opinion piece delves into the infuriatingly persistent issue of pockets, or rather the lack thereof, in women's clothing, brought into sharp relief by the author's observation that her infant son's dungarees have more pockets than her own garments. Coco Khan skillfully uses this seemingly trivial detail to highlight deeper societal expectations and historical gender biases, where women's attire prioritized aesthetics over functionality and autonomy. The article critiques how even modern maternity wear, while evolving in some aspects, still fails to provide practical solutions for mothers whose hands are constantly full. It's a poignant and relatable commentary on the subtle ways gender inequality manifests in everyday life, provoking thought on design choices that continue to disempower women.",
+    "summary_zh": "读完这篇文章，不禁让人会心一笑，又深感无奈。作者从宝宝背带裤比自己衣服口袋多的\"荒谬\"现象切入，犀利地指出了女性服装设计中长期存在的性别歧视和功能缺失。这不仅仅是关于口袋大小的争论，更是对社会如何物化女性、剥夺其便利性和自主权的深刻反思。在现代社会，女性仍然在为最基本的实用性而抗争，这本身就是一种悲哀。这篇文章以小见大，引发我们思考日常生活中那些习以为常却又极不合理的性别差异。",
+    "best_quote_en": "Historically, women weren’t given pockets because they weren’t expected to carry valuables, go anywhere or have autonomy. Later, pockets were rejected for the sake of appearance: they disrupted the line of a dress, their functionality ruining the fantasy of the woman as decoration.",
+    "best_quote_zh": "历史上，女性没有口袋是因为她们不被期望携带贵重物品、出门或拥有自主权。后来，口袋又因外观而被摒弃：它们破坏了裙子的线条，其功能性破坏了女性作为装饰品的幻想。"
+  },
+  {
+    "id": 436,
+    "title": "Founder Control",
+    "title_zh": "创始人控制权",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/control.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-01-13",
+    "summary_en": "This insightful piece by Paul Graham challenges the traditional venture capital narrative that founders inevitably lose board control after a Series A funding round. Drawing on anecdotal evidence from Y Combinator's portfolio, Graham argues that retaining founder control is not only becoming more common but is likely to become the norm, especially among the most successful startups. He deconstructs the power dynamics, explaining that while board control isn't absolute, it significantly influences decision-making by allowing founders' perspectives on shareholder interests to prevail. Graham also astutely observes that VCs' reluctance to grant control often stems from a fear of appearing weak to their partners, rather than a genuine concern. Ultimately, he suggests that this shift could lead VCs to make better investment decisions by forcing them to back founders they truly trust, rather than relying on the ability to compel. It's a compelling argument for a more founder-friendly ecosystem.",
+    "summary_zh": "保罗·格雷厄姆这篇关于创始人控制权的文章令人深思。他驳斥了创始人融资后必失控制权的传统观念，指出在Y Combinator投资的公司中，创始人保留董事会多数席位的情况并不少见，甚至可能成为未来趋势。我特别欣赏他揭示VC心理的部分——他们很多时候只是担心在同行面前显得“吃了亏”，而非真的在意控制权本身。这不仅是权力结构的转变，更是对VC投资逻辑的一种重塑：与其依赖强制力，不如从一开始就选择值得信任的创始人。这无疑是对创业者信心的一剂强心针，也预示着一个更健康、更以创始人为中心的创业生态正在形成。",
+    "best_quote_en": "Founders retaining control after a series A is clearly heard-of. And barring financial catastrophe, I think in the coming year it will become the norm.",
+    "best_quote_zh": "创始人能在A轮后保留控制权显然是存在的。除非发生金融灾难，我认为在未来一年内，这将成为常态。"
+  },
+  {
+    "id": 437,
+    "title": "Contra Dance as a Model For Post-AI Culture",
+    "title_zh": "后AI时代文化的康特拉舞模型",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/LuosdA2EAdJYEe3vZ/contra-dance-as-a-model-for-post-ai-culture",
+    "tags": [
+      "inspire",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-01-13",
+    "summary_en": "This thought-provoking piece uses the niche culture of contra dance, specifically its commitment to live music despite technological alternatives, as a compelling metaphor for human endeavor in a post-AI world. The author argues that communities can consciously choose to preserve traditional, human-centric practices, not out of technological inferiority, but as an intentional cultural statement. This perspective offers a refreshing counter-narrative to the common anxieties surrounding AI, suggesting a future where human creativity, craft, and community can coexist with, or even thrive independently of, advanced automation. It challenges us to rethink 'efficiency' and 'perfection' as sole metrics of value, highlighting the inherent worth of human-made, even 'imperfect,' experiences. The examples of assembly demosceners, handmade bagpipes, and human Go players further solidify this vision, making a strong case for the enduring human desire for authentic, personally invested creation.",
+    "summary_zh": "这篇文章以康特拉舞坚持现场音乐的文化为例，巧妙地描绘了后AI时代人类活动的图景。它不悲观，反而充满洞察力，提出我们可以主动选择拥抱或保留那些“不那么完美、不那么高效”的人工方式，因为其价值在于社区、在于人与人之间的连接、在于创造过程本身。这让我思考，在AI效率至上的未来，真正有意义的“奢侈品”或许不是物质，而是那些注入了人类心血、充满独特温度的体验。这不仅仅是对AI的抵抗，更是一种对人性深层需求的肯定和再发现。",
+    "best_quote_en": "I like this as a model for what art and achievement could look like in a post-AI world, assuming we make it through to the other side. Some communities can embrace technology and explore what's possible with full AI assistance. Other communities can make an intentional decision to keep doing things the traditional way, accepting that this will be less perfect and less efficient. Yet others can mix them, appreciating what humans have been able to make for what it is, while also getting the practical benefits of automation.",
+    "best_quote_zh": "我喜欢这作为后AI世界中艺术和成就可能面貌的模型，假设我们能挺过这一关。一些社区可以拥抱技术，探索AI全面辅助下的一切可能。另一些社区可以有意识地决定继续以传统方式做事，接受这会不那么完美和高效。还有一些则可以兼而有之，欣赏人类所能创造的一切，同时也能获得自动化的实际益处。"
+  },
+  {
+    "id": 438,
+    "title": "How WhatsApp Took Over the Global Conversation",
+    "title_zh": "WhatsApp如何掌控全球对话",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/01/19/how-whatsapp-took-over-the-global-conversation",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "This insightful article delves into the ubiquitous rise of WhatsApp, exploring its journey from a simple status app to a global communication behemoth. It masterfully intertwines the platform's technological evolution, its cultural impact across diverse societies from the Trobriand Islands to Indian politics, and the underlying human need for connection it fulfills. The piece critically examines WhatsApp's economic model, its complex relationship with Meta's commercial ambitions, and the inherent trade-offs between privacy, simplicity, and the drive for monetization and AI integration. What truly fascinates me is how the article highlights the paradoxical nature of WhatsApp: a tool born from a desire for simple, private communication, now grappling with its immense power to shape political discourse and commercial interactions, transforming into an indispensable 'technology of life' for billions, often without a clear understanding of its broader implications.",
+    "summary_zh": "这篇文章深入剖析了WhatsApp从一个不起眼的应用程序如何成长为全球通信巨头。它不仅详细描绘了WhatsApp的技术演变和商业模式，更引人深思地探讨了其在不同文化和社会背景下的深远影响——从特罗布里恩群岛的日常交流到印度政治的操纵。最让我触动的是，文章揭示了WhatsApp在带来便捷与连接的同时，也带来了隐私、商业化和权力集中的复杂挑战。它不再仅仅是一个聊天工具，而是深刻地嵌入了数十亿人的生活，成为一种“生命科技”，其潜在的社会影响和伦理困境值得我们每个人深思和警惕。",
+    "best_quote_en": "I think a lot of people don’t realize that, essentially, their WhatsApp history—across all their chats—is the diary they didn’t know they’d been writing.",
+    "best_quote_zh": "我认为很多人没有意识到，本质上，他们的WhatsApp历史——所有聊天记录——就是他们不曾察觉自己一直在书写的日记。"
+  },
+  {
+    "id": 439,
+    "title": "Game Design",
+    "title_zh": "游戏设计",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/game-design/",
+    "tags": [
+      "learn",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "This content provides a compelling endorsement of \"The Art of Game Design\" by Jesse Schell, highlighting its comprehensive insights into game design principles applicable to various game types. The review emphasizes the book's ability to shift perspective from game mechanics to player experience, introducing concepts like the 'Lens of Essential Experience' and dissecting core game qualities. It delves into challenges in interactive storytelling, such as the 'string of pearls' method, the impossibility of true branching narratives with multiple endings, and the limited 'verbs' available to video game characters compared to other narrative forms. The author also touches on the importance of feedback in user experience, using a crosswalk button analogy. This piece is a valuable resource for anyone interested in the foundational philosophy and practical considerations behind creating engaging interactive experiences, extending beyond just video games to design in general.",
+    "summary_zh": "这篇内容深入剖析了杰西·谢尔的《游戏设计艺术》，不仅仅是游戏制作的指南，更是洞察复杂互动设计的宝典。文章通过“本质体验之镜”等概念，强调了从玩家视角出发的重要性，并探讨了游戏叙事中“珍珠串”模式、多结局的困境以及互动动词的局限性。最引人深思的是，它将游戏设计原理升华到更广泛的“设计一切需要复杂互动的事物”的层面，这让我对日常生活中各种体验的设计有了新的理解。 feedback的重要性，不仅在游戏，在产品设计中也同样关键。这不仅仅是一本书的推荐，更是一次对设计哲学和用户体验的深刻反思。",
+    "best_quote_en": "The game is not the experience. The game enables the experience, but it is not the experience. This is a hard concept for some people to grasp.",
+    "best_quote_zh": "游戏不是体验本身。游戏促成了体验，但它并非体验。对某些人来说，这是一个难以理解的概念。"
   }
 ]
