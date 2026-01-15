@@ -1,123 +1,5 @@
 [
   {
-    "id": 345,
-    "title": "Fat, fearless and over 50. Thanks to my TikTok outfit posts, I feel powerful and seen | Jen Walshaw",
-    "title_zh": "年过五十，肥胖却无所畏惧：感谢TikTok穿搭分享，我感到充满力量并被看见",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/dec/26/tiktok-outfit-posts-fat-fearless-over-50-jen-walshaw-mum-in-the-madhouse",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "This deeply personal essay by Jen Walshaw offers a poignant reflection on how TikTok, initially a small act of self-care post-illness, transformed into a powerful platform for self-acceptance and community building. Walshaw, a \"fat, flat, over 50\" woman with a feeding tube, challenges societal norms by reclaiming her body descriptors and unapologetically showcasing her personal style. Her journey highlights the profound impact of online communities in fostering support and visibility for underrepresented groups, particularly older women in fashion. The piece thoughtfully explores themes of aging, body image, and the unexpected joy of digital connection, ultimately inspiring readers to embrace authenticity and find strength in shared experiences. It's a compelling narrative on how a simple act can lead to profound personal and communal empowerment.",
-    "summary_zh": "Jen Walshaw的这篇随笔真挚动人，她从病后康复的脆弱中，通过TikTok穿搭分享重新找回了自我价值和力量。她坦然接受“肥胖、扁平、年过五十”的标签，挑战了社会对女性身材和年龄的刻板印象。文章深刻揭示了线上社群如何为边缘群体提供支持与可见性，尤其在时尚领域，年长女性的声音更应被听到。这不仅仅是关于穿搭，更是关于身体自信、社群联结和活出真我的故事，读来令人心生暖意，深受启发。",
-    "best_quote_en": "For too long, society has made older women, especially fat older women, feel invisible. The fashion industry rarely shows bodies like mine, and social media can make it feel like you’re only “allowed” to enjoy fashion if you fit a certain mould. But that needs to change.",
-    "best_quote_zh": "长期以来，社会让老年女性，尤其是肥胖的老年女性，感到自己是隐形的。时尚界很少展示像我这样的身材，社交媒体也让人觉得，只有符合某种特定模式，你才“被允许”享受时尚。但这种情况必须改变。"
-  },
-  {
-    "id": 346,
-    "title": "How to Convince Investors",
-    "title_zh": "如何说服投资者",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/convince.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "This essay offers a pragmatic, almost contrarian, perspective on fundraising, arguing that genuine conviction, rather than salesmanship, is the key to impressing investors. The author posits that founders should prioritize building something inherently valuable and deeply understanding its worth, then communicate this truth clearly and concisely. A critical insight is the emphasis on 'formidable founders' and identifying a 'promising market' as the core pillars of investor appeal, rather than a slick pitch. It challenges the conventional wisdom of 'selling' an idea, instead advocating for a deep, self-convincing evaluation of the startup's investment-worthiness. The piece also provides actionable advice on handling rejection and leveraging market trends, making it a valuable guide for founders navigating the complex world of startup funding.",
-    "summary_zh": "这篇深度分析颠覆了传统的募资观念，核心论点在于：真正的说服力源于创始人对自身项目的深刻信念和价值认同，而非华丽的推销技巧。文章强调，与其刻意“说服”，不如专注于打造一个真正值得投资的项目，并透彻理解其价值，然后以真诚、简洁的方式阐述。我特别欣赏作者对“可畏的创始人”和“有前景的市场”的强调，这揭示了投资决策背后的深层逻辑。这种从内在价值出发的募资策略，不仅能有效应对投资者的质疑，也促使创始人进行更深层次的自我审视和战略规划，这对于任何创业者而言都具有超越募资本身的指导意义。",
-    "best_quote_en": "The way to seem most formidable as an inexperienced founder is to stick to the truth. How formidable you seem isn't a constant. It varies depending on what you're saying. Most people can seem confident when they're saying \"one plus one is two,\" because they know it's true. The magic ability of people who are good at seeming formidable is that they can do this with the sentence \"we're going to make a billion dollars a year.\" But you can do the same, if not with that sentence with some fairly impressive ones, so long as you convince yourself first.",
-    "best_quote_zh": "作为一名经验不足的创始人，显得最有实力的方法是坚持事实。你看起来有多强大并非一成不变。它取决于你在说什么。大多数人在说“一加一等于二”时都能显得自信，因为他们知道这是真的。那些擅长表现出强大能力的人的魔力在于，他们能用“我们每年将赚取十亿美元”这句话做到这一点。但你也能做到，即使不是用那句话，也能用一些相当令人印象深刻的话，只要你首先说服了自己。"
-  },
-  {
-    "id": 347,
-    "title": "Burnout, depression, and AI safety: some concrete mental health strategies",
-    "title_zh": "倦怠、抑郁与AI安全：一些具体的心理健康策略",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Atgb5wcHQT7fHzbS6/burnout-depression-and-ai-safety-some-concrete-mental-health",
-    "tags": [
-      "solve",
-      "psychology",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "This article offers a refreshingly pragmatic perspective on mental health challenges like burnout and depression, particularly within the high-stakes field of AI safety. It challenges the common assumption that overwork is the primary culprit, positing instead that a lack of hope is often the root cause. The author provides actionable strategies for cultivating hope, such as rationally assessing work impact, embracing process-oriented enjoyment, and deliberately visualizing positive outcomes. What truly resonates is the emphasis on understanding the *actual* cause of unhappiness rather than applying generic solutions. The advice to strategically curate one's social environment and consume inspiring narratives highlights the profound social and psychological dimensions of maintaining mental well-being in demanding intellectual pursuits. It's a thoughtful guide for anyone grappling with existential dread or professional disillusionment, particularly those in fields with significant societal implications.",
-    "summary_zh": "这篇文章对AI安全领域的倦怠和抑郁提供了独到见解，指出问题的核心往往不是过度劳累，而是希望的缺失。作者提出的策略，如理性评估工作价值、享受过程而非仅关注结果、以及主动构建积极心态，都极具启发性。我特别欣赏其强调“对症下药”，而非盲目套用通用解方。在面对宏大且充满不确定性的挑战时，如何维护内在的韧性和乐观，这篇文字给出了切实可行的路径。它不仅关乎AI安全，更触及了现代人在高压环境中保持心理健康的普遍困境。",
-    "best_quote_en": "Working on something you don’t think will work and if it doesn’t work, you’ll die? That's a recipe for misery.",
-    "best_quote_zh": "从事一项你认为不会成功的工作，而一旦失败，你就会死去？那简直是苦难的根源。"
-  },
-  {
-    "id": 348,
-    "title": "Trump, Epstein, and the Women",
-    "title_zh": "特朗普、爱泼斯坦和女性",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/trump-epstein-and-the-women",
-    "tags": [
-      "learn",
-      "politics",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "This article critically examines Donald Trump's long-standing attitudes and behaviors towards women, juxtaposing them with the recently released 'Epstein files.' It meticulously recounts instances, from the infamous 'Access Hollywood' tape to numerous sexual misconduct allegations and civil judgments, demonstrating a consistent pattern of disrespect and entitlement. The author compellingly argues that Trump's indecency is well-documented and doesn't require dubious new evidence, such as the recently debunked fake letter from Epstein. The piece highlights the disturbing commonalities between Trump and Epstein, particularly their shared view of women as objects for ego and dominance, as revealed in extensive reporting. It's a sobering read that delves into the societal implications of such figures, prompting reflection on public perception and accountability. The continuous denial strategy employed by Trump is also a key theme, suggesting a cynical manipulation of public belief.",
-    "summary_zh": "这篇文章深入剖析了特朗普对女性的态度和行为模式，并将其与爱泼斯坦案件联系起来。作者通过梳理“走进好莱坞”录音、性行为不端指控等大量证据，揭示了特朗普一贯的轻蔑和自私。最令人深思的是，文章指出特朗普与爱泼斯坦在对待女性上的惊人相似之处，将女性视为满足自我和支配欲的工具。这不禁让人思考，为何如此清晰的证据仍难以动摇某些人的信念。这不仅仅是关于两位人物的故事，更是对社会价值观和公众认知的一次深刻拷问。",
-    "best_quote_en": "“Neither man drank or did drugs. They pursued women in a game of ego and dominance. Female bodies were currency.”",
-    "best_quote_zh": "“这两个男人都不喝酒，也不吸毒。他们把追逐女性当作一场关乎自我和支配欲的游戏。女性的身体就是他们的筹码。”"
-  },
-  {
-    "id": 349,
-    "title": "The sights and sounds of Bhutan",
-    "title_zh": "不丹的景象与声音",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "This piece offers a captivating and deeply personal account of a journey to Bhutan, a country that has long championed Gross National Happiness over GDP. The author skillfully blends vivid descriptions of Bhutan's unique culture, stunning architecture, and deeply Buddhist traditions with insightful observations on its governance, conservation efforts, and the challenges it faces. What truly stands out is the exploration of Bhutan's commitment to preserving its traditional way of life, even as it navigates modernization and global influences. The narrative is infused with a genuine sense of wonder and curiosity, making the reader feel as if they are experiencing this remote kingdom firsthand. It’s a thoughtful reflection on cultural preservation, sustainable development, and the elusive concept of national happiness, prompting a deeper consideration of alternative societal values.",
-    "summary_zh": "这篇文章以一种引人入胜的方式，分享了作者对不丹的深度体验。它不仅仅是旅行记录，更是对一个将“国民幸福总值”置于GDP之上的国家的深刻洞察。作者笔下的不丹，既有令人惊叹的自然风光和独特的佛教文化，也有在传统与现代之间挣扎的现实。最触动我的是不丹国王为民着想的种种举措，以及这个国家在环境保护上的坚定。这不禁让人思考，在追求经济增长的全球浪潮中，我们是否遗忘了更深层次的幸福与可持续发展。不丹的故事，为我们提供了一个与众不同的视角。",
-    "best_quote_en": "In 1972, Bhutan’s king decided that Gross National Happiness was a more important metric than Gross Domestic Product, and their policies cater to this value.",
-    "best_quote_zh": "1972年，不丹国王决定，国民幸福总值是比国内生产总值更重要的衡量标准，他们的政策也迎合了这一价值观。"
-  },
-  {
     "id": 350,
     "title": "What happened next: The We Do Not Care Club – how a funny, furious feminist movement began",
     "title_zh": "接下来发生了什么：《我们不在乎俱乐部》——一个有趣、愤怒的女性主义运动如何开始",
@@ -2292,5 +2174,121 @@
     "summary_zh": "这篇文章评论了两套插画传记，一套关于民谣传奇伍迪·格思里，另一套则聚焦文学巨匠简·奥斯汀和弗吉尼亚·伍尔夫。格思里的传记以图像小说形式，生动再现了大萧条和沙尘暴如何塑造了他，深刻揭示了时代悲剧与音乐创作的内在联系，读来令人动容。而奥斯汀和伍尔夫的系列传记，则以轻松有趣的方式，呈现了两位女性作家的生平趣事和鲜为人知的细节。这些书不仅是传记，更是历史与文化的缩影，引人深思，它们如何以独特的艺术形式，将厚重的历史与人物故事变得鲜活可感，这无疑是对传记体裁的创新性探索。",
     "best_quote_en": "This all brings to life the tragic unraveling of the fragile Dust Bowl ecosystem and brings about the hardscrabble lives and dust-blown landscape that Guthrie integrates into his music.",
     "best_quote_zh": "这所有的一切都让脆弱的沙尘暴生态系统悲剧性的瓦解变得鲜活起来，也带来了格思里融入他音乐中的艰苦生活和尘土飞扬的景象。"
+  },
+  {
+    "id": 445,
+    "title": "What We Look for in Founders",
+    "title_zh": "我们寻找的创业者特质",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/founders.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "This article by Paul Graham offers invaluable insights into the non-obvious qualities that define successful startup founders, moving beyond the common misconception that intelligence is paramount. Graham masterfully argues for determination as the most crucial trait, illustrated by vivid examples like WePay's tenacious founders. He then introduces the nuanced concept of 'flexible determination,' using a running back metaphor to emphasize adaptability in the unpredictable startup landscape. The discussion on 'imagination' as a driver for disruptive, initially 'crazy' ideas (like Airbnb) is particularly compelling, challenging conventional wisdom. Finally, the inclusion of 'naughtiness' and 'friendship' as essential traits underscores a deeper understanding of human dynamics and rule-bending innovation, providing a holistic and thought-provoking perspective for aspiring entrepreneurs and investors alike. It's a foundational read for anyone looking to understand the Y Combinator ethos.",
+    "summary_zh": "这篇文章深刻剖析了成功创业者身上那些非显而易见的特质，远超我们普遍认为的智力至上。格雷厄姆以生动的案例，如WePay创始人，有力地阐释了决心才是最关键的品质。他提出的“灵活的决心”概念，以跑卫的比喻，精妙地捕捉了创业世界中适应性与韧性的结合。而对“想象力”的探讨，特别是那些最初看起来“疯狂”的创意（如Airbnb），更是颠覆了传统思维。最后，对“淘气”和“友谊”的强调，则揭示了创新背后的人性洞察和打破常规的勇气。这不仅是一篇给创业者的指南，更是对创业精神的哲学思考。",
+    "best_quote_en": "As long as you're over a certain threshold of intelligence, what matters most is determination. You're going to hit a lot of obstacles. You can't be the sort of person who gets demoralized easily.",
+    "best_quote_zh": "只要你的智力超过某个门槛，最重要的就是决心。你将遇到很多障碍。你不能是那种轻易气馁的人。"
+  },
+  {
+    "id": 446,
+    "title": "Corrigibility Scales To Value Alignment",
+    "title_zh": "可纠正性与价值对齐",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/fe5zvFyLNtcBuuYc9/corrigibility-scales-to-value-alignment",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "This article speculates on the scalability of AI corrigibility to superintelligence, arguing that a corrigible AI can naturally evolve towards value alignment. The author contends that as an AI learns to understand a principal's desires, its actions will increasingly align with those values, eventually becoming indistinguishable from a truly value-aligned AI. It addresses common criticisms, such as the 'preschooler vetting superintelligence' analogy and concerns about complexity and speed, suggesting that corrigibility offers a viable, if imperfect, path to AI safety. The piece thoughtfully considers the limitations and risks, particularly when a corrigible AI serves a single principal, and acknowledges that while not a perfect solution, it may be the most realistic option available given current challenges in AI alignment.",
+    "summary_zh": "这篇文章深入探讨了AI可纠正性如何能扩展至与超级智能的价值对齐。作者认为，一个可纠正的AI会逐步学习并理解其主体的意图，最终其行为将与主体的价值观趋于一致。面对“学龄前儿童无法审查超级智能”等常见质疑，文章提出，在缺乏更优解的情况下，可纠正性提供了一条现实的AI安全路径。尽管存在局限性，特别是在单一主体情境下，但其对于当前AI对齐挑战的深刻洞察和对潜在风险的坦诚评估，让我对这一复杂议题有了更 nuanced 的理解。",
+    "best_quote_en": "Corrigibility appears to be a path that leads in the direction of full value alignment. No alternative begins to look better as the system scales to superintelligence.",
+    "best_quote_zh": "可纠正性似乎是通向完全价值对齐的道路。随着系统扩展到超级智能，没有其他替代方案看起来会更好。"
+  },
+  {
+    "id": 447,
+    "title": "How Colombia’s President Reached an Uneasy Détente with Donald Trump",
+    "title_zh": "哥伦比亚总统如何与唐纳德·特朗普达成不安的缓和",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/how-colombias-president-reached-an-uneasy-detente-with-donald-trump",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "This article offers a fascinating, almost surreal, look into the high-stakes diplomatic tightrope walk between Colombian President Gustavo Petro and former U.S. President Donald Trump. It delves into the unexpected détente following a period of intense public animosity and U.S. aggression towards Venezuela, highlighting the complex interplay of personal grievances, geopolitical strategy, and the ever-present shadow of drug trafficking. The piece masterfully captures Petro's unique blend of leftist ideology, pragmatic survivalism, and his almost philosophical engagement with global issues like climate change and migration, even while navigating the immediate threat of U.S. military action. It's a compelling narrative of how two seemingly irreconcilable figures found a tenuous common ground, driven by a mutual recognition of shared peril, and the underlying currents of Latin American politics reacting to U.S. foreign policy.",
+    "summary_zh": "这篇文章描绘了哥伦比亚总统佩特罗与特朗普之间一场令人不安却又充满戏剧性的外交斡旋。在美方对委内瑞拉采取军事行动后，两位曾激烈互怼的领导人竟达成了一种脆弱的缓和。文章深入剖析了佩特罗在意识形态、政治生存和国际博弈间的复杂平衡，尤其是在毒品贸易、气候危机和地缘政治紧张等问题上展现出的独特视角。这种“鹰与美洲豹”式的和解，不仅是对拉美政治生态的深刻洞察，也让人不禁思考，在极端对立中寻求对话，究竟是务实还是无奈？",
+    "best_quote_en": "Petro finally got around to describing the conversation. He told the crowd that he and Trump had recognized that 'if we don’t talk, we’re screwed. We’ll kill each other.'",
+    "best_quote_zh": "佩特罗终于谈到了那次对话。他告诉人群，他和特朗普都意识到：“如果我们不对话，我们就完蛋了。我们会互相残杀。”"
+  },
+  {
+    "id": 448,
+    "title": "What’s in my NOW? — Jeremiah Krage",
+    "title_zh": "我的“当下”是什么？— Jeremiah Krage",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-jeremiah-krage/",
+    "tags": [
+      "inspire",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "Jeremiah Krage, a former Teletubby and Cyberman, now designs AI personalities, bridging his past in character creation with the future of human-AI interaction. His work focuses on making conversations with technology more natural and intuitive. Krage shares a curated list of tools that inform his creative process and address common challenges in the tech and creative fields. This includes 'An Actor's Companion' for fostering creative problem-solving, 'Wabi-Sabi' for embracing imperfection in the face of AI's near-misses, and practical items like an ergonomic mouse. He also recommends 'AI for Humans' for accessible AI updates and DeepLearning.ai for technical upskilling, highlighting resources that blend artistic insight with technological proficiency. This piece offers a fascinating glimpse into the interdisciplinary mind shaping the future of AI character design.",
+    "summary_zh": "Jeremiah Krage从Teletubby和Cyberman的经历中汲取灵感，如今致力于设计AI人格，这本身就是一种迷人的跨界融合。他分享的工具清单，无论是《演员伴侣》的创意破局，还是《侘寂》对AI不完美的接纳，都透露出一种深思熟虑的实用主义。这些推荐不仅关乎效率，更触及了我们如何在快速变化的AI时代保持创造力与人性。这让我思考，未来的人机交互，或许更需要这种艺术与技术并存的洞察力。",
+    "best_quote_en": "Now is the moment to explore these new tools and shape them for the future of storytelling.",
+    "best_quote_zh": "现在正是探索这些新工具并塑造它们以应对未来叙事的好时机。"
+  },
+  {
+    "id": 449,
+    "title": "How To Invest In Startups",
+    "title_zh": "如何投资初创公司",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
+    "tags": [
+      "learn",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2020-01-13",
+    "summary_en": "This article offers a rare and insightful perspective on startup investing, shifting the focus from founders to investors. It meticulously outlines three critical pillars for successful startup investment: gaining access to opportunities, making sound investment decisions, and effectively closing deals. The author emphasizes the importance of hard work, building a strong brand, and genuinely helping founders to secure access. For decision-making, the piece highlights identifying future great founders based on their improvement rate and specific traits, alongside predicting promising market growth. Crucially, it advocates for a high close rate by treating founders as peers, being decisive, and offering tangible support. This isn't just a guide; it's a strategic playbook for investors looking to navigate the increasingly competitive landscape of startup funding, offering actionable advice grounded in experience.",
+    "summary_zh": "这篇文章为初创公司投资提供了一个独特而深刻的视角，将焦点从创始人转移到投资者身上。它详细阐述了成功投资的三个关键支柱：获取优质机会、做出明智的投资决策以及提高交易完成率。作者强调，投资者需要通过努力工作、建立个人品牌并真心帮助创始人来获得机会。在决策方面，文章侧重于如何识别具备高成长潜力的优秀创始人，并预判市场趋势。更重要的是，它倡导通过平等对待创始人、果断决策和提供实际支持来提高交易成功率。这不仅仅是一份指南，更是一份实战策略手册，为投资者在日益激烈的初创公司投资环境中提供了宝贵的经验和可操作的建议，读来颇受启发。",
+    "best_quote_en": "The central learning of my career so far has been that you can and should scale up things that are working.",
+    "best_quote_zh": "我职业生涯至今的核心经验是，对于那些行之有效的事情，你能够也应该将其规模化。"
   }
 ]
