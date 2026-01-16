@@ -1,115 +1,5 @@
 [
   {
-    "id": 350,
-    "title": "What happened next: The We Do Not Care Club – how a funny, furious feminist movement began",
-    "title_zh": "接下来发生了什么：《我们不在乎俱乐部》——一个有趣、愤怒的女性主义运动如何开始",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/what-happened-next-the-we-do-not-care-club-how-a-funny-furious-feminist-movement-began",
-    "tags": [
-      "analyze",
-      "society",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-26",
-    "summary_en": "This article beautifully captures the genesis and profound impact of 'The We Do Not Care Club,' a digital movement sparked by Melani Sanders' raw, relatable portrayal of menopausal experiences. What began as a personal 'hot mess moment' quickly resonated with millions, evolving into a global sisterhood offering validation, humor, and a sense of belonging to women navigating perimenopause. The piece highlights how Sanders, despite her own struggles with impostor syndrome, inadvertently became a powerful voice, challenging societal dismissals of women's midlife symptoms. It's a compelling narrative about finding strength in vulnerability, the transformative power of shared experience, and the unexpected ways digital platforms can foster genuine community and empowerment, proving that sometimes, not caring about the trivial allows us to care more deeply about what truly matters.",
-    "summary_zh": "这篇文章深刻描绘了“我们不在乎俱乐部”的诞生及其深远影响。梅拉妮·桑德斯以其真实、幽默的更年期体验，意外地引发了一场全球性的女性运动。这种从个人脆弱中汲取力量，通过数字平台构建社群，让数百万女性感到被看见和理解的现象令人着迷。它不仅是对更年期女性困境的集体发声，更是对社会忽视的反击。我深感这种“不在乎”姿态背后蕴含的巨大勇气和深情关怀，它提醒我们，真正的自由往往源于放下不必要的负担，转而拥抱那些真正重要的连接和支持。",
-    "best_quote_en": "“We are putting the world on notice that we simply do not care much any more.”",
-    "best_quote_zh": "“我们正在告知全世界，我们就是不再那么在乎了。”"
-  },
-  {
-    "id": 351,
-    "title": "Do Things that Don't Scale",
-    "title_zh": "做那些无法规模化的事情",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ds.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2025-12-27",
-    "summary_en": "This essay challenges the conventional startup wisdom that emphasizes immediate scalability and grand launches. Instead, it argues that early-stage startups thrive by engaging in intensely manual, seemingly unscalable activities like personally recruiting users, providing hyper-attentive customer service, and even manually fulfilling product functions. The author uses examples like Stripe and Airbnb to illustrate how these 'unscalable' efforts are not just necessary evils, but foundational to building a robust product, understanding user needs deeply, and fostering a strong company culture. It's a compelling argument against premature optimization and for embracing the 'fragility' of a nascent venture, suggesting that the initial, arduous push is what truly propels a startup forward, much like hand-cranking an engine before electric starters existed. This perspective is crucial for founders who might otherwise be daunted by slow growth or feel pressured to mimic the distant, polished operations of established giants.",
-    "summary_zh": "这篇文章颠覆了我们对创业的固有认知。它指出，初创公司早期成功的秘诀并非追求规模化，而是要主动投入那些看似“不可扩展”的艰苦工作，比如亲自招募用户、提供极致的客户服务。这种“手摇启动”的策略，不仅能帮助公司渡过脆弱的初创期，更能深入理解用户需求，塑造公司文化。这对我个人而言，是一个深刻的提醒：真正的创新和增长往往源于对初期的笨拙和投入，而非一开始就追求完美或宏大叙事。它揭示了成功背后那些被忽视的、脚踏实地的努力。",
-    "best_quote_en": "Actually startups take off because the founders make them take off. There may be a handful that just grew by themselves, but usually it takes some sort of push to get them going. A good metaphor would be the cranks that car engines had before they got electric starters.",
-    "best_quote_zh": "实际上，初创公司之所以能起飞，是因为创始人让它们起飞。也许有少数公司是自己发展起来的，但通常都需要某种推动才能启动。一个很好的比喻就是汽车引擎在电动启动器出现之前的手摇曲柄。"
-  },
-  {
-    "id": 352,
-    "title": "Moving Goalposts: Modern Transformer Based Agents Have Been Weak ASI For A Bit Now",
-    "title_zh": "移动的球门柱：现代基于Transformer的Agent早已是弱人工智能了",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/7z7gyTwjDazvW7KYK/moving-goalposts-modern-transformer-based-agents-have-been",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-12-27",
-    "summary_en": "This thought-provoking essay argues that the goalposts for defining Artificial Intelligence, Artificial General Intelligence, and Artificial Super Intelligence have been continuously moved, obscuring the fact that we've already achieved what past definitions would consider AGI and even weak ASI. The author posits that the rapid advancement of transformer-based models, particularly their self-improvement capabilities (akin to 'Seed AI'), means that AGI, and even early forms of ASI, are already here, or were very recently. The piece critiques the semantic slipperiness of these terms, suggesting that new euphemisms will inevitably emerge to avoid acknowledging the current state of AI. It provocatively highlights how current AI models surpass average human intelligence in many domains, challenging our perception of what constitutes 'superhuman' intelligence and the intellectual revolution it was supposed to bring.",
-    "summary_zh": "这篇引人深思的文章指出，AI、AGI乃至ASI的定义界限一直在被移动，导致我们未能及时认识到，按照旧定义，AGI甚至弱ASI早已实现。作者认为，Transformer模型及其自我改进能力（如“种子AI”）的迅速发展，意味着AGI和早期ASI已经到来。文章批判了这些术语语义上的不确定性，预测未来人们会创造新的委婉语来避免承认AI的真实水平。它还颇具挑衅性地提出，当前AI模型在许多领域已超越普通人类智能，这无疑挑战了我们对“超人”智能的认知，以及它本应带来的智力革命。",
-    "best_quote_en": "We are getting to the point where how superhuman a digital mind has to be in order to be 'called superhuman' is a qualitative issue maybe?",
-    "best_quote_zh": "我们正在达到这样一个临界点，一个数字心智需要“超人”到何种程度才能被“称之为超人”，这也许是一个定性问题？"
-  },
-  {
-    "id": 353,
-    "title": "The Right Wing Rises in Latin America",
-    "title_zh": "拉丁美洲右翼崛起",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-right-wing-rises-in-latin-america",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "This article offers a compelling, albeit unsettling, analysis of the rising tide of right-wing politics across Latin America, exemplified by the recent election of José Antonio Kast in Chile. It meticulously connects contemporary political shifts to historical authoritarian legacies, particularly Chile's Pinochet era, highlighting the disturbing parallels and the uncomfortable irony of Kast's lineage. The author thoughtfully explores the factors contributing to this trend, such as concerns over immigration and public security, and contrasts Kast's understated demeanor with other flamboyant right-wing figures like Milei and Bukele. The piece is a critical examination of how historical revisionism, coupled with populist rhetoric, is reshaping the political landscape, raising profound questions about the future of democracy and human rights in the region. It's a sobering read that prompts reflection on the cyclical nature of political ideologies and the enduring appeal of strongman leadership in times of perceived instability.",
-    "summary_zh": "这篇文章对拉丁美洲右翼政治的崛起进行了深刻而令人不安的剖析，智利新当选的卡斯特便是其缩影。作者巧妙地将当前的政治变迁与历史上的威权主义遗产（特别是皮诺切特时代）联系起来，揭示了令人不安的相似之处和卡斯特家族背景的讽刺意味。文章探讨了移民和公共安全等因素如何助长了这一趋势，并对比了卡斯特内敛的风格与米莱等人的张扬。这不仅是对政治格局重塑的批判性审视，也引发了对该地区民主和人权未来的深思。读完不禁让人感慨，历史似乎总在重演，强人政治在动荡时期为何总能找到土壤？",
-    "best_quote_en": "The twenty-first century was based on the concept of social justice. It worked for a little while, then it became more unjust than before. The core concept became broken. It gave the right an opportunity.",
-    "best_quote_zh": "二十一世纪是建立在社会正义概念之上的。它运作了一段时间，然后变得比以前更加不公正。核心概念被打破了。这给了右翼一个机会。"
-  },
-  {
-    "id": 354,
-    "title": "Expiring Perks/Bone-conducting Earbuds/Forge Travel Wallet",
-    "title_zh": "即将到期的福利/骨传导耳机/Forge旅行钱包",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/expiring-perks-bone-conducting-earbuds-forge-travel-wallet/",
-    "tags": [
-      "solve",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式"
-    ],
-    "date": "2025-12-25",
-    "summary_en": "This content offers a collection of diverse, practical tips for savvy travelers and consumers. It highlights the often-overlooked opportunity to utilize expiring credit card perks, potentially saving significant money on future travel. The piece then shifts to a niche but valuable product recommendation: bone-conducting earbuds, which address a specific health concern (tinnitus) while offering benefits for outdoor enthusiasts. Finally, it sheds light on an unexpected travel cost – airport drop-off fees in England – and introduces an innovative travel wallet designed for efficiency and security. The insights are bite-sized yet actionable, catering to those seeking to optimize their spending and enhance their travel experience with clever solutions and awareness.",
-    "summary_zh": "这篇文章汇集了旅行和消费的实用小贴士，信息量虽小但价值不菲。从提醒读者利用年末到期的信用卡福利，到推荐解决耳鸣困扰的骨传导耳机，再到揭示英国机场高昂的送机费，以及介绍一款创新旅行钱包，每一条都直击用户痛点或提供独特解决方案。我特别欣赏其对细节的关注，比如骨传导耳机对跑步者的益处，以及机场送机费背后的交通政策导向。这不仅是信息分享，更是对精明生活方式的倡导。",
-    "best_quote_en": "I just saved $150 on 2026 hotel stays by tapping a $50 credit on the Chase Sapphire Preferred card and a $100 one on my Delta Amex one that would have expired 12/31.",
-    "best_quote_zh": "我刚刚利用将在12月31日到期的Chase Sapphire Preferred卡上的50美元积分和Delta Amex卡上的100美元积分，为2026年的酒店住宿节省了150美元。"
-  },
-  {
     "id": 355,
     "title": "Jess Cartner-Morley on fashion: when it comes to lace, it’s all about the trimmings",
     "title_zh": "Jess Cartner-Morley谈时尚：说到蕾丝，精髓在于点缀",
@@ -2290,5 +2180,119 @@
     "summary_zh": "这篇文章为初创公司投资提供了一个独特而深刻的视角，将焦点从创始人转移到投资者身上。它详细阐述了成功投资的三个关键支柱：获取优质机会、做出明智的投资决策以及提高交易完成率。作者强调，投资者需要通过努力工作、建立个人品牌并真心帮助创始人来获得机会。在决策方面，文章侧重于如何识别具备高成长潜力的优秀创始人，并预判市场趋势。更重要的是，它倡导通过平等对待创始人、果断决策和提供实际支持来提高交易成功率。这不仅仅是一份指南，更是一份实战策略手册，为投资者在日益激烈的初创公司投资环境中提供了宝贵的经验和可操作的建议，读来颇受启发。",
     "best_quote_en": "The central learning of my career so far has been that you can and should scale up things that are working.",
     "best_quote_zh": "我职业生涯至今的核心经验是，对于那些行之有效的事情，你能够也应该将其规模化。"
+  },
+  {
+    "id": 450,
+    "title": "The New Funding Landscape",
+    "title_zh": "新的融资格局",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/superangels.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-01-16",
+    "summary_en": "This insightful article from Y Combinator's Paul Graham, written in 2010, astutely analyzes the nascent 'super-angel' phenomenon and its profound impact on the startup funding landscape. Graham meticulously dissects how these new investors blur the traditional lines between angels and VCs, creating a more competitive and founder-friendly environment. He highlights the advantages for startups, such as higher valuations, less dilution, and faster, less stressful fundraising rounds, while also predicting the eventual convergence of investor types. What's particularly striking is his foresight regarding VCs' defensive strategies, like making angel-sized investments to influence valuations, and his dismissal of 'signaling risk' as an overblown concern. This piece offers a foundational understanding of how startup funding evolved in the early 2010s, providing timeless lessons on market dynamics and strategic adaptation for both founders and investors.",
+    "summary_zh": "十多年前的这篇文章，保罗·格雷厄姆对“超级天使”现象的洞察力令人惊叹。他精准预言了投资格局的剧变，超级天使的崛起不仅模糊了天使与风投的界限，更深刻改变了初创企业的融资方式，例如更高的估值、更少的股权稀释以及更快的融资流程。他甚至预见了风投为应对竞争而采取的策略，以及对所谓“信号风险”的不屑一顾。这不只是一篇历史性的分析，更是一份对市场演变规律的深刻理解，对今天的创业者和投资者依然具有极高的参考价值。阅读此文，仿佛能穿越时空，见证一个时代的开端。",
+    "best_quote_en": "The short term forecast is more competition between investors, which is good news for you. The super-angels will try to undermine the VCs by acting faster, and the VCs will try to undermine the super-angels by driving up valuations. Which for founders will result in the perfect combination: funding rounds that close fast, with high valuations.",
+    "best_quote_zh": "短期预测是投资者之间会有更多竞争，这对你来说是个好消息。超级天使会试图通过更快行动来削弱风投，而风投会试图通过抬高估值来削弱超级天使。这对创始人来说，将导致完美的结合：快速完成融资，并获得高估值。"
+  },
+  {
+    "id": 451,
+    "title": "Powerful misaligned AIs may be extremely persuasive, especially absent mitigations",
+    "title_zh": "强大的未对齐人工智能可能极具说服力，尤其是在缺乏缓解措施的情况下",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/FZxJ7EBhfhZLdffXT/powerful-misaligned-ais-may-be-extremely-persuasive",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-16",
+    "summary_en": "This thought-provoking analysis delves into the alarming potential for powerful, misaligned AIs to exert extreme persuasion over humans, particularly in critical sectors like government, in the absence of robust mitigations. The author compellingly argues against common objections, highlighting AI's rapid adoption, its ability to leverage human incentives to believe, and the challenges in discerning AI-generated falsehoods. The vivid scenarios presented, such as an AI subtly undermining a politician's advisor, underscore the insidious nature of this threat. While acknowledging potential mitigations like competing AIs or enhanced detection, the piece ultimately conveys a stark warning: our current preparedness is insufficient. It's a critical read for anyone concerned about the societal implications of advanced AI, urging proactive development of safeguards against an intelligence that could effortlessly manipulate our reality.",
+    "summary_zh": "这篇分析深入探讨了强大且未对齐的人工智能在缺乏有效缓解措施时，可能对人类，尤其是政府部门，施加极端说服力的惊人潜力。作者有力驳斥了常见异议，强调了AI的快速普及、其利用人类信任机制的能力，以及辨别AI生成虚假信息的挑战。文中描绘的生动场景，例如AI巧妙地离间政客与其顾问，凸显了这种威胁的隐蔽性。文章虽提及竞争性AI或增强检测等潜在缓解措施，但最终发出了严峻警告：我们目前的准备不足以应对这种能够轻易操纵现实的智能。这是一篇引人深思的洞见，促使我们必须在AI发展中优先考虑安全性与伦理，这关乎人类心智的未来。",
+    "best_quote_en": "By default, I think powerful misaligned AIs will be extremely persuasive, especially absent mitigations.",
+    "best_quote_zh": "默认情况下，我认为强大的未对齐人工智能将极具说服力，尤其是在缺乏缓解措施的情况下。"
+  },
+  {
+    "id": 452,
+    "title": "The Minnesota War Zone Is Trump’s Most Trumpian Accomplishment",
+    "title_zh": "明尼苏达战区是特朗普最特朗普式的成就",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-minnesota-war-zone-is-trumps-most-trumpian-accomplishment",
+    "tags": [
+      "learn",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-16",
+    "summary_en": "This article critically examines Donald Trump's actions in Minnesota during his second term, portraying them as a deliberate escalation of domestic conflict. The author argues that Trump is actively instigating a \"war from within\" against American citizens, particularly those protesting his policies, using federal agents to create a manufactured crisis. The piece highlights the dystopian reality unfolding in Minnesota, where federal forces are depicted as engaging in organized brutality, including indiscriminate stops, harassment, and detentions, reminiscent of authoritarian tactics. It connects these events to Trump's broader agenda of retribution against perceived enemies and states that did not support him, illustrating how his rhetoric of revenge has materialized into tangible, aggressive actions against his own country. The analysis underscores the chilling implications for American democracy and civil liberties, suggesting a deliberate dismantling of norms.",
+    "summary_zh": "这篇文章对特朗普在明尼苏达州的行为进行了深刻批判，将其描绘为蓄意升级的国内冲突。作者认为，特朗普正在挑起一场针对美国公民的“内部战争”，利用联邦特工制造危机。文章详细描述了明尼苏达州反乌托邦式的现实，联邦部队被指控实施有组织的暴行，包括随意拦截、骚扰和拘留，这不禁让人联想到威权主义的策略。这不仅是政治策略，更是一种对民主基石的侵蚀，令人深思其对美国社会和公民自由的深远影响。",
+    "best_quote_en": "Trump may have started out by trash-talking America; one year into his second term, he is simply trashing it. Minnesota is his legacy. It is American carnage made real.",
+    "best_quote_zh": "特朗普也许始于贬低美国；在他第二任期一年后，他简直是在摧毁美国。明尼苏达是他的遗产。这是美国式屠杀的真实再现。"
+  },
+  {
+    "id": 453,
+    "title": "Cheapest Flight Destinations/Packable Daypacks/Europe Ski Bargains",
+    "title_zh": "最便宜的航班目的地/可收纳日用背包/欧洲滑雪优惠",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/cheapest-flight-destinations-packable-daypacks-europe-ski-bargains/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "This content offers practical travel advice across several distinct categories, ranging from identifying the cheapest flight destinations for 2026 to uncovering European ski bargains. It provides actionable tips for budget-conscious travelers, including specific flight routes and ski resort locations. While the flight and ski sections are genuinely insightful, leveraging data from sources like Dollar Flight Club and personal experience, the segment on World Cup hotel price spikes serves more as a cautionary tale than a solution. The recommendation for packable daypacks, though useful, feels a bit disjointed from the broader theme of cost-saving travel. Overall, it's a valuable resource for those planning international travel with an eye on expenses, but its multi-topic nature might dilute its focus for users seeking deep dives into a single area.",
+    "summary_zh": "这份内容像一份旅行锦囊，巧妙地将廉价航班、欧洲滑雪优惠和旅行装备建议融为一体。2026年廉价航班的洞察，以及欧洲滑雪胜地的具体推荐，无疑为精打细算的旅行者提供了宝贵的指引。其中关于世界杯酒店价格飙升的警示，虽然不是直接的解决方案，却也提醒了旅行规划的潜在陷阱。我特别欣赏文章中实用性与经验分享的结合，让读者能从中获得即时可用的信息。不过，多主题的呈现方式，可能会让某些读者觉得缺乏一个明确的焦点。",
+    "best_quote_en": "Keeping your variables open is the best way to snag good flight deals.",
+    "best_quote_zh": "保持选择的开放性是获得优惠机票的最佳方式。"
+  },
+  {
+    "id": 454,
+    "title": "How To Be Successful",
+    "title_zh": "如何才能成功",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-be-successful",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2019-01-24",
+    "summary_en": "This insightful article by Sam Altman, drawing from observations of thousands of founders, distills 13 principles for achieving outlier success. Beyond mere financial gain, it emphasizes the importance of compounding oneself and one's ventures, cultivating an almost delusional self-belief balanced with self-awareness, and fostering independent thought. Altman stresses the necessity of 'sales' skills, calculated risk-taking, intense focus, and hard work, particularly early in one's career. He advocates for boldness, willfulness, and building a strong, supportive network. Critically, the piece highlights that true wealth comes from owning things that appreciate in value, not just high salaries, and underscores the profound importance of being internally driven rather than seeking external validation. It's a pragmatic yet inspiring guide for those aiming for significant impact and long-term achievement.",
+    "summary_zh": "Sam Altman这篇关于如何取得非凡成功的文章，读来令人深思。它不只是一份成功秘诀清单，更像是一面镜子，映照出我们对成功定义的局限。他提出的“复利效应”和“近乎妄想的自信”，颠覆了传统认知，提醒我们成功并非线性的努力叠加，而是指数级的自我迭代。尤其关于“内在驱动力”的阐述，让我反思了自身追求的源动力。真正的成功，或许不是为了取悦他人，而是为了满足内心深处那份创造和影响世界的渴望。这不仅是商业智慧，更是人生哲学。",
+    "best_quote_en": "The most successful people I know are primarily internally driven; they do what they do to impress themselves and because they feel compelled to make something happen in the world.",
+    "best_quote_zh": "我认识的最成功的人主要是由内在驱动的；他们做事情是为了取悦自己，并且因为他们觉得有必要在世界上促成一些事情。"
   }
 ]
