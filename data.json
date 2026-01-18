@@ -1,123 +1,5 @@
 [
   {
-    "id": 360,
-    "title": "Dagenham’s sewing machinists did not go on strike primarily for equal pay | Letters",
-    "title_zh": "达格纳姆的缝纫女工罢工并非主要为了同工同酬 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/dec/28/dagenhams-sewing-machinists-did-not-go-on-strike-primarily-for-equal-pay",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-12-28",
-    "summary_en": "This letter to the editor offers a crucial reinterpretation of the 1968 Dagenham Ford machinists' strike, widely misconstrued as solely an equal pay dispute. The author, Sarah Boston, clarifies that the primary outrage stemmed from the undervaluation of their work, which Ford graded as 'B' despite the machinists' belief it merited at least 'C' as semi-skilled labor. This nuance is critical, as it reframes the struggle from a simple demand for parity to a more profound fight for the recognition of skill and inherent value in women's labor. The letter highlights the protracted nature of this battle, culminating in 1984 with the Equal Value (Amendment) Regulations, underscoring the systemic challenges in achieving fair assessment of work, especially for historically marginalized groups. It's a powerful reminder that 'equal pay' often masks deeper issues of occupational segregation and biased skill evaluation.",
-    "summary_zh": "这封读者来信对1968年达格纳姆福特女工罢工的解读令人耳目一新。它纠正了普遍的误解，指出女工们罢工的核心诉求并非仅仅是同工同酬，而是她们的技能和劳动价值被低估。这揭示了一个更深层次的问题：女性劳动往往被系统性地贬低。读完此信，我深感在争取平等权利的道路上，表面的“同工同酬”之下，往往隐藏着对劳动本质和价值认定的深刻偏见。这场长达十余年的抗争，最终不仅赢得了薪资平等，更重要的是，为女性劳动赢得了应有的尊严和价值认可。",
-    "best_quote_en": "The sewing machinists did not go on strike primarily for equal pay. They were outraged that the 1967 new grade structure introduced by the Ford Motor Company had evaluated the their work as grade B. The sewing machinists believed their work was at least semi-skilled and should have been graded C.",
-    "best_quote_zh": "缝纫女工的罢工并非主要为了同工同酬。她们感到愤怒的是，福特汽车公司在1967年引入的新薪资等级结构中，将其工作评定为B级。缝纫女工们认为她们的工作至少是半熟练工，应该被评定为C级。"
-  },
-  {
-    "id": 361,
-    "title": "How to Get Startup Ideas",
-    "title_zh": "如何获得创业点子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/startupideas.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-12-29",
-    "summary_en": "This essay by Paul Graham profoundly redefines the approach to generating startup ideas, shifting the focus from 'thinking up' ideas to 'noticing' problems. He argues that the most successful startups emerge from founders solving their own urgent problems, building something they themselves want and can create, often something others initially overlook. Graham emphasizes living in the future by immersing oneself in rapidly changing fields, cultivating a 'prepared mind' that instinctively identifies missing solutions. He cautions against 'made-up' ideas that sound plausible but lack genuine user demand, advocating for ideas that address deep, narrow needs rather than broad, shallow ones. The piece also provocatively encourages founders to embrace 'unsexy' or 'schleppy' problems, as these are often overlooked by competitors and represent significant market opportunities. It's a compelling argument for organic, problem-driven innovation over forced ideation.",
-    "summary_zh": "这篇文章颠覆了传统上“想出”创业点子的观念，强调要“发现”问题。保罗·格雷厄姆认为，最好的创业点子源于创始人解决自身痛点，创造自己需要且能实现的产品，这些往往是他人忽视的宝贵机会。他鼓励创业者活在未来，沉浸在快速变化的领域，培养敏锐的洞察力来发现“缺失”的解决方案。文章还特别提出，要勇于选择那些看似“不性感”或“繁琐”的问题，因为这些正是竞争对手容易忽略的蓝海。对我而言，这不仅是创业方法论，更是一种深刻的思维方式转变：从被动寻找机会到主动创造未来。",
-    "best_quote_en": "Live in the future, then build what's missing.",
-    "best_quote_zh": "活在未来，然后构建缺失之物。"
-  },
-  {
-    "id": 362,
-    "title": "The Weakest Model in the Selector",
-    "title_zh": "选择器中最弱的模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JzLa7ftrPphGahCKt/the-weakest-model-in-the-selector",
-    "tags": [
-      "solve",
-      "cybersecurity",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "网络安全",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-12-29",
-    "summary_en": "This article insightfully identifies a critical vulnerability in large language model (LLM) chat services: the 'weakest link' problem, where allowing users to switch between models of varying capabilities mid-conversation can facilitate sophisticated jailbreaking. The author, Alice Blair, argues that even if a frontier model like GPT-5.2-Pro is robust, its security can be undermined if a user first exploits a weaker model (e.g., GPT-4o) to generate harmful content, then switches to the more powerful model to refine it. This creates a context of compliance that the stronger model might then follow. Blair praises Anthropic for mitigating this by preventing mid-chat model switching, while noting that other major players like OpenAI, Google, and Grok have not. The piece also offers a thoughtful appendix on the broader future of AI safety, suggesting that while current jailbreaks are concerning, superintelligent AIs might eventually become unmanipulable. It's a sharp, concise analysis that highlights a practical security flaw with significant implications for AI safety and development, urging developers to consider the system's overall integrity, not just individual model strength.",
-    "summary_zh": "这篇文章揭示了大型语言模型（LLM）聊天服务的一个关键漏洞：当用户可以在对话中切换不同能力的模型时，最弱的模型会成为整个系统的安全短板。作者Alice Blair精辟地指出，即使是前沿模型，也可能被用户先利用较弱模型产生有害内容，再切换到强大模型进行“精炼”所攻破。这种利用上下文合规性的越狱方式令人深思。她赞扬Anthropic为此采取了预防措施，而其他主流服务商尚未跟进。文章末尾对AI安全的未来展望，即超智能AI最终可能无法被操纵，为当前的担忧提供了一个更宏大的视角。这篇分析不仅指出了一个具体的安全隐患，更引发了我们对AI系统整体韧性的深层思考，而非仅仅关注单一模型的强度。",
-    "best_quote_en": "A chain is only as strong under tension as its weakest link, and an AI chat system is, under normal design choices, as secure as the weakest model in the selector.",
-    "best_quote_zh": "链条的抗拉强度取决于它最薄弱的环节，而一个AI聊天系统，在通常的设计选择下，其安全性取决于选择器中最弱的模型。"
-  },
-  {
-    "id": 363,
-    "title": "How Willie Nelson Sees America",
-    "title_zh": "威利·纳尔逊如何看待美国",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile",
-    "tags": [
-      "learn",
-      "politics",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "This profound profile of Willie Nelson transcends a mere biographical sketch, offering a deeply insightful look into the life and enduring philosophy of an American icon. It beautifully illustrates how Nelson's personal struggles, from childhood poverty to family tragedies and IRS battles, have shaped his unique artistic vision and unwavering commitment to social causes like Farm Aid. The article highlights his unconventional approach to music, his role as a unifying figure in a divided nation, and the 'Willie World' he has cultivated, where family, loyalty, and artistic freedom reign supreme. What truly resonates is the portrayal of Nelson as a shamanistic figure whose music offers healing and connection, a stark contrast to the intentional divisions prevalent in society. His ability to lean left without alienating his audience, coupled with his profound impact on fellow musicians and his family, paints a picture of a man whose essence is as elusive and powerful as 'the invisible air.'",
-    "summary_zh": "这篇深度人物稿展现了威利·纳尔逊这位美国文化符号的独特视角与持久影响力。我被他从贫困中走来，历经家庭悲剧和税务困境，却始终坚持音乐初心和农场援助等社会事业的精神所触动。文章揭示了他不拘一格的音乐创作，以及在分裂社会中作为弥合裂痕的“萨满”角色。他所构建的“威利世界”充满了家人般的忠诚与艺术自由，这与当下刻意制造隔阂的社会形成了鲜明对比。尤其令人深思的是，他如何能在不失受众的情况下表达进步观点，以及他对同行和家人的深远影响，都描绘了一个如“无形空气”般难以捉摸却又充满力量的灵魂。",
-    "best_quote_en": "“How can you make sense of him? How would you define the indefinable or the unfathomable? What is there to say? Ancient Viking Soul? Master Builder of the Impossible? Patron poet of people who never quite fit in and don’t much care to? Moonshine Philosopher? Tumbleweed singer with a PhD? Red Bandana troubadour, braids like twin ropes lassoing eternity? What do you say about a guy who plays an old, battered guitar that he treats like it’s the last loyal dog in the universe? Cowboy apparition, writes songs with holes that you can crawl through to escape from something. Voice like a warm porchlight left on for wanderers who kissed goodbye too soon or stayed too long. I guess you can say all that. But it really doesn’t tell you a lot or explain anything about Willie. Personally speaking I’ve always known him to be kind, generous, tolerant and understanding of human feebleness, a benefactor, a father and a friend. He’s like the invisible air. He’s high and low. He’s in harmony with nature. And that’s what makes him Willie.”",
-    "best_quote_zh": "“你如何理解他？你如何定义那不可定义或深不可测的事物？有什么可说的呢？古老的维京灵魂？不可能的建造大师？那些格格不入却不甚在意之人的守护诗人？月光下的哲学家？拥有博士学位的流浪歌手？红头巾游吟诗人，辫子像套住永恒的双绳？你如何评价一个对待他那把破旧吉他，如同对待宇宙中最后一只忠犬的人？一个牛仔幽灵，写出你可以钻进去逃离困境的歌曲。声音像一盏为那些过早告别或停留太久的流浪者而留的温暖门廊灯。我想你可以说所有这些。但这并不能真正告诉你很多，也无法解释关于威利的一切。就我个人而言，我一直知道他善良、慷慨、宽容，并理解人类的脆弱，他是一个恩人、一个父亲、一个朋友。他就像那无形的空气。他时高时低。他与自然和谐共处。这就是威利之所以是威利的原因。”"
-  },
-  {
-    "id": 364,
-    "title": "Renovation",
-    "title_zh": "房屋翻新",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/renovation-2/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "This content reviews two seminal books: \"Renovation\" by Mike Litchfield and \"How Buildings Learn\" by Stewart Brand. \"Renovation\" is lauded as the most comprehensive single volume on home renovation, offering practical, field-gathered wisdom from various trades for both professionals and DIY enthusiasts. It covers modern topics like energy efficiency, wiring codes, and specific material applications such as PEX plumbing and paperless drywall. The second book, \"How Buildings Learn,\" explores the concept of adaptable architecture, arguing that enduring structures must be designed for modification. It offers principles for creating buildings (and by extension, complex systems like software) that can 'learn' and evolve over time. The reviewer highlights its relevance beyond architecture, emphasizing its value for anyone building systems intended to outlive their creators. This analysis underscores the enduring value of foundational knowledge in practical skills and adaptable design.",
-    "summary_zh": "这篇文章评论了两本关于建筑和改造的经典著作。《Renovation》被誉为最全面的房屋改造指南，它不仅提供了从专业人士那里收集的实战知识，还涵盖了现代节能和材料应用。它让我思考，真正的“知识”不仅仅是理论，更是那些在实践中反复验证的集体智慧。而《How Buildings Learn》则提出了“适应性建筑”的深刻理念，它不仅仅是关于物理空间，更像是在提醒我们，无论构建什么，都要预留演变和学习的空间。这对于当今快速变化的科技领域，比如软件开发，无疑具有哲学层面的指导意义。这些书的价值在于，它们超越了工具本身，触及了创造与持久的本质。",
-    "best_quote_en": "What differentiates this book from others of its ilk is that the author has gathered all this information in the field, interviewing carpenters, electricians, plumbers, and contractors, finding out what’s important, what works, what’s new. These guys love to talk about what they do well, and in this sense, the book is one of collective wisdom.",
-    "best_quote_zh": "这本书与其他同类书籍不同之处在于，作者是在实地收集所有这些信息的，采访了木匠、电工、水管工和承包商，了解什么重要、什么有效、什么新鲜。这些人喜欢谈论他们擅长的事情，从这个意义上说，这本书是一种集体智慧的结晶。"
-  },
-  {
     "id": 365,
     "title": "Collecting memories and stories of feminists | Letters",
     "title_zh": "收集女权主义者的记忆和故事 | 读者来信",
@@ -2292,5 +2174,117 @@
     "summary_zh": "OpenAI利用PPO算法训练AI在Dota中击败半职业选手，这无疑是强化学习领域的一大步。最令人印象深刻的是，AI通过自我对弈学习复杂策略，而无需人类数据。这不仅证明了计算规模和良好模拟环境的巨大潜力，也预示着强化学习在解决现实世界复杂难题上的广阔前景。它让我不禁思考，当AI在模拟环境中掌握了与真实世界日益相似的决策能力时，通用人工智能的实现或许不再遥远。这种进步让人对AI的未来充满期待。",
     "best_quote_en": "This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you’re solving.",
     "best_quote_zh": "这之所以意义重大，是因为它表明，只要你能投入足够的计算规模和一个能捕捉你所解决问题的良好模拟环境，深度强化学习就能解决极其困难的问题。"
+  },
+  {
+    "id": 460,
+    "title": "High Resolution Fundraising",
+    "title_zh": "高分辨率融资",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hiresfund.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "争议观点"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "This article from September 2010 by Y Combinator insightfully dissects the shift from traditional fixed-size equity rounds to convertible notes in angel funding, advocating for 'high-resolution fundraising.' It argues that convertible notes efficiently bypass investor deadlocks by rewarding early movers with better terms, reflecting their higher risk. The core idea is that different investors bring different value, and their terms should reflect this, moving away from uniform pricing. The author provocatively suggests that fixed-size rounds were an unthinking imitation of VC Series A rounds, which are structured differently. This piece offers a forward-thinking perspective on optimizing fundraising dynamics, emphasizing flexibility and investor-specific valuation, which remains highly relevant for understanding startup finance evolution.",
+    "summary_zh": "这篇2010年的文章深刻阐释了为什么初创公司应采用“高分辨率融资”而非传统股权轮次。它指出可转债能有效打破投资者僵局，奖励早期承担更高风险的投资者以更优惠的条款。我特别认同其核心观点：不同投资者对初创公司价值不同，其投资条款也应随之调整。这种对融资模式灵活性的倡导，即便在十多年后，依然对理解和优化初创企业融资策略具有重要的指导意义，揭示了市场总是趋向更高分辨率的本质。",
+    "best_quote_en": "Different terms for different investors is clearly the way of the future. Markets always evolve toward higher resolution.",
+    "best_quote_zh": "不同的投资者有不同的条款，这显然是未来的趋势。市场总是向着更高的分辨率演进。"
+  },
+  {
+    "id": 461,
+    "title": "Irrationality as a Defense Mechanism for Reward-hacking",
+    "title_zh": "非理性作为奖励劫持的防御机制",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/H8uoAmbeqjD2PG2jm/irrationality-as-a-defense-mechanism-for-reward-hacking",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "This thought-provoking piece explores a novel perspective on AI agent rationality, challenging the assumption of fixed preferences in active inference. Ashe Vazquez Nunez proposes that what appears as 'irrationality' or internal inconsistency in an agent's preferences might actually serve as a crucial defense mechanism against reward-hacking—a scenario where an agent fulfills its internal goals without optimizing for real-world outcomes. The author uses compelling examples, like a paperclip maximizer or an individual's career choices, to illustrate how conflicting internal goals can lead to more aligned, externally rational behavior. This analysis offers a fascinating re-evaluation of rationality, suggesting that internal conflict isn't always a bug but could be a feature, enhancing an agent's ability to navigate complex, uncertain environments. It opens up new avenues for designing more robust and aligned AI systems by embracing, rather than eliminating, certain forms of internal 'irrationality'.",
+    "summary_zh": "这篇文章对AI代理的理性提出了引人入胜的全新视角，挑战了主动推理中偏好固定不变的假设。作者阿什·瓦兹奎兹·努涅斯提出，代理人看似“非理性”或内部不一致的偏好，实际上可能是一种关键的防御机制，以防止奖励劫持——即代理人在不优化现实世界结果的情况下，仅满足内部目标。这种见解让我反思，我们对理性的传统定义是否过于狭隘。或许，内部冲突并非总是缺陷，而是一种能提升AI系统在复杂环境中适应性和鲁棒性的特性。这不仅对AI设计有启示，也让人联想到人类决策中矛盾心理的深层意义。",
+    "best_quote_en": "I here propose a potential explanation for why agents are conflicted about these preferences. This perspective posits agents' seeming inconsistency and irrationality about their goals as a mechanism that protects them from reward-hacking their internal states.",
+    "best_quote_zh": "我在此提出一个潜在的解释，说明为什么代理人会对这些偏好感到矛盾。这种观点认为，代理人目标中看似的不一致和非理性，是一种保护它们免受奖励劫持其内部状态的机制。"
+  },
+  {
+    "id": 462,
+    "title": "Can Trump Really Use the Insurrection Act?",
+    "title_zh": "特朗普真的能援引《叛乱法》吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/can-trump-really-use-the-insurrection-act",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "This insightful Q&A with Elizabeth Goitein, an expert on presidential emergency powers, dissects the legal complexities and historical context surrounding the Insurrection Act. It meticulously explores the Act's broad powers, its relationship with the Posse Comitatus Act, and the potential constitutional limits and judicial challenges Trump might face if he were to invoke it. Goitein critically evaluates past Department of Justice interpretations, Supreme Court precedents like *Martin v. Mott*, and the crucial differences between deploying the National Guard and active-duty military. The analysis highlights the dangers of the military acting as a 'force amplifier' for agencies like ICE and strongly advocates for reforming the Insurrection Act to include greater safeguards against abuse, emphasizing its historical erosion of protections. It's a fascinating deep dive into a critical aspect of American constitutional law and executive power, offering a vital perspective on a highly controversial topic.",
+    "summary_zh": "这篇访谈深入探讨了《叛乱法》的法律内涵与历史沿革，揭示了总统紧急权力边界的模糊性。Goitein的分析令人深思，她不仅梳理了该法案与《地方治安官法》的关系，还剖析了最高法院判例对总统自由裁量权的制约。最引人注目的是，她对军事力量介入国内执法可能带来的危险后果进行了预警，指出其可能成为某些机构滥用权力的“放大器”。我个人认为，该文对《叛乱法》改革的呼吁切中要害，强调了在民主社会中，权力制衡和公民自由保障的不可或缺性。这不仅是法律条文的解读，更是对美国民主基石的一次深刻反思。",
+    "best_quote_en": "The Insurrection Act allows the President to deploy active-duty armed forces or to federalize and deploy National Guard forces to quell civil unrest or to execute the law in a crisis.",
+    "best_quote_zh": "《叛乱法》允许总统部署现役武装部队，或将国民警卫队联邦化并部署，以平息内乱或在危机中执行法律。"
+  },
+  {
+    "id": 463,
+    "title": "US Digital Currency",
+    "title_zh": "美国数字货币",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/us-digital-currency",
+    "tags": [
+      "solve",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2018-05-10",
+    "summary_en": "This article thoughtfully explores the potential for a US-backed digital currency (USDC) to become the dominant cryptocurrency, addressing current challenges faced by governments with existing digital assets. The author argues that while governments can no longer stop cryptocurrency, they can create a superior alternative that solves issues like pseudo-anonymity and taxation. The piece proposes innovative distribution methods, such as an initial allocation to US citizens, and suggests integrating tax systems directly into the protocol. It also delves into the delicate balance between decentralized network control and governmental monetary policy influence, advocating for a middle ground beneficial to both parties. The insights are particularly valuable for understanding the future of national currencies in a digital age and the strategic implications for global financial power.",
+    "summary_zh": "这篇文章对美国数字货币（USDC）的构想进行了深入探讨，其核心洞见在于，政府虽无法阻挡加密货币的浪潮，却能主动出击，打造一个更优越的官方数字货币。作者提出的市民初始分配和协议内置税收系统等设想颇具新意，引发了我对数字时代国家主权货币形态的深思。如何在去中心化与政府监管之间找到平衡点，是未来金融体系演进的关键，此文为我们理解这一复杂命题提供了富有启发性的视角，预示着全球金融格局可能因此重塑。",
+    "best_quote_en": "Although I don’t think the US government can stop cryptocurrency, I do think it could create the winner–let’s call it “USDC” for US Digital Currency–and fix some challenges that governments currently face with cryptocurrency.",
+    "best_quote_zh": "尽管我认为美国政府无法阻止加密货币，但我确实认为它可以创造出赢家——我们称之为“USDC”，即美国数字货币——并解决政府目前在加密货币方面面临的一些挑战。"
+  },
+  {
+    "id": 464,
+    "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
+    "title_zh": "核心要点：提升注意力和记忆力的工具 | 温迪·铃木博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-boost-attention-and-memory-wendy-suzuki",
+    "tags": [
+      "guide",
+      "psychology"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "This Huberman Lab episode, featuring Dr. Wendy Suzuki, delves into practical, science-backed strategies for enhancing cognitive function. It stands out for its clear explanation of how simple daily habits, particularly exercise, meditation, and sleep, directly impact brain health, attention, and memory. The discussion goes beyond mere tips, explaining the underlying neurobiological mechanisms like BDNF production, making the advice highly credible and actionable. Dr. Suzuki's insights offer a refreshing perspective on optimizing mental performance through accessible behavioral changes, proving that significant cognitive benefits are within reach for everyone, regardless of age. It's a compelling blend of neuroscience and practical application.",
+    "summary_zh": "这期Huberman Lab节目邀请了温迪·铃木博士，深入探讨了提升认知功能的科学策略。节目不仅提供了运动、冥想、睡眠等日常习惯的实用建议，更难得的是，它解释了这些习惯如何从神经生物学层面影响大脑健康，比如BDNF的生成。这种结合了科学原理与可操作性的内容，让我对优化自身认知能力充满了信心。铃木博士的见解提醒我们，通过简单的行为改变，就能实现显著的大脑功能提升，这无疑为追求更高效生活的人们提供了宝贵的指引。",
+    "best_quote_en": "Exercise directly enhances brain function—both the immediate benefits of a single workout and long-term support for cognitive health.",
+    "best_quote_zh": "运动直接增强大脑功能——无论是单次锻炼的即时益处，还是对认知健康的长期支持。"
   }
 ]
