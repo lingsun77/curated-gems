@@ -1,123 +1,5 @@
 [
   {
-    "id": 365,
-    "title": "Collecting memories and stories of feminists | Letters",
-    "title_zh": "收集女权主义者的记忆和故事 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/22/collecting-memories-and-stories-of-feminists",
-    "tags": [
-      "solve",
-      "society",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "This article, presented as 'Letters to the Editor,' offers a poignant reflection on the women's liberation movement (WLM) and the ongoing struggle for gender equality. It highlights the ephemeral nature of living memories surrounding historical movements and issues a call to action for documenting the grassroots experiences of feminists before they are lost. The piece underscores the WLM's informal yet impactful structure, emphasizing its role as a movement for consciousness-raising rather than a formal organization. A second letter broadens the historical scope by introducing the pioneering efforts of the wartime Air Transport Auxiliary (ATA) in establishing workplace sex equality, including equal pay, long before official legislation. This juxtaposition reveals the continuous, often unacknowledged, battles for equality across different eras and contexts, urging us to recognize the diverse forms of feminist struggle.",
-    "summary_zh": "这篇读者来信，以其独特的视角，深刻反思了女性解放运动的非正式力量及其在历史长河中的逐渐模糊。它不仅仅是对过去的回顾，更是一声紧迫的呼唤：在那些珍贵的、鲜活的记忆消逝之前，我们必须记录下女权主义者的真实故事和草根经验。文章还通过对战时航空运输辅助队平等薪酬制度的提及，巧妙地拓展了我们对性别平等斗争历史的理解。这让我不禁思考，那些不为人知的先行者们，她们的努力是如何在历史的缝隙中默默推动社会进步的？我们又该如何确保这些宝贵的遗产不被遗忘，并从中汲取继续前进的力量？",
-    "best_quote_en": "Rustin is so right that the struggles (we all spoke of struggles) taking place both around the law and equal rights, and among the women who considered themselves more radical, are fading from living memories via lived experiences. For an inclusive history’s sake, it’s time to record as many of those voices, including grassroots ones, before it’s too late.",
-    "best_quote_zh": "拉斯汀说得太对了，那些围绕法律和平等权利的斗争，以及那些自认为是更激进的女性之间的斗争，正通过亲身经历从鲜活的记忆中消逝。为了一个包容的历史，是时候在一切太晚之前，记录下尽可能多的声音，包括那些来自基层的声音。"
-  },
-  {
-    "id": 366,
-    "title": "The Hardware Renaissance",
-    "title_zh": "硬件复兴",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/hw.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-12-30",
-    "summary_en": "This essay from Y Combinator in 2012 provocatively argues for an impending \"Hardware Renaissance,\" challenging the prevailing investor bias against hardware startups. It highlights early trends observed at Y Combinator, where hardware companies were not only present but performing well, despite investor skepticism. The author attributes this shift to several converging factors: the rise of crowdfunding, ubiquitous wireless connectivity, improved manufacturing processes, and accessible prototyping tools like Arduinos and 3D printing. The core insight is that while software's dominance has been undeniable, the inherent appeal and increasing feasibility of hardware development suggest its advantage might be temporary. It's a compelling call to action for founders, urging them not to be deterred by traditional investor mindsets, and positions Y Combinator as an early believer in this evolving landscape. The piece effectively challenges established norms and offers a forward-looking perspective on technological innovation.",
-    "summary_zh": "这篇2012年的文章超前地预言了“硬件复兴”，挑战了当时投资界对硬件根深蒂固的偏见。它指出，尽管软件占据主导，但众筹、无线技术进步、制造简化和原型工具普及等因素正共同推动硬件创业的崛起。作者的洞察在于，软件的优势并非永恒，物理世界的魅力和创新潜力正重新被点燃。这不仅是对创业者的鼓舞，也是对传统投资理念的深刻反思。读来不禁让人思考，我们是否总在追逐已然成熟的趋势，而错过了下一个“史蒂夫·乔布斯”在硬件领域的开创性机遇？",
-    "best_quote_en": "The best founders are better at seeing the future than the best investors, because the best founders are making it.",
-    "best_quote_zh": "最优秀的创始人比最优秀的投资者更能洞察未来，因为最优秀的创始人正在创造未来。"
-  },
-  {
-    "id": 367,
-    "title": "Chromosome identification methods",
-    "title_zh": "染色体识别方法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/PneJmhC769dygaM8D/chromosome-identification-methods",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-30",
-    "summary_en": "This article delves into the critical challenge of chromosome identification, a foundational step for the hypothetical yet promising technology of chromosome selection in reprogenetics. The author meticulously analyzes existing methods, highlighting a fundamental trade-off between destructiveness and identification confidence. Traditional approaches either damage chromosomes (e.g., DNA sequencing) or offer insufficient detail (e.g., light microscopy). The core insight is a novel proposal for \"complementary identification,\" where a single chromosome's identity is inferred by destructively analyzing all others from the same cell. This indirect approach, alongside methods like single-cell RNA sequencing, aims to overcome current limitations, offering a path towards non-destructive, high-confidence chromosome identification. The article thoughtfully frames this technical problem within the broader context of creating modified genomes for future children, underscoring the profound implications of such advancements. It's a fascinating exploration of a complex biological engineering problem.",
-    "summary_zh": "这篇文章深入探讨了染色体识别这一关键技术，它是生殖遗传学中染色体选择这一设想性技术的基石。作者精辟地分析了现有方法的局限性，揭示了破坏性与识别准确性之间的根本矛盾。文章提出了一种新颖的“互补识别”范式，即通过破坏性分析同细胞中其他染色体来推断单个染色体的身份。这种间接方法，结合单细胞RNA测序等，为实现无损、高置信度的染色体识别提供了新思路。我深感其对未来基因工程的潜在影响，这不仅仅是技术突破，更是对生命改造伦理的深刻叩问。",
-    "best_quote_en": "It seems that existing methods are subject to a tradeoff where they either destroy or damage the chromosomes they measure, or else they fail to confidently identify chromosomes.",
-    "best_quote_zh": "现有的方法似乎都面临一个权衡：它们要么破坏或损害所测量的染色体，要么无法自信地识别染色体。"
-  },
-  {
-    "id": 368,
-    "title": "A Reckoning for the Stalled Gaza Peace Plan",
-    "title_zh": "加沙和平计划停滞不前的清算",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/a-reckoning-for-the-stalled-gaza-peace-plan",
-    "tags": [
-      "solve",
-      "politics",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-12-29",
-    "summary_en": "This critical analysis dissects the inherent flaws and likely failure of the proposed Gaza peace plan, focusing on its structural contradictions and the exclusion of Palestinian agency. The author meticulously details how the three-phase scheme, despite its stated goals of peace and reconstruction, appears designed to solidify a new, permanent order of control, rather than genuine resolution. Key insights include the plan's encoding of displacement, the problematic role and vague mandate of the International Stabilization Force (I.S.F.), and the significant disparity between the plan's theoretical framework and the grim realities on the ground. The piece compellingly argues that without genuine Palestinian consent and political process, any 'peace' derived from this plan will be merely a more tightly managed form of control, inevitably leading to future conflict. It's a sobering read that challenges conventional narratives surrounding peace efforts in the region.",
-    "summary_zh": "这篇文章对加沙和平计划进行了深刻的批判性分析，揭示了其内在缺陷和潜在的失败。作者敏锐地指出，该计划表面上旨在实现和平与重建，实则可能固化一种新的、永久性的控制秩序。尤其令人担忧的是，巴勒斯坦人民被排除在决策之外，以及国际维稳部队（I.S.F.）角色模糊且充满矛盾。这种缺乏当地合法性和政治基础的安排，恐怕只会为未来的冲突埋下伏笔。读罢此文，我深感和平之路何其艰难，真正的解决方案必须根植于公正与包容。",
-    "best_quote_en": "It’s hard to imagine that an arrangement designed without local consent, implemented by a multinational force that has not yet been assembled, and dependent on institutions that have no legitimacy, would be able to produce anything other than a new, more tightly managed, form of control.",
-    "best_quote_zh": "很难想象，一项在没有当地同意的情况下设计、由尚未组建的多国部队实施、并依赖于没有合法性的机构的安排，除了产生一种新的、更严格管控的形式之外，还能带来什么。"
-  },
-  {
-    "id": 369,
-    "title": "Canning",
-    "title_zh": "家庭食品加工：从罐装到研磨",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/canning/",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-12-29",
-    "summary_en": "This article delves into the resurgence of traditional home food processing techniques, highlighting modern approaches to canning, pressure cooking, and grain milling. It challenges outdated perceptions, presenting canning not as a survivalist chore but as a culinary art form focused on superior taste and variety, advocating for low-sugar, intensely flavored preserves. The piece also extols the virtues of modern pressure cookers for their efficiency, safety, and ability to enhance flavor and nutrition, showcasing a high-end model as a worthwhile investment. Furthermore, it explores the benefits of grinding fresh grains at home, from flour for baking to fresh oats for cereal, emphasizing the improved taste and nutritional value. The underlying theme is a return to more hands-on, quality-driven food preparation, transforming everyday cooking into an engaging and rewarding experience, often with a nostalgic or communal element.",
-    "summary_zh": "这篇文章让我重新审视了传统家庭食品加工的魅力。它不仅仅是关于保存食物，更是一种对食材本味的追求和生活品质的提升。从低糖、高风味的现代罐装，到高效安全的压力烹饪，再到新鲜研磨谷物的纯粹口感，每一点都透露出对食物的尊重和对家庭生活的热爱。这不仅是技术和工具的革新，更是我们与食物、与家人重新连接的一种方式，让烹饪变得更有趣、更健康、也更富有意义。",
-    "best_quote_en": "Canning these days makes sense as a culinary endeavor — because you can make preserves that taste better, or are far more varied than anything you can buy.",
-    "best_quote_zh": "如今，罐装作为一种烹饪尝试是很有意义的——因为你可以制作出比市面上任何产品都更美味、种类更丰富的蜜饯。"
-  },
-  {
     "id": 370,
     "title": "Beyond Kegels: I found a fix for a common type of incontinence – why don’t more women know about it?",
     "title_zh": "超越凯格尔运动：我找到了治疗一种常见尿失禁的方法——为什么更多女性不知道？",
@@ -2286,5 +2168,117 @@
     "summary_zh": "这期Huberman Lab节目邀请了温迪·铃木博士，深入探讨了提升认知功能的科学策略。节目不仅提供了运动、冥想、睡眠等日常习惯的实用建议，更难得的是，它解释了这些习惯如何从神经生物学层面影响大脑健康，比如BDNF的生成。这种结合了科学原理与可操作性的内容，让我对优化自身认知能力充满了信心。铃木博士的见解提醒我们，通过简单的行为改变，就能实现显著的大脑功能提升，这无疑为追求更高效生活的人们提供了宝贵的指引。",
     "best_quote_en": "Exercise directly enhances brain function—both the immediate benefits of a single workout and long-term support for cognitive health.",
     "best_quote_zh": "运动直接增强大脑功能——无论是单次锻炼的即时益处，还是对认知健康的长期支持。"
+  },
+  {
+    "id": 465,
+    "title": "How can we learn from unrequited love?",
+    "title_zh": "我们如何从单相思中学习？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/how-can-we-learn-from-unrequited-love",
+    "tags": [
+      "solve",
+      "psychology"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "This piece delves into the universal, often painful, experience of unrequited love, posing a profound question to its readership rather than providing direct answers. It implicitly acknowledges the emotional complexity and psychological impact of such feelings, inviting collective wisdom and shared experience to navigate this common human predicament. The content's value lies not in offering a definitive solution, but in fostering a communal space for reflection, empathy, and potential insight into coping mechanisms. It highlights the therapeutic potential of shared narrative and the search for understanding in deeply personal struggles, suggesting that learning from unrequited love is a process of self-discovery and emotional resilience, often best explored through collective discourse.",
+    "summary_zh": "这篇文章以一个引人深思的问题探讨了单相思的普遍痛苦，而非直接提供答案。它巧妙地邀请读者贡献智慧和经验，共同面对这种复杂的情感困境。其价值在于提供了一个反思和共情的社区空间，而非单一的解决方案。这种集体探讨的方式，本身就是一种疗愈，帮助我们从个人挣扎中提炼出自我发现和情感韧性的宝贵课程。",
+    "best_quote_en": "How can we accept that what feels like overwhelming love for someone is unrequited, and how can we get over it?",
+    "best_quote_zh": "我们如何接受对某人排山倒海般的爱是单相思，我们又该如何释怀？"
+  },
+  {
+    "id": 466,
+    "title": "What Happened to Yahoo",
+    "title_zh": "雅虎何去何从？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/yahoo.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "This insightful analysis by Paul Graham dissects the reasons behind Yahoo's decline, attributing it primarily to two fatal flaws: an over-reliance on \"easy money\" from unsustainable advertising models (banner ads and dot-com bubble spending) and a fundamental ambivalence about being a technology company. Graham, having worked at Yahoo post-acquisition, offers a unique insider perspective, contrasting Yahoo's early corporate culture with that of nascent Google. He argues that Yahoo's self-identification as a \"media company\" led to a neglect of programming excellence and a failure to cultivate a hacker-centric culture, ultimately resulting in a death spiral of mediocrity. The piece serves as a cautionary tale, emphasizing the critical importance of prioritizing core technological competence and fostering a strong engineering culture for any company operating in the software business, a lesson that remains profoundly relevant for startups today.",
+    "summary_zh": "保罗·格雷厄姆对雅虎衰落的分析引人深思。他一针见血地指出，雅虎的致命伤在于过分依赖“快钱”以及对自身技术公司身份的模糊定位。这种缺乏核心技术信仰的“媒体公司”心态，不仅使其错失了搜索等关键创新，更导致了技术人才流失和企业文化僵化。回想起来，这何尝不是许多企业在快速发展中容易犯的错误？当外部诱惑蒙蔽了对核心价值的坚守，再强大的帝国也可能走向衰落。这篇深度剖析，对于今日的创业者而言，无疑是一剂清醒剂，提醒我们技术实力和工程师文化才是立足之本。",
+    "best_quote_en": "In technology, once you have bad programmers, you're doomed. I can't think of an instance where a company has sunk into technical mediocrity and recovered.",
+    "best_quote_zh": "在技术领域，一旦你有了糟糕的程序员，你就注定失败。我想不出有哪个公司在技术平庸后还能恢复元气。"
+  },
+  {
+    "id": 467,
+    "title": "Gradual Paths to Collective Flourishing",
+    "title_zh": "通往集体繁荣的渐进之路",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/mtASw9zpnKz4noLFA/gradual-paths-to-collective-flourishing",
+    "tags": [
+      "guide",
+      "ai-research",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "Nora Ammann's essay, co-authored with Claude Opus 4.5, offers a compelling and much-needed optimistic vision for navigating the AI transition. Departing from common dystopian narratives, it meticulously outlines two primary failure modes—unilateral domination and competitive erosion—before proposing a \"narrow path\" towards collective flourishing. The core insight lies in fostering stable, win-win human-AI coalitions by drastically reducing transaction costs through advanced information, deliberation, bargaining, and trust infrastructures. This analytical framework, rooted in Coasean bargaining theory, suggests that AI can be leveraged to create a defense-favored world where cooperation is more attractive and viable than conflict, even for highly capable AI systems. It's a thought-provoking piece that challenges conventional pessimism, urging proactive investment in socio-technical stacks to ensure humanity's capacity for self-determination in an AI-powered future.",
+    "summary_zh": "Nora Ammann的这篇文章为AI时代提供了一个难得的乐观愿景，与主流的悲观论调形成鲜明对比。作者深入分析了单边主导和竞争侵蚀两种潜在的失败模式，并提出通过构建稳定的、双赢的人机联盟来避免。其核心洞察在于，通过降低交易成本，利用AI技术构建信息、协商、谈判和信任基础设施，我们可以创造一个合作优于冲突的“防御优势”世界。这不仅是技术问题，更是社会和制度的挑战，需要我们积极投资于能够促成集体繁荣的社会技术栈。读后令人深思，它提醒我们，面对未来，除了恐惧，我们还有能力主动塑造一个更好的结局。",
+    "best_quote_en": "The prize, if we can get there, is collective flourishing. But a world where humanity, in coalition with AI systems, retains the capacity to shape its own future. A world where we can understand our situation clearly enough, coordinate effectively enough, and defend ourselves well enough to keep steering toward something better.",
+    "best_quote_zh": "如果我们能达到目标，奖品将是集体繁荣。这是一个人类与AI系统结盟，共同保有塑造自身未来的能力的世界。一个我们能足够清晰地理解自身处境，足够有效地协调，足够好地保护自己，从而持续驶向更美好未来的世界。"
+  },
+  {
+    "id": 468,
+    "title": "Vinson Cunningham on Barry Blitt’s Obama “Fist Bump” Cover",
+    "title_zh": "文森·坎宁安谈巴里·布利特的奥巴马“碰拳”封面",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/vinson-cunningham-on-barry-blitts-obama-fist-bump-cover",
+    "tags": [
+      "solve",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "Vinson Cunningham offers a retrospective analysis of Barry Blitt's controversial 2008 New Yorker cover depicting Barack and Michelle Obama, which satirized the racist rhetoric prevalent during Obama's presidential campaign. Cunningham, who was working for Obama's campaign at the time, recounts his initial reaction and the widespread outrage the cover provoked. He insightfully argues that Blitt's illustration was a sharp piece of media criticism, exposing the absurd and often malicious stereotypes hurled at the Obamas. The author reflects on the cover's enduring power as a commentary on a nation that too readily reduces complex figures to caricatures, highlighting the sophisticated yet often misunderstood nature of satire in confronting societal prejudices. This piece serves as a potent reminder of the historical context of Obama's rise and the persistent challenges of racialized discourse in American politics.",
+    "summary_zh": "坎宁安对巴里·布利特2008年《纽约客》奥巴马封面争议的解读，不仅是个人回忆，更是对讽刺艺术与种族主义言论交锋的深刻反思。他以亲历者视角，揭示了封面背后媒体批评的精妙，以及美国社会在面对肤色和政治时，将复杂人物漫画化的倾向。这篇分析让我再次审视讽刺的边界与力量，也感叹近二十年后，那些荒谬的种族主义言论仍余音绕梁，警示我们批判性思维的持续重要性。",
+    "best_quote_en": "Blitt’s cover was, at heart, a work of media criticism, aimed at this latticework of horseshit. Here’s one big risk a public satirist of racism takes: by displaying a panoply of tropes and crude imagery, he reveals just how well he knows and can deploy them himself.",
+    "best_quote_zh": "布利特的封面，其核心是对这堆胡言乱语的媒体批判作品。一个公开的种族主义讽刺作家所冒的一个巨大风险是：通过展示一系列的比喻和粗俗的意象，他揭示了他自己对这些东西的了解和运用能力。"
+  },
+  {
+    "id": 469,
+    "title": "Recomendo Deals / Zip Air / 35 simple health tips",
+    "title_zh": "推荐优惠 / Zip Air / 35个简单健康贴士",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/recomendo-deals-zip-air-35-simple-health-tips/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "This content offers a diverse collection of practical recommendations spanning consumer deals, travel, health, linguistics, self-development, and focus tools. It highlights a new service, Recomendo Deals, for finding discounted vetted products, and praises Zip Air for budget-friendly flights to Japan. The piece also curates 35 research-backed health tips, explores the evolution of the English language through a video, suggests a dream analysis newsletter for self-reflection, and reviews a NeeDoh fidget toy for focus. The common thread is the emphasis on actionable, vetted suggestions that can genuinely improve daily life, from saving money and traveling smarter to enhancing well-being and understanding historical language shifts. It's a rich tapestry of useful insights for a curious and practical reader.",
+    "summary_zh": "这篇文章仿佛是一份生活智慧的宝藏图，从精明消费到身心健康，再到语言探索和自我成长，每一项推荐都充满了实用价值。我特别喜欢它不仅提供了信息，更分享了亲身体验和独到见解，比如Zip Air的廉价日本航班，或是NeeDoh减压球的妙用。这种“授人以渔”而非“授人以鱼”的分享方式，让我感受到内容背后的真诚与匠心。它提醒我们，生活中的小确幸和大学问，往往藏在这些看似简单的发现之中。",
+    "best_quote_en": "These aren’t random products — they’re things we’ve already vetted and recommended.",
+    "best_quote_zh": "这些并非随机产品——它们是我们已经审核并推荐过的。"
   }
 ]
