@@ -1,119 +1,5 @@
 [
   {
-    "id": 370,
-    "title": "Beyond Kegels: I found a fix for a common type of incontinence – why don’t more women know about it?",
-    "title_zh": "超越凯格尔运动：我找到了治疗一种常见尿失禁的方法——为什么更多女性不知道？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/30/peeing-after-childbirth-incontinence-sui-solution",
-    "tags": [
-      "solve",
-      "medicine",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-12-30",
-    "summary_en": "This article powerfully advocates for greater awareness of effective treatments for stress urinary incontinence (SUI) beyond the commonly recommended Kegel exercises. The author shares her personal, deeply relatable journey from years of silent suffering and self-blame to discovering a minimally invasive procedure that transformed her life. It critically examines the historical context and gendered biases within women's health, highlighting how societal narratives often place the onus on women for conditions that have medical solutions. The piece challenges the prevailing ignorance surrounding SUI treatments, even among medical professionals, and underscores the significant disparity in research and care compared to men's health issues. It's a compelling call to action for women to seek better care and for the medical community to improve education and access to advanced solutions.",
-    "summary_zh": "这篇文章深刻揭示了女性压力性尿失禁治疗的知识盲区，作者亲身经历从默默忍受到发现微创手术改变生活，这份真诚与勇气令人动容。她不仅质疑了凯格尔运动的万能性，更批判了女性健康领域长期存在的性别偏见和信息不对称。读罢此文，我不禁思考，有多少女性正因缺乏信息而承受不必要的痛苦？这不应仅仅是个人问题，更是医疗系统和社会观念需要共同面对和解决的深层议题。",
-    "best_quote_en": "“SUI is not part of normal ageing and can be remedied.”",
-    "best_quote_zh": "“SUI并非正常衰老的组成部分，它是可以被治愈的。”"
-  },
-  {
-    "id": 371,
-    "title": "Startup = Growth",
-    "title_zh": "创业公司 = 增长",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/growth.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-12-31",
-    "summary_en": "This essay fundamentally redefines 'startup' not by age or funding, but by an inherent drive for rapid growth. It compellingly argues that growth is the singular, defining characteristic of a startup, serving as both its compass and its ultimate goal. The author skillfully distinguishes startups from ordinary small businesses, highlighting how the imperative for exponential growth shapes everything from market selection and idea generation to fundraising strategies and the entire venture capital ecosystem. What truly resonates is the concept of growth as an 'optimization problem,' a singular metric that simplifies complex decisions and acts as an evolutionary pressure, leading to unexpected innovations. This perspective offers a profound shift from viewing startups as mere companies to seeing them as dynamic, growth-driven entities operating within a unique economic and evolutionary framework. It also critically examines the high failure rate, framing it as a rational outcome in a high-expected-value domain, rather than an indictment of the model.",
-    "summary_zh": "这篇深度分析文章颠覆了对“创业公司”的传统认知，将其核心定义为“增长”。作者精辟地阐述了高速增长如何成为创业公司唯一的指北针和决策依据，而非技术或融资。我特别欣赏文章将增长视为一种“优化问题”的视角，它简化了创业的复杂性，并驱动着创新。文章还揭示了高失败率背后的经济理性，以及VC、创始人和收购方如何围绕增长构建了一个独特的生态系统。读完后，我对创业的本质有了更清晰、更深刻的理解，认识到它不仅是商业行为，更是一种不断进化的探索过程。",
-    "best_quote_en": "If you want to understand startups, understand growth. Growth drives everything in this world.",
-    "best_quote_zh": "如果你想理解创业公司，就要理解增长。增长驱动着这个世界的一切。"
-  },
-  {
-    "id": 372,
-    "title": "My Theory of Change",
-    "title_zh": "我的变革理论",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Wf2cAJrXhhXBLY5Qi/my-theory-of-change",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-12-31",
-    "summary_en": "This piece offers a highly personal and somewhat unconventional 'theory of change' for 2026, driven by the author's belief in the transformative power of advanced AI. It posits that rapid software development with AI tools will enable small teams to build impactful platforms quickly, advocating for direct, additive contributions rather than focusing on downside risks or governmental controls. The author emphasizes the importance of somatic well-being—physical and mental health—as crucial for effective engagement with AI, highlighting the need for internal regulation and a nuanced understanding of one's own embodied experience to master prompt engineering. Ultimately, it frames individual agency, coupled with strategic resource accumulation and AI leverage, as the path to solving complex problems and fostering positive emergence. The blend of high-tech optimism with deeply personal, almost spiritual, self-care advice makes this a uniquely intriguing perspective on future-building.",
-    "summary_zh": "这篇“变革理论”充满个人色彩，作者坚信AI的颠覆性力量将在2026年带来巨大机遇。它提出，利用AI工具，小团队能迅速构建软件平台，解决复杂问题，强调个体行动的累积效应而非过度关注风险。文章尤其引人深思的是，作者将高效利用AI与身心健康、自我调节紧密关联，认为唯有内在稳定才能更好地驾驭AI提示工程。这种技术乐观主义与深层自我关怀的结合，勾勒出一条通过个人能动性和AI赋能来塑造未来的独特路径，令人耳目一新。",
-    "best_quote_en": "Trying to get real human builders to be all that oriented to downside risks, or jockeying for unprecedented government lockdown of compute, does not seem to be nearly as existentially practical as just building with good primitives and conscientiously stewarding emergence.",
-    "best_quote_zh": "试图让真正的构建者们过度关注下行风险，或者争夺前所未有的政府计算资源封锁，在我看来，远不如用良好的基础工具进行构建并审慎地引导其涌现来得实际。"
-  },
-  {
-    "id": 373,
-    "title": "Donald Trump’s Golden Age of Awful",
-    "title_zh": "唐纳德·特朗普的糟糕黄金时代",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-golden-age-of-awful",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-12-30",
-    "summary_en": "This article offers a scathing retrospective on Donald Trump's hypothetical return to the presidency in 2025, painting a grim picture of unchecked power, retribution, and societal acquiescence. The author, Susan B. Glasser, critically evaluates a year marked by shocking policy decisions—from gutting cancer research to mass deportations—and the alarming normalization of authoritarian behavior. What truly resonates is the article's exploration of collective failure: how institutions and individuals, including Republican leaders and corporate executives, enabled Trump's most extreme actions. It's a sobering damage assessment that transcends mere political commentary, delving into the psychological toll of constant outrage and the chilling realization that 'it can happen here.' The piece serves as a stark warning, compelling readers to reflect on the fragility of democratic norms and the societal responsibility to resist the erosion of foundational principles.",
-    "summary_zh": "这篇文章对特朗普2025年假设性重返白宫的第一年进行了严峻的回顾，描绘了一个充满报复、权力滥用和公众默许的黑暗图景。作者深刻剖析了集体失职，指出许多人如何姑息了特朗普的极端行为，这不仅是对政治的批判，更是对社会心理的深层反思。读完不禁思考，当面对显而易见的荒谬和破坏时，我们如何才能避免成为沉默的帮凶？这种对民主脆弱性的警示，让人不寒而栗，也促使我们重新审视个人在维护社会基石中的角色。",
-    "best_quote_en": "Yet the biggest disappointment of 2025 may well have been not what Trump did but how so many let it happen. Trump has always been a mirror for other people’s souls, an X-ray revealing America’s dysfunction.",
-    "best_quote_zh": "然而，2025年最大的失望可能不是特朗普做了什么，而是如此多的人任其发生。特朗普一直是他者灵魂的镜子，一张揭示美国功能障碍的X光片。"
-  },
-  {
-    "id": 374,
-    "title": "Mann’s Pictorial Dictionary / Death is Stupid",
-    "title_zh": "曼恩图画词典 / 死亡是愚蠢的",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/manns-pictorial-dictionary-death-is-stupid/",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-12-30",
-    "summary_en": "This article reviews two distinct books, highlighting their unique value propositions. \"Mann's Pictorial Dictionary and Cyclopedia\" is presented as a wonderfully eclectic and historically intriguing compendium of illustrations answering myriad obscure questions, offering a delightful journey through seemingly random yet alphabetically organized knowledge. Its charm lies in its British-centric, anachronistic nature, making it a fascinating artifact for those curious about historical minutiae and visual learning. In stark contrast, \"Death is Stupid\" is lauded for its sensitive yet direct approach to discussing grief and loss with children. It masterfully validates children's emotions and navigates the complexities of adult explanations, providing a much-needed resource for families facing bereavement. Both books, despite their vastly different subjects, share a common thread of addressing specific informational or emotional needs with clarity and thoughtful presentation.",
-    "summary_zh": "这篇文章评论了两本截然不同的书籍，一本是充满历史感的图画词典，另一本是关于儿童丧亲的绘本。我被《曼恩图画词典》那种看似随机实则有其内在逻辑的百科全书式内容深深吸引，它不仅是知识的宝库，更像是一扇通往过去时代日常生活的窗户，充满了古怪的魅力。而《死亡是愚蠢的》则以其真诚和同理心打动了我，它直面成人往往回避的死亡话题，为孩子和家长提供了一个温柔而有力的对话工具。两本书虽风格迥异，却都以独特的方式回应了人们对理解世界或处理情感的需求，令人深思。",
-    "best_quote_en": "All of these questions and a ridiculously large number more are answered in Mann’s Pictoral Dictionary and Cyclopedia, 240 pages of the most miscellaneous miscellany out there.",
-    "best_quote_zh": "所有这些问题以及更多荒谬的问题，都在《曼恩图画词典和百科全书》中得到了解答，这本240页的书是现存最杂乱的杂项集。"
-  },
-  {
     "id": 375,
     "title": "Yes, women’s rights are under threat around the world. But we’ve found hope in unlikely places | Rahila Gupta",
     "title_zh": "是的，世界各地的妇女权利正受到威胁。但我们却在意想不到的地方找到了希望",
@@ -2280,5 +2166,125 @@
     "summary_zh": "这篇文章仿佛是一份生活智慧的宝藏图，从精明消费到身心健康，再到语言探索和自我成长，每一项推荐都充满了实用价值。我特别喜欢它不仅提供了信息，更分享了亲身体验和独到见解，比如Zip Air的廉价日本航班，或是NeeDoh减压球的妙用。这种“授人以渔”而非“授人以鱼”的分享方式，让我感受到内容背后的真诚与匠心。它提醒我们，生活中的小确幸和大学问，往往藏在这些看似简单的发现之中。",
     "best_quote_en": "These aren’t random products — they’re things we’ve already vetted and recommended.",
     "best_quote_zh": "这些并非随机产品——它们是我们已经审核并推荐过的。"
+  },
+  {
+    "id": 470,
+    "title": "Global midwife shortage raises rates of maternity intervention, report warns",
+    "title_zh": "全球助产士短缺推高孕产妇干预率，报告警告",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/jan/20/world-shortage-million-midwives-icm-healthcare-mothers-babies-intervention",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This report highlights a critical global shortage of nearly one million midwives, which is directly linked to increased rates of maternity intervention and poorer outcomes for mothers and babies. The analysis reveals that this deficit is particularly acute in Africa and other low- and middle-income countries, where a lack of trained professionals leads to fragmented care and preventable deaths. Beyond just training, the report emphasizes systemic issues like failure to employ trained midwives and retain existing staff. This isn't merely a workforce problem; it's a profound quality and safety issue for maternal and newborn health worldwide, demanding urgent governmental action and investment to achieve sustainable development goals.",
+    "summary_zh": "这篇报道揭示了全球助产士的严峻短缺，不仅导致孕产妇干预率上升，更直接威胁母婴生命。非洲等中低收入国家尤为严重，这不仅是人力资源问题，更是医疗质量与安全的深层危机。我深感，这反映出全球医疗资源分配不均的结构性困境，以及对女性和新生儿健康投入不足的现实。解决这一问题，需要各国政府的紧急行动和对助产士专业价值的重新审视与投资。",
+    "best_quote_en": "“Nearly 1 million missing midwives means health systems are stretched beyond capacity, midwives are overworked and underpaid, and care becomes rushed and fragmented. Intervention rates rise, and women are more likely to experience poor-quality care or mistreatment.”",
+    "best_quote_zh": "“近100万助产士的缺失意味着卫生系统不堪重负，助产士们工作过劳、薪酬偏低，护理变得仓促而碎片化。干预率上升，女性更有可能经历低质量的护理或遭受不当对待。”"
+  },
+  {
+    "id": 471,
+    "title": "The Future of Startup Funding",
+    "title_zh": "创业公司融资的未来",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/future.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This article from 2010 offers a remarkably prescient analysis of the evolving landscape of startup funding, predicting the rise of 'super-angels' and a shift in power dynamics towards founders. It critically examines the traditional VC model, particularly its reliance on large investments and board seats, and suggests that VCs will need to adapt by doing smaller, faster deals and taking less equity. The author argues that founders' increasing power will lead to the elimination of disliked fundraising practices, such as slow closes, investor-controlled rounds, and the demand for 'traction' before significant investment. It provocatively suggests that investors who embrace these changes, despite initially appearing to cede power, may ultimately benefit from a more attractive startup ecosystem and increased deal flow. The piece is a fascinating historical snapshot that accurately forecasted many current trends in venture capital.",
+    "summary_zh": "这篇2010年的文章对创业公司融资的未来做出了惊人的预判，准确预测了“超级天使”的崛起以及创始人权力地位的提升。作者深入剖析了传统VC模式的局限性，并认为VC必须适应，通过更小、更快的交易和更少的股权来与时俱进。文中提出，随着创始人力量的增强，那些令人厌恶的融资惯例，如漫长的融资周期和投资者对“牵引力”的执着，将逐渐消失。更引人深思的是，作者大胆指出，那些看似让渡权力的投资者，反而可能从一个更健康、更具吸引力的创业生态系统中获益。这篇早期文章在今天读来，依然充满洞察力，令人回味。",
+    "best_quote_en": "If founders become more powerful, they'll be able to make investors give them more money upfront.",
+    "best_quote_zh": "如果创始人变得更强大，他们将能够让投资者预先投入更多资金。"
+  },
+  {
+    "id": 472,
+    "title": "Why I Transitioned: A Response",
+    "title_zh": "我为何转变：一个回应",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rt2yai8JkTPYgzoEj/why-i-transitioned-a-response",
+    "tags": [
+      "analyze",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This article critically responds to a previous theory on MtF transition, arguing against solely psychosocial explanations and presenting a strong case for biological underpinnings of transgender identity. The author, Marisa, meticulously dismantles the 'body-map theory' and Fiora Sunshine's claims by referencing twin studies, the ACE model in psychiatric genetics, and conditions like CAH to illustrate significant biological contributions. A key insight is the 'Trans Double Bind,' where trans individuals are incentivized to frame their identity biologically for medical access, yet face potential 'medical eradication' if biology fully explains it. Marisa's personal narrative serves as a compelling counter-example, showing how profound dysphoria can coexist with a 'social outcast weeb' phenotype, challenging simplistic causation. The piece concludes with a practical, Bayesian approach to transition, emphasizing individual well-being over introspective clarity, and thoughtfully engages with the complexities of identity, societal pressures, and medical gatekeeping.",
+    "summary_zh": "这篇文章是对“我为何转变：一个案例研究”的有力反驳，作者Marisa深入剖析了跨性别身份的生物学基础，并挑战了单纯的社会心理学解释。她通过引用双生子研究和ACE模型，揭示了跨性别者面临的“双重束缚”——既需要医学认可，又担忧医学可能带来的“根除”。Marisa的个人经历，一个看似符合特定刻板印象的“社交边缘人”，却因不可承受的性别焦虑而在31岁时选择转变，深刻地说明了生物学因素与社会表征的复杂交织。这引发了我对身份认同本质的思考：我们如何平衡内在感受、社会期待与科学解释？文章提出的贝叶斯式转变路径，即以福祉改善为核心，而非纠结于“我是不是跨性别”，提供了一种更务实和人性化的视角，这无疑是对当前关于性别认同讨论的宝贵贡献。",
+    "best_quote_en": "The right question is \"should I transition?\". Transition is best understood as a Bayesian process where you take small behavioral steps and update on whether your quality of life is improving.",
+    "best_quote_zh": "正确的问题是“我应该转变吗？”。转变最好被理解为一个贝叶斯过程，你采取小的行为步骤，并根据你的生活质量是否改善来更新判断。"
+  },
+  {
+    "id": 473,
+    "title": "The Ice Curtain",
+    "title_zh": "冰幕",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/01/19/the-ice-curtain",
+    "tags": [
+      "analyze",
+      "politics",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "This article masterfully chronicles the shifting geopolitical and social landscape of the Bering Strait region, focusing on the Alaskan town of Nome and its historical ties to the Russian Far East. It delves into the optimistic \"Friendship Flight\" era of the 1980s and 90s, spearheaded by local visionary Jim Stimpfle, which fostered unprecedented cross-border exchanges and cultural connections after decades of the \"Ice Curtain.\" The narrative then starkly contrasts this period with the current climate of renewed isolation and tension following Russia's invasion of Ukraine, highlighting how Nome-ites are now actively supporting Ukraine. The author also explores the environmental challenges facing the Arctic and the region's geopolitical significance, particularly regarding shipping routes and resource extraction. The piece is a poignant reflection on how global conflicts profoundly impact local communities and individual lives, transforming a border from a bridge of friendship into a new front line.",
+    "summary_zh": "这篇文章以阿拉斯加诺姆小镇为中心，描绘了白令海峡地区地缘政治和社会关系的剧烈变迁。从冷战时期“冰幕”下的隔绝，到吉姆·斯廷普勒推动的“友谊航班”所带来的短暂开放与文化交流，再到俄乌冲突后重回封闭甚至成为对抗前线的现状，作者以细腻的笔触展现了宏大历史进程对个体命运和社区生活的深刻影响。尤其令人感慨的是，曾致力于跨国友谊的居民，如今转而支持乌克兰，这种身份的转变和地域的宿命感令人深思。文章不仅是历史的记录，更是对地缘政治、文化认同和个人行动力在时代洪流中作用的深刻反思。",
+    "best_quote_en": "“I always say that citizen-to-citizen diplomacy opened the border in the nineteen-eighties. And failures of big-country diplomacy contributed to its closing, which started with Putin in 2000.”",
+    "best_quote_zh": "“我总是说，是八十年代的民间外交打开了边界。而大国外交的失败导致了它的关闭，这始于2000年的普京。”"
+  },
+  {
+    "id": 474,
+    "title": "Baby Care",
+    "title_zh": "婴儿护理",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/baby-care/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "This compilation offers practical, parent-tested solutions for common baby care challenges, ranging from sleep training to baby carriers and even bedwetting. The insightful personal anecdotes lend significant credibility and emotional resonance to the recommendations. The inclusion of the 'Ferberization' method for sleep, despite its controversial nature, provides a candid look at effective, albeit tough, parenting choices. Similarly, the detailed reviews of various baby carriers highlight the importance of ergonomic design for both parent and child. What stands out is the focus on tangible, problem-solving tools and techniques, often backed by personal 'life-changing' experiences, which makes the content highly actionable for new or struggling parents. It's a testament to how simple yet effective tools can profoundly impact daily family life.",
+    "summary_zh": "这篇婴儿护理合集充满实用智慧，从睡眠训练到背带选择，甚至儿童夜间遗尿问题，都提供了经过父母亲身验证的解决方案。文中真诚的个人经历赋予了这些建议极强的说服力和情感共鸣。尤其是关于“法伯法”睡眠训练的分享，尽管颇具争议，却展现了育儿决策中务实而艰难的一面。不同婴儿背带的详细评测，则强调了人体工学设计对父母和孩子双方的重要性。最吸引人的是，内容聚焦于具体、可操作的工具和技巧，许多都伴随着“改变生活”的亲身体验，这让它对新手父母或面临挑战的家庭而言极具价值。它深刻地说明了看似简单的工具，如何能对家庭日常生活产生深远影响。",
+    "best_quote_en": "It sounds cruel. As a parent, your instinct is to run to your baby as soon as she starts crying. But in this case, not following you instincts is the best course of action. It took exactly two nights to Ferberize our baby.",
+    "best_quote_zh": "这听起来很残忍。作为父母，你的本能是在宝宝一开始哭泣时就冲过去。但在这种情况下，不遵循你的本能是最好的做法。我们的宝宝只用了两个晚上就完成了法伯法训练。"
   }
 ]
