@@ -1,123 +1,5 @@
 [
   {
-    "id": 375,
-    "title": "Yes, women’s rights are under threat around the world. But we’ve found hope in unlikely places | Rahila Gupta",
-    "title_zh": "是的，世界各地的妇女权利正受到威胁。但我们却在意想不到的地方找到了希望",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/dec/31/women-rights-threat-world-hope-el-salvador-russia-syria",
-    "tags": [
-      "inspire",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-12-31",
-    "summary_en": "This article presents a compelling counter-narrative to the prevailing pessimism surrounding women's rights globally. While acknowledging significant setbacks, it critically evaluates instances of remarkable progress and resistance in unexpected regions like El Salvador, Iceland, and particularly Rojava in North and East Syria. The author skillfully highlights how grassroots feminist movements, often in the face of extreme adversity, are innovating legal strategies, driving social change through collective action, and even establishing radically egalitarian governance structures. My personal reflection is that it’s deeply inspiring to see how resilience and determined activism can carve out spaces for progress even amidst conflict and regressive forces. The piece challenges the notion that progress is linear or solely dependent on stable democracies, suggesting that some of the most profound advances are emerging from the very cracks of patriarchal systems, offering a vital blueprint for global solidarity.",
-    "summary_zh": "这篇文章挑战了全球妇女权利面临威胁的普遍悲观论调，深刻地探讨了在萨尔瓦多、冰岛乃至叙利亚罗贾瓦等意想不到之地所涌现的抵抗与希望。作者以敏锐的洞察力，揭示了草根女权运动如何在极端逆境中创新策略、通过集体行动推动社会变革，甚至建立起激进的平等治理结构。这让我深思，真正的进步并非总是在稳定环境中发生，有时恰恰在最艰难的裂缝中，我们才能看到最顽强的生命力与变革的可能。这篇文章不仅是报道，更是一份振奋人心的行动指南，启示我们如何在全球范围内构建更具韧性的女性权利联盟。",
-    "best_quote_en": "You’d be forgiven for thinking that around the world, women’s rights are being concreted over. But in researching our book, Planet Patriarchy, Beatrix Campbell and I found women’s resistance erupting like green shoots through the cracks.",
-    "best_quote_zh": "你可能会认为，世界各地的妇女权利正被水泥覆盖。但在撰写我们的书《父权星球》时，比阿特丽克斯·坎贝尔和我发现，女性的抵抗像绿芽一样，从裂缝中迸发出来。"
-  },
-  {
-    "id": 376,
-    "title": "Black Swan Farming",
-    "title_zh": "黑天鹅式创业投资",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/swan.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "案例研究"
-    ],
-    "date": "2026-01-01",
-    "summary_en": "This essay critically examines the counterintuitive nature of startup investing, particularly the 'black swan' phenomenon where a few massive successes drive nearly all returns, often stemming from ideas initially perceived as bad. It challenges the conventional metrics of success, such as fundraising rates, arguing they can be misleading and lead to conservative, suboptimal investment strategies. The author, reflecting on Y Combinator's experience, reveals the internal conflict between intellectual understanding of risk-taking and the human tendency to avoid failure, even when greater risk leads to greater potential reward. The piece advocates for a radical shift in perspective, urging investors to prioritize the potential for 'really big' success over perceived likelihood of modest success, and to embrace ideas that appear unpromising at first glance. It's a fascinating look into the psychological biases that even seasoned investors face, and how to overcome them for truly transformative outcomes.",
-    "summary_zh": "这篇文章深入剖析了创业投资中反直觉的“黑天鹅”现象，即少数几个巨额成功案例贡献了几乎所有回报，而这些成功往往源于最初看起来“糟糕”的想法。作者以YC的经验为例，揭示了即使是资深投资者也难以摆脱的保守心态，以及在追求“巨大成功”时必须承受高风险的必要性。我深感其对传统成功定义的颠覆，提醒我们不要被短期指标迷惑，而应着眼于长远的、非线性的回报。这不仅是投资策略，更是对认知偏差和人性弱点的一次深刻反思。",
-    "best_quote_en": "To succeed in a domain that violates your intuitions, you need to be able to turn them off the way a pilot does when flying through clouds. You need to do what you know intellectually to be right, even though it feels wrong.",
-    "best_quote_zh": "要在违背直觉的领域取得成功，你需要像飞行员穿过云层时那样，关闭你的直觉。你需要做你理智上知道是正确的事情，即使感觉是错的。"
-  },
-  {
-    "id": 377,
-    "title": "Quick polls on AGI doom",
-    "title_zh": "关于AGI末日论的快速民意调查",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/WGBtWeGXix9GgSvRg/quick-polls-on-agi-doom",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-01-01",
-    "summary_en": "This brief post links to a series of quick polls on the Effective Altruism Forum, delving into the contentious topic of AGI (Artificial General Intelligence) doom. The polls explore various facets of AGI risk, including definitions of 'doom,' the probability of large-scale mortality or disempowerment due to AGI, and the minimum acceptable probability of doom before AGI development becomes ethically indefensible. While the original content is merely a linkpost, it points to a critical discussion within the AI ethics and effective altruism communities. This highlights the ongoing, urgent debate about the existential risks posed by advanced AI and the ethical responsibilities of its developers, underscoring the need for careful consideration of potential catastrophic outcomes. It's a stark reminder that the theoretical future of AI is deeply intertwined with our present-day ethical frameworks and risk assessments.",
-    "summary_zh": "这篇短文引向了关于AGI（通用人工智能）末日论的系列快速民意调查，内容涵盖“末日”定义、大规模死亡或失能的可能性，以及在何种“末日”概率下开发AGI变得不可接受。它揭示了AI伦理领域内部对AGI潜在风险的深刻焦虑与持续辩论。我发现这种直接量化风险的尝试既勇敢又令人不安，它迫使我们直面AGI发展所带来的最严峻伦理困境，并反思我们对技术边界的责任。这不仅仅是技术讨论，更是对人类未来走向的深刻拷问。",
-    "best_quote_en": "The questions involve your definition of doom, probability of large mortality, probability of disempowerment, and the minimum P(doom) under which it is unacceptable to develop AGI.",
-    "best_quote_zh": "问题涉及你对末日的定义、大规模死亡的可能性、丧失权力的可能性，以及在何种最低末日概率下开发AGI是不可接受的。"
-  },
-  {
-    "id": 378,
-    "title": "A Mexican Couple in California Plans to Self-Deport—and Leave Their Kids Behind",
-    "title_zh": "加州墨西哥裔夫妇计划“自我遣返”——留下他们的孩子",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/01/12/a-mexican-couple-in-california-plans-to-self-deport-and-leave-their-kids-behind",
-    "tags": [
-      "solve",
-      "ai-research",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-12-30",
-    "summary_en": "This deeply moving article delves into the agonizing decision of Rosalinda and Manuel, undocumented Mexican parents in California, to 'self-deport' and leave their U.S.-born children behind due to escalating ICE fear under the Trump administration. It meticulously explores the profound psychological, emotional, and financial toll this policy environment inflicts on immigrant families, particularly highlighting the 'parentification' phenomenon where children assume adult responsibilities. The narrative vividly portrays the systemic injustices and dehumanizing conditions within the immigration system, juxtaposed with the family's attempts to navigate an impossible situation. It's a poignant exploration of identity, belonging, and the devastating impact of political rhetoric on human lives, forcing readers to confront the complex realities faced by millions. The story also subtly questions the true meaning of 'home' and 'country' for those caught between cultures and legal statuses.",
-    "summary_zh": "这篇文章深刻剖析了一对加州墨西哥裔无证父母因对ICE的恐惧而选择“自我遣返”，留下在美国出生的子女的痛苦抉择。它不仅揭示了移民政策对家庭造成的心理、情感和经济重创，更突出了子女“成人化”现象。故事通过细腻的笔触，展现了移民系统中的不公与非人道待遇，以及一个家庭在绝境中挣扎求存的努力。这不仅仅是关于移民的困境，更是对身份认同、归属感和政治言论如何撕裂人心的深刻反思。读罢，我不禁思考，当法律与人道相悖时，我们该如何定义“家园”与“国籍”？",
-    "best_quote_en": "“I feel like I’m a deadline,” Lily said. “I don’t want to hold them back.”",
-    "best_quote_zh": "“我感觉自己就像一个截止日期，”莉莉说。“我不想拖累他们。”"
-  },
-  {
-    "id": 379,
-    "title": "Soulmates / Exhalation / Instant dice",
-    "title_zh": "灵魂伴侣 / 呼气 / 即时骰子",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/soulmates-exhalation-instant-dice/",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-12-28",
-    "summary_en": "This curated collection offers a fascinating potpourri of insights, ranging from peculiar facts about human commuting patterns and everyday objects to profound philosophical reflections on identity and practical life hacks. What strikes me is the sheer diversity of topics, each presented as a small, digestible nugget of knowledge or wisdom. The inclusion of Ken Burns' historical documentaries and an essay on viewing oneself as a 'verb' rather than a 'noun' particularly resonate, highlighting how understanding history and personal philosophy can profoundly shape our present. The article masterfully blends intellectual curiosity with actionable advice, making it a delightful and thought-provoking read that encourages a broader perspective on the world and our place within it.",
-    "summary_zh": "这篇精选文章如同一份知识的什锦拼盘，从通勤规律到哲学反思，再到生活小窍门，无所不包。我特别欣赏它将各种看似不相关的洞见巧妙地串联起来，既有拓宽视野的奇闻轶事，也有引人深思的人生哲学。尤其是关于将自我视为“动词”而非“名词”的观点，以及对历史的重新审视，都让我对如何理解世界和个人存在有了新的启发。它不仅提供了信息，更激发了好奇心和对生活的积极思考。",
-    "best_quote_en": "The existential balm of seeing yourself as a verb, not a noun.",
-    "best_quote_zh": "将自己视为一个动词，而非名词，是一种存在的慰藉。"
-  },
-  {
     "id": 380,
     "title": "The best slippers for men and women, from cosy sheepskin mules to chic ballet shoes",
     "title_zh": "男女最佳拖鞋：从舒适羊皮便鞋到时尚芭蕾舞鞋",
@@ -2286,5 +2168,115 @@
     "summary_zh": "这篇婴儿护理合集充满实用智慧，从睡眠训练到背带选择，甚至儿童夜间遗尿问题，都提供了经过父母亲身验证的解决方案。文中真诚的个人经历赋予了这些建议极强的说服力和情感共鸣。尤其是关于“法伯法”睡眠训练的分享，尽管颇具争议，却展现了育儿决策中务实而艰难的一面。不同婴儿背带的详细评测，则强调了人体工学设计对父母和孩子双方的重要性。最吸引人的是，内容聚焦于具体、可操作的工具和技巧，许多都伴随着“改变生活”的亲身体验，这让它对新手父母或面临挑战的家庭而言极具价值。它深刻地说明了看似简单的工具，如何能对家庭日常生活产生深远影响。",
     "best_quote_en": "It sounds cruel. As a parent, your instinct is to run to your baby as soon as she starts crying. But in this case, not following you instincts is the best course of action. It took exactly two nights to Ferberize our baby.",
     "best_quote_zh": "这听起来很残忍。作为父母，你的本能是在宝宝一开始哭泣时就冲过去。但在这种情况下，不遵循你的本能是最好的做法。我们的宝宝只用了两个晚上就完成了法伯法训练。"
+  },
+  {
+    "id": 475,
+    "title": "The Acceleration of Addictiveness",
+    "title_zh": "上瘾性的加速",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/addiction.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "This thought-provoking essay by Paul Graham explores the accelerating phenomenon of 'addictiveness' in modern life, arguing that technological progress, while beneficial in many ways, also relentlessly concentrates and refines things we like into things we like 'too much.' He draws parallels from historical examples like opium to heroin, to contemporary instances such as social media and ultra-processed foods. Graham posits that society's 'antibodies' (customs, legislation) against new addictions are evolving too slowly to keep pace with technological advancement, forcing individuals to adopt increasingly 'eccentric' personal strategies to maintain a sense of normal, productive living. The piece is a powerful meditation on the double-edged sword of progress and the growing need for conscious self-regulation in an ever-more stimulating world.",
+    "summary_zh": "保罗·格雷厄姆这篇关于“上瘾性加速”的文章读来令人深思。他洞察到科技进步像一把双刃剑，它在创造便利的同时，也无情地将我们喜欢的事物提炼成“过度喜欢”的诱惑。从海洛因到社交媒体，我们身边的“瘾”正变得无处不在。格雷厄姆的担忧在于，社会应对新成瘾的“免疫系统”——如习俗和法规——其演变速度远跟不上科技的步伐。这迫使我们每个人都必须发展出越来越“古怪”的个人策略，才能在这个日益刺激的世界中保持清醒和高效。这不仅是对科技进步的反思，更是对我们如何定义和守护“正常生活”的深刻叩问。",
+    "best_quote_en": "You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.",
+    "best_quote_zh": "你大概可以从此以后把这当作一条经验法则：如果人们不觉得你奇怪，那你的生活方式就有问题了。"
+  },
+  {
+    "id": 476,
+    "title": "Kredit Grant",
+    "title_zh": "Kredit Grant (信用赠款)",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/FsqFzFCaxuBS7T5A9/kredit-grant",
+    "tags": [
+      "update",
+      "ai-research",
+      "startup-funding"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "创业融资"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "This brief post by kiankyars announces a unique opportunity to receive a share of $5,710 in OpenAI/Anthropic credits. The author provides a link to an application form and an email for questions, setting a deadline of January 31, 2026. This initiative is particularly valuable for individuals or small teams working on AI projects who might lack the funding for API access. The post, though short, demonstrates a generous and community-oriented approach, offering practical support rather than just advice. The author also preemptively addresses potential skepticism by offering 'proof' of credits, showcasing an understanding of online trust dynamics. It's a direct, actionable call for those seeking resources in the AI development space.",
+    "summary_zh": "这篇短文由kiankyars发布，提供了一个独特的机会，可以获得总计5,710美元的OpenAI/Anthropic信用额度。作者提供了申请链接和联系邮箱，截止日期为2026年1月31日。我认为这对于那些缺乏AI项目API访问资金的个人或小型团队来说，无疑是一笔及时雨。它不仅体现了作者的慷慨，也为AI社区带来了实实在在的帮助，而不是空泛的建议。这种直接的资源共享，是推动AI创新的一种务实方式，值得赞赏。",
+    "best_quote_en": "I have $5,710 in OpenAI/Anthropic credits which I am giving away, please apply here if interested.",
+    "best_quote_zh": "我有5,710美元的OpenAI/Anthropic信用额度，正在赠送，如果您感兴趣，请在此申请。"
+  },
+  {
+    "id": 477,
+    "title": "How Europe Can Respond to Trump’s Greenland Imperalism",
+    "title_zh": "欧洲如何回应特朗普的格陵兰帝国主义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-europe-can-respond-to-trumps-greenland-imperalism",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This interview with Ivan Krastev offers a sobering analysis of the escalating transatlantic crisis, triggered by former President Trump's aggressive pursuit of Greenland. Krastev meticulously unpacks Europe's initial miscalculations regarding Trump's second term, highlighting their failed bets on transactional politics and the US-China rivalry. The discussion reveals a critical turning point where European leaders recognize the ideological underpinnings of Trump's actions and the potential for a complete rupture. The most compelling insight is how Trump's 'Greenland imperialism' has inadvertently united even the European far-right against him, demonstrating a miscalculation of nationalist sentiments beyond his base. The piece also explores the strategic implications for China and the potential for Europe to deploy its Anti-Coercion Instrument, suggesting a reluctant but determined shift towards self-reliance and renegotiation of the US relationship, rather than outright capitulation. It's a fascinating look at the intricate dance of international diplomacy under extreme pressure.",
+    "summary_zh": "这篇访谈深刻剖析了特朗普对格陵兰的执念如何将跨大西洋联盟推向破裂边缘。克拉斯捷夫指出，欧洲曾错误地以为能以交易或中美竞争来制衡特朗普，但现在不得不面对其行动背后的意识形态。最引人深思的是，特朗普的“格陵兰帝国主义”竟意外地团结了欧洲内部，甚至包括极右翼，这显示了他对其他国家民族主义情绪的严重误判。文章还探讨了欧洲可能动用反胁迫工具，以及这种破裂对中国全球影响力带来的机遇。这不仅仅是地缘政治的博弈，更是对国际关系基石和盟友信任的严峻考验，欧洲被迫在依赖与自立之间寻求艰难的平衡，其未来走向令人深忧。",
+    "best_quote_en": "Trump tries to motivate nationalist sentiments at home, but he sometimes seems unaware of the nationalist sentiments of other countries.",
+    "best_quote_zh": "特朗普试图在国内激发民族主义情绪，但他有时似乎没有意识到其他国家的民族主义情绪。"
+  },
+  {
+    "id": 478,
+    "title": "Fight Club 2 / Tesla: The Life and Times of an Electric Messiah",
+    "title_zh": "搏击俱乐部2 / 特斯拉：电气弥赛亚的生平与时代",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/fight-club-2-tesla-the-life-and-times-of-an-electric-messiah/",
+    "tags": [
+      "learn",
+      "design",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This content provides reviews for two distinct books: 'Fight Club 2' and 'Tesla: The Life and Times of an Electric Messiah'. The 'Fight Club 2' review delves into its meta-narrative and unique comic book format, highlighting how it expands on Palahniuk's universe beyond the original film. It suggests that only dedicated fans of Palahniuk's work will truly appreciate its complex, self-referential nature. The 'Tesla' review offers an encyclopedic look into Nikola Tesla's life, inventions, and eccentricities, enriched with illustrations and historical vignettes. It captures Tesla's persona as a visionary and a 'mad scientist,' emphasizing his battles with contemporaries like Edison and Marconi. Both reviews offer a glimpse into compelling narratives, one a continuation of a cult classic, the other a historical biography of an electric pioneer.",
+    "summary_zh": "这篇文章评论了两本截然不同的书。《搏击俱乐部2》的评论深入探讨了其元叙事和独特的漫画形式，暗示它超越了电影原作，更适合帕拉尼克小说的忠实读者。而《特斯拉》的评论则以百科全书式的笔法，图文并茂地呈现了尼古拉·特斯拉的生平、发明与怪癖。我特别喜欢这种将看似无关的文化产品并置的呈现方式，它不仅拓宽了阅读视野，也引发了对不同叙事媒介和历史人物深度的思考。两本书都以其独特的方式，挑战着读者的认知边界，值得一读。",
+    "best_quote_en": "What I found really unique was that this story could only be told in comic form. Tyler’s antics, and his fight to control the narrative couldn’t be contained by text in a novel.",
+    "best_quote_zh": "我发现真正独特的是，这个故事只能以漫画形式讲述。泰勒的滑稽举动，以及他争夺叙事控制权的斗争，是小说文字无法承载的。"
+  },
+  {
+    "id": 479,
+    "title": "Productivity",
+    "title_zh": "生产力",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/productivity",
+    "tags": [
+      "guide",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式"
+    ],
+    "date": "2018-04-10",
+    "summary_en": "This insightful article offers a deeply personal yet universally applicable perspective on productivity, emphasizing that 'what you work on' far outweighs 'how fast you move.' The author, a self-proclaimed highly productive individual, shares a holistic framework encompassing strategic prioritization, physical well-being, and environmental optimization. Key takeaways include the compound effect of small gains, the critical importance of independent thought in selecting impactful work, and the necessity of aligning tasks with personal passion. The advice on physical factors like sleep, exercise, and nutrition is particularly compelling, as it's rooted in extensive personal experimentation rather than generic recommendations. What truly resonates is the candid admission that productivity isn't about relentless optimization for its own sake, but about intelligently allocating one's year towards meaningful goals while maintaining personal well-being and relationships. It's a refreshing counter-narrative to typical 'hustle culture' advice.",
+    "summary_zh": "这篇文章对生产力有着深刻而独到的见解，它不仅仅是关于如何“更快地行动”，更重要的是“选择正确的事情去做”。作者分享的经验非常个人化，却充满了普适的智慧，尤其是他强调独立思考、热爱所做之事以及身心健康对生产力的决定性影响。我特别欣赏他关于“不要陷入生产力崇拜”的提醒，这让我反思，我们常常为了效率而效率，却忽略了目标本身的价值。这篇文章不仅提供了实用的建议，更启发我们重新审视工作的意义和生活的平衡，是一篇值得反复品味的作品。",
+    "best_quote_en": "It doesn’t matter how fast you move if it’s in a worthless direction. Picking the right thing to work on is the most important element of productivity and usually almost ignored.",
+    "best_quote_zh": "如果你走的方向毫无价值，那么你走得再快也没有意义。选择正确的事情去做是生产力最重要的因素，但却常常被忽视。"
   }
 ]
