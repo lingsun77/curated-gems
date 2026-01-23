@@ -1,119 +1,5 @@
 [
   {
-    "id": 385,
-    "title": "UN distances itself from International Women’s Day website winning corporate partnerships",
-    "title_zh": "联合国与通过企业合作盈利的国际妇女节网站划清界限",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/18/international-womens-day-website-owned-london-pr-firm-not-linked-to-un",
-    "tags": [
-      "learn",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "This article uncovers a significant ethical and branding issue surrounding International Women's Day. It reveals how a London-based marketing firm, IWD Support Ltd., has successfully leveraged the widely recognized event through its website, internationalwomensday.com, to sell merchandise, host corporate partnerships, and set themes, despite having no affiliation with the United Nations, the traditional custodian of IWD. The piece critically highlights how major corporations and institutions have inadvertently adopted themes and endorsed activities from this commercial entity, mistaking it for an official UN-sanctioned platform. The UN's explicit disavowal underscores a concerning trend where commercial interests can co-opt and potentially dilute the authentic message and purpose of global social movements. This situation prompts reflection on the vigilance required to protect the integrity of such important observances from commercial exploitation.",
-    "summary_zh": "这篇文章揭露了一个令人深思的现象：一个商业实体如何巧妙地利用“国际妇女节”这一全球性节日进行商业运作，甚至误导了众多知名企业和机构。联合国明确否认与其网站存在关联，这不仅是对品牌混淆的澄清，更是对社会运动商业化倾向的警示。它促使我们反思，在信息爆炸的时代，如何辨别和维护公共议题的纯粹性，避免其被商业利益所绑架。这种现象值得我们高度关注，以保护重要社会议题的公信力。",
-    "best_quote_en": "Your inquiry provides an important opportunity to clarify that UN Women and the United Nations are not affiliated with the website referenced.",
-    "best_quote_zh": "您的询问提供了一个重要的机会来澄清，联合国妇女署和联合国与所提及的网站没有关联。"
-  },
-  {
-    "id": 386,
-    "title": "Writing and Speaking",
-    "title_zh": "写作与演讲",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/speak.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "psychology"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "心理学"
-    ],
-    "date": "2026-01-03",
-    "summary_en": "This essay offers a thought-provoking comparison between writing and speaking, arguing that while good ideas are paramount in writing, they play a surprisingly minor role in effective public speaking. The author, reflecting on personal experiences, suggests that compelling speaking often prioritizes audience engagement, emotional resonance, and even a degree of 'bullshitting' over substantive intellectual content, especially as audience size increases. He posits that writing allows for deeper ideation and refinement, whereas speaking, particularly extemporaneous delivery, can sometimes sacrifice intellectual depth for immediate impact and audience connection. This analysis challenges conventional wisdom, urging us to reconsider the true purpose and value of different communication forms. It’s a fascinating exploration of how the medium shapes the message and the audience's reception.",
-    "summary_zh": "这篇文章对写作与演讲进行了深刻的对比，作者以亲身经历为证，提出好的想法是写作的核心，但在演讲中，其重要性却可能被夸大。我特别认同他关于演讲有时为了迎合听众、制造氛围而牺牲深度思考的观点。这让我反思，我们是否过于追求演讲的“表演性”，而忽略了其作为思想载体的本质。文章揭示了不同沟通形式的内在逻辑，以及它们如何塑造我们的思想和认知，非常值得一读。",
-    "best_quote_en": "Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction.",
-    "best_quote_zh": "成为一个真正优秀的演讲者，不仅与拥有好的想法不相干，在许多方面甚至会把你推向相反的方向。"
-  },
-  {
-    "id": 387,
-    "title": "Why We Should Talk Specifically Amid Uncertainty",
-    "title_zh": "在不确定性中，我们为何应该具体地表达",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/WLJeHLLnhCyQ9tyb7/why-we-should-talk-specifically-amid-uncertainty",
-    "tags": [
-      "solve",
-      "leadership",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-01-03",
-    "summary_en": "This thought-provoking article argues for the critical importance of specific, intentional communication, especially in times of uncertainty. The author critiques the prevalent tendency towards vague discourse in both professional and political spheres, highlighting its detrimental effects on decision-making and organizational efficiency. Drawing on personal experiences and even a declassified CIA sabotage manual, the piece illustrates how ambiguity can undermine progress and foster inertia. It extends this argument to pressing issues like AI safety and climate change, urging communities to move beyond abstract ideals to propose concrete, actionable policies. The article champions courage in advocacy, emphasizing that real change stems from specific proposals, even if imperfect, rather than mere 'vibes' or general consensus. It's a compelling call to action for clearer, bolder communication as a pathway to effective problem-solving.",
-    "summary_zh": "这篇文章深刻剖析了在不确定性中，具体表达的重要性。作者认为，无论是职场还是政治，模糊的言辞不仅效率低下，更阻碍了实际问题的解决。我特别欣赏作者引用中情局破坏手册来反证，这无疑增添了论证的趣味性和说服力。文章最终呼吁在AI安全、气候变化等关键领域，我们需要抛弃空泛的“氛围感”，勇敢提出具体可行的政策，即便不完美，也胜过无止尽的讨论。这不仅是沟通技巧，更是推动社会进步的责任与勇气。",
-    "best_quote_en": "Only a crisis - actual or perceived - produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.",
-    "best_quote_zh": "只有危机——无论是真实的还是感知到的——才能带来真正的改变。当危机发生时，所采取的行动取决于现有的思想。我相信，这是我们的基本职能：发展现有政策的替代方案，并使其保持活力和可用，直到政治上不可能的事情变得政治上不可避免。"
-  },
-  {
-    "id": 388,
-    "title": "Gaza After the Ceasefire",
-    "title_zh": "停火后的加沙",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/gaza-after-the-ceasefire",
-    "tags": [
-      "solve",
-      "politics",
-      "medicine",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "医学健康",
-      "未来预测"
-    ],
-    "date": "2026-01-02",
-    "summary_en": "This interview offers a stark, first-hand account of the humanitarian crisis persisting in Gaza post-ceasefire, as described by Ayed Abu Ramadan, Chairman of the Gaza Chamber of Commerce. It critically evaluates the limited and restricted aid flow, highlighting Israel's alleged 'economic warfare' tactics, such as imposing exorbitant 'coordination commissions' and preventing essential goods from entering. The piece underscores the dire living conditions for hundreds of thousands, the near-total unemployment, and the severe lack of basic necessities. Despite the grim reality, Abu Ramadan expresses a surprising, almost desperate, hope in the 'Trump plan' for a lasting solution and emphasizes the resilience of Gazans determined to rebuild their lives and stay in their homeland. It's a poignant exploration of resilience amidst systemic suffering, prompting reflection on the complexities of international aid, political leverage, and human dignity.",
-    "summary_zh": "这篇访谈揭示了停火后加沙地带持续的人道主义危机，通过加沙商会主席阿耶德·阿布·拉马丹的视角，我们看到了一种令人心碎的坚韧。以色列对援助物资的严格限制，以及所谓的“经济战”，让加沙人民的生存条件异常艰难。然而，令人动容的是，在如此绝望的境地中，拉马丹先生仍对“特朗普计划”抱有希望，并强调了加沙人民不屈不挠的生存意志和对家园的深切眷恋。这不仅是对现状的控诉，更是对人性韧性与希望的深刻思考。",
-    "best_quote_en": "I think it’s economic warfare. I think it’s to allow some Israeli-favored people to profit here from this. It’s also to shock Palestinians so their health will deteriorate. It’s about deepening malnutrition, making life difficult.",
-    "best_quote_zh": "我认为这是经济战。我认为这是为了让一些以色列偏爱的人从中获利。这也是为了震慑巴勒斯坦人，让他们健康状况恶化。这是为了加深营养不良，让生活变得艰难。"
-  },
-  {
-    "id": 389,
-    "title": "52 Surprising Things / Watchable American history / See yourself as a verb",
-    "title_zh": "52个惊喜 / 可观看的美国历史 / 将自己视为动词",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/52-surprising-things-watchable-american-history-see-yourself-as-a-verb/",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-12-21",
-    "summary_en": "This eclectic collection offers a fascinating glimpse into diverse topics, ranging from historical observations like Marchetti's Constant to practical life hacks such as sharpening Airbnb knives, and profound philosophical reflections on selfhood. What truly captivates me is the sheer breadth of human curiosity and ingenuity showcased here. The piece on seeing oneself as a verb particularly resonates, offering a refreshing perspective on existential anxieties by reframing identity as a dynamic process rather than a static entity. Similarly, the curated quotes provide concise bursts of wisdom that can reframe perspectives on problems and opportunities. It's a delightful reminder that learning and insight can come from the most unexpected corners, encouraging a perpetual state of wonder and critical thought.",
-    "summary_zh": "这篇内容包罗万象，从历史常数到生活妙招，再到深刻的哲学思考，都令人耳目一新。我特别喜欢“将自己视为动词”的理念，它为存在的焦虑提供了一种全新的视角，将自我定义为一个不断发展的过程，而非固定的实体。这种思维转变不仅能减轻完美主义的压力，也让人对生命有了更豁达的理解。而那些精选的语录，则像思想的火花，瞬间点亮认知，引导我们以更开放的心态面对问题与机遇。它提醒我们，智慧无处不在，只要保持好奇心，便能不断发现惊喜。",
-    "best_quote_en": "The existential balm of seeing yourself as a verb, not a noun” is a perspective‑shifting essay that explores a gentler way to hold the fear of death by reframing the self not as something fixed, but as a natural unfolding process.",
-    "best_quote_zh": "“将自己视为动词，而非名词的存在慰藉”是一篇视角转换的文章，它通过将自我重新定义为一种自然的展开过程而非固定不变的事物，探索了一种更温和地面对死亡恐惧的方式。"
-  },
-  {
     "id": 390,
     "title": "Shackled, alone and scared: the grim reality for women forced to give birth in prison",
     "title_zh": "被镣铐束缚、孤立无援、恐惧万分：女性被迫在监狱中分娩的残酷现实",
@@ -2278,5 +2164,123 @@
     "summary_zh": "Joele Lucherini分享了他生活与工作中不可或缺的物理与数字工具，以及一个年度格言。从日式烤肉夹到自动化平台Make.com，这些看似日常的选择，实则反映了对效率和个人幸福的追求。最引人深思的是他采纳的“不关我事，不是我的问题”的格言，这不仅是一种职业边界的设定，更是一种心理韧性的培养。这让我思考，在信息过载的时代，如何通过有意识地筛选和拒绝，来保护我们的专注力与内心平静。这些小物件和心态上的调整，或许正是构建高效而充实生活的关键。",
     "best_quote_en": "Make.com—a no-code platform that connects different apps and services—has genuinely changed my life, dramatically improving my work by letting me automate almost anything I can think of.",
     "best_quote_zh": "Make.com——一个连接不同应用和服务的无代码平台——真正改变了我的生活，通过让我自动化几乎所有我想到的事情，极大地提升了我的工作效率。"
+  },
+  {
+    "id": 485,
+    "title": "Jane Arden was a cinematic master of grief-art | Letters",
+    "title_zh": "简·阿登是悲伤艺术的电影大师 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2026/jan/22/jane-arden-was-a-cinematic-master-of-grief-art",
+    "tags": [
+      "solve",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "This letter passionately advocates for Jane Arden's 1973 film, 'The Other Side of the Underneath,' as a seminal work of 'grief-art,' contrasting it with more recent, potentially exploitative 'grief-porn.' The author, Sean Kaye-Smith, highlights the film's groundbreaking nature as the sole British feature directed by a woman in the 1970s and its raw, unflinching exploration of \"women's pain.\" What's truly compelling is the film's apparent indifference to mainstream accolades, prioritizing emotional authenticity over commercial success. This piece makes a strong case for revisiting Arden's work, suggesting it offers a profound, unparalleled cinematic experience that challenges conventional notions of grief representation in film. It prompts reflection on the enduring power of art that dares to be genuinely unsettling.",
+    "summary_zh": "这封读者来信以其独特的视角，将简·阿登的电影《地底的另一面》推崇为一部真正的“悲伤艺术”杰作，巧妙地与时下可能被视为“悲伤色情”的作品形成对比。它不仅强调了这部电影在女性导演史上的里程碑意义，更赞扬其对“女性痛苦”的原始呈现。读来不禁让人深思，一部不为奖项所累、只为表达真实情感的艺术作品，其生命力与穿透力是何等强大。这封信激发了我对这部被遗忘的电影的强烈好奇，或许真正的艺术，正是那些敢于直面最深层痛苦，且不求回报的表达。",
+    "best_quote_en": "There is still nothing else like it, for the rawness of its emotions and the haunting quality of its visuals.",
+    "best_quote_zh": "在情感的原始性和视觉的萦绕感方面，至今仍无出其右。"
+  },
+  {
+    "id": 486,
+    "title": "How to Lose Time and Money",
+    "title_zh": "如何失去时间和金钱",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/selfindulgence.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This essay offers a thought-provoking parallel between losing money and losing time, challenging conventional wisdom. It argues that while excessive spending is an obvious way to deplete wealth, bad investments are a far more insidious and common culprit. Similarly, the author contends that 'fake work' – tasks that feel productive but yield no real results – is a greater thief of time than outright leisure. The piece insightfully explains how our ingrained 'alarms' for self-indulgence are easily bypassed by activities that mimic virtuous effort, both financially and temporally. It's a compelling exploration of how modern complexities require us to develop new, more nuanced internal safeguards against subtle forms of waste, pushing readers to critically examine their financial and time management habits.",
+    "summary_zh": "这篇文章深刻剖析了金钱与时间的流失之道，指出其最危险的途径并非显而易见的挥霍或玩乐，而是隐蔽的“坏投资”和“假工作”。作者敏锐地观察到，我们大脑中防止过度享乐的警报，在新时代的复杂性中常常被伪装成“有价值”的行为所绕过。这让我反思，在追求效率和财富的当下，我们是否也深陷于看似忙碌却毫无产出的陷阱？真正的智慧，或许在于重新校准我们的内在警报系统，识别那些看似合理却悄然吞噬我们宝贵资源的陷阱。",
+    "best_quote_en": "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.",
+    "best_quote_zh": "失去时间最危险的方式不是花时间玩乐，而是花时间做假工作。"
+  },
+  {
+    "id": 487,
+    "title": "Are Short AI Timelines Really Higher-Leverage?",
+    "title_zh": "短期AI时间线真的具有更高杠杆吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This research note critically examines the leverage of interventions aimed at mitigating AI takeover risk and enhancing the future's value, contingent on differing AI timeline scenarios (short, medium, long). The authors challenge the common assumption that shorter timelines inherently offer higher leverage due to perceived neglect or increased takeover risk. Instead, they introduce a nuanced framework that weighs the probability of AI timeline scenarios against the expected impact (leverage) of specific strategies within those scenarios. A key insight is that longer timelines allow for greater resource accumulation and strategic understanding, while shorter timelines might present more immediate, high-leverage opportunities for direct work against takeover risk. The analysis concludes that medium timelines (2035) might offer the highest default value for the future, complicating straightforward conclusions about which timeline is 'best' for intervention. The paper's strength lies in its attempt to quantify these complex trade-offs, though it acknowledges the speculative nature of its numerical estimations.",
+    "summary_zh": "这篇研究笔记深入探讨了在不同AI时间线情景下，AI风险干预的“杠杆效应”。文章挑战了短期时间线必然带来更高杠杆的普遍观点，认为这忽略了长期时间线在资源积累和战略理解上的优势。作者们提出了一个衡量干预策略预期影响的框架，并指出中期时间线（2035年）可能提供最高的未来默认价值。这促使我们重新思考，对于直接行动者和资助者而言，最优的干预时机和策略可能因具体情况而异。尽管量化分析具有不确定性，但其提出多维度权衡的思路极具启发性，鼓励我们超越直觉，进行更深层次的战略思考。",
+    "best_quote_en": "We think the most important point as a conceptual one (that we need to take into account the value of the future conditional on no takeover as well as reduction in takeover risk), rather than the quantitative analysis above.",
+    "best_quote_zh": "我们认为最重要的观点是概念性的（即我们需要同时考虑在没有AI接管的情况下未来的价值以及降低AI接管风险），而不是上述的定量分析。"
+  },
+  {
+    "id": 488,
+    "title": "It’s Time to Talk About Donald Trump’s Logorrhea",
+    "title_zh": "是时候谈谈唐纳德·特朗普的“言语失禁”了",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/its-time-to-talk-about-donald-trumps-logorrhea",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This analytical piece from January 2026 critically examines Donald Trump's significantly increased verbal output during his second term, coining it \"logorrhea.\" The author, Susan B. Glasser, leverages a *Times* analysis showing a 245% increase in Trump's word count compared to his first term. Glasser argues this excessive, often incoherent talkativeness reveals his character flaws—lack of discipline, ignorance, vanity—and has tangible, alarming consequences in his second presidency, unlike his first where his words were often contained. The article highlights how his rambling is no longer just a social media spectacle but translates into policy and real-world actions, as exemplified by the 'Board of Peace' and his bizarre diplomatic exchanges. It also touches on the differing reactions to his behavior between an inured American public and stunned European leaders, questioning his fitness for office. The piece serves as a stark warning about the implications of unchecked presidential speech.",
+    "summary_zh": "这篇文章对特朗普第二任期内日益增长的“言语失禁”现象进行了深刻剖析。作者引用数据指出，其言语输出量较第一任期激增245%，这不仅仅是个人风格，更折射出其纪律性缺失、无知与自负。令人担忧的是，在第二任期，这些看似漫无边际的言论已不再是简单的推特争议，而是被转化为实际政策与行动，对国际关系和国内治理产生深远影响。欧洲领导人的震惊与美国公众的麻木形成鲜明对比，这不禁让人反思，当领导人的言行突破常规，我们该如何应对？这篇分析如同一记警钟，提醒我们言语的力量及其失控的潜在危险。",
+    "best_quote_en": "“It is remarkable how a man cannot summarize his thoughts in even the most general sort of way without betraying himself completely.”",
+    "best_quote_zh": "“一个人即使以最泛泛的方式概括自己的思想，也会彻底暴露自己，这真是非凡。”"
+  },
+  {
+    "id": 489,
+    "title": "Most Popular City/Europe Rail Travel Trends/Mexican Sites Admission Hikes",
+    "title_zh": "最受欢迎城市/欧洲铁路旅行趋势/墨西哥景点门票上涨",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/most-popular-city-europe-rail-travel-trends-mexican-sites-admission-hikes/",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "This content provides a concise yet insightful overview of recent travel trends, covering popular global destinations, North American rail travel habits in Europe, the surprising reluctance of experienced travelers to adopt AI for trip planning, and significant admission price hikes at Mexican archaeological sites. It highlights Bangkok's continued reign as the most visited city and the specific preferences of US/Canadian rail travelers, like the unexpected popularity of the Barcelona-Madrid corridor. The skepticism towards AI in travel planning, despite its growing presence, offers a fascinating counterpoint to broader tech adoption narratives. Furthermore, the analysis of Mexico's new pricing structure for historical sites reveals a potential shift in travel value propositions, prompting a reconsideration of destination choices. This collection of snippets is particularly valuable for industry professionals and avid travelers seeking quick updates and nuanced perspectives on the evolving global travel landscape.",
+    "summary_zh": "这篇内容精炼地捕捉了全球旅游业的几个关键动向。曼谷再次荣登最受欢迎城市榜首，这并不意外，但北美游客在欧洲铁路旅行中对巴塞罗那-马德里线路的偏爱，则出乎意料，揭示了细分市场的独特行为。更有趣的是，即便是经验丰富的旅行者也普遍不愿将行程规划全权交给AI，这无疑是对当前AI热潮的一次冷静反思，也提醒我们技术在某些领域仍无法取代人类的判断力。而墨西哥考古遗址门票的大幅上涨，则直接影响了旅行预算和价值感知，促使我重新审视旅行目的地的性价比。这些洞察对于理解当下和预判未来旅游趋势都极具参考价值。",
+    "best_quote_en": "Only 20 percent said they would feel comfortable letting AI design a complete trip itinerary based on their preferences.",
+    "best_quote_zh": "只有20%的人表示，他们会放心地让AI根据自己的偏好设计完整的旅行行程。"
   }
 ]
