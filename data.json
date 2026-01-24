@@ -1,119 +1,5 @@
 [
   {
-    "id": 390,
-    "title": "Shackled, alone and scared: the grim reality for women forced to give birth in prison",
-    "title_zh": "被镣铐束缚、孤立无援、恐惧万分：女性被迫在监狱中分娩的残酷现实",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/dec/18/shackled-alone-pregnant-women-forced-birth-prison",
-    "tags": [
-      "solve",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "This article starkly illuminates the harrowing experiences of pregnant women incarcerated globally, revealing a systemic failure to uphold basic human rights. It critically examines how many prison systems, designed primarily for men, are inherently ill-equipped to provide humane care for pregnant individuals, leading to deplorable conditions, denial of medical attention, and even infant deaths. The piece powerfully uses individual stories, like Dina Hernández's and Nora Calandra's, to underscore the devastating personal impact of these policies, while also highlighting the global rise in female incarceration. It prompts a crucial re-evaluation of punitive justice systems, advocating for community-based solutions and adherence to international guidelines like the Bangkok Rules, which are currently widely flouted. The article's true value lies in its unflinching exposure of a hidden crisis and its call for urgent reform.",
-    "summary_zh": "这篇文章揭示了全球范围内被监禁孕妇的残酷现实，读来令人心痛。我深感震惊于这些女性所遭受的非人待遇，以及国际准则被公然漠视的现状。它不仅是关于监狱条件的报道，更是对社会正义、性别平等等深层问题的拷问。文章通过个案触及人心，呼吁我们反思，为何一个社会会允许如此基本的人权被践踏。这不仅仅是法律问题，更是人性的缺失，我们必须为此发声，推动改革。",
-    "best_quote_en": "“Many prisons were built with men in mind, so women were an afterthought. There are lots of issues around violence, a lack of resources, a lack of sanitation, overcrowding, but also a real lack of gender-responsive care.”",
-    "best_quote_zh": "“许多监狱在建造时只考虑了男性，所以女性是被忽视的。存在许多问题，包括暴力、资源匮乏、卫生条件差、过度拥挤，以及真正缺乏针对性别的关怀。”"
-  },
-  {
-    "id": 391,
-    "title": "How Y Combinator Started",
-    "title_zh": "Y Combinator 是如何开始的",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ycstart.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-04",
-    "summary_en": "This article offers a fascinating, candid account of Y Combinator's humble beginnings, revealing that the now-iconic startup accelerator was born almost serendipitously from a desire to improve angel investing and a need for Jessica Livingston to quit her dissatisfying job. Paul Graham details how YC evolved from an initial concept of standardized seed funding to its revolutionary synchronous batch model, a structure initially adopted for convenience rather than foresight. The narrative highlights key insights: the importance of small, founder-friendly investments, the unexpected success of early batches, and the strategic decision to move to Silicon Valley. It's a testament to how groundbreaking innovations often emerge from iterative experimentation and a willingness to challenge conventional wisdom, even when the full scope of their impact isn't immediately apparent. The initial dismissal of YC as a 'toy' underscores the often-unrecognized potential in nascent ideas.",
-    "summary_zh": "这篇文章生动地描绘了Y Combinator的诞生，其起源竟是如此偶然，从保罗·格雷厄姆夫妇对天使投资模式的不满和杰西卡辞职的愿望中萌芽。YC从一个标准化种子基金的模糊概念，逐步迭代出其标志性的同步批次模式，这一演变过程充满了意外和运气。我尤其欣赏格雷厄姆的坦诚，他承认最初并未完全预见到这种模式的巨大潜力，这正体现了创新往往是渐进式探索的结果。YC从被视为“小玩意”到如今的行业巨头，其成长历程深刻地启发我们，要敢于挑战现状，并对那些看似微不足道的想法保持开放心态。",
-    "best_quote_en": "Initially we didn't have what turned out to be the most important idea: funding startups synchronously, instead of asynchronously as it had always been done before. Or rather we had the idea, but we didn't realize its significance.",
-    "best_quote_zh": "最初我们并没有意识到最重要的那个想法：同步资助创业公司，而不是像以前那样异步进行。或者说，我们有了这个想法，但没有意识到它的重要性。"
-  },
-  {
-    "id": 392,
-    "title": "Humanity's Gambit",
-    "title_zh": "人类的赌注",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9jNQeqtm8F225rkZH/humanity-s-gambit",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-04",
-    "summary_en": "This thought-provoking piece delves into the contrasting narratives surrounding AI: AI Doomers, AI Accelerationists, and AI Ethicists. The author, Ben Ihrig, thoughtfully dissects how the first two perspectives, despite their opposing views on outcomes, share a common belief in AI's 'godlike' potential. He then introduces the AI Ethics narrative, which challenges this exceptionalism by focusing on the tangible, often overlooked, costs of AI development—environmental impact, resource consumption, and exacerbation of socioeconomic inequality. Ihrig frames humanity's intense pursuit of advanced AI as a 'gambit' to solve existing global crises, acknowledging its potential for salvation or catastrophe, or even a mere distraction from more pressing issues. The article brilliantly advocates for a holistic understanding, urging recognition of all perspectives to navigate the complex future of AI responsibly. It's a nuanced call for intellectual humility amidst fervent debate.",
-    "summary_zh": "这篇文章对AI末日论、加速主义和伦理学派的观点进行了深刻剖析。作者Ben Ihrig巧妙地指出，前两者虽立场相悖，却共享AI“神性”的设想。他引入AI伦理视角，强调AI发展带来的实际成本和对社会不公的加剧。我尤其欣赏作者将人类对AI的追求比作一场“赌注”，既可能带来救赎，也可能导致灾难，甚至只是徒劳的消耗。这促使我反思，在技术狂热中，我们是否忽略了更根本的责任和更广泛的现实。多元视角的并存与理解，或许才是应对AI挑战的关键。",
-    "best_quote_en": "AI is humanity’s gambit to save a dying world. Maybe it will help us. Maybe it will kill us. Maybe it will be a flashy waste of time, and we’ll have to deal with everything else on our own after all.",
-    "best_quote_zh": "人工智能是人类拯救垂死世界的赌注。也许它会帮助我们。也许它会杀死我们。也许它只是一场华而不实的浪费时间，最终我们还得靠自己处理所有事情。"
-  },
-  {
-    "id": 393,
-    "title": "The Brazen Illegality of Trump’s Venezuela Operation",
-    "title_zh": "特朗普对委内瑞拉行动的公然非法性",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-brazen-illegality-of-trumps-venezuela-operation",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-01-03",
-    "summary_en": "This article, an interview with international law scholar Oona Hathaway, critically dissects the legal ramifications of a hypothetical (at the time of writing) U.S. military operation to arrest Venezuelan President Nicolás Maduro. Hathaway meticulously argues that such an action, justified by the Trump administration as self-defense against narco-terrorism or based on Maduro's alleged illegitimacy, fundamentally violates international law and the UN Charter's prohibition on the use of force. She highlights the dangerous precedent this sets, potentially eroding all legal limits on military intervention globally, and draws parallels to the illegal 1989 U.S. invasion of Panama to arrest Manuel Noriega. The piece thoughtfully explores the complexities of head-of-state immunity and the potential for domestic courts to defer to executive branch decisions, ultimately concluding that such an operation represents a catastrophic shift towards a world governed by force rather than peaceful resolution. It's a stark warning about the fragility of international legal norms when confronted with unilateral power.",
-    "summary_zh": "这篇文章通过对国际法学者的访谈，深入剖析了特朗普政府对委内瑞拉采取军事行动逮捕马杜罗的潜在法律后果。作者尖锐地指出，无论以反毒品恐怖主义为由，还是质疑马杜罗的合法性，这种单边行动都公然违反了国际法和联合国宪章，开创了一个极度危险的先例。文章不仅探讨了国家元首豁免权的复杂性，更令人深思的是，它揭示了当权力凌驾于法律之上时，国际秩序将如何崩塌。这不仅是对美国国内法治的挑战，更是对全球和平与稳定的严峻警示，令人不寒而栗。",
-    "best_quote_en": "If that were the case, that’s the end of international law, that’s the end of the U.N. charter, that’s the end of any kind of legal limits on the use of force. And if the President can do that, what’s to stop a Russian leader from doing it, or a Chinese leader from doing it, or anyone with the power to do so?",
-    "best_quote_zh": "如果真是这样，那就是国际法的终结，就是联合国宪章的终结，就是对使用武力的一切法律限制的终结。如果美国总统可以这样做，那又有什么能阻止俄罗斯领导人、中国领导人或任何有权势的人这样做呢？"
-  },
-  {
-    "id": 394,
-    "title": "Functional Traveler Gifts/Tougher Italian Passport/Cheaper Streaming Options",
-    "title_zh": "实用旅行者礼物/更难获得的意大利护照/更便宜的流媒体选项",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/functional-traveler-gifts-tougher-italian-passport-cheaper-streaming-options/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "This content offers a collection of practical insights for travelers, ranging from thoughtful gift ideas that prioritize utility and portability to strategic advice on leveraging international pricing for streaming services. It also sheds light on the increasing difficulty of obtaining an Italian passport, reflecting broader shifts in immigration policies. The inclusion of health research on the benefits of longer walks over short bursts adds a holistic dimension, emphasizing well-being for those with an active, travel-oriented lifestyle. The piece serves as a concise update for digital nomads and frequent travelers, providing actionable tips that directly address common challenges and opportunities in the modern travel landscape, encouraging a more informed and efficient approach to global living.",
-    "summary_zh": "这篇文章就像一位经验丰富的旅行家在与你分享他的私藏秘籍。从那些真正能派上用场的旅行小物件，到利用国际价差订阅流媒体服务的精明算计，再到获取意大利护照的门槛提高——每一条都切中要害，让人不禁思考全球化背景下个人策略的重要性。尤其是关于长距离步行对健康的益处，更是在提醒我们，旅行不仅是地理上的移动，更是生活方式和身心健康的全面升级。这份内容不仅实用，更引发我对如何在变动不居的世界中，更智慧地生活与旅行的思考。",
-    "best_quote_en": "You can play this arbitrage game with most of the streaming services—I once got HBO on sale for $5 a month. In Mexico you can get the highest tier of Netflix for the price of the middle tier stateside, a 39% monthly savings (with a better studio movie selection too).",
-    "best_quote_zh": "你可以利用大多数流媒体服务的这种套利游戏——我曾以每月5美元的价格买到打折的HBO。在墨西哥，你可以用美国中等套餐的价格获得Netflix的最高级套餐，每月节省39%（而且还有更好的工作室电影选择）。"
-  },
-  {
     "id": 395,
     "title": "‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act",
     "title_zh": "“漂亮的鸟儿和愚蠢的奶牛”：性别歧视法案背后的女性",
@@ -2282,5 +2168,121 @@
     "summary_zh": "这篇内容精炼地捕捉了全球旅游业的几个关键动向。曼谷再次荣登最受欢迎城市榜首，这并不意外，但北美游客在欧洲铁路旅行中对巴塞罗那-马德里线路的偏爱，则出乎意料，揭示了细分市场的独特行为。更有趣的是，即便是经验丰富的旅行者也普遍不愿将行程规划全权交给AI，这无疑是对当前AI热潮的一次冷静反思，也提醒我们技术在某些领域仍无法取代人类的判断力。而墨西哥考古遗址门票的大幅上涨，则直接影响了旅行预算和价值感知，促使我重新审视旅行目的地的性价比。这些洞察对于理解当下和预判未来旅游趋势都极具参考价值。",
     "best_quote_en": "Only 20 percent said they would feel comfortable letting AI design a complete trip itinerary based on their preferences.",
     "best_quote_zh": "只有20%的人表示，他们会放心地让AI根据自己的偏好设计完整的旅行行程。"
+  },
+  {
+    "id": 490,
+    "title": "Jess Cartner-Morley on fashion: 2026 will be the year of the skirt – and no, it doesn’t have to be short",
+    "title_zh": "Jess Cartner-Morley谈时尚：2026将是半身裙之年——而且不一定非得是短裙",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/jan/21/jess-cartner-morley-year-of-the-skirt-dont-have-to-be-short",
+    "tags": [
+      "update",
+      "lifestyle",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "This article posits that 2026 will mark the resurgence of skirts as a central fashion item, moving beyond their recent role as mere afterthoughts. The author, Jess Cartner-Morley, observes a generational shift towards shorter hemlines but emphasizes that the renewed focus on skirts isn't limited to minis. She astutely notes the broader trend towards separates over dresses, attributing this to a desire for versatility and restyling in a more conscious consumption era. The piece offers practical advice on skirt lengths and styles, highlighting brands that cater to different preferences, from modest A-lines to flattering flippy-hem designs. It's an insightful commentary on evolving fashion trends, blending personal observation with broader industry shifts, and offering actionable guidance for readers looking to refresh their wardrobe with this 'main character energy' garment.",
+    "summary_zh": "这篇文章断言2026年将是半身裙重回时尚C位的一年，我对此深以为然。作者敏锐地捕捉到时尚界从连衣裙转向独立单品的趋势，这不仅反映了年轻一代对短裙的偏爱，更深层的原因可能是我们对衣橱多功能性和可持续性的追求。她不仅预测了潮流，还提供了实用的选购建议，比如如何选择适合自己的裙长和款式，这让读者在了解趋势的同时也能找到实际的穿搭灵感。这种将个人洞察与市场分析相结合的写作方式，使得文章既有前瞻性又贴近生活，令人期待半身裙在未来如何重新定义时尚。",
+    "best_quote_en": "I wonder if this shift from dresses to separates is partly because as we try to shop less and focus on restyling what we already have, we lean into the enhanced scope for layering that comes with choosing mix-and-match separates over one-and-done dresses.",
+    "best_quote_zh": "我怀疑这种从连衣裙到独立单品的转变，部分原因在于我们试图减少购物，更专注于重新搭配已有的衣物，从而倾向于选择混搭的独立单品，而非一穿到底的连衣裙，这带来了更大的叠穿可能性。"
+  },
+  {
+    "id": 491,
+    "title": "Organic Startup Ideas",
+    "title_zh": "有机创业点子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/organic.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "This insightful piece by Paul Graham differentiates between 'organic' and 'made-up' startup ideas, advocating for the former, especially for young founders. Organic ideas stem from personal needs and experiences, exemplified by Apple and early Google, where founders built what they themselves desired. In contrast, 'made-up' ideas, like Viaweb, target perceived market needs without direct personal use. Graham argues that organic ideas are often overlooked because they initially seem like mere projects, not serious businesses, but they hold immense potential. He encourages aspiring founders to focus on fixing personal 'brokenness' in daily life, emphasizing that what seems like a 'toy' to others can often be a groundbreaking innovation. This perspective challenges conventional wisdom by prioritizing genuine problem-solving over market analysis for early-stage ideation.",
+    "summary_zh": "这篇文章深刻剖析了创业点子的两种来源：源于自身需求的“有机”点子和为他人设想的“人造”点子。作者Paul Graham力倡前者，认为最成功的创业往往源于创始人对自身痛点的解决。这让我反思，我们是否过于追求宏大叙事，而忽略了身边那些看似微不足道却充满潜力的“小”问题。那些被视为“玩具”的初始想法，可能正是颠覆性创新的萌芽。这篇文章启发我们，创业不应是刻意为之，而更像是一场对日常“不完美”的自然回应，其中蕴含着巨大的价值等待被发现。",
+    "best_quote_en": "The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?",
+    "best_quote_zh": "想出创业点子的最好方法是问自己一个问题：你希望有人为你做什么？"
+  },
+  {
+    "id": 492,
+    "title": "A Black Box Made Less Opaque (part 1)",
+    "title_zh": "黑箱不再不透明 (第一部分)",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/QRM3q9ZhLDZuxuDbz/a-black-box-made-less-opaque-part-1",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "This insightful analysis delves into the mechanistic interpretability of a small GPT-2 model using Sparse Autoencoders (SAEs). It meticulously explores how features activate and transform across model layers, revealing that while activation levels generally increase, the most prominent features shuffle, indicating dynamic internal representations. The author thoughtfully replicates pioneering work, making complex concepts accessible, and highlights critical findings such as the intuitive sense of activated features, the varying specificity of features across categories (e.g., Python, Math vs. Formal), and the intriguing possibility of syntax-driven activation. The self-reflective tone and explicit discussion of methodological refinements enhance its educational value, making it a valuable read for anyone seeking to demystify LLM internals without needing deep ML expertise. It effectively bridges the gap between cutting-edge research and broader understanding.",
+    "summary_zh": "这篇分析深入探讨了如何利用稀疏自编码器（SAEs）来解析小型GPT-2模型的内部机制。作者以一种引人入胜的方式，细致地展现了特征在模型层级间的激活与演变，揭示了模型如何动态地重构信息。最让我印象深刻的是，即使是小型模型，其内部特征也展现出惊人的直观性和对特定语法的敏感性。这不仅是对前沿研究的成功复刻，更是一次极佳的教学实践，让普通读者也能一窥AI“黑箱”的奥秘。文章的坦诚和对未来研究方向的展望，无疑会激发更多人对机械可解释性产生浓厚兴趣。",
+    "best_quote_en": "The analysis documented here represents an honest and earnest exploration of the MI fundamentals via the use of SAEs. While the results contained within are affirmative of well-researched ML principles, replicating that research and documenting it here, proved invaluable in furthering my understanding of, and interest in, the ML principles described herein.",
+    "best_quote_zh": "此处记录的分析代表了通过使用SAE对MI基础进行的真诚而认真的探索。尽管其中包含的结果证实了经过充分研究的机器学习原理，但复制该研究并在此处记录，对于加深我对此处描述的机器学习原理的理解和兴趣，被证明是无价的。"
+  },
+  {
+    "id": 493,
+    "title": "The Mayor of an Occupied City",
+    "title_zh": "被占领城市的市长",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-political-scene/the-mayor-of-an-occupied-city",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This article offers a gripping, almost dystopian, look into Minneapolis under an unprecedented federal occupation by ICE, painting a stark picture of a city besieged by its own government. Mayor Jacob Frey finds himself in an impossible position, navigating a humanitarian crisis, escalating public fear, and a direct political confrontation with the Trump administration. The narrative highlights the profound human cost of such operations, from the shooting of civilians to the psychological toll on residents and local law enforcement. It exposes the breakdown of trust between federal and local authorities, and the chilling normalization of a 'war zone' environment in an American city. The piece is a powerful commentary on the weaponization of immigration policy and the challenges faced by local leaders caught in a national political battle, forcing us to question the limits of federal power and the resilience of local governance.",
+    "summary_zh": "这篇文章描绘了明尼阿波利斯市被联邦移民及海关执法局（ICE）“占领”的严峻景象，读来令人深思。市长雅各布·弗雷在联邦政府的重压下，努力维持城市秩序，却发现自己陷入了一场政治表演的中心。这种联邦与地方政府之间的冲突，不仅导致了居民的恐惧和不信任，也让执法人员疲惫不堪。最令人不安的是，这种“占领”似乎正在常态化，挑战着我们对权力边界和地方自治的理解。作为一个旁观者，我不禁思考，当政府不再是保护者，而是压迫者时，普通民众该如何自处？",
+    "best_quote_en": "“We cannot be at a place right now in America where we have two governmental entities that are literally fighting one another.”",
+    "best_quote_zh": "“我们不能让美国现在变成这样，两个政府实体竟然在字面上相互对抗。”"
+  },
+  {
+    "id": 494,
+    "title": "Book Freak #194: When Things Fall Apart",
+    "title_zh": "书呆子 #194: 当事物瓦解时",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-194-when-things-fall-apart/",
+    "tags": [
+      "solve",
+      "psychology",
+      "cybersecurity",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "网络安全",
+      "新手友好"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "This piece delves into Pema Chödrön's 'When Things Fall Apart,' offering a compelling Buddhist perspective on suffering and uncertainty. It challenges the conventional impulse to avoid pain, advocating instead for a radical embrace of 'groundlessness' and a move towards discomfort with curiosity and friendliness. The core principles of embracing uncertainty, engaging with pain, practicing self-compassion (Maitri), and recognizing the present moment as a teacher are profoundly insightful. The article's 'Try It Now' section provides actionable steps, making these abstract spiritual concepts tangible. It's a powerful guide for anyone navigating life's inevitable difficulties, providing a framework for transforming suffering into a path for awakening rather than an obstacle.",
+    "summary_zh": "这篇文章对佩玛·丘卓的《当事物瓦解时》进行了深刻解读，其佛教智慧提供了一种反直觉的苦难应对方式。它鼓励我们拥抱不确定性，以好奇和友善的心态走向痛苦，而非逃避。核心原则如接受无常、直面痛苦、实践慈悲以及将当下视为老师，都极具启发性。文末的实践指南更是将这些深奥的灵性教诲转化为日常可行的行动，读来令人深思。在变幻莫测的世事中，这不仅是理论，更是实用的心法，指引我们如何将苦难转化为觉醒的契机。",
+    "best_quote_en": "“Nothing ever goes away until it has taught us what we need to know. We run away from it, but the same problem just waits for us wearing new names and new faces.”",
+    "best_quote_zh": "“任何事情，除非它教会了我们所需知道的一切，否则它永远不会消失。我们逃避它，但同样的问题只会以新的名字和面孔等待着我们。”"
   }
 ]
