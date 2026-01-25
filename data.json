@@ -1,119 +1,5 @@
 [
   {
-    "id": 395,
-    "title": "‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act",
-    "title_zh": "“漂亮的鸟儿和愚蠢的奶牛”：性别歧视法案背后的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/18/pretty-birds-and-silly-moos-the-women-behind-the-sex-discrimination-act",
-    "tags": [
-      "inspire",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "This article offers a compelling deep dive into the often-overlooked history and relentless efforts of the women who campaigned for the UK's Sex Discrimination Act of 1975. It masterfully weaves together personal anecdotes from journalists like Celia Brayfield and policymakers like Patricia Hewitt with broader historical context, revealing the pervasive sexism of the era and the strategic, sometimes unconventional, tactics employed by various feminist groups. What stands out is the nuanced portrayal of internal tensions within the movement—between radical activists and those focused on legislative change, or between older and younger generations—highlighting that progress is rarely monolithic. The piece critically evaluates the compromises made in the final legislation, reminding us that legal victories are often just starting points in an ongoing struggle against deeply entrenched social injustices. It's a powerful testament to persistence and a thoughtful reflection on the continuous nature of social change.",
-    "summary_zh": "这篇文章深入探讨了英国1975年《性别歧视法案》背后那些被忽视的女性斗争史，读来令人动容。它不仅讲述了 Celia Brayfield 等记者和 Patricia Hewitt 等政策制定者的亲身经历，还展现了当时普遍存在的性别歧视以及女权团体采取的策略。最引人深思的是，文章揭示了运动内部的张力——激进派与立法派、老一辈与年轻一代之间的分歧，这让我意识到社会变革的复杂性。法案的妥协性也说明，法律胜利往往只是漫长斗争的起点。这篇报道是对坚韧不拔精神的有力证明，也是对社会进步持续性的深刻反思。",
-    "best_quote_en": "“What I remember most is the sense that we actually achieved something. We were dealing with an enormous social injustice and an extremely resistant patriarchy or power structure that didn’t want to change. We really did set out to change our society and to make life better for our daughters but it’s a fight you have to keep winning. There’s never any sitting back and saying ‘we’ve won’ because you never have.”",
-    "best_quote_zh": "“我记得最清楚的是，我们确实取得了一些成就。我们正在处理巨大的社会不公，以及一个极其抗拒改变的父权制或权力结构。我们确实致力于改变我们的社会，让我们的女儿过上更好的生活，但这仍然是一场必须不断争取胜利的斗争。永远不能安坐下来，说‘我们赢了’，因为你从未真正一劳永逸地赢过。”"
-  },
-  {
-    "id": 396,
-    "title": "Defining Property",
-    "title_zh": "财产的定义",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/property.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-05",
-    "summary_en": "This essay offers a thought-provoking analysis of the evolving concept of property, using a compelling analogy of 'stealing smells' to critique modern copyright enforcement. The author argues that what constitutes property is not fixed but changes with societal and technological advancements. He insightfully connects the RIAA and MPAA's aggressive tactics to a misguided attempt to apply an obsolete definition of property in a new digital landscape, driven by short-term greed rather than long-term equity. The piece brilliantly highlights the tension between technological progress and legal frameworks, suggesting that a functional definition of property must 'work' for society without warping it. It's a critical examination of how powerful entities try to maintain control by resisting inevitable change, ultimately advocating for common sense and adaptable legal systems in the face of rapid technological shifts.",
-    "summary_zh": "这篇文章以“偷窃气味”的生动比喻，深刻剖析了财产定义在技术变革下的演进。作者独到地指出，财产的本质并非一成不变，而是由社会功能和技术进步共同塑造。他批判了RIAA和MPAA等机构在数字时代试图强加过时产权观念的行为，认为这源于短视的利益驱动。文章呼吁我们应以更具适应性的法律和常识来拥抱而非抵制技术发展带来的变革，这不仅是维护社会公平，更是推动进步的必然选择。",
-    "best_quote_en": "What counts as property depends on what works to treat as property. And that not only can change, but has changed.",
-    "best_quote_zh": "什么算作财产，取决于将什么视为财产是有效的。而这不仅可以改变，而且已经改变了。"
-  },
-  {
-    "id": 397,
-    "title": "Axiological Stopsigns",
-    "title_zh": "价值停止标志",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/z2uqkmohWKvgytsy6/axiological-stopsigns",
-    "tags": [
-      "learn",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-05",
-    "summary_en": "This essay introduces the concept of \"axiological stopsigns,\" which are natural breakpoints in our predictive reasoning and value assessments. The author argues that while it's tempting to pursue infinite value calculations, our finite minds and resources necessitate these stopsigns for practical planning. Using analogies from poker, chess board evaluation functions, and Go strategy (sente, miai, aji), the piece illustrates how strategically placed stopsigns allow for tractable decision-making in complex, uncertain environments. It delves into the trade-offs between deep, far-future analysis and efficient, near-term valuation, suggesting that well-calibrated, pre-computed values can serve as proxies for extensive foresight. The essay thoughtfully explores the implications for personal well-being, suggesting that managing axiological stopsigns in life, like setting boundaries for social interactions, can contribute to sustained happiness and prevent burnout from endless optimization. It's a fascinating blend of cognitive science, game theory, and practical philosophy, encouraging a nuanced approach to how we define and pursue value.",
-    "summary_zh": "这篇探讨“价值停止标志”的文章引人深思，它以精妙的比喻（如国际象棋和围棋策略）阐释了我们有限心智如何在无限的价值计算中找到实用边界。作者指出，人生并非永无止境的博弈，适时设置“停止标志”能让复杂决策变得可行，这与我长期以来对“适度”和“留白”的理解不谋而合。它不仅是理论探讨，更提供了认知工具，指导我们如何平衡深度思考与即时行动，从而在个人生活和宏观规划中，以更智慧的方式定义和追求价值，避免陷入无休止的“最佳化”困境。这提醒我们，有时“足够好”就是最好的选择。",
-    "best_quote_en": "The word \"value\" is a VERB, and no verb should be performed forever with all of your mind, in this finite world, full of finite beings, with finite brains, running on a finite amounts of energy.",
-    "best_quote_zh": "“价值”是一个动词，在这个有限的世界里，充满了有限的生命，有限的大脑，运行在有限的能量上，任何一个动词都不应该用你全部的心思永远地执行下去。"
-  },
-  {
-    "id": 398,
-    "title": "The Folly of Trump’s Oil Imperialism",
-    "title_zh": "特朗普石油帝国主义的愚蠢",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-financial-page/the-folly-of-trumps-oil-imperialism",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-01-04",
-    "summary_en": "This article critically examines Donald Trump's stated intention to seize Venezuela's oil reserves, drawing parallels and distinctions with the 2003 Iraq invasion. The author, John Cassidy, uses historical context and expert insights to argue against the feasibility and wisdom of such a 'petro-imperialist' approach. He highlights the complexities of rebuilding Venezuela's oil industry, including the massive investment required, low oil prices, and the need for long-term political stability, which was sorely lacking in post-invasion Iraq. The piece suggests that major oil companies are wary of investing without guarantees, and that a comprehensive 'Marshall Plan' approach, rather than mere resource extraction, is what Venezuela truly needs. It's a compelling argument against short-sighted geopolitical resource grabs, grounded in historical lessons and economic realities.",
-    "summary_zh": "这篇文章对特朗普攫取委内瑞拉石油的意图进行了深刻批判，并以2003年伊拉克战争的教训为鉴。作者通过历史对比和专家观点，揭示了这种“石油帝国主义”策略的愚蠢与不可行。他强调，重建委内瑞拉的石油工业远比想象中复杂，需要巨额投资和长期政治稳定，而非简单的资源掠夺。读罢此文，我不禁思考，历史的教训为何总被权力蒙蔽，真正解决问题所需的远见和人文关怀，何时才能超越短视的利益驱动？",
-    "best_quote_en": "“What the U.S. needs to do is to implement a form of a Marshall Plan,” Orlando Ochoa, a Venezuelan economist who teaches at the Universidad Católica Andrés Bello, in Caracas, told the Wall Street Journal over the weekend. “This is about much more than coming into the oil and gas sector just to extract crude from the ground.”",
-    "best_quote_zh": "“美国需要做的是实施某种形式的马歇尔计划，”加拉加斯天主教安德烈斯贝洛大学的委内瑞拉经济学家奥兰多·奥乔亚周末告诉《华尔街日报》。“这远不止是进入石油和天然气领域仅仅为了开采原油。”"
-  },
-  {
-    "id": 399,
-    "title": "KK / Flat phone grip / Is it a cult?",
-    "title_zh": "KK / 扁平手机支架 / 它是一个邪教吗？",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/kk-flat-phone-grip-is-it-a-cult/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-01-04",
-    "summary_en": "This collection of short recommendations offers a diverse range of practical insights, from consumer product reviews to thought-provoking tools for self-assessment and personal development. The article touches on the utility of a flat phone grip and an air fryer, highlighting their practical benefits. More profoundly, it introduces a nuanced 'Cult Assessment Tool' that encourages critical thinking about organized groups, moving beyond a binary view to a continuum of traits. Additionally, it provides actionable advice on reclaiming personal time through a 'five-to-nine' method, emphasizing the importance of transitioning between professional and personal identities. The inclusion of a newsletter and an advice guru points to resources for continuous learning and personal growth. This piece implicitly encourages a mindful approach to both consumption and self-management, making it a valuable read for those seeking to optimize daily life and foster critical awareness.",
-    "summary_zh": "这篇推荐集锦充满趣味且实用，从科技产品到个人成长工具，内容丰富。我特别欣赏其中对“邪教”评估工具的介绍，它提醒我们审视群体时应超越非黑即白的二元对立，这在当今信息爆炸的时代尤为重要。同时，关于“五点到九点”时间管理法也深具启发性，它鼓励我们平衡工作与生活，找回自我。这些看似零散的推荐，实则共同指向一种更审慎、更充实的生活态度，引发读者思考如何更明智地选择工具和管理时间。",
-    "best_quote_en": "The assessment looks at things like unusualness, conformity, isolation, control of information, ethics, and sacrifice, reflecting the nuanced criteria behind their Cult Assessment tool. ClearerThinking’s programs and assessments are grounded in empirical data and are balanced in perspective, and this particular questionnaire understands that being a cult is not binary—it’s a set of traits, each of which lies on a continuum.",
-    "best_quote_zh": "该评估工具考察了不寻常性、从众性、孤立、信息控制、道德和牺牲等方面，反映了其邪教评估工具背后细致入微的标准。ClearerThinking的项目和评估都基于实证数据并保持平衡的视角，这个特殊的问卷理解到，成为邪教并非二元选择——它是一系列特质，每个特质都处于一个连续体上。"
-  },
-  {
     "id": 400,
     "title": "Jess Cartner-Morley on fashion: my top tips for gifting clothes this Christmas",
     "title_zh": "Jess Cartner-Morley谈时尚：今年圣诞节送衣服的秘诀",
@@ -2284,5 +2170,121 @@
     "summary_zh": "这篇文章对佩玛·丘卓的《当事物瓦解时》进行了深刻解读，其佛教智慧提供了一种反直觉的苦难应对方式。它鼓励我们拥抱不确定性，以好奇和友善的心态走向痛苦，而非逃避。核心原则如接受无常、直面痛苦、实践慈悲以及将当下视为老师，都极具启发性。文末的实践指南更是将这些深奥的灵性教诲转化为日常可行的行动，读来令人深思。在变幻莫测的世事中，这不仅是理论，更是实用的心法，指引我们如何将苦难转化为觉醒的契机。",
     "best_quote_en": "“Nothing ever goes away until it has taught us what we need to know. We run away from it, but the same problem just waits for us wearing new names and new faces.”",
     "best_quote_zh": "“任何事情，除非它教会了我们所需知道的一切，否则它永远不会消失。我们逃避它，但同样的问题只会以新的名字和面孔等待着我们。”"
+  },
+  {
+    "id": 495,
+    "title": "Apple's Mistake",
+    "title_zh": "苹果的错误",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/apple.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "This insightful essay critically examines Apple's App Store approval process in 2009, arguing that its rigid, hardware-centric approach is alienating developers and harming Apple's long-term reputation and innovation potential. The author posits that Apple misunderstands software development's iterative nature, treating apps like static media rather than evolving code. This leads to buggy user experiences and stifles developer creativity, pushing programmers into an 'abusive relationship' with the platform. The piece draws parallels with Microsoft's decline in attracting top talent due to perceived corporate 'evil' and highlights the strategic importance of developers for platform success, using examples like VisiCalc for Apple II. It provocatively suggests that Apple, once the 'Rebel Alliance,' now resembles the 'dictator' from its own iconic 1984 ad, advocating for an open alternative that empowers developers.",
+    "summary_zh": "这篇2009年的文章深刻剖析了苹果App Store审批流程的弊病，认为其僵化且以硬件为中心的方法正在疏远开发者，损害苹果的长期声誉和创新潜力。作者指出，苹果误解了软件迭代开发的本质，将应用视为静态媒体而非演进的代码，导致用户体验不佳，并扼杀开发者创造力。文章巧妙地将苹果与微软在吸引顶尖人才方面的衰落进行对比，强调开发者对平台成功的关键作用。读来令人深思，曾经的“反叛者”苹果，如今竟被比作其1984广告中的“独裁者”，这无疑是对其政策的辛辣讽刺，也引发了对开放生态的向往。",
+    "best_quote_en": "If Microsoft was the Empire, they were the Rebel Alliance. And it's largely because they got more of the best people that Google and Apple are doing so much better than Microsoft today.",
+    "best_quote_zh": "如果微软是帝国，那么他们就是反抗军。谷歌和苹果之所以比微软做得好得多，很大程度上是因为他们吸引了更多最优秀的人才。"
+  },
+  {
+    "id": 496,
+    "title": "Towards Sub-agent Dynamics and Conflict",
+    "title_zh": "迈向子智能体动力学与冲突",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/3S2KhQoKb8MpXury5/towards-sub-agent-dynamics-and-conflict",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "This thought-provoking piece delves into the concept of internal inconsistency within intelligent agents, proposing that preferences are not fixed but rather dynamic 'sub-agents' engaged in power struggles for cognitive salience. Building on a previous post, the author, Ashe Vazquez Nuñez, suggests that inconsistencies can protect against reward-hacking. The article illustrates this with a compelling example of Bob, a vegan family member, navigating conflicting preferences. It then explores potential modeling tools, such as hierarchical active inference and cultural evolution, to understand how these sub-agents organize into decision procedures and their impact on the overall agent. This perspective offers a fresh lens on agent foundations, moving beyond static preference models to a more fluid, conflict-driven internal landscape.",
+    "summary_zh": "这篇文章对智能体内部不一致性提出了引人深思的观点，认为偏好并非固定不变，而是动态的“子智能体”，它们在认知显著性上相互争夺权力。作者阿什·瓦斯克斯·努涅斯通过素食主义者鲍勃的例子，生动地阐释了这种内部冲突。我特别欣赏作者将偏好视为“权力斗争”的视角，这不仅揭示了智能体内部决策的复杂性，也为理解人类行为中的纠结与权衡提供了新的启发。这对于AI设计者来说，或许意味着需要构建更具弹性和适应性的智能体架构。",
+    "best_quote_en": "Preferences that are well-established and dominant are those that are often visible and are weighed highly; these define the \"fundamental\" makeup of the agent. Preferences can thus be said to interact dynamically and almost politically within their environment.",
+    "best_quote_zh": "那些根深蒂固且占主导地位的偏好，往往是显而易见且权重很高的；它们定义了智能体的“基本”构成。因此，可以说偏好在其环境中是动态且几乎是政治性地相互作用的。"
+  },
+  {
+    "id": 497,
+    "title": "Tucker Carlson’s Nationalist Crusade",
+    "title_zh": "塔克·卡尔森的民族主义十字军",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/02/02/tucker-carlsons-nationalist-crusade",
+    "tags": [
+      "analyze",
+      "politics",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "This article offers a deep, unsettling analysis of Tucker Carlson's evolution from a mainstream conservative pundit to a figure increasingly embracing and platforming openly racist and antisemitic tropes, culminating in his controversial interview with white nationalist Nick Fuentes. It meticulously traces Carlson's career trajectory, highlighting his calculated adaptability, from abandoning print journalism for cable news to aligning with Trump and subsequently forging his post-Fox News empire. The author critically examines Carlson's strategic embrace of populist nationalism, often cloaked in anti-capitalist rhetoric, to appeal to a disaffected base, and exposes the disturbing connections between his on-air narratives and far-right extremist ideologies, as evidenced by his former head writer's involvement in racist online forums. The piece concludes with a stark warning about Carlson's enduring influence, despite his descent into extremism, noting his access to power and vast audience reach, making him a significant, albeit concerning, force in contemporary American politics. It's a compelling exploration of media, ideology, and the mainstreaming of radical views.",
+    "summary_zh": "这篇文章深入剖析了塔克·卡尔森从主流保守派评论员堕落为公开拥抱种族主义和反犹主义的媒体人物。他与白人民族主义者尼克·富恩特斯的争议性访谈是其极端化的顶点。文章详细描绘了卡尔森精明的职业生涯转变，从迎合特朗普到离开福克斯新闻后建立自己的媒体帝国。作者批判性地揭示了卡尔森如何策略性地利用民粹民族主义和反资本主义言论，以吸引不满的受众，并曝光了他节目内容与极端右翼意识形态之间令人不安的联系。最令人警醒的是，即便卡尔森已深陷疯狂，他仍能接触到权贵，并拥有数百万听众，这无疑是对美国政治未来的一大挑战。这不仅是新闻，更是对当代社会思潮的深刻反思。",
+    "best_quote_en": "He has descended into madness, but he is speaking to millions.",
+    "best_quote_zh": "他已经陷入疯狂，但他却在对数百万人讲话。"
+  },
+  {
+    "id": 498,
+    "title": "A Clarification",
+    "title_zh": "一个澄清",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/a-clarification",
+    "tags": [
+      "inspire",
+      "society",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2017-12-16",
+    "summary_en": "This clarification addresses the nuance of tolerating controversial ideas versus tolerating 'jerks' in professional settings. The author emphasizes that while intolerance towards disruptive or bigoted individuals is beneficial for organizational output, society must foster an environment where controversial ideas can be freely discussed. This is crucial for progress, as many significant scientific advancements and societal changes began as unpopular opinions. The piece argues that free speech, even when used by 'jerks,' is a necessary mechanism for societal self-correction, enabling the eventual acceptance of once-heretical concepts like gay rights. It thoughtfully explores the difficulty of drawing the line between hate speech and genuinely challenging ideas, positing that future generations will likely judge many of our current beliefs as unethical, just as we judge past generations.",
+    "summary_zh": "这篇文章对“容忍争议性思想”与“容忍讨厌鬼”之间的区别进行了精彩的澄清。作者强调，尽管我们应该摒弃那些令人讨厌、带有偏见的人，但社会必须允许对争议性思想进行自由讨论，因为这是推动进步的关键。许多重大科学突破和社会变革都曾是少数派观点。言论自由，哪怕有时被滥用，也是社会自我修正的必要机制。这让我思考，在信息茧房日益固化的今天，如何平衡言论自由与避免仇恨蔓延，确实是一个深刻而难以解决的难题。",
+    "best_quote_en": "What I meant is simply that we need, as a society, to tolerate controversial ideas. The biggest new scientific ideas, and the most important changes to society, both start as extremely unpopular ideas.",
+    "best_quote_zh": "我的意思很简单，作为一个社会，我们需要容忍有争议的思想。最伟大的新科学思想和最重要的社会变革，都始于极不受欢迎的观点。"
+  },
+  {
+    "id": 499,
+    "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+    "title_zh": "核心要点：治疗、创伤处理及其他人生挑战 | 保罗·康蒂博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-therapy-treating-trauma-and-other-life-challenges-paul-conti",
+    "tags": [
+      "learn",
+      "medicine",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "医学健康",
+      "心理学"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "This Huberman Lab episode, featuring Dr. Paul Conti, offers a deeply insightful exploration into the nature of trauma, its profound impact on the mind and body, and effective therapeutic approaches. What particularly strikes me is the nuanced discussion around guilt and shame as common aftermaths of traumatic experiences, highlighting the critical importance of processing these emotions for true healing. Dr. Conti provides practical, actionable advice on selecting a therapist and navigating the therapeutic journey, which is invaluable for anyone considering professional help. The segment on psychedelic-assisted therapy, including MDMA, is particularly forward-thinking, underscoring evolving perspectives in mental health treatment. This content doesn't just inform; it empowers individuals with knowledge and tools to confront and overcome life's significant psychological challenges, making it a vital resource for personal growth and understanding.",
+    "summary_zh": "本期Huberman Lab与保罗·康蒂博士的对谈，深入剖析了创伤的本质、其对身心的深远影响及有效的治疗路径。我特别欣赏其对创伤后内疚与羞耻感的细致讨论，这揭示了处理这些情绪对于真正疗愈的关键性。康蒂博士不仅提供了选择和有效利用治疗师的实用建议，更探讨了迷幻剂辅助疗法（包括MDMA）的潜力，这无疑为精神健康治疗带来了前瞻性的思考。这不仅仅是知识的传递，更是赋予人们应对心理挑战的工具和力量，极具启发意义。",
+    "best_quote_en": "We explain what trauma is and how it affects the mind and body, as well as the best treatment approaches to support recovery. We also discuss why guilt and shame often follow traumatic experiences and why processing trauma is essential for healing.",
+    "best_quote_zh": "我们解释了什么是创伤，它如何影响身心，以及支持康复的最佳治疗方法。我们还讨论了为什么内疚和羞耻常伴创伤经历，以及为什么处理创伤对治愈至关重要。"
   }
 ]
