@@ -1,119 +1,5 @@
 [
   {
-    "id": 400,
-    "title": "Jess Cartner-Morley on fashion: my top tips for gifting clothes this Christmas",
-    "title_zh": "Jess Cartner-Morley谈时尚：今年圣诞节送衣服的秘诀",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/dec/17/jess-cartner-morley-top-tips-gifting-clothes-christmas",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-12-17",
-    "summary_en": "This article by Jess Cartner-Morley offers practical, insightful advice on the often-tricky task of gifting clothes for Christmas. It moves beyond generic tips, diving into the psychological nuances of gift-giving, distinguishing between a recipient's 'style' and 'taste,' and emphasizing the importance of focusing on the receiver's preferences over the giver's wit. The piece intelligently guides readers away from high-risk items like jeans or dresses, suggesting safer categories such as jumpers, jewelry, or homewear, and even advocates for including a receipt – a pragmatic touch often overlooked. I found the distinction between style and taste particularly illuminating, as it reframes how one approaches selecting a truly thoughtful gift. This isn't just about fashion; it's about empathetic giving.",
-    "summary_zh": "Jess Cartner-Morley这篇关于圣诞节送衣物的文章，提供了非常实用的指导，远超一般建议。我特别欣赏她区分了收礼者的“风格”与“品味”，这不仅是时尚洞察，更是对人际关系和同理心的深刻理解。文章提醒我们，送礼的重点在于对方的喜好，而非送礼者的幽默感，甚至建议附上收据，这简直是化解尴尬的智慧之举。读完后，我对挑选礼物有了更清晰、更体贴的思路，这不仅仅是关于时尚，更是关于如何用心表达关爱。",
-    "best_quote_en": "Your style is the mode in which you present to the world; your taste is what you consider beautiful.",
-    "best_quote_zh": "你的风格是你向世界展示自己的方式；你的品味是你认为美的东西。"
-  },
-  {
-    "id": 401,
-    "title": "Frighteningly Ambitious Startup Ideas",
-    "title_zh": "令人望而却步的雄心勃勃的创业点子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ambitious.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-06",
-    "summary_en": "This essay by Paul Graham delves into the counter-intuitive nature of truly ambitious startup ideas: they often appear frightening and repel rather than attract. He argues that the biggest ideas threaten one's identity and seem impossible, yet it's precisely this daunting quality that makes them less crowded and more likely to succeed. Graham presents several such ideas, including replacing Google Search, email, and universities, as well as pioneering next-gen hardware, reviving Moore's Law, and implementing continuous medical diagnosis. He concludes with tactical advice, emphasizing the importance of starting small and obliquely, like Columbus sailing west, rather than launching a direct frontal assault on a grand vision. This piece offers a profound psychological insight into entrepreneurship, suggesting that discomfort is often a compass pointing towards significant opportunity.",
-    "summary_zh": "保罗·格雷厄姆的这篇随笔深入探讨了那些真正雄心勃勃的创业想法的反直觉特质：它们往往令人望而生畏，而非充满吸引力。我读后不禁思考，或许正是这种压倒性的挑战感，筛选掉了平庸的竞争者，为少数敢于直面恐惧的创业者留下了巨大的空间。文章提出的取代谷歌、电子邮件或大学等想法，听起来确实“疯狂”，但这正是其价值所在——它们挑战了现状，预示着未来的巨大变革。格雷厄姆的战术建议也极具启发性，他主张从小处着手，逐步推进，这与我理解的“千里之行始于足下”不谋而合，提醒我们宏伟目标需要耐心和策略，而非盲目冲锋。",
-    "best_quote_en": "The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.",
-    "best_quote_zh": "最大的想法似乎威胁着你的身份：你怀疑自己是否有足够的雄心去实现它们。"
-  },
-  {
-    "id": 402,
-    "title": "Do we need sparsity afterall?",
-    "title_zh": "我们到底还需要稀疏性吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Hk8tCLZKdAPHdoSdb/do-we-need-sparsity-afterall",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-06",
-    "summary_en": "This paper provocatively challenges the prevailing assumption in mechanistic interpretability that sparsity is essential for understanding AI models. The author, Giuseppe Birardi, presents experimental findings from intervening on Gemma-2-2B's dense MLP neurons. While acknowledging the polysemantic nature of these neurons, the research demonstrates that a small subset of 'high-leverage' neurons, identified through a novel δ×gradient metric, disproportionately influences next-token decisions. By steering these neurons, the model's behavior can be reliably shifted, even transferring factual associations. The work suggests that causal localization can partially compensate for the lack of a learned sparse basis, offering a new avenue for interpretability in dense models. The findings are particularly insightful when examining safety-relevant scenarios, where the base model's engagement can be flipped by targeting a few neurons, though instruction-tuned models prove more resistant due to distributed safety mechanisms. This exploration opens up fascinating questions about the true necessity of sparsity and the potential for interpreting complex, dense representations.",
-    "summary_zh": "这篇论文大胆质疑了稀疏性在AI可解释性中的核心地位。作者通过在Gemma-2-2B密集MLP神经元上进行干预，发现一小部分“高杠杆”神经元对模型行为有决定性影响，并能通过梯度引导的修补来精确操控。这表明，即使在没有稀疏基础的情况下，我们也能通过因果定位实现部分可解释性。最让我深思的是，这种方法在基础模型中能有效“翻转”安全行为，但在经过指令微调的模型中却举步维艰，暗示了安全机制可能以更分布式、更难干预的方式存在。这不仅为AI可解释性提供了新思路，也深刻揭示了模型安全防护的复杂性，挑战我们重新思考稀疏性与理解之间的关系。",
-    "best_quote_en": "Overall, sparsity appears helpful but not strictly necessary for limited forms of causal interpretability in dense models, though generality beyond these settings remains uncertain.",
-    "best_quote_zh": "总的来说，稀疏性似乎有帮助，但对于密集模型中有限形式的因果可解释性而言并非严格必要，尽管这些设置之外的普遍性仍不确定。"
-  },
-  {
-    "id": 403,
-    "title": "The Maduro Regime Without Maduro",
-    "title_zh": "没有马杜罗的马杜罗政权",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-maduro-regime-without-maduro",
-    "tags": [
-      "analyze",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2026-01-06",
-    "summary_en": "This interview dissects the intricate power dynamics of the Maduro regime post-Maduro's seizure by the Trump administration. It offers a political scientist's perspective on how Maduro maintained control through a decentralized 'confederacy' of loyalists granted significant autonomy, rather than a top-down autocracy like Chávez's. The analysis highlights the critical distinction between Chávez's popularity-driven co-option and Maduro's reliance on favors and illicit economic opportunities for his inner circle, especially after the oil boom ended. The discussion also critically evaluates the Venezuelan opposition, particularly María Corina Machado's controversial alliance with Trump, and the profound implications of Trump's transparently self-serving motives for intervention. It's a sobering look at how geopolitical power plays intersect with internal political structures, revealing a continuity of power even without the figurehead, driven by a transactional approach to international relations.",
-    "summary_zh": "这篇访谈深入剖析了马杜罗政权在马杜罗被特朗普政府抓捕后的复杂权力结构。它揭示了马杜罗如何通过赋予其亲信高度自治的“邦联”而非集权式独裁来维系统治，这与查韦斯时期依赖民众支持的策略截然不同。文章还批判性地审视了委内瑞拉反对派，特别是玛丽亚·科里娜·马查多与特朗普的争议性联盟，以及特朗普干预背后赤裸裸的自利动机。这让人不禁思考，当国家利益被个人算计所取代，政治伦理的底线在哪里？权力交接的表象下，深层结构和外部干预如何共同塑造了一个国家的命运。",
-    "best_quote_en": "I think there are many members of the Venezuelan opposition who are not used to a President who really doesn’t care about the same values that they care about. There has always been the belief that the U.S. President defended many different objectives in foreign policy, but that the promotion of democracy, good governance, and rule of law were there. It may not be a priority, but it’s always there.",
-    "best_quote_zh": "我认为委内瑞拉反对派的许多成员不习惯一位根本不关心他们所珍视的价值观的总统。人们一直认为美国总统在外交政策中捍卫着许多不同的目标，但民主、善治和法治的推广始终存在。它可能不是优先事项，但它总是在那里。"
-  },
-  {
-    "id": 404,
-    "title": "Paper Cutting",
-    "title_zh": "剪纸工具推荐",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/paper-cutting/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式"
-    ],
-    "date": "2026-01-05",
-    "summary_en": "This article compiles a diverse range of specialized tools for paper cutting, moving beyond the ubiquitous scissors to offer more precise, efficient, and safer alternatives. From self-healing cutting mats that preserve surfaces and guide blades, to self-sharpening rotary paper cutters like the Dahle 550, and versatile Fiskars rotary cutters that handle various materials, the recommendations cater to different needs. It also highlights niche tools such as Fiskars paper trimmers for perfectly straight cuts, bone folders for professional scoring and creasing, single-sheet cutters for clipping newspaper articles without damaging underlying pages, and rolling scissors ideal for wrapping paper or children. The insights are practical, emphasizing durability, safety, and performance, providing a valuable resource for anyone seeking to upgrade their cutting implements for crafts, office work, or household tasks.",
-    "summary_zh": "这篇文章汇集了各种专业的剪纸工具，超越了传统剪刀的局限，提供了更精准、高效且安全的替代方案。从能自我修复的切割垫，到自动磨刀的Dahle 550滚刀，再到多功能Fiskars旋转切割器，每件工具都解决了特定的痛点。尤其令我印象深刻的是骨质折叠器（bone folder），它能将普通的纸张变成带有专业折痕的艺术品，体现了对细节的极致追求。这些推荐不仅实用，更蕴含着一种对工具美学和功能极致化的探索精神，对于追求效率与品质的创作者而言，无疑是极具启发性的宝藏指南。",
-    "best_quote_en": "The self-healing rubber keeps the surface uniformly smooth, clean, and firm. And protects your table. Get the largest one you have room for and can afford. A large mat also says: don’t pile stuff here.",
-    "best_quote_zh": "自我修复的橡胶使表面保持均匀光滑、清洁和坚固，并保护您的桌面。买你能负担得起、空间又允许的最大尺寸。一张大垫子也意味着：别把东西堆在这里。"
-  },
-  {
     "id": 405,
     "title": "Best of 2025: Don’t call it morning sickness: ‘At times in my pregnancy I wondered if this was death coming for me’ – podcast",
     "title_zh": "2025年精选：别再叫它晨吐了：'怀孕期间我曾怀疑死神降临' – 播客",
@@ -2286,5 +2172,123 @@
     "summary_zh": "本期Huberman Lab与保罗·康蒂博士的对谈，深入剖析了创伤的本质、其对身心的深远影响及有效的治疗路径。我特别欣赏其对创伤后内疚与羞耻感的细致讨论，这揭示了处理这些情绪对于真正疗愈的关键性。康蒂博士不仅提供了选择和有效利用治疗师的实用建议，更探讨了迷幻剂辅助疗法（包括MDMA）的潜力，这无疑为精神健康治疗带来了前瞻性的思考。这不仅仅是知识的传递，更是赋予人们应对心理挑战的工具和力量，极具启发意义。",
     "best_quote_en": "We explain what trauma is and how it affects the mind and body, as well as the best treatment approaches to support recovery. We also discuss why guilt and shame often follow traumatic experiences and why processing trauma is essential for healing.",
     "best_quote_zh": "我们解释了什么是创伤，它如何影响身心，以及支持康复的最佳治疗方法。我们还讨论了为什么内疚和羞耻常伴创伤经历，以及为什么处理创伤对治愈至关重要。"
+  },
+  {
+    "id": 500,
+    "title": "Readers reply: how can we learn from unrequited love?",
+    "title_zh": "读者回复：我们如何从单相思中学习？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/readers-replies-learn-unrequited-love",
+    "tags": [
+      "learn",
+      "education",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "This collection of reader responses offers a rich tapestry of perspectives on navigating and learning from unrequited love. Far from being a mere commiseration, the insights delve into the psychological underpinnings of intense, unreciprocated feelings, suggesting that such experiences can be powerful catalysts for self-discovery and growth. Readers explore themes of unconditional love versus transactional expectations, the role of idealization and projection, and practical strategies for moving on, including setting boundaries, pursuing new interests, and therapeutic reflection. The discussion highlights the importance of self-worth and the realization that true love should be enthusiastic and reciprocal. It challenges the notion of unrequited love as a purely negative experience, reframing it as an opportunity to understand one's own desires and capacity for love, ultimately leading to wiser choices and greater resilience.",
+    "summary_zh": "这篇文章汇集了读者们关于单相思的真知灼见，读来令人深思。它不仅仅是情感上的慰藉，更深入探讨了单相思背后的心理机制，指出这段经历可以是自我发现和成长的强大动力。读者们探讨了无条件之爱与交易式期待的差异，理想化和投射的作用，以及如何通过设定界限、培养新兴趣和进行心理治疗等方式来放下。我特别认同其中关于自我价值和选择真正爱自己的人的观点。单相思的痛苦固然真实，但若能从中学习，它也能成为我们理解自身、提升爱的智慧，并最终找到更健康关系的宝贵一课。这不仅仅是关于“如何克服”，更是关于“如何成长”。",
+    "best_quote_en": "You can grow attached to an unrequited love object as a response to psychological trauma. It could take many years of therapy and life experience to be able to “see” the deeper patterns that can shape the intense feelings of unrequited love.",
+    "best_quote_zh": "你可以因为心理创伤而依恋一个单相思的对象。可能需要多年的治疗和生活经验才能“看清”那些塑造强烈单相思感受的深层模式。"
+  },
+  {
+    "id": 501,
+    "title": "What Startups Are Really Like",
+    "title_zh": "创业公司的真实面貌",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/really.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "This insightful essay, derived from a 2009 Startup School talk, delves into the surprising realities of founding a startup, as revealed by over a hundred founders. It systematically breaks down 19 common surprises, ranging from the critical importance of co-founder relationships and the all-consuming nature of startup life, to the emotional roller-coaster, the unexpected fun, and the absolute necessity of persistence. A core insight is that most founders unconsciously benchmark startup life against a traditional job, leading to profound misjudgments about intensity, emotional swings, and the non-linear path to success. The piece offers invaluable, often counter-intuitive, lessons on everything from product development (start minimal, engage users, be willing to change ideas) to fundraising (expect the worst, investors can be clueless, luck plays a huge role). It's a candid and essential read for anyone contemplating or navigating the startup journey, emphasizing that the 'surprises' are often just realities that differ vastly from conventional work models.",
+    "summary_zh": "这篇文章基于对数百位创业者的调查，揭示了创业的19个真实面貌，颠覆了许多人对创业的固有认知。从联合创始人的重要性、创业对生活的全面侵占，到情绪的过山车、意想不到的乐趣和坚持不懈的关键作用，每一点都令人深思。我尤其被“创业与工作模式的根本差异”这一核心洞察所触动——我们常常不自觉地用打工的思维去衡量创业，这导致了无数的意外。文章也坦诚地指出了融资的残酷现实和运气的重要性。对于志在创业或身在其中的人，这篇深度剖析无疑是一剂清醒剂，提醒我们超越表象，拥抱创业的真实复杂性。",
+    "best_quote_en": "You haven't seen someone's true colors unless you've worked with them on a startup.",
+    "best_quote_zh": "你只有在与人共同创业时，才能看清他们的真面目。"
+  },
+  {
+    "id": 502,
+    "title": "Sunnyvale EA/LW/ACX meetup",
+    "title_zh": "森尼维尔 EA/LW/ACX 聚会",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/events/fEcvsiDn5G8tfY49x/sunnyvale-ea-lw-acx-meetup-1",
+    "tags": [
+      "guide",
+      "society",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "This content announces a casual meetup for the Effective Altruism (EA), LessWrong (LW), and Astral Codex Ten (ACX) communities in Sunnyvale, California. It provides essential logistical details like location, time, and contact information, emphasizing an open, come-and-go format. The event is clearly designed for community building and networking among individuals interested in these specific intellectual movements. While simple in its presentation, the value lies in facilitating real-world connection for a niche, intellectually-driven audience, offering a low-barrier opportunity for engagement. The post also thoughtfully addresses practicalities like rain contingency and what attendees might bring, ensuring a smooth experience.",
+    "summary_zh": "这篇帖子是关于森尼维尔EA/LW/ACX社区的一次线下聚会通知。它简洁明了地提供了活动的时间、地点等关键信息，并强调了随性参与的氛围。对我而言，这不仅是一次简单的社交活动，更是思想社群在线下建立连接、深化交流的宝贵机会。在数字时代，这种面对面的互动显得尤为重要，它能促进更深层次的理解与合作，而非仅仅停留在屏幕上的讨论。细节如雨天备案和建议携带物品，也体现了组织者的周到。",
+    "best_quote_en": "Come join when you can and leave when you want.",
+    "best_quote_zh": "想来就来，想走就走。"
+  },
+  {
+    "id": 503,
+    "title": "The Battle for Minneapolis",
+    "title_zh": "明尼阿波利斯之战",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/dispatch/the-battle-for-minneapolis",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "This dispatch from Minneapolis paints a chilling picture of a city under siege by federal agents, ostensibly for immigration enforcement, but clearly driven by political retribution. The author vividly describes the escalating tension, marked by civilian deaths, widespread protests, and a palpable sense of fear among residents, especially non-white citizens. What's particularly striking is the community's organized resistance, from general strikes to citizen patrols monitoring ICE movements, showcasing a deep-seated progressive activism rooted in the city's history. The narrative highlights the disturbing erosion of civil liberties, the federal government's disregard for local jurisdiction, and the weaponization of immigration policy. It's a stark look at how political power can be wielded to terrorize a population, and the resilience of a community fighting back.",
+    "summary_zh": "明尼阿波利斯正经历一场联邦特工的围困，这篇报道读来令人心寒。文章不仅揭示了移民执法背后的政治报复动机，更描绘了平民死亡、大规模抗议以及市民普遍的恐惧感。最引人深思的是，社区如何自发组织起来，从罢工到公民巡逻，展现出这座城市深厚的进步主义根基。民权被侵蚀，地方管辖权被无视，移民政策沦为政治工具——这一切都让人警醒。面对如此高压，市民的坚韧与反抗精神，无疑是这场“战役”中最动人的篇章。",
+    "best_quote_en": "“We have a paramilitary force in our city acting beyond the Constitution consistently. Clearly, they are just racially profiling people straight up, right? Complete violations of the Fourth Amendment, everywhere.”",
+    "best_quote_zh": "“我们城里有一支准军事部队，他们持续地超越宪法行事。显然，他们就是赤裸裸地进行种族貌相，对吗？到处都是对第四修正案的彻底侵犯。”"
+  },
+  {
+    "id": 504,
+    "title": "TeamLab Borderless / Listen to Whales / Kitchen drawer multitool",
+    "title_zh": "TeamLab Borderless / 聆听鲸鱼 / 厨房抽屉多功能工具",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/teamlab-borderless-listen-to-whales-kitchen-drawer-multitool/",
+    "tags": [
+      "solve",
+      "science",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "This collection of recommendations offers a delightful mix of experiences and practical tools, highlighting the diverse ways technology and creativity can enrich daily life. From the immersive art installations of TeamLab Borderless, which challenge traditional art perceptions and offer pure sensory joy, to Project CETI's innovative use of AI to understand whale communication, the pieces inspire awe and curiosity. The inclusion of practical gadgets like the Workpro 24-in-1 Multitool and MicroMags for travel underscores a focus on simplifying tasks and engaging children. Even a playful 'Correlation Experiment' and a useful iPhone storage cleaner demonstrate how thoughtful design and technology can solve problems or simply provide entertainment, making this a well-rounded and engaging set of recommendations.",
+    "summary_zh": "这组推荐文章如同一份生活探险指南，从东京TeamLab Borderless的沉浸式艺术体验，到Project CETI利用AI解读鲸鱼语言的科学前沿，无不展现着人类的好奇心和创造力。我尤其喜欢它在宏大叙事（如鲸鱼文化）与日常实用（如厨房多功能工具、iPhone清理器）之间找到了平衡。这种对新奇体验和实用主义的兼顾，正是现代生活所追求的。它不仅提供了解决问题的方法，更激发了我们对世界的好奇和探索欲，让人不禁思考科技与艺术如何更好地服务于生活。",
+    "best_quote_en": "Project CETI’s Listen to Whales website is an immersion into the codas and culture of cetaceans, inviting you to literally listen in on sperm whale family life and history. The project uses AI to listen to, decode, and translate sperm whale communication.",
+    "best_quote_zh": "Project CETI 的“聆听鲸鱼”网站让你沉浸在鲸目动物的尾声和文化中，邀请你亲身聆听抹香鲸的家庭生活和历史。该项目利用人工智能聆听、解码并翻译抹香鲸的交流。"
   }
 ]
