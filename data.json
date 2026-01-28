@@ -1,117 +1,5 @@
 [
   {
-    "id": 410,
-    "title": "Cod conflict between two Nato members | Brief letters",
-    "title_zh": "北约两个成员国之间的鳕鱼冲突 | 短信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2026/jan/07/cod-conflict-between-two-nato-members",
-    "tags": [
-      "analyze",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-01-07",
-    "summary_en": "This collection of brief letters offers a fascinating, albeit fragmented, glimpse into diverse societal and historical topics. The most compelling insight stems from the 'Cod Wars' letter, which highlights the ironic geopolitical dynamics of NATO members in conflict, with the US intervening to preserve alliance unity. This particular piece serves as a potent reminder that even within seemingly stable alliances, national interests can clash, and external pressures often dictate resolutions. The other letters, ranging from Shakespearean wisdom on power to quirky local greetings and humorous road sign vandalism, provide a rich tapestry of human experience and communication. While individually anecdotal, collectively they underscore the varied ways people engage with and react to the world around them, reflecting broader cultural and political currents in miniature.",
-    "summary_zh": "这组短函如同一面棱镜，折射出社会与历史的斑斓碎片。最引人深思的是关于“鳕鱼战争”的信件，它揭示了北约内部成员国冲突的讽刺地缘政治，以及美国为维护联盟统一所扮演的角色。这不禁让人思考，即便在看似稳固的联盟中，国家利益的碰撞也难以避免，而外部压力往往是解决冲突的关键。其他信件，从莎士比亚的智慧到地方问候的趣闻，则展现了人类体验和沟通的多元性，这些看似琐碎的日常，却也映射出更广泛的文化与政治图景。",
-    "best_quote_en": "Not at all in the same league as a possible US attack on Greenland, but the cod wars of the 1970s between the UK and Iceland are an example of conflict between two Nato members.",
-    "best_quote_zh": "虽然与美国可能袭击格陵兰岛的事件完全不同，但1970年代英国和冰岛之间的鳕鱼战争是两个北约成员国之间冲突的一个例子。"
-  },
-  {
-    "id": 411,
-    "title": "Schlep Blindness",
-    "title_zh": "苦差事盲区",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/schlep.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2026-01-08",
-    "summary_en": "This essay introduces 'schlep blindness,' a psychological phenomenon where individuals, particularly startup founders, unconsciously avoid identifying or pursuing valuable opportunities because they involve tedious, unpleasant tasks ('schleps'). The author argues that embracing these 'schleps' is fundamental to business success, using Stripe as a prime example of a company that tackled a universally acknowledged but avoided problem (online payments). He provocatively suggests that ignorance can be an asset for young founders, as they underestimate both their capacity for growth and the magnitude of challenges, leading them to tackle ambitious problems others shy away from. Ultimately, the piece encourages a shift in perspective: instead of asking 'what problem should I solve?', ask 'what problem do I wish someone else would solve for me?' to uncover overlooked opportunities.",
-    "summary_zh": "这篇文章提出了一个引人深思的观点——“苦差事盲区”，即人们会无意识地避开那些虽有巨大价值但伴随繁琐工作的机会。作者以Stripe为例，揭示了许多创业者因惧怕“苦差事”而错失解决核心痛点的机会。这让我反思，我们是否也常被表面的困难所迷惑，而忽视了深藏其后的巨大价值？文章还提出，年轻创业者的“无知”反而是优势，因为他们敢于跳入“冷水池”。这不仅是创业智慧，更是人生哲学：真正的成长往往隐藏在那些我们最不愿面对的“苦差事”中。",
-    "best_quote_en": "The most dangerous thing about our dislike of schleps is that much of it is unconscious. Your unconscious won't even let you see ideas that involve painful schleps.",
-    "best_quote_zh": "我们不喜欢苦差事最危险的地方在于，这种不喜欢在很大程度上是无意识的。你的潜意识甚至不会让你看到那些涉及痛苦苦差事的想法。"
-  },
-  {
-    "id": 412,
-    "title": "Using Anki to memorise the names of the MATS 9 cohort",
-    "title_zh": "使用Anki记住MATS 9学员的名字",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/W2CxiAKDcdTkMgopu/using-anki-to-memorise-the-names-of-the-mats-9-cohort",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-08",
-    "summary_en": "This post offers a practical, firsthand account of leveraging Anki, a spaced repetition flashcard system, to effectively memorize a large cohort's names and faces. The author, initially poor with names, details the process of creating a custom Anki deck from provided profiles and shares insights into its success, noting significantly improved recall and social interactions. Critically, the piece also addresses challenges like overfitting to profile picture details and discrepancies between photos and real-life appearances, providing a balanced perspective. It's a compelling case study on applying a learning tool to a common social hurdle, suggesting broader applicability for similar large-group scenarios and even hinting at potential cognitive improvements in name recall over time. The author's proactive approach and honest reflection make this a valuable read for anyone looking to enhance their memory skills.",
-    "summary_zh": "这篇博文记录了作者如何利用Anki记忆MATS 9期学员的名字，读来颇受启发。作者原本不擅长记名字，却通过制作专属Anki牌组，成功克服了这一社交难题。文章不仅分享了操作细节和显著成效，还坦诚地探讨了记忆过程中的挑战，如过度依赖照片细节或现实与照片的差异。这种将学习工具应用于实际社交场景的创新思维，以及对结果的客观反思，让我觉得非常有价值。它不仅解决了眼前问题，更展望了未来记忆能力提升的可能性，确实是一篇既实用又富有洞察力的分享。",
-    "best_quote_en": "I certainly feel like I learnt far more names on the first day than I would have without Anki. At previous similar events, I’d be lucky to properly remember 6 to 8 people’s names, but I’m pretty sure I learnt 10 to 15 new names on the first day (and this I attribute to Anki).",
-    "best_quote_zh": "我确实觉得第一天记住的名字比没有Anki要多得多。在以前类似活动中，我能记住6到8个人的名字就不错了，但我很确定第一天就记住了10到15个新名字（这都归功于Anki）。"
-  },
-  {
-    "id": 413,
-    "title": "The Former Trump Skeptics Getting Behind His War in Venezuela",
-    "title_zh": "前特朗普怀疑论者支持他对委内瑞拉的战争",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-former-trump-skeptics-getting-behind-his-war-in-venezuela",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-07",
-    "summary_en": "This article delves into the complex geopolitical landscape surrounding a hypothetical future U.S. military intervention in Venezuela under a renewed Trump presidency, featuring an interview with Matthew Kroenig, a former 'Never Trump' Republican now advocating for the use of force. Kroenig argues that such actions, while controversial, can serve American interests by removing adversaries like Maduro and deterring other 'bad actors,' asserting that the U.S. has been 'too cautious' post-Iraq and Afghanistan. The piece provocatively explores the tension between geopolitical strategy and democratic values, questioning whether Trump's motivations extend beyond raw power and resource acquisition. It highlights the shifting alliances within the Republican party and the pragmatic, albeit unsettling, rationalizations for military intervention, raising critical questions about the criteria for justified force and the long-term implications for global stability and democratic norms. The discussion around Greenland further complicates the narrative, revealing the unpredictable nature of Trump's 'Art of the Deal' approach to international relations.",
-    "summary_zh": "这篇文章探讨了特朗普政府未来可能对委内瑞拉采取军事行动的复杂性，通过采访一位曾是“永不特朗普”阵营但现支持动武的前共和党人，揭示了地缘政治策略与民主价值观之间的紧张关系。受访者认为，美国在伊拉克和阿富汗战争后过于谨慎，军事干预有时是最佳选择，这不禁让人思考，在追求国家利益时，我们是否正在模糊道德界限？特朗普的行动究竟是基于原则还是纯粹的权力游戏？文章也反映了共和党内部立场的微妙变化，以及对军事干预合理性的功利主义辩护，这让我对国际政治的未来走向感到一丝不安。尤其对格陵兰的讨论，更凸显了特朗普外交手腕的不可预测性，令人深思。",
-    "best_quote_en": "I think the U.S. has been too cautious regarding the use of force, especially since Iraq and Afghanistan, because I think we’ve taken the lesson that this stuff never works, when, in fact, sometimes military force is the best option.",
-    "best_quote_zh": "我认为美国在使用武力方面过于谨慎，尤其是在伊拉克和阿富汗之后，因为我们认为这种做法永远行不通，而事实上，有时军事力量是最佳选择。"
-  },
-  {
-    "id": 414,
-    "title": "What’s in my NOW? — Magnus Ojala",
-    "title_zh": "我现在的工具箱里有什么？— 马格努斯·奥亚拉",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-magnus-ojala/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-01-07",
-    "summary_en": "Magnus Ojala, a Swedish construction professional, shares his curated list of physical, digital, and 'invisible' tools for managing complexity and enhancing productivity in both work and life. His selections, ranging from liquid chalk for weightlifting to a personalized Todoist setup based on Tiago Forte's methodology, emphasize flow, systems thinking, and continuous learning. Ojala's insights are particularly valuable for anyone seeking practical, low-friction strategies to maintain focus, optimize capacity, and ensure long-term effectiveness. The inclusion of the 'Herbie, the bottleneck' concept from 'The Goal' underscores his systems-thinking approach, highlighting that overall performance is limited by constraints, not just individual speed. This article offers a thoughtful blend of personal recommendations and foundational productivity principles.",
-    "summary_zh": "马格努斯·奥亚拉分享了他用于管理复杂性和提升效率的个人工具箱，涵盖物理、数字和“无形”层面。从运动辅助到个性化任务管理系统，他强调了流程、系统思维和持续学习的重要性。最引人深思的是他引用“瓶颈赫比”的理念，这提醒我们系统性能的上限并非由最快的环节决定，而是由最慢的瓶颈所制约。这不仅仅是工具推荐，更是一种关于如何优化个人系统、保护长期产能的深刻反思，对于寻求实用高效方法的读者具有启发意义。",
-    "best_quote_en": "The insight is simple: system performance is governed by its constraints, not by the individual speed of its fastest parts.",
-    "best_quote_zh": "这个洞察很简单：系统性能由其约束条件决定，而非由其最快部分的个体速度决定。"
-  },
-  {
     "id": 415,
     "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
     "title_zh": "冈比亚最高法院审理推翻FGM禁令的企图",
@@ -2300,5 +2188,121 @@
     "summary_zh": "这篇文章深刻地指出，旧金山日益增长的对争议性观点的“政治正确”式不宽容，正在扼杀创新并导致人才流失。作者以在中国比在旧金山更能自由讨论敏感话题的亲身经历为例，引申至历史上对科学思想的压制。他认为，真正的创新文化必须容忍甚至看似“疯狂”或“糟糕”的想法，因为许多突破性发现最初都显得离经叛道。文章批判了将提出者视为“异端”而非辩论思想本身的风气，这无疑会阻碍比特币或SpaceX这类颠覆性创想的诞生。这无疑是对思想自由和开放辩论的强烈呼吁，即便面对令人不适的议题，也应如此，方能推动真正的进步。",
     "best_quote_en": "You can’t tell which seemingly wacky ideas are going to turn out to be right, and nearly all ideas that turn out to be great breakthroughs start out sounding like terrible ideas. So if you want a culture that innovates, you can’t have a culture where you allow the concept of heresy—if you allow the concept at all, it tends to spread.",
     "best_quote_zh": "你无法判断哪些看似古怪的想法最终会是正确的，几乎所有最终成为伟大突破的想法最初听起来都像是糟糕的主意。因此，如果你想要一种创新的文化，就不能有一种允许“异端”概念存在的文化——如果你允许这个概念存在，它就会倾向于蔓延。"
+  },
+  {
+    "id": 510,
+    "title": "Wednesday briefing: ​Can we turn around the growing school readiness crisis?",
+    "title_zh": "周三简报：我们能否扭转日益严重的入学准备危机？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2026/jan/28/wednesday-briefing-can-we-turn-around-the-growing-school-readiness-crisis",
+    "tags": [
+      "update",
+      "education",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "This article delves into the escalating \"school readiness crisis\" in England and Wales, highlighting a significant disconnect between parental expectations and the foundational skills children possess upon entering primary school. Drawing on a Kindred² survey, it reveals nearly 40% of children lack basic self-care and social skills, leading to substantial lost teaching time. The piece attributes this crisis to rising living costs, reduced early years services (like Sure Start), and pervasive screen use among young children, which impacts language, attention, and motor skills. It critically examines the long-term implications for educational outcomes and teacher morale, while advocating for clearer, non-judgmental guidance for parents. The article's strength lies in its data-driven approach and its nuanced exploration of a complex societal issue, moving beyond blame to seek actionable solutions for early childhood development.",
+    "summary_zh": "这篇文章深入探讨了英国日益严重的“入学准备危机”，指出家长预期与孩子入学时的实际能力之间存在巨大差距。近四成儿童缺乏基本自理和社交技能，导致教学时间大量流失。文章分析了生活成本上涨、早期教育服务削减以及屏幕过度使用等深层原因，并强调了早期发展对孩子未来的关键作用。我特别欣赏作者在分析问题时避免指责家长，而是呼吁提供清晰、非评判性的指导。这不仅是教育问题，更是社会公平和儿童福祉的体现，需要全社会共同关注和解决。",
+    "best_quote_en": "“This isn’t about blaming and shaming parents. It’s about acknowledging that there is a genuine gap in understanding about what being school ready actually means – and then getting that information out clearly and early.”",
+    "best_quote_zh": "“这无关指责或羞辱父母。这关乎承认在‘入学准备’的真正含义上存在理解上的差距——然后清晰、及早地传达这些信息。”"
+  },
+  {
+    "id": 511,
+    "title": "Post-Medium Publishing",
+    "title_zh": "后媒介时代出版业",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/publishing.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "This insightful piece from 2009 critically dissects the publishing industry's long-held misconception: that they sell 'content.' The author provocatively argues that publishers historically sold the 'medium' (paper, vinyl, film) and that content was merely a byproduct, priced by format, not quality. With the advent of digital, the medium evaporates, leaving publishers with nothing to sell. The essay explores why consumers pay for information (e.g., stock tips, Bloomberg terminals) but rarely for general 'content' like news or music, drawing parallels to iTunes as a 'tollbooth' rather than a content seller. It foresees a future where content is largely free, monetized indirectly through advertising, concerts, or embodied in premium physical forms, challenging traditional business models and urging a focus on new forms enabled by technology rather than clinging to old revenue streams. The analysis remains strikingly relevant over a decade later.",
+    "summary_zh": "这篇2009年的文章对出版业的核心商业模式进行了颠覆性剖析。作者独到地指出，出版商卖的从来不是“内容”，而是“媒介”——纸张、唱片等。当数字时代来临，媒介消解，出版业赖以生存的基础也随之瓦解。文章深入探讨了为何人们愿意为“信息”（如股票建议）付费，却不愿为“内容”（如新闻、音乐）买单，并预言了内容免费化、通过间接方式（广告、演出）或实体化（奢华杂志、体验式影院）盈利的未来。它不仅是对传统出版业的深刻反思，更是对所有内容创作者和平台在数字时代如何定位自身价值的启发性思考，其洞察力至今仍未过时。",
+    "best_quote_en": "The reason they make less money now is that people don't need as much paper.",
+    "best_quote_zh": "他们现在赚的钱少了，是因为人们不再需要那么多纸了。"
+  },
+  {
+    "id": 512,
+    "title": "Contra Sam Harris on Free Will",
+    "title_zh": "驳萨姆·哈里斯的自由意志论",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/tnSagkAADcjRRtbAu/contra-sam-harris-on-free-will",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "This essay critically examines Sam Harris's denial of free will, proposing a compatibilist definition rooted in a 'deliberative algorithm.' The author argues that free will isn't about ultimate authorship or escaping determinism, but rather about the conscious, causal process of weighing reasons, evaluating options, and acting based on one's values. By dissecting Harris's arguments, such as the 'conscious witness' analogy and the 'could have done otherwise' thought experiment, the author demonstrates that the everyday experience of free will aligns with a scientifically grounded, albeit constrained, decision-making mechanism. The analysis provocatively suggests that without this algorithmic understanding of free will, concepts like moral responsibility, accountability, and the distinction between choice and reflex become incoherent, leaving a 'free-will-shaped hole' in our understanding of human agency. It's a thoughtful and nuanced engagement with a complex philosophical debate.",
+    "summary_zh": "这篇文章深入探讨了自由意志这一古老议题，挑战了萨姆·哈里斯的观点，提出了一种基于“审慎算法”的兼容论自由意志。作者巧妙地将自由意志定义为一种有意识的、能动的决策过程，而非超脱因果链的神秘力量。读来令人深思的是，作者不仅驳斥了哈里斯的“意识只是旁观者”论调，更通过剖析日常选择与病理案例，有力论证了这种算法式自由意志在道德、法律及人类体验中的核心作用。它让我重新思考，我们日常感受到的“选择”并非幻觉，而是大脑中实实在在的因果作用，这对理解人类能动性至关重要。",
+    "best_quote_en": "Free will, as I've described it, exists the way beliefs exist. If you shrunk down in a Magic School Bus you wouldn’t find beliefs stored in labeled containers in the brain. But beliefs are real, right? They're what we call a certain functional capacity of the brain. Free will is similar. It's the name for what's happening when a system weighs reasons, considers alternatives, and selects among them.",
+    "best_quote_zh": "自由意志，正如我所描述的，其存在方式与信念的存在方式类似。如果你乘坐魔法校车缩小进入大脑，你不会在贴有标签的容器里找到信念。但信念是真实的，对吧？它们是我们称之为大脑某种功能能力的东西。自由意志也类似。它是一个系统权衡理由、考虑替代方案并从中进行选择时所发生的事情的名称。"
+  },
+  {
+    "id": 513,
+    "title": "Why an Agnostic Animal-Rights Activist Went to Seminary",
+    "title_zh": "为什么一个不可知论的动物权利活动家去了神学院",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/why-an-agnostic-animal-rights-activist-went-to-seminary",
+    "tags": [
+      "inspire",
+      "society",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "This insightful interview explores Wayne Hsiung's unexpected journey from a radical animal rights activist to a seminary student. Hsiung, an agnostic, reflects on the limitations of purely secular activism, particularly its inability to foster sustained identity, community, and shared moral purpose. He argues that traditional religious institutions, with their established scaffolding of shared narratives, rituals, and physical spaces, offer a crucial framework for building resilient social movements. The article delves into the inherent human need for divine purpose and moral community, suggesting that progressive movements, and even churches themselves, can find renewed vitality by embracing a broader, more muscular form of compassion that extends to the vulnerable, including animals. It's a thought-provoking piece that challenges conventional views on activism and the role of faith in social change.",
+    "summary_zh": "一个不可知论的动物权利活动家竟选择进入神学院，这听起来有些匪夷所思，但韦恩·熊的经历却引人深思。他发现，纯粹的世俗运动难以维系长久的认同感和道德凝聚力。宗教机构提供的共同叙事、仪式和社区空间，恰恰是构建强大社会运动的基石。文章探讨了人类对神圣目的和道德社区的深层需求，并提出进步运动甚至教会本身，都可以通过拥抱更广阔的同情心（包括对动物的关怀）来重获生机。这不仅是对传统活动模式的反思，也为信仰在社会变革中的作用提供了新的视角。",
+    "best_quote_en": "I think the most powerful and most obvious next iteration for this expansion of our moral boundaries is other sentient beings.",
+    "best_quote_zh": "我认为，扩展我们道德边界的最强大、最明显的下一步，就是关注其他有感知能力的生命。"
+  },
+  {
+    "id": 514,
+    "title": "Irving Harper: Works in Paper / Where’s Warhol?",
+    "title_zh": "欧文·哈珀：纸上作品 / 沃霍尔在哪里？",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/irving-harper-works-in-paper-wheres-warhol/",
+    "tags": [
+      "learn",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "This article reviews two distinct art books: 'Irving Harper: Works in Paper' and 'Where's Warhol?'. The first highlights the extraordinary paper sculptures of renowned furniture designer Irving Harper, showcasing his hidden artistic genius beyond his professional work. It emphasizes how a simple material like paper can be transformed into complex, imaginative art, inspiring readers to appreciate creativity in unexpected forms. The second book, 'Where's Warhol?', offers a playful, 'Where's Waldo'-style visual puzzle. It cleverly integrates Andy Warhol into iconic historical and art scenes, inviting readers to engage with art history through discovery and observation. Both reviews celebrate different facets of artistic expression and engagement, from profound personal creation to interactive art history, making them valuable for art enthusiasts and those seeking creative inspiration.",
+    "summary_zh": "这篇文章评论了两本截然不同的艺术书籍。欧文·哈珀的《纸上作品》揭示了这位家具设计大师不为人知的纸雕艺术天赋，其作品将日常材料升华为令人惊叹的艺术品，这着实令人思考：真正的创造力是否总在不经意间绽放？而《沃霍尔在哪里？》则以一种轻松有趣的方式，将安迪·沃霍尔融入历史与艺术场景，这种互动式的艺术探索，让艺术史变得触手可及。两本书都以独特视角展现了艺术的魅力，一本是深沉的个人创作，一本是活泼的文化互动，共同提醒我们艺术无处不在，形式多样。",
+    "best_quote_en": "The image remains in the mind even after closing the book as a quiet and powerful document of a humble genius who gave shape to his imagination with the simplest of resources.",
+    "best_quote_zh": "合上书后，那幅画面依然萦绕脑海，它以一种安静而有力的方式记录了一位谦逊的天才，他用最简单的资源塑造了自己的想象力。"
   }
 ]
