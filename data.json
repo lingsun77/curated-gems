@@ -1,121 +1,5 @@
 [
   {
-    "id": 415,
-    "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
-    "title_zh": "冈比亚最高法院审理推翻FGM禁令的企图",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
-    "tags": [
-      "solve",
-      "society",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "This article details the ongoing legal battle in The Gambia to overturn the ban on Female Genital Mutilation (FGM), highlighting a concerning global trend of regression in women's rights. Religious leaders and an MP are challenging the ban in the supreme court, despite recent FGM-related infant deaths and widespread international condemnation of the practice. The content effectively exposes the arguments of pro-FGM proponents, including claims of cultural and religious freedom, and disturbing justifications like reducing women's sexual desire. It also connects this local struggle to a broader international anti-rights movement, citing examples from Sierra Leone, Afghanistan, the US, and Iran. This piece is crucial for understanding the complex interplay of tradition, law, and human rights, and the persistent challenges in safeguarding women's bodily autonomy.",
-    "summary_zh": "这篇文章揭示了冈比亚企图推翻FGM禁令的法律斗争，这不仅仅是当地事件，更是全球范围内女性权利倒退浪潮中的一个缩影。读来令人深思，当所谓的“文化和宗教自由”被用来合理化对女性身体的残害时，我们必须警惕其背后对人权的漠视。文章中提及的婴儿死亡案例，以及某些支持者将FGM与降低女性性欲挂钩的言论，无疑是对人性和尊严的极大侮辱。这提醒我们，争取女性权利的道路依然漫长且充满挑战，需要持续的关注和坚定的行动。",
-    "best_quote_en": "“If this issue is still being [debated at a national level], it shows us that women’s rights are really regressing. This is not an isolated issue – it’s part of a global regression on women’s rights.”",
-    "best_quote_zh": "“如果这个问题仍在（国家层面）被辩论，这表明女性权利确实正在倒退。这不是一个孤立的问题——它是全球女性权利倒退的一部分。”"
-  },
-  {
-    "id": 416,
-    "title": "Snapshot: Viaweb, June 1998",
-    "title_zh": "快照：Viaweb，1998年6月",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/vw.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "This piece offers a fascinating retrospective on Viaweb, a pioneering e-commerce platform co-founded by Paul Graham, just before its acquisition by Yahoo in 1998. It provides a vivid snapshot of early internet technology and startup culture, highlighting the stark differences in web design, marketing, and infrastructure compared to today. Graham's personal anecdotes, like Robert Morris's aversion to publicity or Trevor Blackwell's instant millionaire status, inject a delightful human element. The insights into bandwidth constraints, the nascent state of SEO, and the challenges of online payment processing underscore the ingenuity required to build a successful tech company in the pre-Google, pre-AWS era. It’s a compelling look at the foundational struggles that paved the way for modern digital commerce, offering valuable lessons on adaptability and resourcefulness.",
-    "summary_zh": "这篇关于Viaweb的回顾文章，如同打开了时间胶囊，让我们窥见了1998年互联网的原始风貌。保罗·格雷厄姆的个人视角，不仅揭示了早期电商创业的艰辛与智慧，更勾勒出那个时代技术局限下的创新精神。从简陋的网页设计到带宽的稀缺，再到搜索引擎和支付的萌芽，每一处细节都让人感叹今昔之变。它不只是一段科技史，更是一堂生动的创业课，提醒我们，今天的便利都源于昨天的无数次试错和突破。",
-    "best_quote_en": "In those days there was no AWS. Even colocating servers seemed too risky, considering how often things went wrong with them. So we had our servers in our offices. Or more precisely, in Trevor's office.",
-    "best_quote_zh": "在那些日子里，还没有AWS。即使是托管服务器也显得风险太大，考虑到它们经常出问题。所以我们的服务器就在办公室里。或者更准确地说，在特雷弗的办公室里。"
-  },
-  {
-    "id": 417,
-    "title": "Parameters of Metacognition - The Anesthesia Patient",
-    "title_zh": "元认知参数：麻醉患者",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/vtxZtjiR9Rb9HC72N/parameters-of-metacognition-the-anesthesia-patient",
-    "tags": [
-      "analyze",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "This article delves into the parameters of metacognition through the lens of a compelling clinical case study: a patient experiencing awareness during general anesthesia. It masterfully dissects the patient's terrifying ordeal—hearing conversations, feeling pressure, and struggling to breathe while paralyzed—to introduce three quantifiable parameters: Working Memory Bandwidth (B), Nested Observer Depth (d), and Metacognitive Intransparency (τ). The author argues these parameters offer a more nuanced understanding of conscious states than a binary 'awake/unaware' distinction. I found the intellectual rigor in connecting a harrowing real-world scenario to abstract cognitive science concepts truly fascinating. The discussion on how these parameters can generalize to various mental states, from sleep to meditation, provides a robust framework for future research into consciousness and self-awareness. The integration of information theory and neuroscience to formalize these concepts is particularly insightful, offering a path to empirically measure subjective experience.",
-    "summary_zh": "这篇文章通过一个令人震惊的麻醉患者案例，深入探讨了元认知参数。患者在全身麻醉中保持意识，经历着听觉、触觉和呼吸受阻的恐惧，作者以此引出工作记忆带宽（B）、嵌套观察者深度（d）和元认知不透明性（τ）三个可量化参数。这种将恐怖的临床经验与抽象认知科学概念相结合的分析方法令人着迷，它超越了简单的“清醒/无意识”二分法。文章将这些参数推广到睡眠和冥想等多种精神状态，为意识和自我意识研究提供了新的框架。结合信息论和神经科学来量化主观体验，展现了极高的理论价值和实践潜力。",
-    "best_quote_en": "Instead of asking 'were they awake/aware?' you can point to a region and ask if they were in one region or another.",
-    "best_quote_zh": "与其问“他们是醒着还是有意识的？”，不如指向一个区域，问他们是否处于某个区域。"
-  },
-  {
-    "id": 418,
-    "title": "Why Donald Trump Wants Greenland (and Everything Else)",
-    "title_zh": "为什么唐纳德·特朗普想要格陵兰岛（以及其他一切）",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/why-donald-trump-wants-greenland-and-everything-else",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "This article offers a chilling glimpse into a hypothetical 2026 where Donald Trump, in his second term, has escalated his transactional foreign policy into aggressive unilateralism, exemplified by his persistent desire to acquire Greenland and a recent military raid in Venezuela. The author, Susan B. Glasser, critically analyzes Trump's worldview, portraying it not as isolationism but as a narcissistic pursuit of power where 'ownership is very important' and military force is an end in itself. The piece effectively uses the Greenland anecdote, initially dismissed as a whim, to illustrate a broader, dangerous pattern of international behavior. It raises profound questions about the future of alliances like NATO and the U.S. role in global stability, concluding with a stark warning about the potential for institutional resistance to crumble under such an administration. The shift from historical curiosity to a current crisis makes the narrative particularly impactful.",
-    "summary_zh": "这篇分析描绘了一个令人不安的2026年，特朗普的第二任期内，其外交政策已演变为赤裸裸的单边主义和权力攫取。文章以他执意收购格陵兰岛和对委内瑞拉的军事行动为例，深刻揭示了特朗普将军事力量视为目的而非手段的危险心态。作者的笔触冷静而犀利，通过一个看似荒诞的“格陵兰梦”，剖析了其对国际秩序和盟友关系的颠覆性影响。读罢，我不禁思考，当权力脱缰，国际规则和道德底线将如何被重塑？这不仅是对特定政治人物的批判，更是对全球治理未来走向的深刻警示。",
-    "best_quote_en": "Trump’s approach to the world is not the isolationism that many of his supporters celebrated when he returned to the White House, vowing an “America First” shift away from the liberal internationalism of his predecessors, but a narcissistic form of unilateralism that says, loudly, I can do whatever I want, whenever and however I want to do it.",
-    "best_quote_zh": "特朗普对世界的态度，并非许多支持者在他重返白宫时所庆祝的孤立主义——他曾誓言将“美国优先”转向其前任的自由国际主义——而是一种自恋式的单边主义，大声宣称：我想做什么，何时做，如何做，都由我说了算。"
-  },
-  {
-    "id": 419,
-    "title": "Busiest Air Routes/Best Headphones/TSA + Staples",
-    "title_zh": "最繁忙航线/最佳耳机/TSA + Staples",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/busiest-air-routes-best-headphones-tsa-staples/",
-    "tags": [
-      "update",
-      "cybersecurity",
-      "marketing",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "网络安全",
-      "市场营销",
-      "数据驱动"
-    ],
-    "date": "2026-01-08",
-    "summary_en": "This article offers a concise yet insightful collection of travel and consumer tips, leveraging data and expert reviews to challenge common assumptions. The analysis of busiest air routes highlights a significant disparity between North American and Asian travel volumes, providing a data-driven perspective often overlooked in general travel advice. The headphone review is particularly compelling, as it debunks the 'price equals quality' myth with a blind test, showcasing an affordable product outperforming expensive counterparts. The updates on Vrbo and TSA Pre-check at Staples reveal practical, user-centric solutions to common travel frustrations, demonstrating a keen understanding of consumer pain points. The content effectively blends practical advice with data-backed insights, making it highly valuable for savvy travelers and consumers looking to optimize their experiences and expenditures.",
-    "summary_zh": "这篇文章以精炼的笔触，提供了旅行和消费领域的独到见解。最繁忙航线的分析揭示了亚洲航线的惊人客流量，这与我们惯常对北美航线的认知形成鲜明对比，令人深思。耳机评测则通过盲测推翻了“价格决定品质”的刻板印象，推荐了一款性价比极高的产品，这无疑是消费者的福音。而Vrbo政策更新和TSA Pre-check在Staples办理的资讯，则精准切中了旅行者的痛点，提供了切实可行的解决方案。整体而言，这篇文章短小精悍，却充满了数据支持的实用智慧，对于追求高效与性价比的读者而言，是不可多得的宝藏。",
-    "best_quote_en": "One glance at this list will make it obvious that the supposedly busy flight paths in North America have nothing on Asia.",
-    "best_quote_zh": "看一眼这份榜单就会明白，北美那些所谓的繁忙航线和亚洲的根本没法比。"
-  },
-  {
     "id": 420,
     "title": "Brooklyn Peltz Beckham set an important trend. Will other men follow? | Polly Hudson",
     "title_zh": "布鲁克林·佩尔茨·贝克汉姆开创了一项重要趋势。其他男性会效仿吗？ | 波莉·哈德森",
@@ -2304,5 +2188,123 @@
     "summary_zh": "这篇文章评论了两本截然不同的艺术书籍。欧文·哈珀的《纸上作品》揭示了这位家具设计大师不为人知的纸雕艺术天赋，其作品将日常材料升华为令人惊叹的艺术品，这着实令人思考：真正的创造力是否总在不经意间绽放？而《沃霍尔在哪里？》则以一种轻松有趣的方式，将安迪·沃霍尔融入历史与艺术场景，这种互动式的艺术探索，让艺术史变得触手可及。两本书都以独特视角展现了艺术的魅力，一本是深沉的个人创作，一本是活泼的文化互动，共同提醒我们艺术无处不在，形式多样。",
     "best_quote_en": "The image remains in the mind even after closing the book as a quiet and powerful document of a humble genius who gave shape to his imagination with the simplest of resources.",
     "best_quote_zh": "合上书后，那幅画面依然萦绕脑海，它以一种安静而有力的方式记录了一位谦逊的天才，他用最简单的资源塑造了自己的想象力。"
+  },
+  {
+    "id": 515,
+    "title": "You be the judge: should my husband stop expecting me to come to all his family gatherings?",
+    "title_zh": "你来评判：我丈夫是否应该停止期待我参加他所有的家庭聚会？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/29/you-be-the-judge-should-my-husband-stop-expecting-me-to-come-to-all-his-family-gatherings",
+    "tags": [
+      "solve",
+      "society",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "This article presents a compelling domestic dispute between Chloe, who values her independence and personal space, and Edwin, whose large Colombian family is central to his identity. The core conflict arises from Edwin's expectation for Chloe to attend all family gatherings, which Chloe perceives as thoughtless and formal, especially given her past trauma and independent nature. Edwin, conversely, views her attendance as a symbol of their unity and inclusion, feeling embarrassed when she's absent. The piece insightfully highlights how differing family backgrounds and attachment styles profoundly impact relationship dynamics, especially concerning social obligations and the need for personal boundaries. It's a nuanced look at the tension between individual needs and partner expectations, offering valuable lessons on communication and empathy in relationships.",
+    "summary_zh": "这篇文章呈现了一场引人深思的家庭冲突，核心在于伴侣双方对家庭参与的不同期待。Chloe渴望独立空间，而Edwin则希望她能融入他庞大的家庭。这不仅仅是简单的喜好差异，更深层地反映了各自的成长经历和依恋模式如何塑造了他们对“家庭”和“伴侣”的理解。读完不禁让人思考，在亲密关系中，我们如何平衡自我需求与伴侣的期望，以及原生家庭对个人行为模式的深远影响。这不只是一场争论，更是对理解与包容的深刻探讨。",
+    "best_quote_en": "When I ask her to come to family events, it’s not about wheeling her out like a prop. It’s about inclusion, showing everyone that I have my person and that she’s part of us.",
+    "best_quote_zh": "当我让她来参加家庭活动时，这并不是把她像道具一样推出去。这是关于包容，向所有人展示我拥有我的伴侣，而她是我们的一部分。"
+  },
+  {
+    "id": 516,
+    "title": "The List of N Things",
+    "title_zh": "N件事列表",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nthings.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "This insightful essay deconstructs the ubiquitous 'list of N things' format, prevalent in popular media and even academic writing. The author provocatively argues that its popularity stems from its inherent simplicity for both readers and writers: it provides an explicit, compartmentalized structure that reduces cognitive load, offers fault tolerance, and is easy to generate, especially under pressure. While acknowledging its utility for genuinely cataloging independent items, the piece critically examines its limitations, particularly its dishonesty when claiming exhaustiveness and its inherent restriction on genuine new thought and dynamic exploration—the very essence of a true essay. The analogy to a 'cheeseburger of essay forms' is particularly apt, highlighting its reliability for both the uninspired writer and the skeptical reader, yet underscoring its lack of intellectual ambition. The author’s critique extends to the traditional five-paragraph essay, exposing its hidden 'list of N things' structure and the disservice of not openly teaching its strengths and weaknesses to new writers.",
+    "summary_zh": "这篇文章对随处可见的“N件事列表”体裁进行了鞭辟入里的剖析。作者独到地指出，这种格式之所以流行，在于其为读者和作者都提供了极大的便利：结构清晰、易于消化、抗错性强，且便于快速产出。然而，其核心洞察在于批判这种格式对深度思考的限制，它像一个预设好的容器，阻碍了思想的自由流动和真正新颖观点的生成。将它比作“散文界的芝士汉堡”，不仅形象地描绘了它的普及性和低风险性，也暗示了其在思想深度上的平庸。我特别欣赏作者对传统五段式作文的解构，揭示了其本质上也是一种“N件事列表”，并呼吁更坦诚地教授其优缺点，这无疑是对写作教育的一次深刻反思。",
+    "best_quote_en": "The greatest weakness of the list of n things is that there's so little room for new thought. The main point of essay writing, when done right, is the new ideas you have while doing it.",
+    "best_quote_zh": "N件事列表最大的弱点在于它几乎没有产生新思想的空间。真正好的散文写作，其核心在于你在写作过程中所产生的新想法。"
+  },
+  {
+    "id": 517,
+    "title": "The Cruel Conditions of ICE’s Mojave Desert Detention Center",
+    "title_zh": "ICE莫哈韦沙漠拘留中心的残酷条件",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-cruel-conditions-of-ices-mojave-desert-detention-center",
+    "tags": [
+      "analyze",
+      "medicine",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "This article exposes the horrific medical neglect and inhumane conditions at ICE's California City Detention Facility, arguing that these cruelties are intentionally weaponized to coerce self-deportations. Through harrowing personal accounts of detainees like Karam, Roque Campos, and Viera Reyes, the piece details systemic denial of medication, delayed medical appointments, and unsanitary living conditions, leading to severe health deterioration and psychological distress. It critically examines the role of CoreCivic, a for-profit prison company, in operating the facility in alleged violation of state and local laws, driven by revenue motives. The analysis also highlights the federal administration's punitive approach to immigration, creating an environment where ICE staff feel emboldened to act aggressively without accountability, transforming civil detention into a 'torture chamber.' The article raises profound questions about human rights, corporate ethics, and governmental oversight in the context of immigration enforcement.",
+    "summary_zh": "这篇文章揭露了ICE加州城拘留中心令人发指的医疗忽视和非人道待遇，指出这些残酷条件被蓄意用作强迫被拘留者“自我遣返”的武器。通过卡拉姆、罗克·坎波斯和维埃拉·雷耶斯等被拘留者的悲惨经历，文章详细描述了系统性的医疗药物拒绝、医疗预约延误以及不卫生的生活条件，导致严重的健康恶化和心理困扰。它深入探讨了营利性监狱公司CoreCivic在涉嫌违反州和地方法律的情况下运营该设施的角色，其背后是巨大的经济利益驱动。文章还批判了联邦政府对移民采取的惩罚性措施，这种政策助长了ICE工作人员肆无忌惮的侵略性行为，使民事拘留中心沦为“人间地狱”。这引发了对移民执法中人权、企业伦理和政府监管的深刻反思。",
+    "best_quote_en": "“California City is extraordinarily isolated, it is extraordinarily brutal and cruel, it is extraordinarily deprived of adequate medical care.”",
+    "best_quote_zh": "“加州城极度孤立，极度残酷和残忍，极度缺乏足够的医疗保障。”"
+  },
+  {
+    "id": 518,
+    "title": "What’s in my NOW? — Jayme Boucher",
+    "title_zh": "我现在的“NOW”是什么？— Jayme Boucher",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-jayme-boucher/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "This piece offers a delightful glimpse into Jayme Boucher's current fascinations, spanning physical objects, digital tools, and an impactful 'invisible' philosophy. What's compelling isn't just the curated list, but the personal narrative woven through each recommendation—from the joy of gifting Penzy's Spices to the therapeutic gaze upon a wave study, or the covetous acquisition of a Le Creuset braiser. Digitally, her appreciation for Dungeon Scrawl and the insightful writings of Hanif Abdurraqib reveal a blend of creative escapism and intellectual engagement. The overarching theme, crystallized by the quote \"Now will never come again,\" provides a poignant reminder of presence and intentionality. It's a testament to how seemingly disparate interests can coalesce into a meaningful reflection of one's current self, offering readers both practical suggestions and a subtle nudge towards mindful living.",
+    "summary_zh": "Jayme Boucher的“NOW”清单，与其说是一份推荐，不如说是一面映射当下心境的镜子。从厨房里的香料与奢华厨具，到数字世界的D&D地图工具和文学洞察，再到那句“当下不复再来”的哲思，每一项都流露出她对生活的热爱与对细节的考究。这不仅仅是物品与工具的罗列，更是她个人价值观和生活哲学的生动体现。它提醒我们，真正的“现在”是由我们选择投入精力、感受喜悦的那些瞬间所构成的，充满着发现与创造的可能。",
+    "best_quote_en": "“Now will never come again.”",
+    "best_quote_zh": "“当下不复再来。”"
+  },
+  {
+    "id": 519,
+    "title": "The Merge",
+    "title_zh": "融合",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-merge",
+    "tags": [
+      "inspire",
+      "design",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2017-12-07",
+    "summary_en": "This thought-provoking piece challenges the conventional understanding of the 'singularity' or 'merge' between humans and machines, arguing that it's not a future event but a gradual process already underway. The author compellingly illustrates how our daily lives are intertwined with algorithms that subtly dictate our behaviors and thoughts, highlighting the invisible yet profound influence of AI. The article delves into the inevitability of superhuman AI and genetic enhancement, urging a shift from human arrogance to a pragmatic view of co-evolution. It posits that a 'merge' is not only probable but perhaps the most desirable outcome for humanity's survival and dominance, advocating for global coordination to navigate this transformative era. The personal reflection on attention hacking as a 'sugar epidemic' adds a poignant and relatable dimension to the broader technological discourse.",
+    "summary_zh": "这篇文章对人类与机器的“融合”提出了深刻见解，认为这并非未来科幻，而是正在发生的渐进过程。作者以个人化的视角，剖析了算法如何悄然塑造我们的行为与思维，令人警醒。它不仅探讨了超人类AI和基因增强的必然性，更呼吁我们放弃人类中心主义的傲慢，积极思考如何与AI共存。文章提出，“融合”或许是人类生存的最佳路径，并强调全球协作应对这一变革的紧迫性。末尾对“注意力黑客”的个人反思，更是触动人心，令人深思数字时代对我们心智的深远影响。",
+    "best_quote_en": "We will be the first species ever to design our own descendants. My guess is that we can either be the biological bootloader for digital intelligence and then fade into an evolutionary tree branch, or we can figure out what a successful merge looks like.",
+    "best_quote_zh": "我们将是第一个设计自己后代的物种。我猜测，我们要么成为数字智能的生物引导程序，然后淡出进化树的一个分支，要么我们能找出成功的融合是什么样子。"
   }
 ]
