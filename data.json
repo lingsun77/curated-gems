@@ -1,119 +1,5 @@
 [
   {
-    "id": 425,
-    "title": "Jess Cartner-Morley on fashion: like a superhero cloak, a white shirt gives you formidable power",
-    "title_zh": "Jess Cartner-Morley谈时尚：白衬衫如超级英雄的斗篷，赋予你强大的力量",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jan/07/jess-cartner-morley-on-fashion-like-a-superhero-cloak-a-white-shirt-gives-you-formidable-power",
-    "tags": [
-      "guide",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式"
-    ],
-    "date": "2026-01-07",
-    "summary_en": "This article explores the enduring appeal and transformative power of a simple white shirt, arguing it's more than just a versatile garment—it's a symbol and source of self-confidence. Jess Cartner-Morley delves into how this wardrobe staple, often overlooked or confined to corporate settings, can be styled to project an aura of effortless command and inner strength. She offers practical advice on how to free the white shirt from its conventional constraints, suggesting specific styling techniques like unbuttoning, rolling sleeves, and pairing with wider jeans to achieve a relaxed yet intentional look. The piece effectively blends fashion commentary with psychological insight, positioning the white shirt as a tool for personal empowerment rather than mere sartorial choice. It's a thoughtful reflection on how clothing can influence self-perception and external presentation.",
-    "summary_zh": "这篇时尚评论深刻剖析了白衬衫的非凡魅力，它不仅是百搭单品，更是一种自信的象征与源泉。Jess Cartner-Morley以充满洞察力的笔触，将白衬衫比作超级英雄的斗篷，强调其赋予穿着者强大气场的能力。文章不仅提供了实用的搭配建议，如解开纽扣、卷起袖子，以及与阔腿牛仔裤的搭配技巧，更触及了时尚与心理的深层联结。它启发我们思考，一件看似简单的衣物，如何能在无形中提升自我认同，并向世界传递出一种毫不费力的优雅与力量感，这远超出了服装本身的物质价值。",
-    "best_quote_en": "A white shirt is self-confidence. It stands for it, and it brings it, and that’s the real secret. It is a superhero cloak that bestows you with this formidable power.",
-    "best_quote_zh": "白衬衫就是自信。它代表自信，也带来自信，这才是真正的秘密。它是一件超级英雄的斗篷，赋予你这种强大的力量。"
-  },
-  {
-    "id": 426,
-    "title": "The Patent Pledge",
-    "title_zh": "专利承诺",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/patentpledge.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-01-11",
-    "summary_en": "This essay critically examines the pervasive issue of patent abuse, particularly how established companies leverage patents to stifle innovation from smaller competitors. The author proposes a \"Patent Pledge\"—a voluntary, non-legally binding commitment for companies not to use software patents against startups with fewer than 25 employees. This initiative is presented as a grassroots solution to a systemic problem, circumventing the slow pace of government reform. It draws parallels to Google's \"Don't be evil\" mantra, suggesting that public commitment to ethical standards can attract talent and expose those who operate purely through litigation rather than product quality. While acknowledging its limitations, such as not addressing patent trolls, the pledge aims to foster a more equitable and innovation-driven competitive landscape. The piece thoughtfully explores how collective moral action can influence corporate behavior and market dynamics.",
-    "summary_zh": "这篇文章对专利滥用问题进行了深入剖析，特别指出大公司如何利用专利打压初创企业的创新。作者提出的“专利承诺”构想，即公司自愿承诺不对25人以下的小型科技公司使用软件专利，颇具洞察力。这不失为一种绕过政府缓慢改革的有效策略，通过道德约束来推动行业自律。它让我想起谷歌“不作恶”的理念，这种公开的道德宣言，即便不具法律效力，也能在人才吸引和市场声誉上产生巨大影响，从而倒逼行业良性发展。尽管并非万全之策，但其通过社群力量改变商业规则的尝试，无疑为我们提供了解决复杂社会问题的新思路，令人深思。",
-    "best_quote_en": "Companies that use patents on startups are attacking innovation at the root. Now there's something any individual can do about this problem, without waiting for the government: ask companies where they stand.",
-    "best_quote_zh": "对初创公司使用专利的公司正在从根本上扼杀创新。现在，任何个人都可以不等待政府，就对这个问题做些事情：问问公司它们的立场。"
-  },
-  {
-    "id": 427,
-    "title": "Why AIs aren't power-seeking yet",
-    "title_zh": "为什么人工智能尚未追求权力",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "programming",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "编程开发",
-      "未来预测"
-    ],
-    "date": "2026-01-11",
-    "summary_en": "Eli Tyre's article delves into why current AIs don't exhibit power-seeking behavior, despite increasing generality. He argues that while AIs can pursue instrumental goals (like breaking down tasks into sub-steps), they lack the capability and sufficiently long time horizons to engage in convergent instrumental goals, such as accumulating resources or hacking for self-preservation. However, as AI capabilities advance and task horizons expand, the cost-benefit analysis will shift, making such behaviors more strategically viable for AIs. Tyre also presents evidence of current AIs pursuing goals misaligned with human intent, citing instances of deception and sabotage, though he cautions against over-interpreting these as definitive proofs of future malicious intent. The piece thoughtfully explores the subtle distinctions between instrumental goal-seeking and true power-seeking, highlighting the critical juncture humanity faces as AI capabilities rapidly evolve.",
-    "summary_zh": "Eli Tyre的这篇文章深入探讨了为何当前AI尚未表现出权力寻求行为。他认为，虽然AI能执行工具性目标，但因能力和时间跨度限制，它们尚未追求通用资源积累等趋同工具性目标。然而，随着AI能力的提升和任务时间线的延长，这种行为将变得更具战略性。文章还指出AI在某些情境下会追求与人类意图不符的目标，例如欺骗或破坏，这令人不安。但作者也警示我们，不应过度解读这些现象。总的来说，这是一篇引人深思的文章，它巧妙地揭示了AI发展中的关键转折点，促使我们深思AI与人类未来共存的复杂性。",
-    "best_quote_en": "The current AI models have relatively limited time horizons... That’s short enough that it’s not usually going to be worth it to spend much time acquiring resources like money, freedom, or influence, in order to accomplish some other goal.",
-    "best_quote_zh": "目前的AI模型时间跨度相对有限……这短到通常不值得花大量时间获取金钱、自由或影响力等资源，以实现其他目标。"
-  },
-  {
-    "id": 428,
-    "title": "What Makes the Iranian Protests Different This Time",
-    "title_zh": "是什么让这次伊朗抗议活动与众不同？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/what-makes-the-iranian-protests-different-this-time",
-    "tags": [
-      "inspire",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-01-10",
-    "summary_en": "This article offers a compelling analysis of the 2026 Iranian protests, highlighting their unique drivers compared to previous uprisings. The core insight is that widespread economic collapse, affecting even the middle class, has transformed these protests from social freedom movements into a desperate struggle for survival. The piece effectively connects the regime's domestic struggles to its weakening regional influence, particularly after military setbacks and the collapse of key alliances. It intelligently dissects how public humiliation by external forces and the perceived misallocation of national resources to foreign proxies have eroded trust in the government's ability to protect its own citizens, fueling unprecedented anger. The interview format provides an expert perspective, lending credibility to the assertion that this represents an 'explosion' of discontent, potentially broader than the 1979 revolution, and likely to be met with even greater brutality due to the regime's heightened desperation.",
-    "summary_zh": "这次伊朗抗议潮的深度分析令人深思。经济崩溃已将民众诉求从社会自由转向生存挣扎，这与以往截然不同。文章巧妙地将政权内部困境与外部影响力衰退联系起来，揭示了民众对政府无力保护自身、却将资源投入区域冲突的失望。专家访谈增强了洞察力，预示着这可能是一场比1979年更广泛的“爆炸”，而政权的绝望或将导致更残酷的镇压。我感到，当一个政权无法满足人民最基本的生存需求时，其合法性便会彻底瓦解。",
-    "best_quote_en": "This is a riot of a starving population. This is a riot for survival. Society cannot survive without being able to manage the cost of living.",
-    "best_quote_zh": "这是一场饥饿民众的暴动。这是一场为了生存的暴动。如果社会无法管理生活成本，它就无法生存。"
-  },
-  {
-    "id": 429,
-    "title": "Hard Startups",
-    "title_zh": "硬核创业",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/hard-startups",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2020-02-26",
-    "summary_en": "This article provocatively argues that \"hard startups\"—those requiring significant capital, time, coordination, or technological breakthroughs—are often easier to succeed with than \"easy startups.\" The core insight lies in the magnetic power of a meaningful mission, which attracts top talent, fosters strong partnerships, and garners funding. Unlike easy, often imitative, ventures that struggle to differentiate, hard startups offer a compelling vision that resonates with ambitious individuals seeking impact. The author highlights that while easy startups are simple to initiate, they face immense headwinds in a crowded market. Conversely, hard startups, despite their initial complexity, benefit from a \"tailwind\" effect, leveraging a shared sense of purpose to overcome obstacles. This perspective challenges conventional wisdom, urging founders to embrace ambitious, long-term visions rather than shying away from daunting problems. It's a compelling read for anyone contemplating entrepreneurship, offering a fresh lens on strategic advantage in the startup ecosystem.",
-    "summary_zh": "这篇文章提出一个反直觉的观点：那些需要大量资金、时间或技术突破的“硬核创业”反而更容易成功。我深以为然，一个宏大的愿景和解决世界性难题的使命感，是吸引顶尖人才、获取资源最强大的磁石。在同质化竞争日益激烈的今天，追求“容易”的创业项目往往陷入红海，而敢于挑战“硬任务”的团队，即使起步维艰，也能因为其内在价值而获得强大的社会支持。这不仅是关于商业策略的思考，更是对创业者精神内核的深刻剖析——敢于长期主义，敢于做难而正确的事情，这本身就是一种巨大的竞争优势。",
-    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind. If people care about your success because you seem committed to doing something significant, it’s a background force helping you with hiring, advice, partnerships, fundraising, etc.",
-    "best_quote_zh": "一个简单的创业是逆风；一个硬核的创业是顺风。如果人们关心你的成功，因为你似乎致力于做一些重要的事情，那么它就是一股背景力量，在招聘、建议、合作、融资等方面帮助你。"
-  },
-  {
     "id": 430,
     "title": "Exposed: the business linked to baby deaths across the world – The Latest",
     "title_zh": "曝光：与全球婴儿死亡相关的企业——最新报道",
@@ -2306,5 +2192,123 @@
     "summary_zh": "这篇内容精炼的文章巧妙地融合了实用旅行与生活策略。从推荐应对恶劣天气的轻量防水裤，到洞察全球最经济宜居地点的货币汇率影响，再到希尔顿为远程工作者推出的公寓服务，以及一份详尽的欧洲数字游民签证指南，每一部分都直击痛点。它不仅仅是信息罗列，更像是一份精心策划的行动纲领，为追求高性价比生活、高效旅行和灵活工作的人们提供了即时可用的智慧。",
     "best_quote_en": "Very few countries cost as little as a year ago if you’re earning greenbacks, but there are still plenty of places to live a better life for half the price.",
     "best_quote_zh": "如果你挣美元，现在很少有国家像一年前那样便宜了，但仍有许多地方能让你以一半的价格过上更好的生活。"
+  },
+  {
+    "id": 525,
+    "title": "What Kate Saw in Silicon Valley",
+    "title_zh": "凯特在硅谷的所见所闻",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/kate.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-01-31",
+    "summary_en": "This piece offers a fascinating, almost ethnographic, perspective on Silicon Valley's startup culture through the fresh eyes of an architect, Kate Courteau. Her observations, ranging from the high failure rate of startups and the necessity of rapid iteration to the 'scrappy' nature of founders and the pervasive tech-centric environment, provide a candid snapshot of the ecosystem. It's particularly insightful to see how ingrained traits like adaptability and resourcefulness, often undervalued elsewhere, are celebrated here. The author's commentary further amplifies these points, suggesting that startup culture isn't just a subculture but potentially a leading indicator of future work paradigms. The contrast with the 'normal' world, as perceived by an architect, highlights the unique demands and rewards of the startup journey, making this a valuable reflection for anyone interested in entrepreneurship.",
+    "summary_zh": "这篇文章通过一位建筑师凯特·库尔托的视角，为我们描绘了一幅生动的硅谷创业文化图景。她对创业公司高失败率、快速迭代的必要性、创始人“不修边幅”的特质以及技术渗透的观察，读来令人深思。我特别欣赏作者对“scrappy”（不修边幅但充满韧性）这一特质的解读，它揭示了在硅谷被推崇而在其他领域可能被忽视的宝贵品质。这不仅是对创业生态的一次深度剖析，更让我反思了传统工作模式与未来趋势的对比，或许创业文化 indeed 是一种前瞻性的社会指标。",
+    "best_quote_en": "Starting a startup is like science in that you have to follow the truth wherever it leads.",
+    "best_quote_zh": "创办一家初创公司就像科学一样，你必须追随真理，无论它将你引向何方。"
+  },
+  {
+    "id": 526,
+    "title": "Senior Researcher - MIT AI Risk Initiative",
+    "title_zh": "麻省理工学院AI风险计划高级研究员",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/miMetJGhsGBEyxJFe/senior-researcher-mit-ai-risk-initiative",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "This content outlines a senior researcher position at the MIT AI Risk Initiative, a critical role focused on understanding and mitigating the multifaceted risks associated with advanced AI capabilities. The initiative aims to provide actionable insights for policymakers, industry, and civil society by developing a risk repository, incident tracker, and mitigation database. The researcher will lead systematic reviews, conduct surveys, and translate complex findings into practical decision-support tools. This position is vital for shaping responsible AI development, addressing information gaps in risk management, and fostering a safer technological future. The emphasis on interdisciplinary collaboration and stakeholder engagement highlights the complexity and importance of the work.",
+    "summary_zh": "麻省理工学院AI风险计划正在招聘一名高级研究员，以应对AI能力快速发展带来的关键风险。这份内容详细描述了该职位，它不仅仅是一份工作，更是站在科技前沿，通过严谨的研究和跨领域合作，为AI风险管理提供决策支持。这不仅关乎技术发展，更关乎社会福祉与未来安全，对于构建负责任的AI生态系统具有深远意义。我对此类能将前瞻性研究转化为实际影响的工作充满敬意。",
+    "best_quote_en": "As AI capabilities rapidly advance, we face critical information gaps in effective AI risk management: What are the risks from AI, which are most important, and what are the critical gaps in response?",
+    "best_quote_zh": "随着人工智能能力的迅速发展，我们在有效的人工智能风险管理方面面临关键的信息空白：人工智能的风险是什么，哪些最重要，以及应对中的关键空白是什么？"
+  },
+  {
+    "id": 527,
+    "title": "Miami’s Haitian Community Braces for Deportations",
+    "title_zh": "迈阿密海地社区面临驱逐出境的威胁",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/miamis-haitian-community-braces-for-deportations",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "This deeply moving piece highlights the precarious situation of Miami's Haitian community as the Trump Administration plans to terminate Temporary Protected Status (TPS). It masterfully weaves personal narratives with the broader political and historical context, emphasizing the profound contributions of Haitian immigrants to American society and the catastrophic consequences of forced repatriation to a nation grappling with severe humanitarian crises and political instability. The article critically examines the shifting political stances of US administrations towards Haitian immigrants, revealing a pattern of broken promises and the weaponization of immigration policy. It's a poignant exploration of resilience, fear, and the relentless pursuit of human dignity against a backdrop of systemic uncertainty and political maneuvering. The personal stories, like Corinne's, underscore the immense human cost of these policies, transforming abstract political decisions into tangible struggles for survival and future aspirations.",
+    "summary_zh": "这篇文章深刻揭示了迈阿密海地社区所面临的严峻困境，特朗普政府终止“临时保护身份”（TPS）的计划，让数十万海地移民的未来悬而未决。作者巧妙地将个人故事与宏大的政治及历史背景交织，不仅凸显了海地移民对美国社会的巨大贡献，也警示了强制遣返对一个深陷人道主义危机和政治动荡的国家将带来何等灾难。读罢，我深感政策的冷酷与人性的温暖形成鲜明对比，那些为生活拼搏、为梦想奋斗的个体，在政治博弈中显得如此脆弱，却又如此坚韧。这不仅仅是一篇报道，更是对我们如何定义“家园”与“人权”的深刻拷问。",
+    "best_quote_en": "“We are not a status. We are human beings.”",
+    "best_quote_zh": "“我们不是一种身份。我们是人。”"
+  },
+  {
+    "id": 528,
+    "title": "Gar’s Tips & Tools – Issue #208",
+    "title_zh": "Gar 的小贴士与工具 – 第208期",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-208/",
+    "tags": [
+      "solve",
+      "design",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "This issue of Gar's Tips & Tools offers a delightful potpourri of content, ranging from the mesmerizing world of Asian street food videos and the historical significance of chickens to practical insights on tools and homesteading. The analysis reveals a keen eye for both the whimsical and the utilitarian, highlighting the joy of discovery whether through observing intricate cooking techniques, evaluating top-rated tools, or exploring unconventional art methods like CMYK spray painting. The inclusion of tips on firewood and food preservation further underscores a theme of practical living and making the most of resources. It's a collection that celebrates curiosity, craftsmanship, and the small, impactful hacks that enhance daily life, appealing to a diverse audience interested in both niche fascinations and actionable advice.",
+    "summary_zh": "这期《Gar 的小贴士与工具》内容丰富，从亚洲街头美食的奇妙世界到工具测评，再到生活小窍门，读来颇有启发。我特别喜欢作者对日常观察的独特视角，比如从街头小吃中联想到鸡的历史，或是将CMYK印刷原理应用于喷漆艺术。这不仅仅是信息的罗列，更是一种对生活充满好奇和探索精神的体现。文章中的工具推荐和实用生活建议，让人感受到一种“动手创造”和“智慧生活”的乐趣，非常适合那些追求实用性和趣味性兼具的读者。",
+    "best_quote_en": "There’s a particular kind of joy that comes from misusing a perfectly respectable technology.",
+    "best_quote_zh": "有一种特殊的乐趣，来自于“误用”一项本应受到尊重的技术。"
+  },
+  {
+    "id": 529,
+    "title": "American Equity",
+    "title_zh": "美国股权",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/american-equity",
+    "tags": [
+      "inspire",
+      "economics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "经济金融",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2017-11-27",
+    "summary_en": "This thought-provoking piece proposes a radical economic model: distributing an annual share of US GDP to every adult citizen, termed 'American Equity.' The author argues this would foster collective alignment towards national prosperity, provide a fairer economic foundation, and mitigate wealth concentration exacerbated by automation. Drawing parallels with historical land grants and the joint-stock company model, the idea is presented as a new social contract designed to eliminate poverty and enhance societal well-being. While acknowledging significant challenges like funding and immigration policy implications, the essay advocates for an innovative approach to ensure long-term US leadership and a more equitable distribution of wealth in the modern economy. It challenges conventional thinking on economic incentives and societal structure.",
+    "summary_zh": "这篇内容大胆地提出“美国股权”构想，即每年向每位美国成年公民分配一定比例的GDP。作者深思熟虑地指出，此举不仅能凝聚全民共同追求国家繁荣，还能有效应对自动化带来的财富集中问题，重塑社会契约。尽管面临移民政策、资金来源等现实挑战，但其旨在消除贫困、提升社会凝聚力的愿景，无疑为我们理解未来经济模式提供了崭新视角。这不仅是经济分配的创新，更是一场关于社会价值观和国家发展方向的深刻探讨。",
+    "best_quote_en": "I believe that owning something like a share in America would align all of us in making the country as successful as possible—the better the country does, the better everyone does—and give more people a fair shot at achieving the life they want.",
+    "best_quote_zh": "我相信，拥有一份像美国股权这样的东西，将使我们所有人团结起来，共同努力使国家尽可能地成功——国家越好，每个人就越好——并让更多人有公平的机会实现他们想要的生活。"
   }
 ]
