@@ -1,121 +1,5 @@
 [
   {
-    "id": 435,
-    "title": "One look at my baby’s dungarees was all it took to give me the rage",
-    "title_zh": "看到我宝宝的背带裤，我瞬间怒火中烧",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/jan/12/one-look-at-my-babys-dungarees-was-all-it-took-to-give-me-the-rage",
-    "tags": [
-      "solve",
-      "society",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "This opinion piece delves into the infuriatingly persistent issue of pockets, or rather the lack thereof, in women's clothing, brought into sharp relief by the author's observation that her infant son's dungarees have more pockets than her own garments. Coco Khan skillfully uses this seemingly trivial detail to highlight deeper societal expectations and historical gender biases, where women's attire prioritized aesthetics over functionality and autonomy. The article critiques how even modern maternity wear, while evolving in some aspects, still fails to provide practical solutions for mothers whose hands are constantly full. It's a poignant and relatable commentary on the subtle ways gender inequality manifests in everyday life, provoking thought on design choices that continue to disempower women.",
-    "summary_zh": "读完这篇文章，不禁让人会心一笑，又深感无奈。作者从宝宝背带裤比自己衣服口袋多的\"荒谬\"现象切入，犀利地指出了女性服装设计中长期存在的性别歧视和功能缺失。这不仅仅是关于口袋大小的争论，更是对社会如何物化女性、剥夺其便利性和自主权的深刻反思。在现代社会，女性仍然在为最基本的实用性而抗争，这本身就是一种悲哀。这篇文章以小见大，引发我们思考日常生活中那些习以为常却又极不合理的性别差异。",
-    "best_quote_en": "Historically, women weren’t given pockets because they weren’t expected to carry valuables, go anywhere or have autonomy. Later, pockets were rejected for the sake of appearance: they disrupted the line of a dress, their functionality ruining the fantasy of the woman as decoration.",
-    "best_quote_zh": "历史上，女性没有口袋是因为她们不被期望携带贵重物品、出门或拥有自主权。后来，口袋又因外观而被摒弃：它们破坏了裙子的线条，其功能性破坏了女性作为装饰品的幻想。"
-  },
-  {
-    "id": 436,
-    "title": "Founder Control",
-    "title_zh": "创始人控制权",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/control.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-01-13",
-    "summary_en": "This insightful piece by Paul Graham challenges the traditional venture capital narrative that founders inevitably lose board control after a Series A funding round. Drawing on anecdotal evidence from Y Combinator's portfolio, Graham argues that retaining founder control is not only becoming more common but is likely to become the norm, especially among the most successful startups. He deconstructs the power dynamics, explaining that while board control isn't absolute, it significantly influences decision-making by allowing founders' perspectives on shareholder interests to prevail. Graham also astutely observes that VCs' reluctance to grant control often stems from a fear of appearing weak to their partners, rather than a genuine concern. Ultimately, he suggests that this shift could lead VCs to make better investment decisions by forcing them to back founders they truly trust, rather than relying on the ability to compel. It's a compelling argument for a more founder-friendly ecosystem.",
-    "summary_zh": "保罗·格雷厄姆这篇关于创始人控制权的文章令人深思。他驳斥了创始人融资后必失控制权的传统观念，指出在Y Combinator投资的公司中，创始人保留董事会多数席位的情况并不少见，甚至可能成为未来趋势。我特别欣赏他揭示VC心理的部分——他们很多时候只是担心在同行面前显得“吃了亏”，而非真的在意控制权本身。这不仅是权力结构的转变，更是对VC投资逻辑的一种重塑：与其依赖强制力，不如从一开始就选择值得信任的创始人。这无疑是对创业者信心的一剂强心针，也预示着一个更健康、更以创始人为中心的创业生态正在形成。",
-    "best_quote_en": "Founders retaining control after a series A is clearly heard-of. And barring financial catastrophe, I think in the coming year it will become the norm.",
-    "best_quote_zh": "创始人能在A轮后保留控制权显然是存在的。除非发生金融灾难，我认为在未来一年内，这将成为常态。"
-  },
-  {
-    "id": 437,
-    "title": "Contra Dance as a Model For Post-AI Culture",
-    "title_zh": "后AI时代文化的康特拉舞模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/LuosdA2EAdJYEe3vZ/contra-dance-as-a-model-for-post-ai-culture",
-    "tags": [
-      "inspire",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-01-13",
-    "summary_en": "This thought-provoking piece uses the niche culture of contra dance, specifically its commitment to live music despite technological alternatives, as a compelling metaphor for human endeavor in a post-AI world. The author argues that communities can consciously choose to preserve traditional, human-centric practices, not out of technological inferiority, but as an intentional cultural statement. This perspective offers a refreshing counter-narrative to the common anxieties surrounding AI, suggesting a future where human creativity, craft, and community can coexist with, or even thrive independently of, advanced automation. It challenges us to rethink 'efficiency' and 'perfection' as sole metrics of value, highlighting the inherent worth of human-made, even 'imperfect,' experiences. The examples of assembly demosceners, handmade bagpipes, and human Go players further solidify this vision, making a strong case for the enduring human desire for authentic, personally invested creation.",
-    "summary_zh": "这篇文章以康特拉舞坚持现场音乐的文化为例，巧妙地描绘了后AI时代人类活动的图景。它不悲观，反而充满洞察力，提出我们可以主动选择拥抱或保留那些“不那么完美、不那么高效”的人工方式，因为其价值在于社区、在于人与人之间的连接、在于创造过程本身。这让我思考，在AI效率至上的未来，真正有意义的“奢侈品”或许不是物质，而是那些注入了人类心血、充满独特温度的体验。这不仅仅是对AI的抵抗，更是一种对人性深层需求的肯定和再发现。",
-    "best_quote_en": "I like this as a model for what art and achievement could look like in a post-AI world, assuming we make it through to the other side. Some communities can embrace technology and explore what's possible with full AI assistance. Other communities can make an intentional decision to keep doing things the traditional way, accepting that this will be less perfect and less efficient. Yet others can mix them, appreciating what humans have been able to make for what it is, while also getting the practical benefits of automation.",
-    "best_quote_zh": "我喜欢这作为后AI世界中艺术和成就可能面貌的模型，假设我们能挺过这一关。一些社区可以拥抱技术，探索AI全面辅助下的一切可能。另一些社区可以有意识地决定继续以传统方式做事，接受这会不那么完美和高效。还有一些则可以兼而有之，欣赏人类所能创造的一切，同时也能获得自动化的实际益处。"
-  },
-  {
-    "id": 438,
-    "title": "How WhatsApp Took Over the Global Conversation",
-    "title_zh": "WhatsApp如何掌控全球对话",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/01/19/how-whatsapp-took-over-the-global-conversation",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "This insightful article delves into the ubiquitous rise of WhatsApp, exploring its journey from a simple status app to a global communication behemoth. It masterfully intertwines the platform's technological evolution, its cultural impact across diverse societies from the Trobriand Islands to Indian politics, and the underlying human need for connection it fulfills. The piece critically examines WhatsApp's economic model, its complex relationship with Meta's commercial ambitions, and the inherent trade-offs between privacy, simplicity, and the drive for monetization and AI integration. What truly fascinates me is how the article highlights the paradoxical nature of WhatsApp: a tool born from a desire for simple, private communication, now grappling with its immense power to shape political discourse and commercial interactions, transforming into an indispensable 'technology of life' for billions, often without a clear understanding of its broader implications.",
-    "summary_zh": "这篇文章深入剖析了WhatsApp从一个不起眼的应用程序如何成长为全球通信巨头。它不仅详细描绘了WhatsApp的技术演变和商业模式，更引人深思地探讨了其在不同文化和社会背景下的深远影响——从特罗布里恩群岛的日常交流到印度政治的操纵。最让我触动的是，文章揭示了WhatsApp在带来便捷与连接的同时，也带来了隐私、商业化和权力集中的复杂挑战。它不再仅仅是一个聊天工具，而是深刻地嵌入了数十亿人的生活，成为一种“生命科技”，其潜在的社会影响和伦理困境值得我们每个人深思和警惕。",
-    "best_quote_en": "I think a lot of people don’t realize that, essentially, their WhatsApp history—across all their chats—is the diary they didn’t know they’d been writing.",
-    "best_quote_zh": "我认为很多人没有意识到，本质上，他们的WhatsApp历史——所有聊天记录——就是他们不曾察觉自己一直在书写的日记。"
-  },
-  {
-    "id": 439,
-    "title": "Game Design",
-    "title_zh": "游戏设计",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/game-design/",
-    "tags": [
-      "learn",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "This content provides a compelling endorsement of \"The Art of Game Design\" by Jesse Schell, highlighting its comprehensive insights into game design principles applicable to various game types. The review emphasizes the book's ability to shift perspective from game mechanics to player experience, introducing concepts like the 'Lens of Essential Experience' and dissecting core game qualities. It delves into challenges in interactive storytelling, such as the 'string of pearls' method, the impossibility of true branching narratives with multiple endings, and the limited 'verbs' available to video game characters compared to other narrative forms. The author also touches on the importance of feedback in user experience, using a crosswalk button analogy. This piece is a valuable resource for anyone interested in the foundational philosophy and practical considerations behind creating engaging interactive experiences, extending beyond just video games to design in general.",
-    "summary_zh": "这篇内容深入剖析了杰西·谢尔的《游戏设计艺术》，不仅仅是游戏制作的指南，更是洞察复杂互动设计的宝典。文章通过“本质体验之镜”等概念，强调了从玩家视角出发的重要性，并探讨了游戏叙事中“珍珠串”模式、多结局的困境以及互动动词的局限性。最引人深思的是，它将游戏设计原理升华到更广泛的“设计一切需要复杂互动的事物”的层面，这让我对日常生活中各种体验的设计有了新的理解。 feedback的重要性，不仅在游戏，在产品设计中也同样关键。这不仅仅是一本书的推荐，更是一次对设计哲学和用户体验的深刻反思。",
-    "best_quote_en": "The game is not the experience. The game enables the experience, but it is not the experience. This is a hard concept for some people to grasp.",
-    "best_quote_zh": "游戏不是体验本身。游戏促成了体验，但它并非体验。对某些人来说，这是一个难以理解的概念。"
-  },
-  {
     "id": 440,
     "title": "The woman who made her family disappear: how Karen Palmer escaped her abusive husband",
     "title_zh": "让家人“消失”的女人：凯伦·帕尔默如何逃离家暴丈夫",
@@ -2306,5 +2190,115 @@
     "summary_zh": "胡伯曼实验室的这期节目深入探讨了“玩”对大脑的深远影响，远不止于童年。它揭示了游戏如何激活特定脑回路和神经化学物质，为学习和认知探索提供了一个低风险的理想环境。最引人入胜的是，节目强调成年人应有意识地将游戏重新引入生活，以增强认知灵活性和创造性思维。这不仅是娱乐，更是促进神经可塑性的强大工具，表明无论是结构化还是非结构化的游戏都能有效地重塑大脑。它挑战了我们对成年人责任与玩乐之间关系的传统认知，提供了一个令人耳目一新的视角。",
     "best_quote_en": "Play is a powerful yet often overlooked tool for shaping the brain across the entire lifespan, not just during childhood.",
     "best_quote_zh": "游戏是一个强大却常被忽视的工具，它能塑造贯穿我们整个生命周期的大脑，而不仅仅是在童年时期。"
+  },
+  {
+    "id": 535,
+    "title": "‘Adjustments must be made’: how to live well after mid-life",
+    "title_zh": "“必须做出调整”：中年后如何活出精彩",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/science/2026/feb/01/adjustments-live-well-after-mid-life-psychotherapist-frank-tallis",
+    "tags": [
+      "solve",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "This insightful interview with psychotherapist Frank Tallis, author of 'Wise,' delves into the often-overlooked psychological challenges of aging well beyond mid-life. Tallis provocatively argues that our modern culture's denial of death and relentless pursuit of youth are detrimental, leading to 'immortality projects' and a shrinking capacity for internal processing. He advocates for embracing 'terror management' through acceptance, internal integration, and reconnecting with our unconscious. The piece compellingly highlights the dangers of outsourcing self-discovery to external sources like AI or gurus, emphasizing the unique, personal journey of individuation. It's a profound call to cultivate inner awareness and make necessary adjustments to live authentically as we age, urging a return to contemplative moments amidst digital distraction.",
+    "summary_zh": "法兰克·塔利斯在访谈中深刻剖析了中年后如何优雅老去。他指出，现代社会对衰老和死亡的逃避，以及对青春的盲目追逐，实则阻碍了我们与内在自我的连接。塔利斯强调，我们需要接受生命的必然性，并通过“恐惧管理”和个体化过程，重拾对无意识的关注。文章警示我们切勿将自我探索的任务外包给人工智能或他人，而是应在喧嚣中为内省留出空间。这不仅是对个人成长的呼唤，更是对数字时代下人类心智健康的反思，读来引人深思。",
+    "best_quote_en": "“You can’t cling to outmoded ways of being. Adjustments must be made, or you will find yourself living a life that doesn’t match the reality of your physical condition and circumstance.”",
+    "best_quote_zh": "“你不能固守过时的方式。必须做出调整，否则你会发现自己过的生活与你的身体状况和环境现实不符。”"
+  },
+  {
+    "id": 536,
+    "title": "Ramen Profitable",
+    "title_zh": "拉面盈利",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ramenprofitable.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "This essay by Paul Graham introduces and elaborates on the concept of \"ramen profitable\" for startups. It defines it as generating just enough revenue to cover founders' living expenses, contrasting it with traditional profitability. Graham argues that this early stage of profitability offers several key advantages: it buys time, frees founders from investor dependence, improves negotiation terms with investors, boosts team morale by making the venture feel 'real,' and crucially, allows founders to focus on product development rather than constant fundraising distractions. He cautions against mistaking ramen profitability as the ultimate goal or a justification for becoming a consulting firm, emphasizing it's a means to survive and grow towards being a product company. The piece offers a practical, founder-centric perspective on early-stage startup survival and strategic positioning.",
+    "summary_zh": "保罗·格雷厄姆的这篇关于“拉面盈利”的文章，不仅清晰定义了这一概念——即初创公司营收仅够支付创始人生活开销，更深刻阐述了其对初创公司生存与发展的战略意义。它不仅仅是财务上的小胜利，更是为创始人争取了宝贵的时间，摆脱了对投资者的过度依赖，提升了士气，并让创始人能专注于核心产品而非频繁融资。文章提醒我们，拉面盈利是过程而非终点，其核心价值在于提供了一条通往更大成功的生存之路，避免了过早死亡。这让我反思，很多时候，我们过于追求宏大目标，却忽略了如何度过最艰难的初期，格雷厄姆提供了极具洞察力的实用策略。",
+    "best_quote_en": "The main significance of this type of profitability is that you're no longer at the mercy of investors. If you're still losing money, then eventually you'll either have to raise more or shut down. Once you're ramen profitable this painful choice goes away.",
+    "best_quote_zh": "这种盈利模式的主要意义在于，你不再受投资者的摆布。如果你仍在亏损，那么最终你将不得不再次融资或关闭公司。一旦你达到拉面盈利，这种痛苦的选择就不复存在了。"
+  },
+  {
+    "id": 537,
+    "title": "I finally fixed my footwear",
+    "title_zh": "我终于解决了我的鞋子问题",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6R3Y5WKvw2q6c5gF9/i-finally-fixed-my-footwear",
+    "tags": [
+      "solve",
+      "ai-research",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "生活方式"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "This piece offers a surprisingly insightful and humorous personal account of resolving chronic footwear discomfort. The author details a 20-year struggle with ill-fitting shoes due to wrong size, material, and shape, eventually finding liberation through wide-toebox, breathable options. Beyond the practical advice, the article delves into a deeper philosophical reflection on normalized discomfort in daily life, prompting readers to question other unspoken pains they might be enduring. It's a relatable narrative that blends self-deprecating humor with practical solutions and a touch of existential inquiry, making it more than just a guide to buying shoes.",
+    "summary_zh": "这篇看似关于鞋子的文章，实则触及了一个更深层的人类体验：我们如何习惯性地忍受不适。作者以幽默而真诚的笔触，分享了20年穿错鞋的痛苦经历，最终通过选择正确尺码、透气材料和宽楦鞋获得了“解放”。这不禁让人思考，生活中还有多少我们习以为常的“小痛苦”，其实是可以被解决的。它不仅是选鞋指南，更是一次自我审视的邀请，引人深思。",
+    "best_quote_en": "Do yourself a favor, go buy a pair of cheap (~40 euros or so) wide toebox shoes, and try them on. It is, and I cannot emphasize this enough, liberating.",
+    "best_quote_zh": "帮自己一个忙，去买一双便宜的（大约40欧元左右）宽楦鞋，然后试穿一下。这，我怎么强调都不为过，是解放。"
+  },
+  {
+    "id": 538,
+    "title": "Why the D.H.S. Disaster in Minneapolis Was Predictable",
+    "title_zh": "明尼阿波利斯国土安全部灾难为何是可预测的",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/02/09/why-the-dhs-disaster-in-minneapolis-was-predictable",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "This article critically examines the Department of Homeland Security's (DHS) operations in Minneapolis, specifically focusing on ICE and Border Patrol's conduct during 'Operation Metro Surge.' It argues that the aggressive and seemingly unconstitutional actions, including the killing of two US citizens and the targeting of refugees, were predictable given the agencies' long history of operating with fewer constraints than typical law enforcement. The piece highlights the administration's dismissal of legal norms, the politicization of federal agencies, and the alarming implications for civil liberties. It suggests that the unchecked power granted to DHS since its inception has culminated in a dangerous erosion of accountability and a direct challenge to the rule of law, extending border enforcement tactics into the heartland.",
+    "summary_zh": "这篇文章深刻剖析了国土安全部在明尼阿波利斯的行动，特别是ICE和边境巡逻队在“地铁突击行动”中的表现。作者认为，这些激进甚至违宪的行为，包括射杀美国公民和针对难民，是可预见的，因为这些机构长期以来在比普通执法机构更少的限制下运作。文章揭示了政府对法律规范的漠视，联邦机构的政治化，以及对公民自由的严峻影响。读来令人深思，这不仅仅是地方事件，更是对法治根基的动摇，边境执法模式正蔓延至全国。",
+    "best_quote_en": "For decades, ICE and Border Patrol have operated with fewer constitutional constraints than typical law-enforcement agencies when they conduct searches and make arrests; in instances of abuse, oversight has tended to be far more lax, leading to a culture of freewheeling unaccountability.",
+    "best_quote_zh": "几十年来，ICE和边境巡逻队在进行搜查和逮捕时，所受到的宪法限制比普通执法机构要少；在滥用职权的情况下，监督往往也更为松懈，导致了一种放任自流、无人负责的文化。"
+  },
+  {
+    "id": 539,
+    "title": "Maintenance manifesto / Funeral for a tree / Budget earbuds",
+    "title_zh": "维护宣言 / 树的葬礼 / 平价耳塞",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/maintenance-manifesto-funeral-for-a-tree-budget-earbuds/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "This collection of short pieces offers a diverse array of insights, from the philosophical to the practical. Stewart Brand's 'Maintenance Manifesto' is particularly thought-provoking, reframing the mundane act of maintenance into a fundamental aspect of civilization and personal fulfillment. It challenges conventional thinking by suggesting that maintenance can be a source of joy and learning, rather than a dreaded chore. The 'Funeral for a Tree' piece is a poignant exploration of grief and transformation through art, showcasing how loss can inspire creative expression. Finally, the practical review of 'Budget noise-canceling earbuds' provides a relatable solution to a common consumer problem, emphasizing value and functionality over brand loyalty. Together, these pieces highlight the richness of everyday experiences and the varied ways we can find meaning, solve problems, and appreciate the world around us.",
+    "summary_zh": "这组文章内容丰富，从哲学思考到实用建议，引人深思。斯图尔特·布兰德的“维护宣言”尤为独特，它将日常的维护工作提升到文明和个人满足的层面，令人耳目一新。这让我反思，我们是否低估了那些看似琐碎的日常？“树的葬礼”则以艺术的方式处理悲伤与转化，展现了失去如何激发创造力，非常感人。而平价降噪耳塞的推荐则回归生活，提供了实用的解决方案，提醒我们价值并非总与价格挂钩。这些文章共同描绘了生活的多元面貌，鼓励我们在日常中发现意义和解决之道。",
+    "best_quote_en": "Turns out civilization is basically varieties of maintenance. Stewart Brand’s books famously change people’s minds, and this one changed my mind. I now look forward to my maintenance duties, and I learned some how to do it better from this book.",
+    "best_quote_zh": "原来文明基本上就是各种形式的维护。斯图尔特·布兰德的书以改变人们的思想而闻名，而这本书改变了我的想法。我现在期待我的维护职责，并且从这本书中学到了一些如何做得更好的方法。"
   }
 ]
