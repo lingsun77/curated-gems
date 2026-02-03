@@ -1,121 +1,5 @@
 [
   {
-    "id": 440,
-    "title": "The woman who made her family disappear: how Karen Palmer escaped her abusive husband",
-    "title_zh": "让家人“消失”的女人：凯伦·帕尔默如何逃离家暴丈夫",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/14/how-karen-palmer-escaped-her-abusive-husband",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-14",
-    "summary_en": "Karen Palmer's harrowing memoir details her escape from an abusive husband, Gil, highlighting the extreme measures she took—including faking identities and relocating—to protect her daughters. This deeply personal account sheds light on the insidious nature of domestic abuse, coercive control, and gaslighting, terms not widely recognized at the time of her ordeal. Palmer's story is a testament to resilience, but also a stark reminder of the systemic failures in supporting victims, forcing her into a 'do-it-yourself witness protection' program. The article thoughtfully explores the long-term psychological impact on Palmer, her daughters, and the difficult choices she faced, ultimately affirming her decision to disappear. It's a powerful narrative that resonates with many women who feel trapped, offering a poignant look at the lengths one mother went to secure safety and peace, and the enduring sisterhood that emerges from shared experiences.",
-    "summary_zh": "凯伦·帕尔默的故事令人心碎，她为了保护女儿，不惜一切代价从施虐的丈夫手中逃脱，甚至伪造身份，远走他乡。这不仅仅是一个关于生存的传奇，更是对家庭暴力、强制控制和煤气灯效应这些在当时尚无明确定义的创伤的深刻反思。文章令人深思的是，在缺乏社会支持体系的年代，受害者不得不自行寻求“证人保护”。我读后不禁感慨，一个母亲为了子女能有多大的勇气和牺牲。帕尔默最终的选择虽充满争议，但其坚韧不拔的精神和对“正确”的执着追问，无疑为所有身处困境的女性提供了莫大的启发和共鸣。",
-    "best_quote_en": "“I spent 20 years questioning whether I had done the right thing, and that felt terrible… But I did the right thing – and I’d do it again.”",
-    "best_quote_zh": "“我花了20年时间质疑自己是否做对了，那种感觉糟透了……但我确实做对了——而且我会再做一次。”"
-  },
-  {
-    "id": 441,
-    "title": "Tablets",
-    "title_zh": "平板电脑",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/tablets.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-14",
-    "summary_en": "This insightful 2010 essay by Paul Graham presciently identifies 'tablets' as the unifying term for devices like iPhones and iPads, moving beyond the limiting 'mobile devices' classification. Graham argues that these devices, driven by a force he calls 'ephemeralization' (coined by Buckminster Fuller), will replace countless specialized physical objects with software applications. He highlights early examples like GPS and music players, but provocatively suggests even reading glasses and bathroom scales could be subsumed. The piece offers a strategic blueprint for startups: identify physical items ripe for app-based replacement. Graham also touches on the platform dynamics, warning against Apple's potential monoculture but also suggesting that a better platform for ephemeralization could be a competitive advantage. It's a fascinating look at the early days of a technological revolution, offering valuable foresight into the app economy.",
-    "summary_zh": "保罗·格雷厄姆这篇2010年的文章，在平板电脑概念尚未普及之时，就精准预言了其作为通用设备的崛起，并将其与“瞬时化”（ephemeralization）的宏观趋势相联系。他指出，未来将有无数物理设备被平板上的软件应用取代，这不仅是技术革新，更是商业模式的颠覆。文章为创业者提供了极具价值的启发：寻找那些尚未被软件化的物理产品。同时，他对苹果可能形成的生态垄断表达了担忧，并提出了以更优平台竞争的思路。读来令人惊叹其超前的洞察力，对理解当今的数字生活有着深刻的指导意义。",
-    "best_quote_en": "So for the next couple years, a good recipe for startups will be to look around you for things that people haven't realized yet can be made unnecessary by a tablet app.",
-    "best_quote_zh": "因此，在接下来的几年里，一个好的创业秘诀就是环顾四周，寻找那些人们尚未意识到可以被平板应用取代的东西。"
-  },
-  {
-    "id": 442,
-    "title": "If researchers shared their #1 idea daily, we'd navigate existential challenges far more effectively",
-    "title_zh": "如果研究人员每天分享他们的头号想法，我们将更有效地应对生存挑战",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/PLTe8hRm4yPN9Mo7H/if-researchers-shared-their-1-idea-daily-we-d-navigate",
-    "tags": [
-      "inspire",
-      "design",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-01-14",
-    "summary_en": "This piece introduces 'Crux,' a novel platform designed to facilitate the daily sharing of researchers' most critical insights, termed 'cruxes.' The author argues that by distilling and consistently sharing these high-impact ideas—especially those related to existential risks—humanity can more effectively navigate complex challenges. The initiative aims to foster sharper thinking, accumulate collective wisdom, and accelerate problem-solving through a structured, short-form forum. It's a compelling vision for democratizing high-value intellectual output, emphasizing brevity and daily engagement to build a shared map of critical considerations. While the practical execution of filtering and validating these 'cruxes' remains a challenge, the underlying premise of focused, daily intellectual contribution holds significant potential for advancing collective intelligence.",
-    "summary_zh": "这篇文章提出了一个引人深思的设想：如果研究人员能每天分享他们最重要的“核心思想”（crux），我们将如何更有效地应对人类面临的生存挑战。作者通过推出“Crux”平台，倡导将复杂思考提炼成精简的每日分享，旨在汇聚集体智慧，加速解决问题。我特别欣赏这种对知识传播效率的追求，它不仅能锻炼个体思维的清晰度，更能为全人类构建一张动态的、应对未来风险的“思想地图”。这种对知识共享模式的创新，或许正是我们当前时代所急需的。",
-    "best_quote_en": "If many researchers share their top ideas daily, we all level up.",
-    "best_quote_zh": "如果许多研究人员每天分享他们的顶级想法，我们所有人都会提升。"
-  },
-  {
-    "id": 443,
-    "title": "Iran’s Regime Is Unsustainable",
-    "title_zh": "伊朗政权难以为继",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/irans-regime-is-unsustainable",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-01-13",
-    "summary_en": "This article offers a compelling, almost prophetic, analysis of the increasing instability of Iran's current regime. Drawing on decades of personal observation and expert interviews, the author meticulously details the confluence of factors—political repression, economic collapse, and a generational disconnect from revolutionary fervor—that are fueling widespread protests. The piece highlights the regime's internal decay, its brutal suppression tactics, and the potential for a critical tipping point if security forces waver in their loyalty. While acknowledging the protesters' lack of a cohesive alternative, the analysis strongly suggests that the Islamic Republic is facing an unprecedented 'perfect storm,' making its long-term sustainability highly questionable. The intellectual curiosity lies in how historical patterns and current dynamics converge to create such a volatile situation, with the ultimate question being not if, but when, a significant shift will occur.",
-    "summary_zh": "这篇文章对伊朗政权日益增长的不稳定性进行了深刻的分析。作者凭借数十年的亲身观察和专家访谈，细致地揭示了政治压迫、经济崩溃和革命热情代际断裂等多重因素如何共同激化了大规模抗议。我尤其被文中对安全部队内部潜在动摇的洞察所吸引，这可能成为政权瓦解的关键转折点。尽管抗议者尚未形成明确的替代方案，但文章有力地指出，伊朗正面临一场前所未有的“完美风暴”，其长期存续性岌岌可危。这不仅是新闻报道，更是对历史规律和现实困境交织下未来走向的深思。",
-    "best_quote_en": "“It is almost impossible to keep the revolutionary élan alive and to transmit it down generational lines… that early enthusiasm or euphoria has a shelf life, a time stamp.”",
-    "best_quote_zh": "“几乎不可能让革命的锐气保持活力并代代相传……那种早期的热情或狂喜是有保质期的，有时间限制的。”"
-  },
-  {
-    "id": 444,
-    "title": "Woody Guthrie / Jane Austen and Virginia Woolf",
-    "title_zh": "伍迪·格思里 / 简·奥斯汀与弗吉尼亚·伍尔夫",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/woody-guthrie-jane-austen-and-virginia-woolf/",
-    "tags": [
-      "analyze",
-      "society",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-13",
-    "summary_en": "This content reviews two distinct sets of illustrated biographies: 'Woody Guthrie and the Dust Bowl Ballads' and a series on Jane Austen and Virginia Woolf. The Woody Guthrie graphic novel offers a poignant look at how the Great Depression and Dust Bowl tragedies shaped the iconic singer-songwriter, intertwining his personal journey with the environmental and economic devastation of the era. It effectively highlights the historical context and the raw inspiration behind his music, including 'This Land Is Your Land.' The Austen and Woolf biographies, part of the 'Library of Luminaries' series, provide accessible, illustrated insights into the lives and careers of these literary giants. They uncover lesser-known anecdotes and personal struggles, making their stories relatable and engaging for literature enthusiasts. Both reviews emphasize the visual appeal and educational value of these biographical works, making them valuable resources for understanding influential figures and their historical backdrops.",
-    "summary_zh": "这篇文章评论了两套插画传记，一套关于民谣传奇伍迪·格思里，另一套则聚焦文学巨匠简·奥斯汀和弗吉尼亚·伍尔夫。格思里的传记以图像小说形式，生动再现了大萧条和沙尘暴如何塑造了他，深刻揭示了时代悲剧与音乐创作的内在联系，读来令人动容。而奥斯汀和伍尔夫的系列传记，则以轻松有趣的方式，呈现了两位女性作家的生平趣事和鲜为人知的细节。这些书不仅是传记，更是历史与文化的缩影，引人深思，它们如何以独特的艺术形式，将厚重的历史与人物故事变得鲜活可感，这无疑是对传记体裁的创新性探索。",
-    "best_quote_en": "This all brings to life the tragic unraveling of the fragile Dust Bowl ecosystem and brings about the hardscrabble lives and dust-blown landscape that Guthrie integrates into his music.",
-    "best_quote_zh": "这所有的一切都让脆弱的沙尘暴生态系统悲剧性的瓦解变得鲜活起来，也带来了格思里融入他音乐中的艰苦生活和尘土飞扬的景象。"
-  },
-  {
     "id": 445,
     "title": "What We Look for in Founders",
     "title_zh": "我们寻找的创业者特质",
@@ -2300,5 +2184,123 @@
     "summary_zh": "这组文章内容丰富，从哲学思考到实用建议，引人深思。斯图尔特·布兰德的“维护宣言”尤为独特，它将日常的维护工作提升到文明和个人满足的层面，令人耳目一新。这让我反思，我们是否低估了那些看似琐碎的日常？“树的葬礼”则以艺术的方式处理悲伤与转化，展现了失去如何激发创造力，非常感人。而平价降噪耳塞的推荐则回归生活，提供了实用的解决方案，提醒我们价值并非总与价格挂钩。这些文章共同描绘了生活的多元面貌，鼓励我们在日常中发现意义和解决之道。",
     "best_quote_en": "Turns out civilization is basically varieties of maintenance. Stewart Brand’s books famously change people’s minds, and this one changed my mind. I now look forward to my maintenance duties, and I learned some how to do it better from this book.",
     "best_quote_zh": "原来文明基本上就是各种形式的维护。斯图尔特·布兰德的书以改变人们的思想而闻名，而这本书改变了我的想法。我现在期待我的维护职责，并且从这本书中学到了一些如何做得更好的方法。"
+  },
+  {
+    "id": 540,
+    "title": "‘Menopause gold rush’? Boom in hi-tech products as stigma starts to recede",
+    "title_zh": "“更年期淘金热”？随着污名开始消退，高科技产品蓬勃发展",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/feb/01/menopause-gold-rush-experts-warn-of-brands-cashing-in-on-womens-symptoms",
+    "tags": [
+      "analyze",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-02-01",
+    "summary_en": "This article insightfully examines the burgeoning 'menopause economy,' characterized by a surge in high-tech products and investments aimed at menopausal women. While acknowledging the positive shift in destigmatizing menopause and attracting much-needed investment in women's health, it critically questions the rapid expansion of unregulated products and the potential for overhyped solutions. The piece highlights the tension between innovation and consumer protection, emphasizing the need for scientific backing, transparent evidence, and reliable guidance in a market susceptible to misinformation. It ultimately advocates for caution, advising consumers to prioritize evidence-based solutions and professional advice over 'magic bullet' products, urging a more grounded approach to managing menopause.",
+    "summary_zh": "这篇文章探讨了“更年期经济”的崛起，高科技产品和投资涌入这一长期被忽视的市场。我深以为然，更年期话题从禁忌走向公开，这本身就是社会进步。然而，文章也尖锐地指出，这种“淘金热”可能伴随着监管不足和夸大宣传，消费者面临信息不对称的风险。这引人深思：当市场发现新的商机时，如何平衡创新与消费者权益保护？真正的价值在于科学证据和可靠的指导，而非短暂的营销泡沫。我们必须警惕那些承诺“灵丹妙药”的产品，回归到以证据为基础的健康管理。",
+    "best_quote_en": "“I wouldn’t advise anyone to rush out and buy anything. For those still having periods, tracking devices like Oura Rings or basic period trackers can be useful. And a simple handheld fan might actually be the best cooling solution. But I would be wary of anything marketed specifically as a ‘menopause relief’ product unless it’s backed by solid evidence.”",
+    "best_quote_zh": "“我不会建议任何人急于购买任何东西。对于那些仍在经期的女性来说，像Oura Rings或基本的经期追踪器可能很有用。一个简单的手持风扇实际上可能是最好的降温方案。但我会警惕任何专门作为‘更年期缓解’产品销售的东西，除非它有坚实的证据支持。”"
+  },
+  {
+    "id": 541,
+    "title": "Maker's Schedule, Manager's Schedule",
+    "title_zh": "创作者日程与管理者日程",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/makersschedule.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "This insightful essay by Paul Graham dissects the fundamental conflict between two distinct scheduling paradigms: the 'maker's schedule' and the 'manager's schedule.' Graham elegantly articulates how creative professionals, such as programmers and writers, require large, uninterrupted blocks of time for deep work, making traditional hourly meetings profoundly disruptive. Conversely, managers thrive on fragmented, appointment-driven days. The piece brilliantly highlights the hidden costs of meetings for makers, extending beyond the meeting itself to include a 'cascading effect' on morale and ambition. What I find particularly compelling is the proposed solution of 'office hours' to bridge this divide, allowing makers to compartmentalize interruptions without sacrificing productivity. This analysis offers a crucial framework for understanding and optimizing workplace dynamics, advocating for empathy and structural adjustments to foster innovation.",
+    "summary_zh": "这篇文章深刻剖析了“创作者日程”与“管理者日程”的根本冲突，读来令人豁然开朗。我个人深有体会，作为一名内容创作者，任何一次被打断都可能导致思绪中断、半日无功。格雷厄姆巧妙地揭示了会议对创作者的隐性成本，远不止占用时间，更在于破坏心流和工作士气。他提出的“办公时间”模式，旨在模拟管理者日程的便利性，同时保护创作者的大块专注时间，这种平衡的智慧值得所有团队管理者深思。这不仅是时间管理技巧，更是对不同工作模式的尊重与理解，对于构建高效且人性化的工作环境至关重要。",
+    "best_quote_en": "For someone on the maker's schedule, having a meeting is like throwing an exception. It doesn't merely cause you to switch from one task to another; it changes the mode in which you work.",
+    "best_quote_zh": "对于遵循创作者日程的人来说，开会就像抛出一个异常。它不仅仅是让你从一项任务切换到另一项任务；它改变了你的工作模式。"
+  },
+  {
+    "id": 542,
+    "title": "The Adolescence is Already Here",
+    "title_zh": "青春期已然来临",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/p9SQLxybtX2yq6j4R/the-adolescence-is-already-here",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "This thought-provoking article argues that humanity is already experiencing the 'adolescence of technology,' a dangerous transition period where AI's subtle, indirect effects are shaping our cognitive processes and social interactions, even with current models. While agreeing with Dario Amodei's concerns about powerful future AI, the author contends that voluntary dependence on present-day LLMs is already leading to a quiet atrophy of human capacities like independent thinking, problem-solving, and even genuine connection. Through personal anecdotes from academia, family life, and her own writing, she illustrates how convenience-driven reliance on AI, though seemingly harmless, erodes our tolerance for uncertainty and critical judgment. The piece provocatively asks if we are noticing what we are trading away, one convenience at a time, and offers practical, albeit small, strategies to reclaim human agency, such as embracing friction in learning and writing. It's a compelling and urgent call to reflect on the present impact of AI on our human intelligence and autonomy.",
+    "summary_zh": "这篇文章深刻指出，我们已经身处“技术青春期”，人工智能的间接影响正悄然改变我们的思维和人际关系。作者通过教育、家庭和个人写作的生动案例，揭示了对AI工具的过度依赖如何悄无声息地侵蚀着人类独立思考和解决问题的能力。她没有着眼于未来AI的宏大风险，而是聚焦当下，质疑我们是否在享受便利的同时，正逐渐放弃那些使我们成为“人”的核心能力。这篇分析引人深思，促使我们反思在日常生活中，为了效率和便捷，我们究竟付出了怎样的代价，以及我们是否还有选择的余地。",
+    "best_quote_en": "I am less worried about a hypothetical future in which AI surpasses human intelligence than I am about a present in which humans are steadily relinquishing the capacities that make intelligence, both individual and collective, matter.",
+    "best_quote_zh": "我不太担心AI超越人类智慧的假设性未来，我更担心的是当下，人类正在稳步放弃那些使个体和集体智慧变得重要的能力。"
+  },
+  {
+    "id": 543,
+    "title": "Inside Russia’s Secret Campaign of Sabotage in Europe",
+    "title_zh": "俄罗斯在欧洲秘密破坏行动的内幕",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/02/09/to-build-a-fire",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "This deeply unsettling article exposes Russia's extensive and sophisticated campaign of sabotage across Europe, primarily leveraging vulnerable individuals as 'single-use agents.' It meticulously details how GRU military intelligence recruits unsuspecting youths, often Ukrainian refugees, for acts ranging from propaganda to arson and even potential assassination plots. The piece highlights the strategic brilliance and cynical ruthlessness of this hybrid warfare tactic: using disposable agents to sow discord, disrupt supply lines to Ukraine, and exhaust European law enforcement, all while maintaining plausible deniability. The narrative, centered on the tragic case of Daniil Bardadim, a young Ukrainian coerced into committing arson, serves as a chilling illustration of the human cost and the insidious nature of these operations, revealing a 'swarm tactic' designed to create widespread unease and test the resilience of democratic societies. It's a stark reminder of the evolving threats in modern conflict.",
+    "summary_zh": "这篇文章揭示了俄罗斯在欧洲利用“一次性特工”进行秘密破坏活动的惊人内幕。它不仅详细描述了GRU如何招募易受影响的年轻人（包括乌克兰难民）执行从宣传到纵火等任务，更深刻地展现了这种混合战术的阴险与高效。读后不禁思考，当国家间的冲突不再局限于传统战场，而是渗透到社会肌理，利用人性的脆弱和对金钱的渴望时，我们该如何识别并抵御这种无形却致命的威胁？这不仅是对欧洲安全体系的挑战，也是对现代社会道德底线的拷问，令人不寒而栗。",
+    "best_quote_en": "“There’s nothing inherently new, or even all that Russian, about using proxies in statecraft or war. But, what is noteworthy is the scale—and the audacity.”",
+    "best_quote_zh": "“这些行为的目的是为了散布不确定性、恐惧和不信任。国家显得无能为力。人们开始怀疑，看看我们身边发生的一切，都是因为我们卷入了这场战争，而这场战争实际上可能并不是——或者不应该是——我们的战争。”"
+  },
+  {
+    "id": 544,
+    "title": "Gloves",
+    "title_zh": "手套",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gloves/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "This article offers practical recommendations for various types of gloves, addressing common needs from kitchen safety to extreme weather protection and general heavy-duty work. The insights are derived from personal experiences of users, highlighting specific product features and their real-world performance. It's fascinating how a simple item like a glove can have such specialized designs to mitigate risks, enhance comfort, or improve efficiency across diverse tasks. The emphasis on durability, dexterity, and protection against cuts, cold, or abrasions makes this a valuable resource for anyone seeking reliable hand protection, underscoring the importance of choosing the right tool for the job. The anecdotes provide a compelling narrative for each recommendation, making the advice feel trustworthy and relatable.",
+    "summary_zh": "这篇文章汇集了多款手套的实用推荐，从厨房防割到严寒保暖，再到重型作业防护，几乎涵盖了日常生活中对双手保护的各种需求。我特别欣赏作者们结合亲身经历的分享，这让每款手套的优点和适用场景都变得生动而可信。选择一双合适的手套，不仅是工具，更是对手部安全的投资，看完这些，我开始重新审视自己手套箱里的那些旧手套了。",
+    "best_quote_en": "The problem is keeping my work gloves with me at all times. I’ve tried putting grommets in the gloves and clipping them with a carabiner, but this isn’t as easy as it sounds and is a pain to do all over again when a glove gets lost or worn out.",
+    "best_quote_zh": "问题在于如何让我的工作手套随时都在身边。我试过在手套上打孔，然后用登山扣夹住，但这听起来没那么容易，而且当手套丢失或磨损时，重新做一遍会很麻烦。"
   }
 ]
