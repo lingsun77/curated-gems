@@ -1,121 +1,5 @@
 [
   {
-    "id": 445,
-    "title": "What We Look for in Founders",
-    "title_zh": "我们寻找的创业者特质",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/founders.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "This article by Paul Graham offers invaluable insights into the non-obvious qualities that define successful startup founders, moving beyond the common misconception that intelligence is paramount. Graham masterfully argues for determination as the most crucial trait, illustrated by vivid examples like WePay's tenacious founders. He then introduces the nuanced concept of 'flexible determination,' using a running back metaphor to emphasize adaptability in the unpredictable startup landscape. The discussion on 'imagination' as a driver for disruptive, initially 'crazy' ideas (like Airbnb) is particularly compelling, challenging conventional wisdom. Finally, the inclusion of 'naughtiness' and 'friendship' as essential traits underscores a deeper understanding of human dynamics and rule-bending innovation, providing a holistic and thought-provoking perspective for aspiring entrepreneurs and investors alike. It's a foundational read for anyone looking to understand the Y Combinator ethos.",
-    "summary_zh": "这篇文章深刻剖析了成功创业者身上那些非显而易见的特质，远超我们普遍认为的智力至上。格雷厄姆以生动的案例，如WePay创始人，有力地阐释了决心才是最关键的品质。他提出的“灵活的决心”概念，以跑卫的比喻，精妙地捕捉了创业世界中适应性与韧性的结合。而对“想象力”的探讨，特别是那些最初看起来“疯狂”的创意（如Airbnb），更是颠覆了传统思维。最后，对“淘气”和“友谊”的强调，则揭示了创新背后的人性洞察和打破常规的勇气。这不仅是一篇给创业者的指南，更是对创业精神的哲学思考。",
-    "best_quote_en": "As long as you're over a certain threshold of intelligence, what matters most is determination. You're going to hit a lot of obstacles. You can't be the sort of person who gets demoralized easily.",
-    "best_quote_zh": "只要你的智力超过某个门槛，最重要的就是决心。你将遇到很多障碍。你不能是那种轻易气馁的人。"
-  },
-  {
-    "id": 446,
-    "title": "Corrigibility Scales To Value Alignment",
-    "title_zh": "可纠正性与价值对齐",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/fe5zvFyLNtcBuuYc9/corrigibility-scales-to-value-alignment",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "This article speculates on the scalability of AI corrigibility to superintelligence, arguing that a corrigible AI can naturally evolve towards value alignment. The author contends that as an AI learns to understand a principal's desires, its actions will increasingly align with those values, eventually becoming indistinguishable from a truly value-aligned AI. It addresses common criticisms, such as the 'preschooler vetting superintelligence' analogy and concerns about complexity and speed, suggesting that corrigibility offers a viable, if imperfect, path to AI safety. The piece thoughtfully considers the limitations and risks, particularly when a corrigible AI serves a single principal, and acknowledges that while not a perfect solution, it may be the most realistic option available given current challenges in AI alignment.",
-    "summary_zh": "这篇文章深入探讨了AI可纠正性如何能扩展至与超级智能的价值对齐。作者认为，一个可纠正的AI会逐步学习并理解其主体的意图，最终其行为将与主体的价值观趋于一致。面对“学龄前儿童无法审查超级智能”等常见质疑，文章提出，在缺乏更优解的情况下，可纠正性提供了一条现实的AI安全路径。尽管存在局限性，特别是在单一主体情境下，但其对于当前AI对齐挑战的深刻洞察和对潜在风险的坦诚评估，让我对这一复杂议题有了更 nuanced 的理解。",
-    "best_quote_en": "Corrigibility appears to be a path that leads in the direction of full value alignment. No alternative begins to look better as the system scales to superintelligence.",
-    "best_quote_zh": "可纠正性似乎是通向完全价值对齐的道路。随着系统扩展到超级智能，没有其他替代方案看起来会更好。"
-  },
-  {
-    "id": 447,
-    "title": "How Colombia’s President Reached an Uneasy Détente with Donald Trump",
-    "title_zh": "哥伦比亚总统如何与唐纳德·特朗普达成不安的缓和",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/how-colombias-president-reached-an-uneasy-detente-with-donald-trump",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "This article offers a fascinating, almost surreal, look into the high-stakes diplomatic tightrope walk between Colombian President Gustavo Petro and former U.S. President Donald Trump. It delves into the unexpected détente following a period of intense public animosity and U.S. aggression towards Venezuela, highlighting the complex interplay of personal grievances, geopolitical strategy, and the ever-present shadow of drug trafficking. The piece masterfully captures Petro's unique blend of leftist ideology, pragmatic survivalism, and his almost philosophical engagement with global issues like climate change and migration, even while navigating the immediate threat of U.S. military action. It's a compelling narrative of how two seemingly irreconcilable figures found a tenuous common ground, driven by a mutual recognition of shared peril, and the underlying currents of Latin American politics reacting to U.S. foreign policy.",
-    "summary_zh": "这篇文章描绘了哥伦比亚总统佩特罗与特朗普之间一场令人不安却又充满戏剧性的外交斡旋。在美方对委内瑞拉采取军事行动后，两位曾激烈互怼的领导人竟达成了一种脆弱的缓和。文章深入剖析了佩特罗在意识形态、政治生存和国际博弈间的复杂平衡，尤其是在毒品贸易、气候危机和地缘政治紧张等问题上展现出的独特视角。这种“鹰与美洲豹”式的和解，不仅是对拉美政治生态的深刻洞察，也让人不禁思考，在极端对立中寻求对话，究竟是务实还是无奈？",
-    "best_quote_en": "Petro finally got around to describing the conversation. He told the crowd that he and Trump had recognized that 'if we don’t talk, we’re screwed. We’ll kill each other.'",
-    "best_quote_zh": "佩特罗终于谈到了那次对话。他告诉人群，他和特朗普都意识到：“如果我们不对话，我们就完蛋了。我们会互相残杀。”"
-  },
-  {
-    "id": 448,
-    "title": "What’s in my NOW? — Jeremiah Krage",
-    "title_zh": "我的“当下”是什么？— Jeremiah Krage",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-jeremiah-krage/",
-    "tags": [
-      "inspire",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-01-14",
-    "summary_en": "Jeremiah Krage, a former Teletubby and Cyberman, now designs AI personalities, bridging his past in character creation with the future of human-AI interaction. His work focuses on making conversations with technology more natural and intuitive. Krage shares a curated list of tools that inform his creative process and address common challenges in the tech and creative fields. This includes 'An Actor's Companion' for fostering creative problem-solving, 'Wabi-Sabi' for embracing imperfection in the face of AI's near-misses, and practical items like an ergonomic mouse. He also recommends 'AI for Humans' for accessible AI updates and DeepLearning.ai for technical upskilling, highlighting resources that blend artistic insight with technological proficiency. This piece offers a fascinating glimpse into the interdisciplinary mind shaping the future of AI character design.",
-    "summary_zh": "Jeremiah Krage从Teletubby和Cyberman的经历中汲取灵感，如今致力于设计AI人格，这本身就是一种迷人的跨界融合。他分享的工具清单，无论是《演员伴侣》的创意破局，还是《侘寂》对AI不完美的接纳，都透露出一种深思熟虑的实用主义。这些推荐不仅关乎效率，更触及了我们如何在快速变化的AI时代保持创造力与人性。这让我思考，未来的人机交互，或许更需要这种艺术与技术并存的洞察力。",
-    "best_quote_en": "Now is the moment to explore these new tools and shape them for the future of storytelling.",
-    "best_quote_zh": "现在正是探索这些新工具并塑造它们以应对未来叙事的好时机。"
-  },
-  {
-    "id": 449,
-    "title": "How To Invest In Startups",
-    "title_zh": "如何投资初创公司",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
-    "tags": [
-      "learn",
-      "startup-funding",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业融资",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2020-01-13",
-    "summary_en": "This article offers a rare and insightful perspective on startup investing, shifting the focus from founders to investors. It meticulously outlines three critical pillars for successful startup investment: gaining access to opportunities, making sound investment decisions, and effectively closing deals. The author emphasizes the importance of hard work, building a strong brand, and genuinely helping founders to secure access. For decision-making, the piece highlights identifying future great founders based on their improvement rate and specific traits, alongside predicting promising market growth. Crucially, it advocates for a high close rate by treating founders as peers, being decisive, and offering tangible support. This isn't just a guide; it's a strategic playbook for investors looking to navigate the increasingly competitive landscape of startup funding, offering actionable advice grounded in experience.",
-    "summary_zh": "这篇文章为初创公司投资提供了一个独特而深刻的视角，将焦点从创始人转移到投资者身上。它详细阐述了成功投资的三个关键支柱：获取优质机会、做出明智的投资决策以及提高交易完成率。作者强调，投资者需要通过努力工作、建立个人品牌并真心帮助创始人来获得机会。在决策方面，文章侧重于如何识别具备高成长潜力的优秀创始人，并预判市场趋势。更重要的是，它倡导通过平等对待创始人、果断决策和提供实际支持来提高交易成功率。这不仅仅是一份指南，更是一份实战策略手册，为投资者在日益激烈的初创公司投资环境中提供了宝贵的经验和可操作的建议，读来颇受启发。",
-    "best_quote_en": "The central learning of my career so far has been that you can and should scale up things that are working.",
-    "best_quote_zh": "我职业生涯至今的核心经验是，对于那些行之有效的事情，你能够也应该将其规模化。"
-  },
-  {
     "id": 450,
     "title": "The New Funding Landscape",
     "title_zh": "新的融资格局",
@@ -2302,5 +2186,119 @@
     "summary_zh": "这篇文章汇集了多款手套的实用推荐，从厨房防割到严寒保暖，再到重型作业防护，几乎涵盖了日常生活中对双手保护的各种需求。我特别欣赏作者们结合亲身经历的分享，这让每款手套的优点和适用场景都变得生动而可信。选择一双合适的手套，不仅是工具，更是对手部安全的投资，看完这些，我开始重新审视自己手套箱里的那些旧手套了。",
     "best_quote_en": "The problem is keeping my work gloves with me at all times. I’ve tried putting grommets in the gloves and clipping them with a carabiner, but this isn’t as easy as it sounds and is a pain to do all over again when a glove gets lost or worn out.",
     "best_quote_zh": "问题在于如何让我的工作手套随时都在身边。我试过在手套上打孔，然后用登山扣夹住，但这听起来没那么容易，而且当手套丢失或磨损时，重新做一遍会很麻烦。"
+  },
+  {
+    "id": 545,
+    "title": "A different kind of girls’ weekend: adventure and creativity in Carmarthenshire",
+    "title_zh": "一种与众不同的姐妹周末：卡马森郡的冒险与创意",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/travel/2026/feb/04/womens-weekend-adventure-creative-experiences-carmarthenshire-wales",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This article beautifully captures the essence of a modern 'girls' weekend' in Carmarthenshire, Wales, shifting from traditional prosecco-fueled getaways to enriching experiences focused on skill-building and wellbeing. The narrative expertly weaves together personal anecdotes of pottery, wreath-making, and jewelry crafting with the broader cultural context of Welsh 'cwtch' – a feeling of belonging and warm embrace. It highlights the growing trend of curated retreats that offer both adventure and creativity, connecting participants with local artisans and the serene landscape. The piece effectively showcases how these bespoke trips foster genuine connection, mindfulness, and a deeper appreciation for local heritage and craftsmanship, making it a compelling read for those seeking meaningful travel experiences.",
+    "summary_zh": "这篇文章描绘了一种新颖的姐妹周末模式，不再是传统的狂欢，而是深入威尔士卡马森郡，体验陶艺、插花和珠宝制作等创意活动。作者的亲身经历与威尔士独特的“cwtch”文化（一种深情的拥抱和归属感）完美融合，展现了当地手工艺人的热情与风景的魅力。这种注重技能学习和身心健康的旅行，不仅加深了朋友间的联结，也让参与者对当地文化和手工艺有了更深层次的理解，令人向往。",
+    "best_quote_en": "“Cwtch,” she said, “It’s a big, warm hug, but also it’s a feeling, a sense of belonging.”",
+    "best_quote_zh": "“Cwtch，”她说，“它是一个大大的、温暖的拥抱，但它也是一种感觉，一种归属感。”"
+  },
+  {
+    "id": 546,
+    "title": "A Local Revolution?",
+    "title_zh": "一场地方性的革命？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/revolution.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This essay provocatively questions the conventional wisdom that the startup phenomenon, if indeed a new economic revolution, will spread globally like previous industrial transformations. The author posits that startups are more akin to specialized industries like filmmaking, flourishing only in specific, highly concentrated hubs. He argues that unlike industrial techniques driven by market necessity and geographic resources, startup culture is a social phenomenon, less tied to location and not easily replicable by government policy or mere investment. The piece delves into the self-reinforcing dynamics of existing hubs like Silicon Valley and Boston, suggesting that creating new ones is increasingly difficult due to the gravitational pull of established centers. This analysis offers a compelling, if somewhat pessimistic, view on the future geographic distribution of innovation, highlighting the unique challenges of fostering startup ecosystems.",
+    "summary_zh": "这篇文章提出了一个引人深思的观点：创业革命可能不会像工业革命那样广泛传播，而更可能是一种高度地方化的现象。作者认为，创业文化的扩散并非由政府政策或市场需求驱动，而是由随机因素和现有中心的强大吸引力决定。他深刻剖析了硅谷等现有创业中心的形成机制及其难以复制的特点，指出试图人为建立新中心的挑战。这种对创新地理分布的独特见解，为我们理解全球创业生态系统提供了全新的视角，也引发了对未来经济格局的深层思考。",
+    "best_quote_en": "This revolution, if it is one, will be unusually localized.",
+    "best_quote_zh": "这场革命，如果它是一场革命的话，将是异常地方化的。"
+  },
+  {
+    "id": 547,
+    "title": "Anthropic’s “Hot Mess” paper overstates its case (and the blog post is worse)",
+    "title_zh": "Anthropic的“一团糟”论文言过其实（其博客文章更糟）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ceEgAEXcL7cC2Ddiy/anthropic-s-hot-mess-paper-overstates-its-case-and-the-blog",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This critical analysis dissects Anthropic's paper, \"The Hot Mess of AI,\" and its accompanying blog post, arguing that both significantly overstate their claims regarding AI incoherence at scale. The author meticulously deconstructs the paper's definition of \"incoherence\" as the \"fraction of model error caused by variance,\" highlighting its technical unsuitability for drawing conclusions about superintelligent AI misalignment risks. The piece points out that the paper's own data often shows increased coherence with model size, directly contradicting its abstract's selective emphasis on rising incoherence. Furthermore, the author critiques the blog post's reliance on LLM-generated content and its \"measure zero\" argument, labeling it a vacuous attempt to define away the possibility of coherent optimizers. This critique serves as a vital counter-narrative, urging a more rigorous and less sensationalized approach to discussing AI safety and alignment, especially concerning the extrapolation of current model behaviors to future superintelligence.",
+    "summary_zh": "这篇评论犀利地指出Anthropic关于“AI混乱”的论文及其博客文章都言过其实。作者深入剖析了论文对“不连贯性”的定义，认为其技术性不足以推断超智能AI的对齐风险，并揭示论文数据实则多数显示模型规模越大，连贯性越高，与摘要强调的“不连贯性增加”相悖。更令人玩味的是，博客文章大量使用LLM生成内容，其“测度为零”的论点被斥为空洞。这篇分析提供了一个重要的反驳视角，呼吁在讨论AI安全和对齐问题时，应采取更严谨、更少哗众取宠的态度，尤其是在从当前模型行为推断未来超智能时。",
+    "best_quote_en": "The paper misreports its own results re: incoherence scaling with model size, performs an implicit motte-and-bailey with its definition of \"incoherence\", and tries to use evidence it doesn't have to draw conclusions about the likelihood of future alignment difficulties that would be unjustified even if it had that evidence.",
+    "best_quote_zh": "这篇论文错误地报告了其关于不连贯性随模型规模变化的实验结果，通过其对“不连贯性”的定义进行了隐晦的“城堡与农舍”论证，并试图用其并未掌握的证据来推断未来对齐困难的可能性，即使有这些证据，其结论也站不住脚。"
+  },
+  {
+    "id": 548,
+    "title": "What Happens When the Snow Doesn’t Melt?",
+    "title_zh": "当积雪不融化时会发生什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/our-local-correspondents/what-happens-when-the-snow-doesnt-melt",
+    "tags": [
+      "inspire",
+      "society",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "This insightful piece delves into the phenomenon of 'sneckdowns'—snow and ice formations that act as natural curb extensions in New York City when temperatures remain below freezing. Beyond a mere observation, the article critically examines how these temporary formations, often seen as nuisances, offer urbanists a glimpse into a less car-dependent city. It highlights the tension between civic responsibility and individual inconvenience, and how sneckdowns inadvertently reveal potential urban design solutions for pedestrian safety and public space reclamation. The author's personal anecdotes and interviews with sanitation officials and urban activists provide a multi-faceted view, questioning the permanence of urban infrastructure and inviting readers to rethink how public spaces are utilized.",
+    "summary_zh": "当纽约的积雪不融化时，它形成了一种被称为“sneckdown”的奇特景观。这不仅仅是冬天的烦恼，更是一个深刻的城市规划隐喻。文章通过对这些临时性冰雪结构的观察，引出了一个引人深思的问题：如果城市可以自然地重新分配空间以支持行人，我们为何不将其永久化？这让我反思，我们习以为常的城市面貌并非一成不变，而是社会构建的产物。在不便中发现潜在的乌托邦愿景，这正是城市生活迷人之处。",
+    "best_quote_en": "“There is a Foucaultian aspect to it,” Goodman told me. “What’s public and what’s private isn’t inherent. It’s socially constructed. It’s shaped by cultural factors and the fact that it is below thirty-two degrees.”",
+    "best_quote_zh": "“这其中有福柯式的维度，”古德曼告诉我。“公共与私有并非与生俱来。它是社会构建的。它受文化因素以及气温低于零度的影响。”"
+  },
+  {
+    "id": 549,
+    "title": "Wherever You Go / After Dinner Games",
+    "title_zh": "无论你走到哪里 / 晚宴游戏",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/wherever-you-go-after-dinner-games/",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "This content reviews two distinct books, 'Wherever You Go' and 'After Dinner Games'. The first, a children's picture book, is lauded for its poetic narrative on travel and new experiences, featuring intricate illustrations that invite prolonged engagement. Its metaphorical journey resonates as a life lesson. The second book offers 40 ice-breaking games for social gatherings, specifically dinner parties. It's presented as a practical solution to awkward silences, providing simple explanations for games ranging from active to purely conversational. While seemingly disparate, both entries share a common thread of enriching experiences – one through imaginative exploration and the other through social interaction. The juxtaposition highlights different facets of human connection and engagement, whether solitary or communal. My analysis suggests that both books offer unique value for their respective audiences, emphasizing the power of narrative and play.",
+    "summary_zh": "这篇文章评介了两本书，一本是儿童绘本《无论你走到哪里》，以其精美的插画和富有诗意的旅行故事，启发读者思考人生旅程的意义。另一本是《晚宴游戏》，提供了四十种破冰游戏，旨在解决社交场合的尴尬，活跃气氛。两本书虽然主题迥异，但都指向了提升生活体验和人际互动。前者侧重于内在的感悟和想象力，后者则专注于外在的社交技巧。这种对比让我思考，无论是在独自的阅读中寻求慰藉，还是在群体活动中寻找乐趣，人类对连接和意义的追求是永恒的。",
+    "best_quote_en": "A liltingly poetic storyline about traveling and new experiences is a delightful metaphor for life’s journey.",
+    "best_quote_zh": "关于旅行和新体验的轻快诗意故事情节，是人生旅程的一个美妙隐喻。"
   }
 ]
