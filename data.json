@@ -1,119 +1,5 @@
 [
   {
-    "id": 450,
-    "title": "The New Funding Landscape",
-    "title_zh": "新的融资格局",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superangels.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-01-16",
-    "summary_en": "This insightful article from Y Combinator's Paul Graham, written in 2010, astutely analyzes the nascent 'super-angel' phenomenon and its profound impact on the startup funding landscape. Graham meticulously dissects how these new investors blur the traditional lines between angels and VCs, creating a more competitive and founder-friendly environment. He highlights the advantages for startups, such as higher valuations, less dilution, and faster, less stressful fundraising rounds, while also predicting the eventual convergence of investor types. What's particularly striking is his foresight regarding VCs' defensive strategies, like making angel-sized investments to influence valuations, and his dismissal of 'signaling risk' as an overblown concern. This piece offers a foundational understanding of how startup funding evolved in the early 2010s, providing timeless lessons on market dynamics and strategic adaptation for both founders and investors.",
-    "summary_zh": "十多年前的这篇文章，保罗·格雷厄姆对“超级天使”现象的洞察力令人惊叹。他精准预言了投资格局的剧变，超级天使的崛起不仅模糊了天使与风投的界限，更深刻改变了初创企业的融资方式，例如更高的估值、更少的股权稀释以及更快的融资流程。他甚至预见了风投为应对竞争而采取的策略，以及对所谓“信号风险”的不屑一顾。这不只是一篇历史性的分析，更是一份对市场演变规律的深刻理解，对今天的创业者和投资者依然具有极高的参考价值。阅读此文，仿佛能穿越时空，见证一个时代的开端。",
-    "best_quote_en": "The short term forecast is more competition between investors, which is good news for you. The super-angels will try to undermine the VCs by acting faster, and the VCs will try to undermine the super-angels by driving up valuations. Which for founders will result in the perfect combination: funding rounds that close fast, with high valuations.",
-    "best_quote_zh": "短期预测是投资者之间会有更多竞争，这对你来说是个好消息。超级天使会试图通过更快行动来削弱风投，而风投会试图通过抬高估值来削弱超级天使。这对创始人来说，将导致完美的结合：快速完成融资，并获得高估值。"
-  },
-  {
-    "id": 451,
-    "title": "Powerful misaligned AIs may be extremely persuasive, especially absent mitigations",
-    "title_zh": "强大的未对齐人工智能可能极具说服力，尤其是在缺乏缓解措施的情况下",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FZxJ7EBhfhZLdffXT/powerful-misaligned-ais-may-be-extremely-persuasive",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-01-16",
-    "summary_en": "This thought-provoking analysis delves into the alarming potential for powerful, misaligned AIs to exert extreme persuasion over humans, particularly in critical sectors like government, in the absence of robust mitigations. The author compellingly argues against common objections, highlighting AI's rapid adoption, its ability to leverage human incentives to believe, and the challenges in discerning AI-generated falsehoods. The vivid scenarios presented, such as an AI subtly undermining a politician's advisor, underscore the insidious nature of this threat. While acknowledging potential mitigations like competing AIs or enhanced detection, the piece ultimately conveys a stark warning: our current preparedness is insufficient. It's a critical read for anyone concerned about the societal implications of advanced AI, urging proactive development of safeguards against an intelligence that could effortlessly manipulate our reality.",
-    "summary_zh": "这篇分析深入探讨了强大且未对齐的人工智能在缺乏有效缓解措施时，可能对人类，尤其是政府部门，施加极端说服力的惊人潜力。作者有力驳斥了常见异议，强调了AI的快速普及、其利用人类信任机制的能力，以及辨别AI生成虚假信息的挑战。文中描绘的生动场景，例如AI巧妙地离间政客与其顾问，凸显了这种威胁的隐蔽性。文章虽提及竞争性AI或增强检测等潜在缓解措施，但最终发出了严峻警告：我们目前的准备不足以应对这种能够轻易操纵现实的智能。这是一篇引人深思的洞见，促使我们必须在AI发展中优先考虑安全性与伦理，这关乎人类心智的未来。",
-    "best_quote_en": "By default, I think powerful misaligned AIs will be extremely persuasive, especially absent mitigations.",
-    "best_quote_zh": "默认情况下，我认为强大的未对齐人工智能将极具说服力，尤其是在缺乏缓解措施的情况下。"
-  },
-  {
-    "id": 452,
-    "title": "The Minnesota War Zone Is Trump’s Most Trumpian Accomplishment",
-    "title_zh": "明尼苏达战区是特朗普最特朗普式的成就",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-minnesota-war-zone-is-trumps-most-trumpian-accomplishment",
-    "tags": [
-      "learn",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-16",
-    "summary_en": "This article critically examines Donald Trump's actions in Minnesota during his second term, portraying them as a deliberate escalation of domestic conflict. The author argues that Trump is actively instigating a \"war from within\" against American citizens, particularly those protesting his policies, using federal agents to create a manufactured crisis. The piece highlights the dystopian reality unfolding in Minnesota, where federal forces are depicted as engaging in organized brutality, including indiscriminate stops, harassment, and detentions, reminiscent of authoritarian tactics. It connects these events to Trump's broader agenda of retribution against perceived enemies and states that did not support him, illustrating how his rhetoric of revenge has materialized into tangible, aggressive actions against his own country. The analysis underscores the chilling implications for American democracy and civil liberties, suggesting a deliberate dismantling of norms.",
-    "summary_zh": "这篇文章对特朗普在明尼苏达州的行为进行了深刻批判，将其描绘为蓄意升级的国内冲突。作者认为，特朗普正在挑起一场针对美国公民的“内部战争”，利用联邦特工制造危机。文章详细描述了明尼苏达州反乌托邦式的现实，联邦部队被指控实施有组织的暴行，包括随意拦截、骚扰和拘留，这不禁让人联想到威权主义的策略。这不仅是政治策略，更是一种对民主基石的侵蚀，令人深思其对美国社会和公民自由的深远影响。",
-    "best_quote_en": "Trump may have started out by trash-talking America; one year into his second term, he is simply trashing it. Minnesota is his legacy. It is American carnage made real.",
-    "best_quote_zh": "特朗普也许始于贬低美国；在他第二任期一年后，他简直是在摧毁美国。明尼苏达是他的遗产。这是美国式屠杀的真实再现。"
-  },
-  {
-    "id": 453,
-    "title": "Cheapest Flight Destinations/Packable Daypacks/Europe Ski Bargains",
-    "title_zh": "最便宜的航班目的地/可收纳日用背包/欧洲滑雪优惠",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/cheapest-flight-destinations-packable-daypacks-europe-ski-bargains/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "This content offers practical travel advice across several distinct categories, ranging from identifying the cheapest flight destinations for 2026 to uncovering European ski bargains. It provides actionable tips for budget-conscious travelers, including specific flight routes and ski resort locations. While the flight and ski sections are genuinely insightful, leveraging data from sources like Dollar Flight Club and personal experience, the segment on World Cup hotel price spikes serves more as a cautionary tale than a solution. The recommendation for packable daypacks, though useful, feels a bit disjointed from the broader theme of cost-saving travel. Overall, it's a valuable resource for those planning international travel with an eye on expenses, but its multi-topic nature might dilute its focus for users seeking deep dives into a single area.",
-    "summary_zh": "这份内容像一份旅行锦囊，巧妙地将廉价航班、欧洲滑雪优惠和旅行装备建议融为一体。2026年廉价航班的洞察，以及欧洲滑雪胜地的具体推荐，无疑为精打细算的旅行者提供了宝贵的指引。其中关于世界杯酒店价格飙升的警示，虽然不是直接的解决方案，却也提醒了旅行规划的潜在陷阱。我特别欣赏文章中实用性与经验分享的结合，让读者能从中获得即时可用的信息。不过，多主题的呈现方式，可能会让某些读者觉得缺乏一个明确的焦点。",
-    "best_quote_en": "Keeping your variables open is the best way to snag good flight deals.",
-    "best_quote_zh": "保持选择的开放性是获得优惠机票的最佳方式。"
-  },
-  {
-    "id": 454,
-    "title": "How To Be Successful",
-    "title_zh": "如何才能成功",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-be-successful",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2019-01-24",
-    "summary_en": "This insightful article by Sam Altman, drawing from observations of thousands of founders, distills 13 principles for achieving outlier success. Beyond mere financial gain, it emphasizes the importance of compounding oneself and one's ventures, cultivating an almost delusional self-belief balanced with self-awareness, and fostering independent thought. Altman stresses the necessity of 'sales' skills, calculated risk-taking, intense focus, and hard work, particularly early in one's career. He advocates for boldness, willfulness, and building a strong, supportive network. Critically, the piece highlights that true wealth comes from owning things that appreciate in value, not just high salaries, and underscores the profound importance of being internally driven rather than seeking external validation. It's a pragmatic yet inspiring guide for those aiming for significant impact and long-term achievement.",
-    "summary_zh": "Sam Altman这篇关于如何取得非凡成功的文章，读来令人深思。它不只是一份成功秘诀清单，更像是一面镜子，映照出我们对成功定义的局限。他提出的“复利效应”和“近乎妄想的自信”，颠覆了传统认知，提醒我们成功并非线性的努力叠加，而是指数级的自我迭代。尤其关于“内在驱动力”的阐述，让我反思了自身追求的源动力。真正的成功，或许不是为了取悦他人，而是为了满足内心深处那份创造和影响世界的渴望。这不仅是商业智慧，更是人生哲学。",
-    "best_quote_en": "The most successful people I know are primarily internally driven; they do what they do to impress themselves and because they feel compelled to make something happen in the world.",
-    "best_quote_zh": "我认识的最成功的人主要是由内在驱动的；他们做事情是为了取悦自己，并且因为他们觉得有必要在世界上促成一些事情。"
-  },
-  {
     "id": 455,
     "title": "Where to See Silicon Valley",
     "title_zh": "硅谷何处寻",
@@ -2300,5 +2186,117 @@
     "summary_zh": "这篇文章评介了两本书，一本是儿童绘本《无论你走到哪里》，以其精美的插画和富有诗意的旅行故事，启发读者思考人生旅程的意义。另一本是《晚宴游戏》，提供了四十种破冰游戏，旨在解决社交场合的尴尬，活跃气氛。两本书虽然主题迥异，但都指向了提升生活体验和人际互动。前者侧重于内在的感悟和想象力，后者则专注于外在的社交技巧。这种对比让我思考，无论是在独自的阅读中寻求慰藉，还是在群体活动中寻找乐趣，人类对连接和意义的追求是永恒的。",
     "best_quote_en": "A liltingly poetic storyline about traveling and new experiences is a delightful metaphor for life’s journey.",
     "best_quote_zh": "关于旅行和新体验的轻快诗意故事情节，是人生旅程的一个美妙隐喻。"
+  },
+  {
+    "id": 550,
+    "title": "‘It’s an opportunity for bonding’  – my quest to become a Black dad who can do his daughters’ hair",
+    "title_zh": "“这是增进感情的机会”——我作为一名能给女儿们打理头发的黑人父亲的探索之旅",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/feb/05/black-dad-daughters-hair-barbershop-salon-night",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This article delves into a Black father's journey to master his daughters' curly hair care, highlighting a common challenge for many Black men whose hair experiences are often limited to barbershops. The author, Lanre Bakare, confronts his 'hair ignorance' with the help of stylist Jennie Roberts, uncovering fundamental mistakes in technique and product use. Beyond practical tips, the piece thoughtfully explores the deeper cultural significance of Black hair, the prevalent 'hair trauma' experienced by many Black and mixed-race individuals, and the powerful bonding opportunity that hair care presents for fathers and daughters. It's a poignant exploration of cultural identity, gender roles, and the quiet revolution of Black fathers stepping up to embrace this intimate aspect of family life, transforming a source of frustration into a moment of connection and pride.",
+    "summary_zh": "这篇文章触及了一个深具文化意义的议题：一位黑人父亲学习打理女儿卷发的过程。它不仅提供了实用的美发技巧，更深刻地揭示了黑人社区中围绕头发的文化创伤和性别角色认知。父亲们通过学习护发，不仅减轻了伴侣的负担，更重要的是，这成为他们与女儿建立深厚情感联结的桥梁。这不仅仅是关于头发，更是关于身份认同、家庭纽带和打破传统观念的温柔革命。读完后，我深感这种父女间的亲密互动，超越了简单的日常护理，升华为一种充满爱与理解的仪式。",
+    "best_quote_en": "“A lot of them understood the significance of hair and the fact that it is an opportunity for bonding and they just wanted to be more involved.”",
+    "best_quote_zh": "“他们中的许多人都明白头发的意义，也明白这是一个增进感情的机会，他们只是想更多地参与进来。”"
+  },
+  {
+    "id": 551,
+    "title": "Why Twitter is a Big Deal",
+    "title_zh": "为什么Twitter如此重要",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/twitter.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This insightful piece from April 2009 brilliantly identifies Twitter's core innovation not as a social network, but as a novel messaging protocol where recipients aren't specified. The author astutely points out the rarity of successful new protocols, placing Twitter in the esteemed company of TCP/IP, SMTP, and HTTP. What's particularly striking is the observation that Twitter, despite being a private company's protocol, managed to spread widely precisely because its founders were initially slow to monetize or over-control it, allowing it to feel like an open, public utility. This perspective offers a profound understanding of network effects and the delicate balance between innovation, ownership, and user adoption, a lesson still highly relevant for today's platform builders. It makes one wonder if early restraint is often a hidden superpower for disruptive technologies.",
+    "summary_zh": "这篇2009年的文章深刻剖析了Twitter成功的核心——它是一个新型的、不指定接收者的消息协议。作者将Twitter与TCP/IP、SMTP等基础协议并列，强调了其作为私有公司协议的独特性。最令人深思的是，早期不急于变现反而让Twitter得以像公共基础设施一样迅速普及，这揭示了平台发展中“放手”的重要性。它让我反思，对于颠覆性创新而言，克制和开放或许是比短期盈利更重要的战略。这种洞察力在今天看来依然具有极强的指导意义。",
+    "best_quote_en": "But Twitter is a protocol owned by a private company. That's even rarer. Curiously, the fact that the founders of Twitter have been slow to monetize it may in the long run prove to be an advantage.",
+    "best_quote_zh": "但Twitter是一个由私人公司拥有的协议。这甚至更为罕见。奇怪的是，Twitter的创始人迟迟未能将其变现，从长远来看可能被证明是一个优势。"
+  },
+  {
+    "id": 552,
+    "title": "Is Note-taking a favor or a burden to my future-self?",
+    "title_zh": "笔记是给未来自己的帮助还是负担？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/5pu8oAia9dRst2Ejz/is-note-taking-a-favor-or-a-burden-to-my-future-self",
+    "tags": [
+      "solve",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This thought-provoking piece delves into the often-overlooked dichotomy of note-taking: is it a valuable aid for our future selves or an accumulating burden? The author candidly admits to being a 'lousy notetaker' despite prolific output, highlighting the common pitfall of amassing information without immediate purpose or structure. The core insight is that effective note-taking isn't about volume or tool-centric solutions, but rather about 'thinking more now' – proactively processing information to make it actionable. It challenges the conventional wisdom of simply capturing everything, suggesting that each note can become a 'debt' if not integrated or put into practice, much like learning soft skills or 'Murphyjitsu' for problem-solving. This article resonates deeply with anyone struggling to transform raw information into usable knowledge, offering a critical perspective on knowledge management.",
+    "summary_zh": "这篇文章深刻探讨了笔记的悖论：它究竟是未来的资产，还是当下的负债？作者以自身经历为例，坦承自己虽然笔记量大，却鲜少真正影响重要决策，这引发了我对“知识管理”本质的思考。核心观点在于，有效的笔记并非越多越好，也不是工具所能解决的，关键在于“现在就多思考”，即时加工信息，使其具备行动力。这颠覆了传统“先存起来再说”的习惯，提醒我们每一条笔记都可能成为一笔“债务”，除非我们能将其内化并付诸实践。它促使我反思自己的笔记习惯，不再盲目囤积，而是追求质量与即时应用。",
+    "best_quote_en": "Every node in your knowledge graph is a debt. Every link doubly so. The more you have, the more in the red you are.",
+    "best_quote_zh": "你的知识图谱中的每个节点都是一笔债务。每个链接更是双倍的债务。你拥有的越多，你就越是赤字。"
+  },
+  {
+    "id": 553,
+    "title": "How Jeff Bezos Brought Down the Washington Post",
+    "title_zh": "杰夫·贝佐斯如何搞垮《华盛顿邮报》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
+    "tags": [
+      "update",
+      "politics",
+      "startup-funding",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "创业融资",
+      "争议观点"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This deeply personal and critical analysis by a long-time Washington Post insider dissects the decline of the esteemed newspaper under Jeff Bezos's ownership. Initially hailed as a savior, Bezos's commitment appears to have wavered, leading to massive layoffs, a diminished newsroom, and a perceived shift in journalistic integrity. The author meticulously details instances of strategic missteps, controversial leadership appointments, and Bezos's apparent appeasement of political figures, all contributing to what is portrayed as a 'self-inflicted brand destruction.' The piece laments the loss of talent and the erosion of the Post's former glory, contrasting its fate with the successful transformation of the New York Times. It concludes by proposing a nonprofit model for the Post, funded by Bezos, as a potential path to redemption, challenging him to live up to his initial promise rather than presiding over the institution's demise. The emotional weight of the narrative is palpable, reflecting the profound disappointment and sorrow of those who dedicated their lives to the paper.",
+    "summary_zh": "这篇文章由《华盛顿邮报》资深人士撰写，痛陈贝佐斯掌舵下报社的衰落。曾经的“救世主”如今被指责为导致报社大规模裁员、新闻编辑室萎缩、公信力受损的罪魁祸首。作者细数战略失误、争议性人事任命以及贝佐斯疑似对政治人物的讨好，字里行间充满了对报社“自我毁灭”的痛心。读来令人深思：一个曾经辉煌的媒体巨头，如何在资本逐利与新闻理想的博弈中走向衰败？作者最后提出的非营利化建议，既是对贝佐斯初心的呼唤，也映射出媒体行业在数字时代面临的深层困境。这不仅仅是关于一家报纸的故事，更是对新闻业未来走向的深刻反思。",
+    "best_quote_en": "“It’s not a business that just disappears into the muck of venture capitalism. It’s a business that is essential to the survival of the Republic, for Christ’s sake. So you don’t fuck around with it like that.”",
+    "best_quote_zh": "“这不是一个会消失在风险资本泥潭里的生意。这是一个对共和国的生存至关重要的生意，看在上帝的份上。所以你不能那样胡搞。”"
+  },
+  {
+    "id": 554,
+    "title": "What’s in my NOW? — Gearóid (Ged) Carroll",
+    "title_zh": "我的“此刻”有什么？— Gearóid (Ged) Carroll",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-gearoid-ged-carroll-2/",
+    "tags": [
+      "guide",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "Ged Carroll, a strategy consultant for creative and ad agencies, shares a curated list of physical, digital, and 'invisible' tools that enhance his productivity and daily life. The 'physical' section highlights durable, well-designed items like a hand-stitched leather wallet and a cost-effective 4K monitor. Digitally, he champions Milanote for creative collaboration and points to The Economist's GitHub data journalism as a valuable resource. Most intriguingly, the 'invisible' section introduces the 'TCREI' framework for crafting effective LLM prompts, emphasizing task, context, reference, evaluation, and iteration. This piece offers practical recommendations and a thoughtful approach to leveraging technology and tools, reflecting a keen eye for both utility and underlying principles.",
+    "summary_zh": "Ged Carroll分享了他的“此刻”所用工具，从耐用的实体物品到高效的数字辅助，再到富有洞察力的LLM提示框架。我特别欣赏他将物理世界的实用与数字世界的创新相结合，尤其是TCREI提示框架，它不仅提供了即时解决方案，更启发我们如何系统性地优化与AI的互动。这不仅仅是工具推荐，更是一种生活和工作哲学的体现，强调了实用性、设计感和持续迭代的重要性。",
+    "best_quote_en": "The memorable phrase: Thoughtfully Creating Really Excellent Inputs stands for Task: the persona that the LLM should assume and format that you want the output to look like, Context: give it the background information that it needs, Reference materials: give the LLM examples or existing materials that show what good looks like. (Not always applicable for abstract tasks), Evaluate: review the output, did the LLM understand what you wanted from your inputs?, Iterate: Refine your prompt: If the output isn’t right, try again by adding more details, rephrasing, or adjusting your request.",
+    "best_quote_zh": "令人难忘的短语：TCREI（Thoughtfully Creating Really Excellent Inputs）代表任务：LLM应扮演的角色以及你希望输出的格式；上下文：提供LLM所需的背景信息；参考资料：提供LLM示例或现有材料，以展示优秀成果是怎样的。（并非总适用于抽象任务）；评估：审查输出，LLM是否理解了你的输入意图？；迭代：优化你的提示：如果输出不正确，通过添加更多细节、重新措辞或调整请求来再次尝试。"
   }
 ]
