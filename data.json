@@ -1,119 +1,5 @@
 [
   {
-    "id": 455,
-    "title": "Where to See Silicon Valley",
-    "title_zh": "硅谷何处寻",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/seesv.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-01-17",
-    "summary_en": "This piece offers a unique, almost ethnographic, guide to the physical and cultural landscape of Silicon Valley, moving beyond its abstract reputation to pinpoint specific locations that embody its spirit. It's fascinating how the author highlights the subtle cues—from Stanford's sprawling campus and perfect weather to the unassuming cafes on University Ave where deals are made, and the surprisingly uniform offices on Sand Hill Road—that define this hub of innovation. The insight that Google's first office was in a vibrant, walkable area, rather than the sterile office park it later occupied, speaks volumes about the early, organic growth of startups. It's a thoughtful exploration of how geography, architecture, and even nature (like the San Andreas Fault) have shaped a global phenomenon, underscoring that the Valley's essence is found not in grand monuments, but in its lived-in, often understated, environments.",
-    "summary_zh": "这篇文章以一种近乎民族志的视角，深入剖析了硅谷的物理与文化图景，超越了其抽象的声誉，精准定位了那些承载其精神的具体场所。作者巧妙地揭示了塑造这个创新中心的细微线索——从斯坦福大学广阔的校园和宜人的气候，到大学路上看似不起眼却促成无数交易的咖啡馆，以及沙丘路上出奇统一的风险投资办公室，都令人着迷。谷歌早期办公室选址于充满活力的步行区，而非后来被迫迁入的标准化园区，这一洞察深刻揭示了初创企业早期有机生长的特点。这不仅仅是一份地理指南，更是对硅谷如何通过其独特的地理、建筑乃至自然（如圣安德烈亚斯断层）塑造全球现象的深思。它提醒我们，硅谷的精髓并非宏伟的纪念碑，而是在其日常、往往低调的环境中。",
-    "best_quote_en": "But if you look, there are subtle signs you're in a place that's different from other places.",
-    "best_quote_zh": "但如果你仔细观察，你会发现一些微妙的迹象，表明你身处一个与众不同的地方。"
-  },
-  {
-    "id": 456,
-    "title": "What Washington Says About AGI",
-    "title_zh": "华盛顿对AGI的看法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/WLdcvAcoFZv9enR37/what-washington-says-about-agi",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-17",
-    "summary_en": "This insightful analysis delves into US Congress's perceptions and stances on Artificial General Intelligence (AGI), existential risk, and the US-China AI race. Utilizing AI tools, the author meticulously researched public statements from congresspersons, revealing a surprising non-partisan awareness of AGI among a small but significant group. The study highlights a troubling partisan divide on existential risk, with Democrats more frequently expressing concern. Crucially, both parties exhibit a strong fixation on US-China AI competition, often overshadowing other considerations. The article identifies specific congresspersons who are 'AGI-pilled' and notes a correlation between technical backgrounds and deeper understanding of AI safety. This research offers a unique, data-driven look into the political landscape surrounding advanced AI, underscoring the complexities and potential pitfalls of partisan approaches to critical technological governance.",
-    "summary_zh": "这篇文章通过AI工具分析了美国国会议员对AGI、生存风险和中美AI竞争的立场，视角独特且发人深省。它揭示了AGI意识并非党派分歧，但对AI生存风险的担忧却呈现出明显的党派倾向，这令人担忧。更普遍的是，两党都高度关注中美AI竞赛，这可能会阻碍更全面、更深入的讨论。有趣的是，有技术背景的议员对AI安全的理解更为深刻。这篇分析不仅提供了宝贵的数据，也引发了我对科技治理中政治角力与理性决策之间平衡的思考。",
-    "best_quote_en": "Politics is a mind-killer and if AI Safety becomes partisan, productive debate will be even more difficult than it currently is.",
-    "best_quote_zh": "政治是思想的杀手，如果AI安全变得党派化，富有成效的辩论将比现在更加困难。"
-  },
-  {
-    "id": 457,
-    "title": "What It’s Like to Be Trump’s Closest Ally Right Now",
-    "title_zh": "作为特朗普目前最亲密盟友的感受",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-uk/what-its-like-to-be-trumps-closest-ally-right-now",
-    "tags": [
-      "inspire",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-01-16",
-    "summary_en": "This insightful article delves into the precarious position of the United Kingdom as it navigates its relationship with a re-elected Donald Trump in 2026. It meticulously details the U.K.'s strategic contortions to maintain favor with the Trump administration, even at the expense of its professed commitment to international law and established alliances. The piece highlights the stark reality that Britain's foreign policy, historically reliant on both the EU and the US, is now confronted with an unpredictable American partner and the self-inflicted wounds of Brexit. The analysis brilliantly captures the tension between the U.K.'s need for US support (especially regarding Ukraine) and the growing list of problematic US actions, painting a vivid picture of a world where traditional alliances are eroding and smaller powers must adapt to a new, more transactional global order. The core insight is how Britain is being forced to fundamentally rethink its foreign policy, treating the US less as an unwavering ally and more as a powerful, yet foreign, entity.",
-    "summary_zh": "这篇文章深刻剖析了2026年英国与特朗普政府之间错综复杂的盟友关系。为了维系这份关系，英国不惜在国际法和既有联盟上做出妥协，其外交政策正面临前所未有的挑战。作者以冷静的笔触揭示了英国的无奈与挣扎，以及传统盟友关系在当前国际格局下如何被重新定义。读罢此文，我不禁思考，当昔日坚如磐石的联盟变得如此脆弱，各国又将如何自处？这不仅仅是英国的困境，更是对全球外交格局的一次警醒。",
-    "best_quote_en": "“We must get ready to treat America like a foreign country, properly, and be really honest with ourselves about: Where are they dangerous? Where can we work with them? What can we offer them? Just do what we do with other big countries.”",
-    "best_quote_zh": "“我们必须准备好，真正地把美国当作一个外国来对待，并对自己诚实：他们在哪里是危险的？我们可以在哪里与他们合作？我们能给他们提供什么？就像我们对待其他大国一样。”"
-  },
-  {
-    "id": 458,
-    "title": "Book Freak #193: How to Decide",
-    "title_zh": "Book Freak #193: 如何做决定",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-193-how-to-decide/",
-    "tags": [
-      "solve",
-      "psychology",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-01-16",
-    "summary_en": "This analysis of Annie Duke's \"How to Decide\" offers a compelling framework for improving decision-making by decoupling decision quality from outcome quality. The concept of \"resulting\"—judging decisions solely by their outcomes—is a particularly insightful warning against cognitive biases. The \"Only-Option Test\" provides a surprisingly simple yet effective heuristic for navigating seemingly difficult choices, while the emphasis on probabilistic thinking encourages a more nuanced understanding of uncertainty. The advice to solicit an \"outside view\" without contaminating others' opinions is crucial for overcoming confirmation bias. This content offers highly actionable strategies, making it a valuable resource for anyone looking to make more robust and rational choices in both personal and professional contexts, moving beyond mere luck or hindsight.",
-    "summary_zh": "Annie Duke的《如何做决定》提供了一个深刻的决策框架，核心在于区分决策质量与结果质量。我特别欣赏“结果论”（resulting）这一概念，它警示我们不要仅仅根据结果来评判决策好坏，这在充满不确定性的世界中至关重要。书中提出的“唯一选择测试”和概率思维，为我们提供了实用的工具，帮助我们跳出二元对立的思维模式。而寻求“外部视角”的建议，更是对人性中确认偏误的有力反击。这不仅仅是关于做选择，更是关于培养一种更理性和开放的思维方式，对个人成长和职业发展都大有裨益。",
-    "best_quote_en": "“The quality of the outcome casts a shadow over our ability to see the quality of the decision.”",
-    "best_quote_zh": "“结果的质量给我们的能力蒙上了一层阴影，使我们无法看清决策本身的质量。”"
-  },
-  {
-    "id": 459,
-    "title": "Reinforcement Learning Progress",
-    "title_zh": "强化学习的进展",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reinforcement-learning-progress",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2018-06-25",
-    "summary_en": "OpenAI's achievement in training AI agents to defeat semi-professional Dota 2 players using PPO is a significant milestone for reinforcement learning. The ability of these agents to learn complex strategies through self-play, without human game data, underscores the power of computational scale and well-designed simulated environments. This breakthrough suggests that deep reinforcement learning can tackle incredibly challenging real-world problems where traditional hand-coded solutions are infeasible. It hints at a future where AI, by mastering complex decision-making in environments akin to our own, could pave the way for advancements towards general artificial intelligence. It's truly inspiring to see how abstract algorithms can manifest such sophisticated intelligence.",
-    "summary_zh": "OpenAI利用PPO算法训练AI在Dota中击败半职业选手，这无疑是强化学习领域的一大步。最令人印象深刻的是，AI通过自我对弈学习复杂策略，而无需人类数据。这不仅证明了计算规模和良好模拟环境的巨大潜力，也预示着强化学习在解决现实世界复杂难题上的广阔前景。它让我不禁思考，当AI在模拟环境中掌握了与真实世界日益相似的决策能力时，通用人工智能的实现或许不再遥远。这种进步让人对AI的未来充满期待。",
-    "best_quote_en": "This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you’re solving.",
-    "best_quote_zh": "这之所以意义重大，是因为它表明，只要你能投入足够的计算规模和一个能捕捉你所解决问题的良好模拟环境，深度强化学习就能解决极其困难的问题。"
-  },
-  {
     "id": 460,
     "title": "High Resolution Fundraising",
     "title_zh": "高分辨率融资",
@@ -2298,5 +2184,119 @@
     "summary_zh": "Ged Carroll分享了他的“此刻”所用工具，从耐用的实体物品到高效的数字辅助，再到富有洞察力的LLM提示框架。我特别欣赏他将物理世界的实用与数字世界的创新相结合，尤其是TCREI提示框架，它不仅提供了即时解决方案，更启发我们如何系统性地优化与AI的互动。这不仅仅是工具推荐，更是一种生活和工作哲学的体现，强调了实用性、设计感和持续迭代的重要性。",
     "best_quote_en": "The memorable phrase: Thoughtfully Creating Really Excellent Inputs stands for Task: the persona that the LLM should assume and format that you want the output to look like, Context: give it the background information that it needs, Reference materials: give the LLM examples or existing materials that show what good looks like. (Not always applicable for abstract tasks), Evaluate: review the output, did the LLM understand what you wanted from your inputs?, Iterate: Refine your prompt: If the output isn’t right, try again by adding more details, rephrasing, or adjusting your request.",
     "best_quote_zh": "令人难忘的短语：TCREI（Thoughtfully Creating Really Excellent Inputs）代表任务：LLM应扮演的角色以及你希望输出的格式；上下文：提供LLM所需的背景信息；参考资料：提供LLM示例或现有材料，以展示优秀成果是怎样的。（并非总适用于抽象任务）；评估：审查输出，LLM是否理解了你的输入意图？；迭代：优化你的提示：如果输出不正确，通过添加更多细节、重新措辞或调整请求来再次尝试。"
+  },
+  {
+    "id": 555,
+    "title": "‘The children are not safe here’: the Nigerian couple fighting infanticide",
+    "title_zh": "“孩子们在这里不安全”：尼日利亚夫妇与杀婴陋习抗争",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/05/the-children-are-not-safe-here-the-nigerian-couple-fighting-infanticide",
+    "tags": [
+      "analyze",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This deeply moving and thought-provoking article chronicles the extraordinary efforts of Olusola and Chinwe Stevens, a Nigerian couple who have dedicated their lives to rescuing and raising children targeted by infanticide due to archaic superstitions. The piece expertly weaves together the personal stories of survivors like Esther and Godiya with the broader socio-cultural challenges of combating deeply entrenched beliefs in remote Nigerian communities. It highlights the Stevens' unwavering commitment, the complexities of reintegration, and the delicate balance between preserving cultural identity and safeguarding human life. The article also critically examines the sustainability challenges of their Vine Heritage Home Foundation, including funding, governance, and the unintended consequence of its growing size. It's a powerful narrative on resilience, compassion, and the enduring struggle against harmful traditions, urging readers to consider the systemic issues that perpetuate such practices.",
+    "summary_zh": "这篇文章深刻地揭示了尼日利亚夫妇奥卢索拉和钦威·史蒂文斯与杀婴陋习抗争的非凡故事。他们创办的“葡萄藤遗产之家”收养了被视为不祥之兆的孩子们，这些孩子因迷信传统而面临生命威胁。文章通过幸存者的视角，展现了这对夫妇的无私奉献，以及将这些孩子重新融入社区所面临的巨大挑战。它也引人深思，在对抗根深蒂固的文化信念时，如何平衡传统与人道。文章还批判性地探讨了该机构在资金和管理上的困境，以及这种家庭式运营模式的未来不确定性。这不仅仅是一个关于慈善的故事，更是一个关于社会变革、信仰冲突和人权保障的复杂案例。",
+    "best_quote_en": "“He said, ‘Can you permit me? Let me call my pastor friend so he can come and pick up the child.’ So he called me, and we went to the community and took her.”",
+    "best_quote_zh": "“他说，‘你能允许我吗？让我打电话给我的牧师朋友，他可以过来接走这个孩子。’于是他给我打了电话，我们去了那个社区，把她带走了。”"
+  },
+  {
+    "id": 556,
+    "title": "The Founder Visa",
+    "title_zh": "创始人签证",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/foundervisa.html",
+    "tags": [
+      "solve",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "This piece from April 2009 argues for a 'Founder Visa' as the most impactful, cost-free government policy to boost U.S. startup creation. The author contends that the primary bottleneck isn't tax policy but immigration restrictions on talented founders. By allowing 10,000 startup founders annually, leveraging investor validation to define 'startup,' the U.S. could generate thousands of new companies and, crucially, more jobs for Americans. The proposal highlights the economic multiplier effect of entrepreneurship, suggesting that such a policy would not only enhance innovation but also elevate the legislator who champions it. It's a compelling, market-driven solution to a persistent economic challenge.",
+    "summary_zh": "这篇2009年的文章提出“创始人签证”的构想，认为这是美国政府刺激创业最有效且零成本的政策。作者洞察到，真正的瓶颈不在于税收或法规，而是未能吸引全球顶尖的创业人才。每年引入一万名创始人，并由市场投资者来定义“初创企业”，不仅能催生数千家新公司，更能为美国创造大量就业。这无疑是利用市场力量解决国家经济增长问题的高明之策，值得深思。",
+    "best_quote_en": "The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.",
+    "best_quote_zh": "政府能做的，以增加这个国家初创企业数量的最大一件事，是一项不花钱的政策：为初创企业创始人设立一种新的签证类别。"
+  },
+  {
+    "id": 557,
+    "title": "AI benchmarking has a Y-axis problem",
+    "title_zh": "AI基准测试存在Y轴问题",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/EWfGf8qA7ZZifEAxG/ai-benchmarking-has-a-y-axis-problem-1",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "This insightful analysis critically examines the limitations of current AI benchmarking methodologies, arguing that plotting benchmark scores over time without natural, proportional units leads to misleading interpretations of AI progress. The author highlights how 'grab-bag' benchmarks, composed of subjectively weighted tasks, create warped projections of true capability, making it impossible to reliably infer progress rates, absolute capabilities, or meaningful trends. Instead, the piece advocates for focusing on direct real-world quantities, tracking key milestones, and critically evaluating benchmark units. It challenges the common practice of extrapolating trends from squishy metrics, urging a more rigorous and less scalar-driven approach to understanding AI development. The article prompts a re-evaluation of how we measure and communicate AI advancement.",
+    "summary_zh": "这篇分析深刻指出当前AI基准测试的Y轴问题，即缺乏自然单位的评分曲线容易误导我们对AI进展的判断。作者认为，拼凑式基准测试的主观任务权重扭曲了真实能力映射，导致我们无法准确推断进展速度或绝对能力。与其过度依赖这些模糊指标，不如关注实际量化数据和关键里程碑。这促使我们反思如何更严谨、更少地将复杂进展简化为单一数字，对AI评估方式提出了重要的批判性审视。",
+    "best_quote_en": "But that math doesn’t actually tell you anything real unless the scores have natural units. Most don’t.",
+    "best_quote_zh": "但除非分数有自然单位，否则这些数学计算并不能告诉你任何真实情况。大多数都没有。"
+  },
+  {
+    "id": 558,
+    "title": "Donald Trump Already Knows the 2026 Election Is “Rigged”",
+    "title_zh": "唐纳德·特朗普早已知道2026年大选是“被操纵的”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-already-knows-the-2026-election-is-rigged",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "This analytical piece from February 2026 critically examines Donald Trump's preemptive claims of a \"rigged\" 2026 midterm election. The author, Susan B. Glasser, argues that Trump's rhetoric, far from being mere bluster, represents a deliberate and escalating strategy to undermine democratic processes, building on his actions post-2020. The article highlights how key Republican figures now echo or enable his challenges to election integrity, contrasting with the institutional resistance he faced previously. Glasser emphasizes that the question is no longer *if* Trump will attempt to delegitimize future elections, but *how*. The piece serves as a stark warning about the fragility of democratic norms and the potential for a leader to weaponize distrust to maintain power, detailing specific actions taken or proposed by his administration and allies to control election outcomes.",
+    "summary_zh": "这篇文章对特朗普在2026年中期选举前就宣称选举“被操纵”的言论进行了深刻分析。作者苏珊·B·格拉瑟敏锐地指出，这并非空穴来风，而是特朗普一以贯之、不断升级的策略，旨在从根本上动摇民主根基。她担忧地观察到，与2020年时面临的内部抵制不同，如今共和党内部已形成了一种默许甚至助长的氛围。文章不仅仅是报道，更像是一面镜子，映照出民主制度在面对持续性挑战时的脆弱性。读完不禁让人深思，当政治人物公然挑战常识与法治时，我们作为公民应如何捍卫来之不易的民主价值。",
+    "best_quote_en": "The question at this point is not if—it’s how.",
+    "best_quote_zh": "此时此刻，问题已不是“是否会发生”，而是“将如何发生”。"
+  },
+  {
+    "id": 559,
+    "title": "Travel Dollar Destinations/Bedbugs Tracking/Worldwide Rent Prices",
+    "title_zh": "旅行目的地美元价值/臭虫追踪/全球租金价格",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/travel-dollar-destinations-bedbugs-tracking-worldwide-rent-prices/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This content offers a multi-faceted exploration of international travel and living costs, providing practical insights for budget-conscious individuals. It intelligently identifies destinations where the US dollar retains strong purchasing power, leveraging economic factors like currency pegs and exchange rate oddities. The inclusion of a bedbug tracking registry highlights a common traveler concern, offering a useful, albeit geographically limited, solution. Furthermore, the global rent price visualization and digital nomad report analysis provide valuable context for understanding living expenses and remote work opportunities worldwide. The author's critical assessment of the digital nomad report, particularly regarding tax implications, demonstrates a keen analytical eye, making this piece not just informative but also thought-provoking for anyone considering international relocation or travel.",
+    "summary_zh": "这篇文章巧妙地将旅行预算、住宿安全和全球生活成本融为一体，为读者提供了多维度的实用信息。作者不仅指出了美元保值目的地，还洞察了数字游民报告的潜在盲点，尤其是对税务考量的批判性分析，展现了深刻的洞察力。这些内容对于那些寻求高性价比旅行、关注住宿质量或是考虑全球化生活方式的人来说，无疑是极具价值的参考，引发我们对国际生活成本和机遇的深思。",
+    "best_quote_en": "Still, it’s fun to gasp at rates in NYC, Singapore, and London, then realize you could live large for less than $1,000 in Rio, Bogota, Cairo, or Bangalore.",
+    "best_quote_zh": "仍然，当你看到纽约、新加坡和伦敦的租金价格时会倒吸一口凉气，然后意识到在里约、波哥大、开罗或班加罗尔，你每月花不到1000美元就能过上优渥生活。"
   }
 ]
