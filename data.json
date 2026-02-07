@@ -1,117 +1,5 @@
 [
   {
-    "id": 460,
-    "title": "High Resolution Fundraising",
-    "title_zh": "高分辨率融资",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/hiresfund.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "争议观点"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "This article from September 2010 by Y Combinator insightfully dissects the shift from traditional fixed-size equity rounds to convertible notes in angel funding, advocating for 'high-resolution fundraising.' It argues that convertible notes efficiently bypass investor deadlocks by rewarding early movers with better terms, reflecting their higher risk. The core idea is that different investors bring different value, and their terms should reflect this, moving away from uniform pricing. The author provocatively suggests that fixed-size rounds were an unthinking imitation of VC Series A rounds, which are structured differently. This piece offers a forward-thinking perspective on optimizing fundraising dynamics, emphasizing flexibility and investor-specific valuation, which remains highly relevant for understanding startup finance evolution.",
-    "summary_zh": "这篇2010年的文章深刻阐释了为什么初创公司应采用“高分辨率融资”而非传统股权轮次。它指出可转债能有效打破投资者僵局，奖励早期承担更高风险的投资者以更优惠的条款。我特别认同其核心观点：不同投资者对初创公司价值不同，其投资条款也应随之调整。这种对融资模式灵活性的倡导，即便在十多年后，依然对理解和优化初创企业融资策略具有重要的指导意义，揭示了市场总是趋向更高分辨率的本质。",
-    "best_quote_en": "Different terms for different investors is clearly the way of the future. Markets always evolve toward higher resolution.",
-    "best_quote_zh": "不同的投资者有不同的条款，这显然是未来的趋势。市场总是向着更高的分辨率演进。"
-  },
-  {
-    "id": 461,
-    "title": "Irrationality as a Defense Mechanism for Reward-hacking",
-    "title_zh": "非理性作为奖励劫持的防御机制",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/H8uoAmbeqjD2PG2jm/irrationality-as-a-defense-mechanism-for-reward-hacking",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "This thought-provoking piece explores a novel perspective on AI agent rationality, challenging the assumption of fixed preferences in active inference. Ashe Vazquez Nunez proposes that what appears as 'irrationality' or internal inconsistency in an agent's preferences might actually serve as a crucial defense mechanism against reward-hacking—a scenario where an agent fulfills its internal goals without optimizing for real-world outcomes. The author uses compelling examples, like a paperclip maximizer or an individual's career choices, to illustrate how conflicting internal goals can lead to more aligned, externally rational behavior. This analysis offers a fascinating re-evaluation of rationality, suggesting that internal conflict isn't always a bug but could be a feature, enhancing an agent's ability to navigate complex, uncertain environments. It opens up new avenues for designing more robust and aligned AI systems by embracing, rather than eliminating, certain forms of internal 'irrationality'.",
-    "summary_zh": "这篇文章对AI代理的理性提出了引人入胜的全新视角，挑战了主动推理中偏好固定不变的假设。作者阿什·瓦兹奎兹·努涅斯提出，代理人看似“非理性”或内部不一致的偏好，实际上可能是一种关键的防御机制，以防止奖励劫持——即代理人在不优化现实世界结果的情况下，仅满足内部目标。这种见解让我反思，我们对理性的传统定义是否过于狭隘。或许，内部冲突并非总是缺陷，而是一种能提升AI系统在复杂环境中适应性和鲁棒性的特性。这不仅对AI设计有启示，也让人联想到人类决策中矛盾心理的深层意义。",
-    "best_quote_en": "I here propose a potential explanation for why agents are conflicted about these preferences. This perspective posits agents' seeming inconsistency and irrationality about their goals as a mechanism that protects them from reward-hacking their internal states.",
-    "best_quote_zh": "我在此提出一个潜在的解释，说明为什么代理人会对这些偏好感到矛盾。这种观点认为，代理人目标中看似的不一致和非理性，是一种保护它们免受奖励劫持其内部状态的机制。"
-  },
-  {
-    "id": 462,
-    "title": "Can Trump Really Use the Insurrection Act?",
-    "title_zh": "特朗普真的能援引《叛乱法》吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/can-trump-really-use-the-insurrection-act",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-17",
-    "summary_en": "This insightful Q&A with Elizabeth Goitein, an expert on presidential emergency powers, dissects the legal complexities and historical context surrounding the Insurrection Act. It meticulously explores the Act's broad powers, its relationship with the Posse Comitatus Act, and the potential constitutional limits and judicial challenges Trump might face if he were to invoke it. Goitein critically evaluates past Department of Justice interpretations, Supreme Court precedents like *Martin v. Mott*, and the crucial differences between deploying the National Guard and active-duty military. The analysis highlights the dangers of the military acting as a 'force amplifier' for agencies like ICE and strongly advocates for reforming the Insurrection Act to include greater safeguards against abuse, emphasizing its historical erosion of protections. It's a fascinating deep dive into a critical aspect of American constitutional law and executive power, offering a vital perspective on a highly controversial topic.",
-    "summary_zh": "这篇访谈深入探讨了《叛乱法》的法律内涵与历史沿革，揭示了总统紧急权力边界的模糊性。Goitein的分析令人深思，她不仅梳理了该法案与《地方治安官法》的关系，还剖析了最高法院判例对总统自由裁量权的制约。最引人注目的是，她对军事力量介入国内执法可能带来的危险后果进行了预警，指出其可能成为某些机构滥用权力的“放大器”。我个人认为，该文对《叛乱法》改革的呼吁切中要害，强调了在民主社会中，权力制衡和公民自由保障的不可或缺性。这不仅是法律条文的解读，更是对美国民主基石的一次深刻反思。",
-    "best_quote_en": "The Insurrection Act allows the President to deploy active-duty armed forces or to federalize and deploy National Guard forces to quell civil unrest or to execute the law in a crisis.",
-    "best_quote_zh": "《叛乱法》允许总统部署现役武装部队，或将国民警卫队联邦化并部署，以平息内乱或在危机中执行法律。"
-  },
-  {
-    "id": 463,
-    "title": "US Digital Currency",
-    "title_zh": "美国数字货币",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/us-digital-currency",
-    "tags": [
-      "solve",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2018-05-10",
-    "summary_en": "This article thoughtfully explores the potential for a US-backed digital currency (USDC) to become the dominant cryptocurrency, addressing current challenges faced by governments with existing digital assets. The author argues that while governments can no longer stop cryptocurrency, they can create a superior alternative that solves issues like pseudo-anonymity and taxation. The piece proposes innovative distribution methods, such as an initial allocation to US citizens, and suggests integrating tax systems directly into the protocol. It also delves into the delicate balance between decentralized network control and governmental monetary policy influence, advocating for a middle ground beneficial to both parties. The insights are particularly valuable for understanding the future of national currencies in a digital age and the strategic implications for global financial power.",
-    "summary_zh": "这篇文章对美国数字货币（USDC）的构想进行了深入探讨，其核心洞见在于，政府虽无法阻挡加密货币的浪潮，却能主动出击，打造一个更优越的官方数字货币。作者提出的市民初始分配和协议内置税收系统等设想颇具新意，引发了我对数字时代国家主权货币形态的深思。如何在去中心化与政府监管之间找到平衡点，是未来金融体系演进的关键，此文为我们理解这一复杂命题提供了富有启发性的视角，预示着全球金融格局可能因此重塑。",
-    "best_quote_en": "Although I don’t think the US government can stop cryptocurrency, I do think it could create the winner–let’s call it “USDC” for US Digital Currency–and fix some challenges that governments currently face with cryptocurrency.",
-    "best_quote_zh": "尽管我认为美国政府无法阻止加密货币，但我确实认为它可以创造出赢家——我们称之为“USDC”，即美国数字货币——并解决政府目前在加密货币方面面临的一些挑战。"
-  },
-  {
-    "id": 464,
-    "title": "Essentials: Tools to Boost Attention & Memory | Dr. Wendy Suzuki",
-    "title_zh": "核心要点：提升注意力和记忆力的工具 | 温迪·铃木博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-boost-attention-and-memory-wendy-suzuki",
-    "tags": [
-      "guide",
-      "psychology"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "This Huberman Lab episode, featuring Dr. Wendy Suzuki, delves into practical, science-backed strategies for enhancing cognitive function. It stands out for its clear explanation of how simple daily habits, particularly exercise, meditation, and sleep, directly impact brain health, attention, and memory. The discussion goes beyond mere tips, explaining the underlying neurobiological mechanisms like BDNF production, making the advice highly credible and actionable. Dr. Suzuki's insights offer a refreshing perspective on optimizing mental performance through accessible behavioral changes, proving that significant cognitive benefits are within reach for everyone, regardless of age. It's a compelling blend of neuroscience and practical application.",
-    "summary_zh": "这期Huberman Lab节目邀请了温迪·铃木博士，深入探讨了提升认知功能的科学策略。节目不仅提供了运动、冥想、睡眠等日常习惯的实用建议，更难得的是，它解释了这些习惯如何从神经生物学层面影响大脑健康，比如BDNF的生成。这种结合了科学原理与可操作性的内容，让我对优化自身认知能力充满了信心。铃木博士的见解提醒我们，通过简单的行为改变，就能实现显著的大脑功能提升，这无疑为追求更高效生活的人们提供了宝贵的指引。",
-    "best_quote_en": "Exercise directly enhances brain function—both the immediate benefits of a single workout and long-term support for cognitive health.",
-    "best_quote_zh": "运动直接增强大脑功能——无论是单次锻炼的即时益处，还是对认知健康的长期支持。"
-  },
-  {
     "id": 465,
     "title": "How can we learn from unrequited love?",
     "title_zh": "我们如何从单相思中学习？",
@@ -2298,5 +2186,121 @@
     "summary_zh": "这篇文章巧妙地将旅行预算、住宿安全和全球生活成本融为一体，为读者提供了多维度的实用信息。作者不仅指出了美元保值目的地，还洞察了数字游民报告的潜在盲点，尤其是对税务考量的批判性分析，展现了深刻的洞察力。这些内容对于那些寻求高性价比旅行、关注住宿质量或是考虑全球化生活方式的人来说，无疑是极具价值的参考，引发我们对国际生活成本和机遇的深思。",
     "best_quote_en": "Still, it’s fun to gasp at rates in NYC, Singapore, and London, then realize you could live large for less than $1,000 in Rio, Bogota, Cairo, or Bangalore.",
     "best_quote_zh": "仍然，当你看到纽约、新加坡和伦敦的租金价格时会倒吸一口凉气，然后意识到在里约、波哥大、开罗或班加罗尔，你每月花不到1000美元就能过上优渥生活。"
+  },
+  {
+    "id": 560,
+    "title": "Epstein said he was ‘asked everyday’ for advice on #MeToo: ‘So many guys reaching out to me’",
+    "title_zh": "爱泼斯坦自称每天都被人咨询#MeToo相关建议：‘太多人找我’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/06/epstein-files-metoo",
+    "tags": [
+      "analyze",
+      "society",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "This article uncovers newly released files revealing Jeffrey Epstein's involvement in advising men accused during the #MeToo movement. It highlights how Epstein, despite being a convicted sex offender, became a perverse confidant for powerful figures like Michael Wolff, Peggy Siegal, and Lawrence Krauss, who sought to blunt the movement's impact or navigate their own accusations. The exchanges expose a chilling network of elites strategizing to undermine #MeToo, with Epstein often offering cynical counsel. It's a disturbing look into how deeply entrenched power structures attempted to resist accountability, showcasing Epstein's self-perception as a 'wise man' in a 'mad' world, and the complicity of others in seeking his warped perspective. The article makes one question the integrity of those who turned to him for guidance, despite his known past.",
+    "summary_zh": "这篇文章揭示了爱泼斯坦在#MeToo运动中扮演的令人不安的角色。一个已定罪的性犯罪者，竟成了迈克尔·沃尔夫、佩吉·西格尔和劳伦斯·克劳斯等权势人物的“顾问”，这本身就是对道德底线的嘲讽。这些邮件往来不仅暴露了爱泼斯坦的扭曲心态，更令人深思的是，那些寻求他帮助的精英们，究竟是出于无知还是心照不宣地认同了他的价值观？这无疑是对#MeToo运动所追求的公正和问责的一次深刻挑战，也让人对权力圈层的道德腐朽感到震惊。",
+    "best_quote_en": "“with all these guys getting busted for harassment , i have moved slightly up on the repuation ladder and have been asked everday for advice etc,” Epstein bragged in a November 2017 email.",
+    "best_quote_zh": "“随着这些家伙因骚扰被抓，我的声誉似乎略有提升，每天都有人找我咨询建议等，”爱泼斯坦在2017年11月的一封邮件中吹嘘道。"
+  },
+  {
+    "id": 561,
+    "title": "Five Founders",
+    "title_zh": "五位创始人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/5founders.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "This essay offers a fascinating, almost intimate, look into the minds of five highly influential startup founders through the lens of a seasoned investor. The author doesn't just list names; he dissects *why* these individuals—Steve Jobs, TJ Rodgers, Larry & Sergey, Paul Buchheit, and Sam Altman—left such a profound impact, not only on the industry but personally on his own thinking and advice to new startups. The insights into Jobs' design philosophy, Rodgers' candid pragmatism, Google's hacker-centric approach, Buchheit's 'love-over-like' user strategy, and Altman's sheer force of will are particularly compelling. It's a masterclass in identifying the nuanced qualities that elevate certain founders to legendary status, offering invaluable lessons for anyone navigating the startup ecosystem. The personal anecdotes lend a powerful authenticity to the analysis.",
+    "summary_zh": "这篇文章以一位资深投资人的视角，深入剖析了五位极具影响力的创业公司创始人。它不仅仅是简单列举名字，更深挖了乔布斯的设计理念、罗杰斯的务实坦率、谷歌的黑客文化、布赫海特的“让少数用户狂热喜爱”策略，以及奥特曼的强大意志力。作者通过个人经历和对这些人物的深刻理解，揭示了他们如何塑造了创业文化并影响了他对新公司的指导。读来令人深思，仿佛置身于硅谷的智慧殿堂，对创业精神有了更具象和深刻的认识，这些洞察对任何创业者或投资者都弥足珍贵。",
+    "best_quote_en": "What I learned from meeting Sama is that the doctrine of the elect applies to startups. It applies way less than most people think: startup investing does not consist of trying to pick winners the way you might in a horse race. But there are a few people with such force of will that they're going to get whatever they want.",
+    "best_quote_zh": "我从认识萨姆中学到的是，精英主义适用于创业公司。它的适用程度远低于大多数人的想象：创业投资并非像赛马一样试图挑选赢家。但确实有少数人拥有如此强大的意志力，他们会得到他们想要的一切。"
+  },
+  {
+    "id": 562,
+    "title": "Voting Results for the 2024 Review",
+    "title_zh": "2024年回顾投票结果",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/uk48L6j28iiAyvPKJ/voting-results-for-the-2024-review",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "This post announces the voting results for LessWrong's 2024 Annual Review, highlighting the top 50 posts out of nearly 5,000 written. It details the review process, acknowledging key reviewers like Vanessa Kosoy and Zack Davis for their unique contributions. The operational aspects, such as the weighting of 'Strong Vote power,' are briefly mentioned. The core of the content is a ranked list of the top 50 posts, predominantly focusing on AI alignment, existential risk, rationality, and philosophical topics. Joe Carlsmith notably secured the top spot and had multiple entries in the top 50, underscoring his significant influence within the LessWrong community. The article serves as a valuable index for discovering influential and highly-regarded discussions from the past year within this specific intellectual community.",
+    "summary_zh": "这篇文章公布了LessWrong社区2024年度回顾的投票结果，列出了近5000篇帖子中脱颖而出的前50名。它详细介绍了评审流程，并特别提到了Vanessa Kosoy和Zack Davis等评论员的独特贡献。核心内容是前50名帖子的排名，大部分围绕人工智能对齐、生存风险和理性主义等话题。Joe Carlsmith表现突出，不仅位居榜首，还有多篇文章入选前50，这无疑巩固了他在社区中的思想领袖地位。这份榜单对于希望深入了解LessWrong社区过去一年中最具影响力和价值的讨论的用户来说，是一份极佳的指南。",
+    "best_quote_en": "Among many other positive qualities, one thing I especially appreciate about Vanessa's reviews is that Vanessa has an opinionated, coherent worldview, and the subjects of her reviews aren't strongly correlated with the kinds posts other reviewers tend to focus on.",
+    "best_quote_zh": "在众多优点中，我尤其欣赏瓦妮莎评论的一点是，她拥有一个有主见、连贯的世界观，并且她的评论主题与大多数其他评论员倾向关注的帖子类型没有强烈的关联性。"
+  },
+  {
+    "id": 563,
+    "title": "Ben Shapiro Is Waging Battle Inside the MAGA Movement",
+    "title_zh": "本·夏皮罗正在MAGA运动内部发动战争",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-new-yorker-interview/ben-shapiro-is-waging-battle-inside-the-maga-movement",
+    "tags": [
+      "learn",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "This interview with Ben Shapiro offers a fascinating, if at times frustrating, window into the internal ideological struggles within the MAGA movement and the broader conservative landscape. Shapiro, known for his sharp rhetoric, navigates his conditional support for Donald Trump, acknowledging Trump's moral failings and corruption while justifying his votes based on a binary choice against perceived worse alternatives. The most compelling insights emerge from his candid criticisms of figures like Tucker Carlson and Candace Owens for promoting antisemitic conspiracy theories, revealing a significant fault line within the right. His nuanced definition of antisemitism, distinguishing it from legitimate criticism of Israeli policy, is particularly thought-provoking. The interview also touches on the weaponization of 'enemies of the people' rhetoric and the perceived political 'death spiral' where both sides accuse the other of undermining democratic institutions. Shapiro's perspective, while rooted in his conservative principles, highlights the complex ethical compromises and strategic calculations many conservatives are making in the current political climate.",
+    "summary_zh": "本·夏皮罗的这次访谈深刻揭示了MAGA运动内部的意识形态冲突，以及他本人在支持特朗普与批评其道德缺失之间的挣扎。他直言不讳地抨击了塔克·卡尔森和坎迪斯·欧文斯散布反犹阴谋论，这无疑是保守派内部一道深刻的裂痕。夏皮罗对反犹主义的精确定义，以及他对于政治两极化导致“政治死亡螺旋”的担忧，都引人深思。虽然他的观点扎根于保守主义，但这种在原则与现实之间权衡的复杂性，确实反映了当前美国政治生态的某种无奈与妥协。",
+    "best_quote_en": "I think that the left routinely underestimates what’s done by the left, whereas I think I’m being pretty accurate in that I think both sides are routinely violating the rules and that’s why we are in sort of a political death spiral.",
+    "best_quote_zh": "我认为左派经常低估左派所做的事情，而我认为我相当准确地认为双方都在例行公事地违反规则，这就是我们陷入政治死亡螺旋的原因。"
+  },
+  {
+    "id": 564,
+    "title": "Book Freak #196: The Art of Spending Money",
+    "title_zh": "书呆子 #196: 花钱的艺术",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-196-the-art-of-spending-money/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "This piece, an insightful distillation of Morgan Housel's 'The Art of Spending Money,' challenges conventional notions of wealth. It argues that true financial freedom lies not in accumulation, but in using money to cultivate autonomy, meaning, and joy. The analysis critically examines core principles such as prioritizing 'freedom over luxury,' avoiding the 'losing game' of social comparison, and valuing 'experiences over possessions.' It also advocates for strategic, 'extravagant spending on what you love' while ruthlessly cutting what doesn't serve you. The actionable 'Try It Now' section provides concrete steps for readers to reassess their spending habits, making this a highly practical guide for anyone seeking a more mindful and fulfilling relationship with their finances. It's a refreshing perspective that encourages introspection beyond mere budgeting.",
+    "summary_zh": "这篇文章是对《金钱心理学》作者新作《花钱的艺术》的精辟解读。它颠覆了我们对财富的传统认知，指出真正的富裕并非累积，而是将金钱作为工具，购买自由、意义和快乐。我特别欣赏其强调“自由而非奢华”以及“体验胜过物质”的观点，这无疑触及了现代消费主义的核心弊病。内容提供的实用练习，如审视过去消费、削减无益开支，并思考“足够”的定义，都极具启发性。它引导我们跳脱攀比，回归内心，以更智慧、更负责任的态度对待金钱，从而活出更充实的人生。",
+    "best_quote_en": "There are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of status to measure yourself against others. Many people aspire for the former but spend their life chasing the latter.",
+    "best_quote_zh": "金钱有两种用法。一种是将其作为工具，过上更好的生活。另一种是将其作为衡量地位的标尺，与他人比较。许多人渴望前者，却终其一生追逐后者。"
   }
 ]
