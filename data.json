@@ -1,117 +1,5 @@
 [
   {
-    "id": 465,
-    "title": "How can we learn from unrequited love?",
-    "title_zh": "我们如何从单相思中学习？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/how-can-we-learn-from-unrequited-love",
-    "tags": [
-      "solve",
-      "psychology"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "This piece delves into the universal, often painful, experience of unrequited love, posing a profound question to its readership rather than providing direct answers. It implicitly acknowledges the emotional complexity and psychological impact of such feelings, inviting collective wisdom and shared experience to navigate this common human predicament. The content's value lies not in offering a definitive solution, but in fostering a communal space for reflection, empathy, and potential insight into coping mechanisms. It highlights the therapeutic potential of shared narrative and the search for understanding in deeply personal struggles, suggesting that learning from unrequited love is a process of self-discovery and emotional resilience, often best explored through collective discourse.",
-    "summary_zh": "这篇文章以一个引人深思的问题探讨了单相思的普遍痛苦，而非直接提供答案。它巧妙地邀请读者贡献智慧和经验，共同面对这种复杂的情感困境。其价值在于提供了一个反思和共情的社区空间，而非单一的解决方案。这种集体探讨的方式，本身就是一种疗愈，帮助我们从个人挣扎中提炼出自我发现和情感韧性的宝贵课程。",
-    "best_quote_en": "How can we accept that what feels like overwhelming love for someone is unrequited, and how can we get over it?",
-    "best_quote_zh": "我们如何接受对某人排山倒海般的爱是单相思，我们又该如何释怀？"
-  },
-  {
-    "id": 466,
-    "title": "What Happened to Yahoo",
-    "title_zh": "雅虎何去何从？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/yahoo.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "This insightful analysis by Paul Graham dissects the reasons behind Yahoo's decline, attributing it primarily to two fatal flaws: an over-reliance on \"easy money\" from unsustainable advertising models (banner ads and dot-com bubble spending) and a fundamental ambivalence about being a technology company. Graham, having worked at Yahoo post-acquisition, offers a unique insider perspective, contrasting Yahoo's early corporate culture with that of nascent Google. He argues that Yahoo's self-identification as a \"media company\" led to a neglect of programming excellence and a failure to cultivate a hacker-centric culture, ultimately resulting in a death spiral of mediocrity. The piece serves as a cautionary tale, emphasizing the critical importance of prioritizing core technological competence and fostering a strong engineering culture for any company operating in the software business, a lesson that remains profoundly relevant for startups today.",
-    "summary_zh": "保罗·格雷厄姆对雅虎衰落的分析引人深思。他一针见血地指出，雅虎的致命伤在于过分依赖“快钱”以及对自身技术公司身份的模糊定位。这种缺乏核心技术信仰的“媒体公司”心态，不仅使其错失了搜索等关键创新，更导致了技术人才流失和企业文化僵化。回想起来，这何尝不是许多企业在快速发展中容易犯的错误？当外部诱惑蒙蔽了对核心价值的坚守，再强大的帝国也可能走向衰落。这篇深度剖析，对于今日的创业者而言，无疑是一剂清醒剂，提醒我们技术实力和工程师文化才是立足之本。",
-    "best_quote_en": "In technology, once you have bad programmers, you're doomed. I can't think of an instance where a company has sunk into technical mediocrity and recovered.",
-    "best_quote_zh": "在技术领域，一旦你有了糟糕的程序员，你就注定失败。我想不出有哪个公司在技术平庸后还能恢复元气。"
-  },
-  {
-    "id": 467,
-    "title": "Gradual Paths to Collective Flourishing",
-    "title_zh": "通往集体繁荣的渐进之路",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/mtASw9zpnKz4noLFA/gradual-paths-to-collective-flourishing",
-    "tags": [
-      "guide",
-      "ai-research",
-      "programming",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "编程开发",
-      "未来预测"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "Nora Ammann's essay, co-authored with Claude Opus 4.5, offers a compelling and much-needed optimistic vision for navigating the AI transition. Departing from common dystopian narratives, it meticulously outlines two primary failure modes—unilateral domination and competitive erosion—before proposing a \"narrow path\" towards collective flourishing. The core insight lies in fostering stable, win-win human-AI coalitions by drastically reducing transaction costs through advanced information, deliberation, bargaining, and trust infrastructures. This analytical framework, rooted in Coasean bargaining theory, suggests that AI can be leveraged to create a defense-favored world where cooperation is more attractive and viable than conflict, even for highly capable AI systems. It's a thought-provoking piece that challenges conventional pessimism, urging proactive investment in socio-technical stacks to ensure humanity's capacity for self-determination in an AI-powered future.",
-    "summary_zh": "Nora Ammann的这篇文章为AI时代提供了一个难得的乐观愿景，与主流的悲观论调形成鲜明对比。作者深入分析了单边主导和竞争侵蚀两种潜在的失败模式，并提出通过构建稳定的、双赢的人机联盟来避免。其核心洞察在于，通过降低交易成本，利用AI技术构建信息、协商、谈判和信任基础设施，我们可以创造一个合作优于冲突的“防御优势”世界。这不仅是技术问题，更是社会和制度的挑战，需要我们积极投资于能够促成集体繁荣的社会技术栈。读后令人深思，它提醒我们，面对未来，除了恐惧，我们还有能力主动塑造一个更好的结局。",
-    "best_quote_en": "The prize, if we can get there, is collective flourishing. But a world where humanity, in coalition with AI systems, retains the capacity to shape its own future. A world where we can understand our situation clearly enough, coordinate effectively enough, and defend ourselves well enough to keep steering toward something better.",
-    "best_quote_zh": "如果我们能达到目标，奖品将是集体繁荣。这是一个人类与AI系统结盟，共同保有塑造自身未来的能力的世界。一个我们能足够清晰地理解自身处境，足够有效地协调，足够好地保护自己，从而持续驶向更美好未来的世界。"
-  },
-  {
-    "id": 468,
-    "title": "Vinson Cunningham on Barry Blitt’s Obama “Fist Bump” Cover",
-    "title_zh": "文森·坎宁安谈巴里·布利特的奥巴马“碰拳”封面",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/vinson-cunningham-on-barry-blitts-obama-fist-bump-cover",
-    "tags": [
-      "solve",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "Vinson Cunningham offers a retrospective analysis of Barry Blitt's controversial 2008 New Yorker cover depicting Barack and Michelle Obama, which satirized the racist rhetoric prevalent during Obama's presidential campaign. Cunningham, who was working for Obama's campaign at the time, recounts his initial reaction and the widespread outrage the cover provoked. He insightfully argues that Blitt's illustration was a sharp piece of media criticism, exposing the absurd and often malicious stereotypes hurled at the Obamas. The author reflects on the cover's enduring power as a commentary on a nation that too readily reduces complex figures to caricatures, highlighting the sophisticated yet often misunderstood nature of satire in confronting societal prejudices. This piece serves as a potent reminder of the historical context of Obama's rise and the persistent challenges of racialized discourse in American politics.",
-    "summary_zh": "坎宁安对巴里·布利特2008年《纽约客》奥巴马封面争议的解读，不仅是个人回忆，更是对讽刺艺术与种族主义言论交锋的深刻反思。他以亲历者视角，揭示了封面背后媒体批评的精妙，以及美国社会在面对肤色和政治时，将复杂人物漫画化的倾向。这篇分析让我再次审视讽刺的边界与力量，也感叹近二十年后，那些荒谬的种族主义言论仍余音绕梁，警示我们批判性思维的持续重要性。",
-    "best_quote_en": "Blitt’s cover was, at heart, a work of media criticism, aimed at this latticework of horseshit. Here’s one big risk a public satirist of racism takes: by displaying a panoply of tropes and crude imagery, he reveals just how well he knows and can deploy them himself.",
-    "best_quote_zh": "布利特的封面，其核心是对这堆胡言乱语的媒体批判作品。一个公开的种族主义讽刺作家所冒的一个巨大风险是：通过展示一系列的比喻和粗俗的意象，他揭示了他自己对这些东西的了解和运用能力。"
-  },
-  {
-    "id": 469,
-    "title": "Recomendo Deals / Zip Air / 35 simple health tips",
-    "title_zh": "推荐优惠 / Zip Air / 35个简单健康贴士",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/recomendo-deals-zip-air-35-simple-health-tips/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "This content offers a diverse collection of practical recommendations spanning consumer deals, travel, health, linguistics, self-development, and focus tools. It highlights a new service, Recomendo Deals, for finding discounted vetted products, and praises Zip Air for budget-friendly flights to Japan. The piece also curates 35 research-backed health tips, explores the evolution of the English language through a video, suggests a dream analysis newsletter for self-reflection, and reviews a NeeDoh fidget toy for focus. The common thread is the emphasis on actionable, vetted suggestions that can genuinely improve daily life, from saving money and traveling smarter to enhancing well-being and understanding historical language shifts. It's a rich tapestry of useful insights for a curious and practical reader.",
-    "summary_zh": "这篇文章仿佛是一份生活智慧的宝藏图，从精明消费到身心健康，再到语言探索和自我成长，每一项推荐都充满了实用价值。我特别喜欢它不仅提供了信息，更分享了亲身体验和独到见解，比如Zip Air的廉价日本航班，或是NeeDoh减压球的妙用。这种“授人以渔”而非“授人以鱼”的分享方式，让我感受到内容背后的真诚与匠心。它提醒我们，生活中的小确幸和大学问，往往藏在这些看似简单的发现之中。",
-    "best_quote_en": "These aren’t random products — they’re things we’ve already vetted and recommended.",
-    "best_quote_zh": "这些并非随机产品——它们是我们已经审核并推荐过的。"
-  },
-  {
     "id": 470,
     "title": "Global midwife shortage raises rates of maternity intervention, report warns",
     "title_zh": "全球助产士短缺推高孕产妇干预率，报告警告",
@@ -2302,5 +2190,117 @@
     "summary_zh": "这篇文章是对《金钱心理学》作者新作《花钱的艺术》的精辟解读。它颠覆了我们对财富的传统认知，指出真正的富裕并非累积，而是将金钱作为工具，购买自由、意义和快乐。我特别欣赏其强调“自由而非奢华”以及“体验胜过物质”的观点，这无疑触及了现代消费主义的核心弊病。内容提供的实用练习，如审视过去消费、削减无益开支，并思考“足够”的定义，都极具启发性。它引导我们跳脱攀比，回归内心，以更智慧、更负责任的态度对待金钱，从而活出更充实的人生。",
     "best_quote_en": "There are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of status to measure yourself against others. Many people aspire for the former but spend their life chasing the latter.",
     "best_quote_zh": "金钱有两种用法。一种是将其作为工具，过上更好的生活。另一种是将其作为衡量地位的标尺，与他人比较。许多人渴望前者，却终其一生追逐后者。"
+  },
+  {
+    "id": 565,
+    "title": "For Valentine's Day, we asked 18 women for the best gifts they ever got",
+    "title_zh": "情人节特辑：我们采访了18位女性，了解她们收到的最佳礼物",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2025/nov/27/best-gifts-ideas-for-women",
+    "tags": [
+      "learn",
+      "design",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This article thoughtfully curates a list of Valentine's Day gift ideas for women, uniquely sourced from the personal experiences of 18 women who share the 'best gifts they ever got.' Moving beyond generic product placements, the piece delves into the sentimental and practical value of each item, offering insights into why these gifts resonated so deeply. It covers a diverse range of categories from home goods and fashion to beauty and tech, emphasizing personalized touches and understanding the recipient's specific needs and desires. The inclusion of direct quotes from the women themselves adds authenticity and emotional depth, making the recommendations feel genuine and relatable. This approach transforms a typical gift guide into a rich resource for anyone seeking to give a truly meaningful present.",
+    "summary_zh": "这篇文章以一种非常走心的方式，汇集了18位女性亲身分享的“最佳礼物”，为情人节送礼提供了独到见解。它不仅仅是商品罗列，更深入探讨了每件礼物的实用价值和情感意义，让人感受到送礼的艺术在于理解和用心。从家居、时尚到美妆和科技，礼物种类繁多，但核心都在于个性化和对收礼人需求的精准把握。我特别喜欢文中引用的真实故事，它们赋予了每件礼物生命和温度，让这份指南变得既实用又充满人情味，启发读者如何送出真正能触动人心的礼物。",
+    "best_quote_en": "“It’s not something you’d think to get for yourself, especially if you’re not a techie person like me. I just got the newest one and the picture-taking is incredible.”",
+    "best_quote_zh": "“这不是你会想到给自己买的东西，特别是如果你像我一样不擅长科技。我刚买了最新款，拍照功能简直不可思议。”"
+  },
+  {
+    "id": 566,
+    "title": "Relentlessly Resourceful",
+    "title_zh": "不懈的足智多谋",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/relres.html",
+    "tags": [
+      "learn",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "This essay by Paul Graham distills the essence of a successful startup founder into two powerful words: \"relentlessly resourceful.\" He argues against the common misconception that 'hapless' simply means unlucky, redefining it as passive, and positions relentless resourcefulness as its active antithesis. Graham insightfully differentiates this quality from mere relentlessness or active curiosity, suggesting it's uniquely suited for navigating the external obstacles inherent in startups, unlike the internal struggles of creative fields. The piece provocatively suggests that the limiting factor for the number of startups isn't economic, but the pool of individuals possessing this trait, which, surprisingly, can often be cultivated. It’s a compelling call to action for aspiring founders and investors alike, offering a concise and actionable metric for evaluating potential.",
+    "summary_zh": "保罗·格雷厄姆将成功创业者的核心特质凝练为“不懈的足智多谋”，这种洞察力深邃而引人深思。他不仅重新定义了“不幸”的被动性，更将其对立面——不懈的足智多谋——描绘成创业者主动应对外部挑战的必备品。我特别欣赏他区分了这种特质与纯粹的毅力或好奇心，这精准地抓住了创业与艺术创作的本质差异。文章提出创业数量的限制在于具备此特质的人才池，而非经济因素，这让我对人才培养和创业教育有了新的思考。这不仅是给创业者的指南，也是给投资人的一个清晰的判断标准，极具启发性。",
+    "best_quote_en": "“Make something people want” is the destination, but “Be relentlessly resourceful” is how you get there.",
+    "best_quote_zh": "“做出人们想要的东西”是目的地，但“不懈地足智多谋”才是你到达目的地的方式。"
+  },
+  {
+    "id": 567,
+    "title": "It Is Reasonable To Research How To Use Model Internals In Training",
+    "title_zh": "研究如何利用模型内部机制进行训练是合理的",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/G9HdpyREaCbFJjKu5/it-is-reasonable-to-research-how-to-use-model-internals-in",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "This piece thoughtfully argues for the necessity of researching the integration of AI model internals into the training process, a concept often controversially labeled as a 'forbidden technique' within the AGI safety community. Neel Nanda, the author, challenges the prevailing skepticism by highlighting existing research efforts and the potential benefits for AGI safety, particularly in developing models that align with human intent in complex scenarios. The article dissects various methods of incorporating interpretability into training, such as adding probe scores to loss functions or altering model internals, and addresses concerns about potential fragility or the undermining of auditing capabilities. Nanda posits that understanding these mechanisms is crucial for advancing AI safety, advocating for continued research to empirically determine their efficacy and risks rather than dismissing them outright. It's a compelling call for nuanced exploration in a critical and often polarizing field.",
+    "summary_zh": "作者Neel Nanda深刻探讨了将AI模型内部机制融入训练过程的合理性与必要性。在AGI安全社区中，这常被视为“禁忌技术”，但Nanda通过论证其对齐模型的潜在价值，挑战了这种普遍的担忧。文章细致分析了多种内部机制的运用方式及其可能面临的风险，并强调了通过实证研究而非简单否定来探索这些复杂问题的紧迫性。我个人认为，这种对前沿且具争议性研究领域的开放态度至关重要，它鼓励我们深入理解而非盲目排斥，这对于AI的长期安全发展是不可或缺的。",
+    "best_quote_en": "Everything we do in model training involves taking some proxy for desired behavior and applying optimization pressure to it. The current convention is that this is fine to do for the model's behavior, bad to do for the chain of thought, and no one can be bothered with the internals. But I see no fundamental reason behaviour should be fine and internals should be forbidden, this depends on empirical facts we don’t yet know.",
+    "best_quote_zh": "我们在模型训练中所做的一切，都涉及选取所需行为的某种代理并施加优化压力。当前的惯例是，对模型行为这样做没问题，对思维链这样做不好，而没人费心去处理内部机制。但我认为，行为可以而内部机制却被禁止，这没有根本原因，它取决于我们尚不了解的经验事实。"
+  },
+  {
+    "id": 568,
+    "title": "A Bridge to Venezuela",
+    "title_zh": "通往委内瑞拉的桥梁",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-weekend-essay/a-bridge-to-venezuela",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-02-07",
+    "summary_en": "This essay offers a poignant, on-the-ground look at Cúcuta, the Colombian border city, serving as a critical gateway to Venezuela. The author, Daniel Alarcón, masterfully blends personal experience with historical context and current events, revealing the complex, often tragic, human stories behind the Venezuelan exodus. He highlights the city's unique socio-economic fabric, deeply intertwined with its neighbor, and the profound shift from a time when Colombians sought prosperity in Venezuela to the current crisis where millions flee in the opposite direction. Alarcón's narrative is rich with vivid descriptions and unsettling encounters, from the ambiguous border on Simón Bolívar bridge to the harrowing tales of 'los caminantes' and the pervasive fear that still grips Venezuelans. The piece critically examines the geopolitical implications, the failure of international aid, and the normalization of violence and desperation, leaving the reader with a deep sense of the region's fragility and the enduring human spirit amidst immense adversity. It's a powerful exploration of a crisis often reduced to statistics, bringing it back to the individual lives affected.",
+    "summary_zh": "这篇深度报道以哥伦比亚边境城市库库塔为视角，揭示了委内瑞拉危机的复杂人性层面。作者巧妙地将个人经历与历史背景交织，描绘了边境的模糊与危险，以及数百万委内瑞拉人背井离乡的悲惨现实。他通过对“步行者”的描述和对当地居民的访谈，展现了经济崩溃、政治压迫和人道主义紧急状况如何深刻影响着普通人的生活。文章不仅是对地缘政治冲突的观察，更是对人类韧性与脆弱性的深刻反思，读来令人心生沉重，对这片土地的未来充满忧虑。",
+    "best_quote_en": "“Because anyone who decides to walk for twenty days, thirty days, forty days to leave their country is doing it because there is no hope.”",
+    "best_quote_zh": "“因为任何一个决定步行二三十甚至四十天离开自己国家的人，都是因为他们已经没有任何希望了。”"
+  },
+  {
+    "id": 569,
+    "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Read Montague",
+    "title_zh": "多巴胺与血清素如何塑造决策、动机与学习 | Read Montague博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-dopamine-serotonin-shape-decisions-motivation-and-learning-read-montague",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-02",
+    "summary_en": "Dr. Read Montague offers a fascinating exploration into the intricate roles of dopamine and serotonin in human cognition and behavior. He delves beyond common misconceptions, revealing how these neurotransmitters drive motivation, shape learning through 'reward prediction error,' and influence decision-making in contexts ranging from foraging to social media use. The discussion critically examines the impact of SSRIs and high-engagement, low-effort activities on dopamine pathways, and thoughtfully considers how AI is revolutionizing our understanding of brain function. Montague's insights challenge simplistic views, highlighting the complex interplay of these chemicals in conditions like Parkinson's, ADHD, and even trauma, making a compelling case for a nuanced understanding of our internal reward systems and their broader implications for well-being and societal trends.",
+    "summary_zh": "Read Montague博士对多巴胺和血清素在人类决策、动机和学习中的深层作用进行了引人入胜的剖析。他不仅澄清了我们对这些神经递质的常见误解，更揭示了它们如何通过“奖赏预测误差”驱动学习，并影响从觅食到社交媒体使用的各种行为。我特别欣赏他对SSRI和低努力高参与活动如何改变多巴胺回路的批判性思考，以及AI在脑科学研究中的革新性应用。这不仅仅是生物化学知识的普及，更是对人类行为模式、心理健康乃至社会现象深层机制的哲学式反思。",
+    "best_quote_en": "Dopamine is not about pleasure, it's about prediction error: the difference between what you expect to happen and what actually happens.",
+    "best_quote_zh": "多巴胺并非关乎愉悦，它关乎预测误差：即你预期会发生什么与实际发生什么之间的差异。"
   }
 ]
