@@ -1,125 +1,5 @@
 [
   {
-    "id": 470,
-    "title": "Global midwife shortage raises rates of maternity intervention, report warns",
-    "title_zh": "全球助产士短缺推高孕产妇干预率，报告警告",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/jan/20/world-shortage-million-midwives-icm-healthcare-mothers-babies-intervention",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "This report highlights a critical global shortage of nearly one million midwives, which is directly linked to increased rates of maternity intervention and poorer outcomes for mothers and babies. The analysis reveals that this deficit is particularly acute in Africa and other low- and middle-income countries, where a lack of trained professionals leads to fragmented care and preventable deaths. Beyond just training, the report emphasizes systemic issues like failure to employ trained midwives and retain existing staff. This isn't merely a workforce problem; it's a profound quality and safety issue for maternal and newborn health worldwide, demanding urgent governmental action and investment to achieve sustainable development goals.",
-    "summary_zh": "这篇报道揭示了全球助产士的严峻短缺，不仅导致孕产妇干预率上升，更直接威胁母婴生命。非洲等中低收入国家尤为严重，这不仅是人力资源问题，更是医疗质量与安全的深层危机。我深感，这反映出全球医疗资源分配不均的结构性困境，以及对女性和新生儿健康投入不足的现实。解决这一问题，需要各国政府的紧急行动和对助产士专业价值的重新审视与投资。",
-    "best_quote_en": "“Nearly 1 million missing midwives means health systems are stretched beyond capacity, midwives are overworked and underpaid, and care becomes rushed and fragmented. Intervention rates rise, and women are more likely to experience poor-quality care or mistreatment.”",
-    "best_quote_zh": "“近100万助产士的缺失意味着卫生系统不堪重负，助产士们工作过劳、薪酬偏低，护理变得仓促而碎片化。干预率上升，女性更有可能经历低质量的护理或遭受不当对待。”"
-  },
-  {
-    "id": 471,
-    "title": "The Future of Startup Funding",
-    "title_zh": "创业公司融资的未来",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/future.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "This article from 2010 offers a remarkably prescient analysis of the evolving landscape of startup funding, predicting the rise of 'super-angels' and a shift in power dynamics towards founders. It critically examines the traditional VC model, particularly its reliance on large investments and board seats, and suggests that VCs will need to adapt by doing smaller, faster deals and taking less equity. The author argues that founders' increasing power will lead to the elimination of disliked fundraising practices, such as slow closes, investor-controlled rounds, and the demand for 'traction' before significant investment. It provocatively suggests that investors who embrace these changes, despite initially appearing to cede power, may ultimately benefit from a more attractive startup ecosystem and increased deal flow. The piece is a fascinating historical snapshot that accurately forecasted many current trends in venture capital.",
-    "summary_zh": "这篇2010年的文章对创业公司融资的未来做出了惊人的预判，准确预测了“超级天使”的崛起以及创始人权力地位的提升。作者深入剖析了传统VC模式的局限性，并认为VC必须适应，通过更小、更快的交易和更少的股权来与时俱进。文中提出，随着创始人力量的增强，那些令人厌恶的融资惯例，如漫长的融资周期和投资者对“牵引力”的执着，将逐渐消失。更引人深思的是，作者大胆指出，那些看似让渡权力的投资者，反而可能从一个更健康、更具吸引力的创业生态系统中获益。这篇早期文章在今天读来，依然充满洞察力，令人回味。",
-    "best_quote_en": "If founders become more powerful, they'll be able to make investors give them more money upfront.",
-    "best_quote_zh": "如果创始人变得更强大，他们将能够让投资者预先投入更多资金。"
-  },
-  {
-    "id": 472,
-    "title": "Why I Transitioned: A Response",
-    "title_zh": "我为何转变：一个回应",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rt2yai8JkTPYgzoEj/why-i-transitioned-a-response",
-    "tags": [
-      "analyze",
-      "psychology",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "This article critically responds to a previous theory on MtF transition, arguing against solely psychosocial explanations and presenting a strong case for biological underpinnings of transgender identity. The author, Marisa, meticulously dismantles the 'body-map theory' and Fiora Sunshine's claims by referencing twin studies, the ACE model in psychiatric genetics, and conditions like CAH to illustrate significant biological contributions. A key insight is the 'Trans Double Bind,' where trans individuals are incentivized to frame their identity biologically for medical access, yet face potential 'medical eradication' if biology fully explains it. Marisa's personal narrative serves as a compelling counter-example, showing how profound dysphoria can coexist with a 'social outcast weeb' phenotype, challenging simplistic causation. The piece concludes with a practical, Bayesian approach to transition, emphasizing individual well-being over introspective clarity, and thoughtfully engages with the complexities of identity, societal pressures, and medical gatekeeping.",
-    "summary_zh": "这篇文章是对“我为何转变：一个案例研究”的有力反驳，作者Marisa深入剖析了跨性别身份的生物学基础，并挑战了单纯的社会心理学解释。她通过引用双生子研究和ACE模型，揭示了跨性别者面临的“双重束缚”——既需要医学认可，又担忧医学可能带来的“根除”。Marisa的个人经历，一个看似符合特定刻板印象的“社交边缘人”，却因不可承受的性别焦虑而在31岁时选择转变，深刻地说明了生物学因素与社会表征的复杂交织。这引发了我对身份认同本质的思考：我们如何平衡内在感受、社会期待与科学解释？文章提出的贝叶斯式转变路径，即以福祉改善为核心，而非纠结于“我是不是跨性别”，提供了一种更务实和人性化的视角，这无疑是对当前关于性别认同讨论的宝贵贡献。",
-    "best_quote_en": "The right question is \"should I transition?\". Transition is best understood as a Bayesian process where you take small behavioral steps and update on whether your quality of life is improving.",
-    "best_quote_zh": "正确的问题是“我应该转变吗？”。转变最好被理解为一个贝叶斯过程，你采取小的行为步骤，并根据你的生活质量是否改善来更新判断。"
-  },
-  {
-    "id": 473,
-    "title": "The Ice Curtain",
-    "title_zh": "冰幕",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/01/19/the-ice-curtain",
-    "tags": [
-      "analyze",
-      "politics",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "This article masterfully chronicles the shifting geopolitical and social landscape of the Bering Strait region, focusing on the Alaskan town of Nome and its historical ties to the Russian Far East. It delves into the optimistic \"Friendship Flight\" era of the 1980s and 90s, spearheaded by local visionary Jim Stimpfle, which fostered unprecedented cross-border exchanges and cultural connections after decades of the \"Ice Curtain.\" The narrative then starkly contrasts this period with the current climate of renewed isolation and tension following Russia's invasion of Ukraine, highlighting how Nome-ites are now actively supporting Ukraine. The author also explores the environmental challenges facing the Arctic and the region's geopolitical significance, particularly regarding shipping routes and resource extraction. The piece is a poignant reflection on how global conflicts profoundly impact local communities and individual lives, transforming a border from a bridge of friendship into a new front line.",
-    "summary_zh": "这篇文章以阿拉斯加诺姆小镇为中心，描绘了白令海峡地区地缘政治和社会关系的剧烈变迁。从冷战时期“冰幕”下的隔绝，到吉姆·斯廷普勒推动的“友谊航班”所带来的短暂开放与文化交流，再到俄乌冲突后重回封闭甚至成为对抗前线的现状，作者以细腻的笔触展现了宏大历史进程对个体命运和社区生活的深刻影响。尤其令人感慨的是，曾致力于跨国友谊的居民，如今转而支持乌克兰，这种身份的转变和地域的宿命感令人深思。文章不仅是历史的记录，更是对地缘政治、文化认同和个人行动力在时代洪流中作用的深刻反思。",
-    "best_quote_en": "“I always say that citizen-to-citizen diplomacy opened the border in the nineteen-eighties. And failures of big-country diplomacy contributed to its closing, which started with Putin in 2000.”",
-    "best_quote_zh": "“我总是说，是八十年代的民间外交打开了边界。而大国外交的失败导致了它的关闭，这始于2000年的普京。”"
-  },
-  {
-    "id": 474,
-    "title": "Baby Care",
-    "title_zh": "婴儿护理",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/baby-care/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "This compilation offers practical, parent-tested solutions for common baby care challenges, ranging from sleep training to baby carriers and even bedwetting. The insightful personal anecdotes lend significant credibility and emotional resonance to the recommendations. The inclusion of the 'Ferberization' method for sleep, despite its controversial nature, provides a candid look at effective, albeit tough, parenting choices. Similarly, the detailed reviews of various baby carriers highlight the importance of ergonomic design for both parent and child. What stands out is the focus on tangible, problem-solving tools and techniques, often backed by personal 'life-changing' experiences, which makes the content highly actionable for new or struggling parents. It's a testament to how simple yet effective tools can profoundly impact daily family life.",
-    "summary_zh": "这篇婴儿护理合集充满实用智慧，从睡眠训练到背带选择，甚至儿童夜间遗尿问题，都提供了经过父母亲身验证的解决方案。文中真诚的个人经历赋予了这些建议极强的说服力和情感共鸣。尤其是关于“法伯法”睡眠训练的分享，尽管颇具争议，却展现了育儿决策中务实而艰难的一面。不同婴儿背带的详细评测，则强调了人体工学设计对父母和孩子双方的重要性。最吸引人的是，内容聚焦于具体、可操作的工具和技巧，许多都伴随着“改变生活”的亲身体验，这让它对新手父母或面临挑战的家庭而言极具价值。它深刻地说明了看似简单的工具，如何能对家庭日常生活产生深远影响。",
-    "best_quote_en": "It sounds cruel. As a parent, your instinct is to run to your baby as soon as she starts crying. But in this case, not following you instincts is the best course of action. It took exactly two nights to Ferberize our baby.",
-    "best_quote_zh": "这听起来很残忍。作为父母，你的本能是在宝宝一开始哭泣时就冲过去。但在这种情况下，不遵循你的本能是最好的做法。我们的宝宝只用了两个晚上就完成了法伯法训练。"
-  },
-  {
     "id": 475,
     "title": "The Acceleration of Addictiveness",
     "title_zh": "上瘾性的加速",
@@ -2302,5 +2182,125 @@
     "summary_zh": "Read Montague博士对多巴胺和血清素在人类决策、动机和学习中的深层作用进行了引人入胜的剖析。他不仅澄清了我们对这些神经递质的常见误解，更揭示了它们如何通过“奖赏预测误差”驱动学习，并影响从觅食到社交媒体使用的各种行为。我特别欣赏他对SSRI和低努力高参与活动如何改变多巴胺回路的批判性思考，以及AI在脑科学研究中的革新性应用。这不仅仅是生物化学知识的普及，更是对人类行为模式、心理健康乃至社会现象深层机制的哲学式反思。",
     "best_quote_en": "Dopamine is not about pleasure, it's about prediction error: the difference between what you expect to happen and what actually happens.",
     "best_quote_zh": "多巴胺并非关乎愉悦，它关乎预测误差：即你预期会发生什么与实际发生什么之间的差异。"
+  },
+  {
+    "id": 570,
+    "title": "‘The right has won the family’: my relentless search for lefty mommy bloggers",
+    "title_zh": "“右翼赢得了家庭”：我无休止地寻找左翼妈妈博主",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/04/left-progressive-mom-influencers",
+    "tags": [
+      "inspire",
+      "society",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This article delves into the political landscape of 'mommy blogger' content, highlighting the overwhelming presence of conservative 'tradwife' narratives or overtly apolitical content, which marginalizes progressive voices. The author, Kady Ruth Ashcraft, expresses her yearning for online motherhood content that reflects left-leaning values and addresses systemic issues like healthcare access and social justice, rather than just domestic aesthetics. Through interviews with creators like Kate Glavan and Lisa Miller, the piece explores why progressive mom content struggles for visibility and virality, touching on issues like privacy concerns, the politicization of motherhood, and the perceived conflict between activism and aspirational lifestyle content. It’s a thought-provoking exploration of how personal politics intersect with digital identity and content creation within the parenting sphere, revealing a significant gap in the online representation of diverse maternal experiences.",
+    "summary_zh": "这篇文章深刻剖析了“妈妈博主”内容中的政治倾向，指出保守派“传统妻子”叙事或刻意去政治化的内容占据主流，压制了进步主义声音。作者渴望看到反映左翼价值观、关注医疗和社群正义等系统性问题的育儿内容，而非仅仅是家居美学。通过采访，文章探讨了进步妈妈内容难以获得关注的原因，如隐私顾虑、母职的政治化以及行动主义与理想生活方式内容间的潜在冲突。这篇分析引人深思，揭示了个人政治观点如何在育儿内容创作中与数字身份交织，凸显了在线母职体验多样性表达的巨大缺失。",
+    "best_quote_en": "“The right in the United States has really won the family.”",
+    "best_quote_zh": "“在美国，右翼确实赢得了家庭。”"
+  },
+  {
+    "id": 571,
+    "title": "How to Be an Angel Investor",
+    "title_zh": "如何成为一名天使投资人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/angelinvesting.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "This essay offers a pragmatic and insightful guide to angel investing, demystifying the process and emphasizing the critical importance of selecting the right startups over obsessing about deal mechanics. The author, drawing from personal experience, highlights that success hinges on identifying promising founders who are \"relentlessly resourceful\" and possess a deep understanding of what people want. It provocatively suggests that empathy and an ability to judge potential are more valuable than legalistic knowledge. The article also provides practical advice on deal flow, investment size, and the ethical imperative for angels to be decisive and supportive, ultimately shaping the startup ecosystem. Its core insight is that angel investing is less about financial wizardry and more about human judgment and character.",
+    "summary_zh": "这篇关于天使投资的深度文章，将看似复杂的投资过程剥茧抽丝，直指核心：选择正确的创业公司远比纠结于交易条款重要。作者以亲身经验强调，成功的关键在于识别那些“坚韧不拔、足智多谋”的创始人，以及他们对市场需求的敏锐洞察力。我特别欣赏文章中提出的观点——同理心和对潜力的判断力，有时比精通法律条文更有价值。这不仅仅是一份投资指南，更是一份关于如何以智慧和品格参与构建创新生态的思考，读来令人深思。",
+    "best_quote_en": "What you should spend your time thinking about is whether the company is good. (Similarly, founders also should not get hung up on deal terms, but should spend their time thinking about how to make the company good.)",
+    "best_quote_zh": "你应该把时间花在思考公司是否优秀上。（同样，创始人也不应纠结于交易条款，而应把时间花在思考如何把公司做好上。）"
+  },
+  {
+    "id": 572,
+    "title": "Answer in your head",
+    "title_zh": "在你的脑海中回答",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/nxzE9pbRDRshGwqLJ/answer-in-your-head",
+    "tags": [
+      "learn",
+      "society",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "This deeply personal narrative explores an unexpected, profound encounter between the author and a homeless man named Joe. What begins as a casual conversation about bike theft quickly evolves into a shared vulnerability, as Joe confesses his past struggles and current temptations, while the author grapples with his own internal conflicts. The turning point arrives when Joe, with remarkable insight, offers the simple yet profound advice to \"answer in your head\" when confronted with difficult truths. This piece masterfully illustrates how genuine connection can transcend social barriers, offering a powerful lesson in self-honesty and the decoupling of internal truth from external expression. It's a poignant reflection on empathy, human struggle, and the unexpected sources of wisdom.",
+    "summary_zh": "这篇文章记录了一次与流浪汉乔的意外相遇，但其深度远超表面。作者与乔从自行车盗窃聊到各自内心的挣扎，乔的坦诚和那句“你可以在脑海中回答”的建议，如同醍醐灌顶。这不仅仅是一个关于同情心的故事，更是对自我诚实和人际连接本质的深刻探讨。它提醒我们，智慧和洞察力可能来自最意想不到的地方，而真正的理解往往始于卸下社会标签，坦诚面对彼此的脆弱。",
+    "best_quote_en": "You don’t have to answer out loud, you can answer in your head.",
+    "best_quote_zh": "你不必大声回答，你可以在你的脑海中回答。"
+  },
+  {
+    "id": 573,
+    "title": "How Lindsey Vonn and Mikaela Shiffrin Have Defined Greatness",
+    "title_zh": "琳赛·沃恩和米凯拉·席弗林如何定义伟大",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/sporting-scene/how-lindsey-vonn-and-mikaela-shiffrin-have-defined-greatness",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "This compelling article delves into the contrasting yet equally profound paths to greatness forged by alpine skiing legends Lindsey Vonn and Mikaela Shiffrin. It meticulously chronicles Vonn's career, characterized by relentless comebacks from devastating injuries and an unapologetic pursuit of records, highlighting her sheer will and physical dominance. In stark contrast, Shiffrin's journey is portrayed as a quest for the 'perfect turn,' emphasizing technical mastery, mental fortitude, and a more introspective approach to success, even in the face of immense personal loss and public pressure. The piece thoughtfully explores how each athlete redefined what it means to be the 'best ever,' not just through victories but through their resilience, evolving philosophies on competition, and their distinct relationships with fear and perfection. It's a fascinating study of different manifestations of peak athletic achievement.",
+    "summary_zh": "这篇文章深入探讨了高山滑雪传奇琳赛·沃恩和米凯拉·席弗林截然不同却同样辉煌的伟大之路。沃恩的职业生涯充满了从严重伤病中顽强复出的故事，她对纪录的执着追求展现了惊人的意志力。而席弗林则追求“完美转弯”，她的成功更多源于技术精湛和强大的内心，即使面对巨大个人悲痛和公众压力，她依然保持着对卓越的内省式探索。读完不禁思考，真正的伟大并非只有一种定义，它可以在极限挑战中爆发，也可以在对完美的无限接近中实现。两位运动员以各自的方式，重新诠释了体育精神与人类潜能的边界。",
+    "best_quote_en": "“I’m a much happier person because of the injuries,” she replied. “If I didn’t have those setbacks, it would be too easy. Everyone needs an obstacle to overcome to show yourself what you are capable of.”",
+    "best_quote_zh": "“我是一个更快乐的人，因为那些伤病，”她回答道。“如果我没有那些挫折，那一切就太容易了。每个人都需要克服障碍，才能展示自己的能力。”"
+  },
+  {
+    "id": 574,
+    "title": "Single sheet calendar / Secret Mall Apartment / Data poems",
+    "title_zh": "单页日历 / 秘密商场公寓 / 数据诗歌",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/single-sheet-calendar-secret-mall-apartment-data-poems/",
+    "tags": [
+      "analyze",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-08",
+    "summary_en": "This collection of diverse recommendations offers a fascinating glimpse into creative problem-solving and unique aesthetic experiences. From a practical single-sheet calendar for year-long planning to the inspiring documentary about artists secretly living in a mall, the content encourages a shift in perspective. The 'Data Poems' highlight the beauty in abstract information, transforming statistics into contemplative art. Meanwhile, insights into the 'Hidden Life of Trees' reveal the complex, collaborative intelligence of nature, urging a deeper appreciation for the environment. Practical tools like 'Text Behind Image' and the 'Mighty keychain flashlight' round out the collection, showcasing how simple innovations can enhance daily life. Overall, it's a curated set of ideas that blends utility with wonder, inspiring both practical application and a broader, more imaginative view of the world around us.",
+    "summary_zh": "这组推荐文章引人入胜，从极简日历的实用主义到秘密商场公寓的艺术反叛，再到数据诗歌的抽象美学，无不展现了创意的多样性。我特别欣赏《树的秘密生活》中对自然智慧的深刻洞察，它让我重新思考人与环境的关系。这些内容不仅提供了即时可用的工具，更激发了一种跳脱常规、发现日常之美的思考方式。它提醒我们，无论是在艺术、科技还是自然界，都有无数未被发掘的奇迹等待我们去探索和体验。",
+    "best_quote_en": "It was a bold work of art, and I came away seeing art as a way of life.",
+    "best_quote_zh": "这是一项大胆的艺术作品，我从中领悟到艺术即生活。"
   }
 ]
