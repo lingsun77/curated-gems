@@ -1,115 +1,5 @@
 [
   {
-    "id": 475,
-    "title": "The Acceleration of Addictiveness",
-    "title_zh": "上瘾性的加速",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/addiction.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "This thought-provoking essay by Paul Graham explores the accelerating phenomenon of 'addictiveness' in modern life, arguing that technological progress, while beneficial in many ways, also relentlessly concentrates and refines things we like into things we like 'too much.' He draws parallels from historical examples like opium to heroin, to contemporary instances such as social media and ultra-processed foods. Graham posits that society's 'antibodies' (customs, legislation) against new addictions are evolving too slowly to keep pace with technological advancement, forcing individuals to adopt increasingly 'eccentric' personal strategies to maintain a sense of normal, productive living. The piece is a powerful meditation on the double-edged sword of progress and the growing need for conscious self-regulation in an ever-more stimulating world.",
-    "summary_zh": "保罗·格雷厄姆这篇关于“上瘾性加速”的文章读来令人深思。他洞察到科技进步像一把双刃剑，它在创造便利的同时，也无情地将我们喜欢的事物提炼成“过度喜欢”的诱惑。从海洛因到社交媒体，我们身边的“瘾”正变得无处不在。格雷厄姆的担忧在于，社会应对新成瘾的“免疫系统”——如习俗和法规——其演变速度远跟不上科技的步伐。这迫使我们每个人都必须发展出越来越“古怪”的个人策略，才能在这个日益刺激的世界中保持清醒和高效。这不仅是对科技进步的反思，更是对我们如何定义和守护“正常生活”的深刻叩问。",
-    "best_quote_en": "You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.",
-    "best_quote_zh": "你大概可以从此以后把这当作一条经验法则：如果人们不觉得你奇怪，那你的生活方式就有问题了。"
-  },
-  {
-    "id": 476,
-    "title": "Kredit Grant",
-    "title_zh": "Kredit Grant (信用赠款)",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FsqFzFCaxuBS7T5A9/kredit-grant",
-    "tags": [
-      "update",
-      "ai-research",
-      "startup-funding"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "创业融资"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "This brief post by kiankyars announces a unique opportunity to receive a share of $5,710 in OpenAI/Anthropic credits. The author provides a link to an application form and an email for questions, setting a deadline of January 31, 2026. This initiative is particularly valuable for individuals or small teams working on AI projects who might lack the funding for API access. The post, though short, demonstrates a generous and community-oriented approach, offering practical support rather than just advice. The author also preemptively addresses potential skepticism by offering 'proof' of credits, showcasing an understanding of online trust dynamics. It's a direct, actionable call for those seeking resources in the AI development space.",
-    "summary_zh": "这篇短文由kiankyars发布，提供了一个独特的机会，可以获得总计5,710美元的OpenAI/Anthropic信用额度。作者提供了申请链接和联系邮箱，截止日期为2026年1月31日。我认为这对于那些缺乏AI项目API访问资金的个人或小型团队来说，无疑是一笔及时雨。它不仅体现了作者的慷慨，也为AI社区带来了实实在在的帮助，而不是空泛的建议。这种直接的资源共享，是推动AI创新的一种务实方式，值得赞赏。",
-    "best_quote_en": "I have $5,710 in OpenAI/Anthropic credits which I am giving away, please apply here if interested.",
-    "best_quote_zh": "我有5,710美元的OpenAI/Anthropic信用额度，正在赠送，如果您感兴趣，请在此申请。"
-  },
-  {
-    "id": 477,
-    "title": "How Europe Can Respond to Trump’s Greenland Imperalism",
-    "title_zh": "欧洲如何回应特朗普的格陵兰帝国主义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/how-europe-can-respond-to-trumps-greenland-imperalism",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "This interview with Ivan Krastev offers a sobering analysis of the escalating transatlantic crisis, triggered by former President Trump's aggressive pursuit of Greenland. Krastev meticulously unpacks Europe's initial miscalculations regarding Trump's second term, highlighting their failed bets on transactional politics and the US-China rivalry. The discussion reveals a critical turning point where European leaders recognize the ideological underpinnings of Trump's actions and the potential for a complete rupture. The most compelling insight is how Trump's 'Greenland imperialism' has inadvertently united even the European far-right against him, demonstrating a miscalculation of nationalist sentiments beyond his base. The piece also explores the strategic implications for China and the potential for Europe to deploy its Anti-Coercion Instrument, suggesting a reluctant but determined shift towards self-reliance and renegotiation of the US relationship, rather than outright capitulation. It's a fascinating look at the intricate dance of international diplomacy under extreme pressure.",
-    "summary_zh": "这篇访谈深刻剖析了特朗普对格陵兰的执念如何将跨大西洋联盟推向破裂边缘。克拉斯捷夫指出，欧洲曾错误地以为能以交易或中美竞争来制衡特朗普，但现在不得不面对其行动背后的意识形态。最引人深思的是，特朗普的“格陵兰帝国主义”竟意外地团结了欧洲内部，甚至包括极右翼，这显示了他对其他国家民族主义情绪的严重误判。文章还探讨了欧洲可能动用反胁迫工具，以及这种破裂对中国全球影响力带来的机遇。这不仅仅是地缘政治的博弈，更是对国际关系基石和盟友信任的严峻考验，欧洲被迫在依赖与自立之间寻求艰难的平衡，其未来走向令人深忧。",
-    "best_quote_en": "Trump tries to motivate nationalist sentiments at home, but he sometimes seems unaware of the nationalist sentiments of other countries.",
-    "best_quote_zh": "特朗普试图在国内激发民族主义情绪，但他有时似乎没有意识到其他国家的民族主义情绪。"
-  },
-  {
-    "id": 478,
-    "title": "Fight Club 2 / Tesla: The Life and Times of an Electric Messiah",
-    "title_zh": "搏击俱乐部2 / 特斯拉：电气弥赛亚的生平与时代",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/fight-club-2-tesla-the-life-and-times-of-an-electric-messiah/",
-    "tags": [
-      "learn",
-      "design",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "This content provides reviews for two distinct books: 'Fight Club 2' and 'Tesla: The Life and Times of an Electric Messiah'. The 'Fight Club 2' review delves into its meta-narrative and unique comic book format, highlighting how it expands on Palahniuk's universe beyond the original film. It suggests that only dedicated fans of Palahniuk's work will truly appreciate its complex, self-referential nature. The 'Tesla' review offers an encyclopedic look into Nikola Tesla's life, inventions, and eccentricities, enriched with illustrations and historical vignettes. It captures Tesla's persona as a visionary and a 'mad scientist,' emphasizing his battles with contemporaries like Edison and Marconi. Both reviews offer a glimpse into compelling narratives, one a continuation of a cult classic, the other a historical biography of an electric pioneer.",
-    "summary_zh": "这篇文章评论了两本截然不同的书。《搏击俱乐部2》的评论深入探讨了其元叙事和独特的漫画形式，暗示它超越了电影原作，更适合帕拉尼克小说的忠实读者。而《特斯拉》的评论则以百科全书式的笔法，图文并茂地呈现了尼古拉·特斯拉的生平、发明与怪癖。我特别喜欢这种将看似无关的文化产品并置的呈现方式，它不仅拓宽了阅读视野，也引发了对不同叙事媒介和历史人物深度的思考。两本书都以其独特的方式，挑战着读者的认知边界，值得一读。",
-    "best_quote_en": "What I found really unique was that this story could only be told in comic form. Tyler’s antics, and his fight to control the narrative couldn’t be contained by text in a novel.",
-    "best_quote_zh": "我发现真正独特的是，这个故事只能以漫画形式讲述。泰勒的滑稽举动，以及他争夺叙事控制权的斗争，是小说文字无法承载的。"
-  },
-  {
-    "id": 479,
-    "title": "Productivity",
-    "title_zh": "生产力",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/productivity",
-    "tags": [
-      "guide",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式"
-    ],
-    "date": "2018-04-10",
-    "summary_en": "This insightful article offers a deeply personal yet universally applicable perspective on productivity, emphasizing that 'what you work on' far outweighs 'how fast you move.' The author, a self-proclaimed highly productive individual, shares a holistic framework encompassing strategic prioritization, physical well-being, and environmental optimization. Key takeaways include the compound effect of small gains, the critical importance of independent thought in selecting impactful work, and the necessity of aligning tasks with personal passion. The advice on physical factors like sleep, exercise, and nutrition is particularly compelling, as it's rooted in extensive personal experimentation rather than generic recommendations. What truly resonates is the candid admission that productivity isn't about relentless optimization for its own sake, but about intelligently allocating one's year towards meaningful goals while maintaining personal well-being and relationships. It's a refreshing counter-narrative to typical 'hustle culture' advice.",
-    "summary_zh": "这篇文章对生产力有着深刻而独到的见解，它不仅仅是关于如何“更快地行动”，更重要的是“选择正确的事情去做”。作者分享的经验非常个人化，却充满了普适的智慧，尤其是他强调独立思考、热爱所做之事以及身心健康对生产力的决定性影响。我特别欣赏他关于“不要陷入生产力崇拜”的提醒，这让我反思，我们常常为了效率而效率，却忽略了目标本身的价值。这篇文章不仅提供了实用的建议，更启发我们重新审视工作的意义和生活的平衡，是一篇值得反复品味的作品。",
-    "best_quote_en": "It doesn’t matter how fast you move if it’s in a worthless direction. Picking the right thing to work on is the most important element of productivity and usually almost ignored.",
-    "best_quote_zh": "如果你走的方向毫无价值，那么你走得再快也没有意义。选择正确的事情去做是生产力最重要的因素，但却常常被忽视。"
-  },
-  {
     "id": 480,
     "title": "I had an eye-opening experience in the queue for a pub toilet | Adrian Chiles",
     "title_zh": "我在酒吧厕所排队时的一次大开眼界经历 | 阿德里安·奇利斯",
@@ -2302,5 +2192,115 @@
     "summary_zh": "这组推荐文章引人入胜，从极简日历的实用主义到秘密商场公寓的艺术反叛，再到数据诗歌的抽象美学，无不展现了创意的多样性。我特别欣赏《树的秘密生活》中对自然智慧的深刻洞察，它让我重新思考人与环境的关系。这些内容不仅提供了即时可用的工具，更激发了一种跳脱常规、发现日常之美的思考方式。它提醒我们，无论是在艺术、科技还是自然界，都有无数未被发掘的奇迹等待我们去探索和体验。",
     "best_quote_en": "It was a bold work of art, and I came away seeing art as a way of life.",
     "best_quote_zh": "这是一项大胆的艺术作品，我从中领悟到艺术即生活。"
+  },
+  {
+    "id": 575,
+    "title": "Jess Cartner-Morley on fashion: lift your winter look with a pop of white",
+    "title_zh": "Jess Cartner-Morley谈时尚：用一抹白色点亮你的冬日造型",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/feb/04/jess-cartner-morley-on-fashion-lift-winter-look-pop-of-white",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI研究"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This article from Jess Cartner-Morley offers a refreshing perspective on winter fashion, advocating for the strategic use of white to uplift cold-weather ensembles. It cleverly frames white as a natural mood enhancer, akin to snowdrops or a squeeze of lemon, suggesting it brightens not just an outfit but also one's outlook during the dreary winter months. The piece provides actionable styling tips, from white ankle boots to subtle white socks or a peek of a white shirt, emphasizing how these small touches can create visual interest and lighten heavy winter layers. It thoughtfully balances aspirational fashion with practical advice, making high-fashion concepts accessible and encouraging readers to experiment with color to combat seasonal gloom. The advice feels both personal and universal, offering a simple yet effective way to inject vibrancy into an otherwise muted wardrobe.",
+    "summary_zh": "这篇文章巧妙地将时尚与冬日情调融合，建议用一抹白色来点亮沉闷的冬装。作者将白色比作雪花或柠檬，不仅能提亮造型，更能提振冬日的精神。它提供了实用的搭配技巧，比如白色短靴、袜子或衬衫内搭，让这些小细节为厚重的冬装增添活力。这种将色彩心理学融入日常穿搭的思路，既有时尚洞察力，又充满了积极的生活哲学，读来令人心生暖意。",
+    "best_quote_en": "A pop of snowy white is the best boost you can give an outfit right now. White is to January what rust and orange are to October: a colour pulled from nature to remind us of the best bits of the season.",
+    "best_quote_zh": "一抹雪白的点缀是你现在能给服装最好的提振。白色之于一月，正如锈色和橙色之于十月：一种从自然中汲取的色彩，提醒我们季节中最美好的部分。"
+  },
+  {
+    "id": 576,
+    "title": "Why TV Lost",
+    "title_zh": "电视为何失败",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/convergence.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "This insightful essay from March 2009 presciently argues that computers, not TV, would win the 'convergence' battle, effectively replacing traditional television. The author identifies four key forces: the Internet's open platform fostering rapid innovation, Moore's Law driving bandwidth improvements, the superior convenience offered by digital piracy (even over free content), and most powerfully, the rise of social applications. The latter transformed computers from niche devices for 'nerds' and gamers into essential tools for everyone, including grandmas and teenagers, driven by the innate human desire for connection. The piece critically examines how traditional TV networks, clinging to outdated synchronous and local broadcast models, failed to adapt to this shift. It concludes with a call for new companies to challenge the old guard, highlighting the Internet's power to dissolve broadcast media's cornerstones and empower content creators, ultimately predicting a future where entertainment formats are radically reimagined by imaginative minds.",
+    "summary_zh": "这篇2009年的文章极具前瞻性，精准预言了电脑将取代电视，而非简单的“融合”。它深入剖析了互联网的开放性、摩尔定律、盗版的便捷性，以及最重要的——社交应用的崛起，如何共同推动了这一变革。作者指出，社交需求让电脑从极客工具变为大众必需品，而传统电视业因固守同步和地域限制的旧模式而错失良机。读来不禁让人感慨，十多年前的洞察力竟能如此精准地描绘我们今日的数字生活，对于任何想理解媒体变迁的人，这都是一篇值得反复咀嚼的佳作。",
+    "best_quote_en": "Facebook killed TV. That is wildly oversimplified, of course, but probably as close to the truth as you can get in three words.",
+    "best_quote_zh": "Facebook扼杀了电视。当然，这过于简化了，但在三个词中，这大概是你能找到的最接近真相的说法了。"
+  },
+  {
+    "id": 577,
+    "title": "Monday AI Radar #12",
+    "title_zh": "星期一 AI 雷达 #12",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Myi3KDeNamrJoe2Ey/monday-ai-radar-12",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "This 'Monday AI Radar' issue offers a compelling snapshot of the accelerating AI landscape, particularly focusing on recursive self-improvement and its profound implications. The author effectively synthesizes diverse perspectives on frontier models like Claude Opus 4.6 and GPT-5.3-Codex, highlighting their rapid development and the challenges in evaluating their capabilities and risks. What truly stands out is the exploration of AI's societal impact, from cybersecurity dilemmas to the economic effects on productivity, and the urgent need for robust governance strategies. The piece thoughtfully navigates the sci-fi-like realities of AI advancement with a call for grounded, technocratic policymaking, making it a crucial read for anyone tracking AI's exponential trajectory and its complex societal integration.",
+    "summary_zh": "本期“星期一 AI 雷达”深入探讨了 AI 递归式自我改进的惊人进展及其深远影响。文章不仅更新了前沿模型（如 Claude Opus 4.6 和 GPT-5.3-Codex）的最新动态，更深刻分析了评估其能力与风险的困境，令人不禁思考人类如何驾驭这股科技洪流。从网络安全到经济生产力，再到治理策略的迫切需求，作者以冷静的笔触描绘了 AI 带来的科幻般现实，并呼吁以务实的技术官僚主义来应对。这不仅仅是信息聚合，更是对未来走向的深刻洞察与反思。",
+    "best_quote_en": "The intelligence explosion has begun: AI is meaningfully accelerating its own development. Dean Ball considers what’s happening now and where we’re headed soon.",
+    "best_quote_zh": "智能爆炸已经开始：人工智能正在有意义地加速自身发展。迪恩·鲍尔思考了现在正在发生的事情以及我们很快将走向何方。"
+  },
+  {
+    "id": 578,
+    "title": "The Woman Behind Japan’s Rightward Shift",
+    "title_zh": "日本右倾化背后的女人",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-woman-behind-japans-rightward-shift",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "This article delves into the political landscape of Japan following Sanae Takaichi's unprecedented victory as the country's first female Prime Minister, securing a supermajority for the LDP. Through an interview with Harvard professor Andrew Gordon, the analysis explores the factors contributing to Japan's rightward shift, including Takaichi's populist appeal, the co-option of far-right sentiment, and a hawkish stance against China. The discussion critically examines her economic policies, immigration views, and the potential for institutional changes, drawing parallels and distinctions with global populist trends. It also thoughtfully addresses the complexities of her being a female leader with anti-feminist views, highlighting the nuanced internal debates within Japanese society regarding identity versus action in politics. The piece offers a compelling look at the forces shaping modern Japanese governance and its international relations.",
+    "summary_zh": "高市早苗作为日本首位女首相，以压倒性胜利带领自民党获得超级多数席位，这无疑是日本政治史上的一个里程碑。文章通过与哈佛教授的对话，深入剖析了日本社会右倾化的深层原因，高市的民粹主义魅力、对极右翼情绪的吸纳以及对华强硬立场都值得深思。她作为一位持反女权主义立场的女性领导者，其崛起本身就充满了矛盾与张力，这不仅反映了日本政治的复杂性，也引发了关于身份与政策之间关系的广泛讨论。这场选举的结果及其潜在影响，将是观察日本未来走向的关键窗口。",
+    "best_quote_en": "There is no question that it is absolutely part of the story. And the surprising success of the far-right Sanseito Party in last summer’s House of Councillors election, which determines the makeup of the upper house of parliament, seemed to come from their xenophobic, hard-line, anti-immigrant, anti-foreigner attitude, which is of a piece with what we see not only in this country, but in a growing number of countries.",
+    "best_quote_zh": "毫无疑问，这绝对是故事的一部分。去年夏天，极右翼参政党在参议院选举中出人意料的成功，似乎源于其排外、强硬、反移民、反外国人的态度，这与我们不仅在本国，而且在越来越多的国家所看到的情况如出一辙。"
+  },
+  {
+    "id": 579,
+    "title": "Moving",
+    "title_zh": "搬家",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/moving/",
+    "tags": [
+      "solve",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "This article offers an ingenious collection of practical tips and unconventional tools for simplifying the often-dreaded process of moving. From life-sized furniture cut-outs for spatial planning to a U-Haul Box Exchange forum for free recycled boxes, and even specialized carpet film for protection during parties (or moving), the insights are remarkably actionable. The piece culminates with clever strategies for DIY box handling, including using plastic totes via FedEx and crafting custom box handles from PVC pipe. What's particularly compelling is the emphasis on cost-effectiveness and injury prevention, transforming a typically stressful event into a more manageable, even enjoyable, experience. It's a testament to how small innovations and shared resources can make a significant difference in everyday challenges.",
+    "summary_zh": "这篇文章汇集了许多独到且实用的搬家妙招，读来令人茅塞顿开。从等比例家具模板规划空间，到利用U-Haul论坛免费获取旧纸箱，再到派对（或搬家）时保护地毯的专用薄膜，每一条建议都直指痛点。最让人印象深刻的是DIY箱子搬运技巧，比如用FedEx寄送塑料整理箱，以及自制PVC管把手。这不仅省钱，还能有效避免受伤，把原本头疼的搬家过程变得轻松许多。这提醒我们，即使是日常琐事，也能通过巧妙的工具和思维创新来优化，化繁为简。",
+    "best_quote_en": "My latest (and hopefully last) moving experience was a dream because of the Lay-It-Out furniture templates. ... I had the whole house planned out before the moving truck arrived and it cost less than the physical therapy and pain killers I had to use before.",
+    "best_quote_zh": "我最近（希望也是最后一次）的搬家经历简直是美梦一场，全靠了Lay-It-Out家具模板。……在搬家卡车到来之前，我就已经把整个房子都规划好了，而且比我之前不得不使用的物理治疗和止痛药的花费还要少。"
   }
 ]
