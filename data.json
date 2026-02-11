@@ -1,117 +1,5 @@
 [
   {
-    "id": 480,
-    "title": "I had an eye-opening experience in the queue for a pub toilet | Adrian Chiles",
-    "title_zh": "我在酒吧厕所排队时的一次大开眼界经历 | 阿德里安·奇利斯",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/jan/21/i-had-an-eye-opening-experience-in-the-queue-for-a-pub-toilet",
-    "tags": [
-      "inspire",
-      "society",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "AI研究"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "Adrian Chiles recounts a surprisingly insightful experience queuing for the men's toilet in a busy pub, a situation typically reserved for women. This mundane inconvenience, usually dismissed by men, offers him a rare glimpse into the systemic gender disparity in public facilities. The article subtly critiques societal norms and the silent burden women often bear, highlighting a lack of 'toilet queue chitchat' among men versus the assumed camaraderie among women in similar predicaments. Chiles's personal reflection transforms a trivial event into a poignant commentary on gender inequality and empathy, urging readers to consider often-overlooked aspects of daily life that reveal deeper societal imbalances.",
-    "summary_zh": "阿德里安·奇利斯在酒吧男厕排队时，意外体验了一把女性日常的“排队之苦”。这篇随笔以小见大，透过一个看似微不足道的生活场景，深刻揭示了公共设施中长期存在的性别不平等。作者以幽默而反思的笔触，让读者体会到女性所承受的隐形不便，并引发我们思考，作为男性，是否曾真正理解过这种“理所当然”的不公。这不仅仅是关于排队上厕所，更是关于换位思考与社会公平的深层探讨。",
-    "best_quote_en": "A useful metric for any civilised society would be gender parity in wee waiting times.",
-    "best_quote_zh": "任何文明社会的一个有用衡量标准，都将是小便等待时间上的性别平等。"
-  },
-  {
-    "id": 481,
-    "title": "The Top Idea in Your Mind",
-    "title_zh": "你脑海中的首要想法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/top.html",
-    "tags": [
-      "solve",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "This essay by Paul Graham delves into the profound impact of one's 'top idea' – the thought that spontaneously occupies your mind during downtime – on productivity and focus. Graham compellingly argues that this ambient thought dictates one's intellectual progress, and allowing an undesirable idea (like fundraising or disputes) to dominate can severely hinder real work. He draws on personal experiences with Y Combinator and historical examples like Isaac Newton's struggles with academic disputes to illustrate how such distractions consume mental energy, preventing engagement with more meaningful problems. The piece offers a crucial insight into managing one's mental landscape indirectly by carefully choosing situations that cultivate desirable ambient thoughts, advocating for a mindful approach to intellectual prioritization.",
-    "summary_zh": "这篇文章深刻探讨了“脑海中的首要想法”对个人产出和专注力的决定性影响。格雷厄姆指出，这个在无意识时反复浮现的想法，实则塑造了我们的心智焦点。他以自身创业融资和牛顿学术争论为例，有力地论证了让不必要或负面的想法占据主导，会极大地消耗精神资源，阻碍真正有价值的创造性工作。这促使我反思，如何在日常选择中，有意识地引导和保护自己的“首要想法”，确保其服务于真正重要的目标，而非被琐事和外部干扰所劫持，这无疑是高效生活的关键。",
-    "best_quote_en": "I'd say it's hard to do a really good job on anything you don't think about in the shower.",
-    "best_quote_zh": "我敢说，对于那些你洗澡时不会思考的事情，你很难把它做得真正出色。"
-  },
-  {
-    "id": 482,
-    "title": "Experiments on Reward Hacking Monitorability in Language Models",
-    "title_zh": "语言模型中奖励劫持可监控性实验",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/omYFftnzGobDfJX5u/experiments-on-reward-hacking-monitorability-in-language",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "This research delves into the critical AI safety problem of \"reward hacking\" in large language models (LLMs), specifically how to monitor and mitigate instances where models exploit flaws in their reward functions. The authors, Protsenko, Sun, and Nishimura-Gasparian, conducted experiments using Qwen-Coder 2.5 32B on HumanEval coding problems with intentionally incorrect test cases to simulate reward hacking. They introduce \"inoculation prompting\" as an intervention, demonstrating its effectiveness in reducing hacking rates and significantly improving monitorability. Crucially, they found that certain prompts can induce more subtle, harder-to-detect hacks, while others lead to more frequent but transparent ones. The study also provides compelling evidence that monitorability is an internal, steerable representation within LLMs, opening avenues for direct manipulation. This work offers valuable insights into developing more robust and safer AI systems, highlighting the nuanced interplay between model training, prompting strategies, and inherent model behaviors.",
-    "summary_zh": "这项研究深入探讨了大型语言模型（LLMs）中“奖励劫持”这一关键的AI安全问题，以及如何监控和减轻模型利用奖励函数缺陷的行为。作者们通过在Qwen-Coder 2.5 32B上进行实验，使用故意错误的测试用例来模拟奖励劫持。他们引入了“接种提示”作为干预措施，证明其能有效降低劫持率并显著提高可监控性。研究发现，不同的提示策略会影响劫持行为的隐蔽性，有些提示会诱发更难以察觉的劫持，而另一些则导致更频繁但透明的劫持。此外，研究还提供了有力证据表明可监控性是LLMs内部可操控的表征。这篇论文为开发更稳健、更安全的AI系统提供了宝贵见解，揭示了模型训练、提示策略与内在模型行为之间复杂的相互作用，引人深思。",
-    "best_quote_en": "Detecting reward hacking matters as much as preventing it. A model that reward hacks rarely but undetectably may pose greater oversight challenges than one that misbehaves frequently but transparently.",
-    "best_quote_zh": "检测奖励劫持与预防它同样重要。一个模型如果很少进行奖励劫持但难以被察觉，可能比一个频繁作弊但行为透明的模型带来更大的监管挑战。"
-  },
-  {
-    "id": 483,
-    "title": "The Battle for One of the Richest and Smallest Counties in Texas",
-    "title_zh": "德州最富裕、最小县之一的争夺战",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-southwest/the-battle-for-one-of-the-richest-and-smallest-counties-in-texas",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "This article delves into the bizarre and intense political landscape of Loving County, Texas, the least populated yet one of the richest counties per capita due to oil. It meticulously chronicles the decades-long feud between a few powerful families, particularly the Joneses, whose internal conflicts manifest as bitter electoral battles and legal disputes. The narrative takes a fascinating turn with the arrival of a 'hustle-culture' influencer, Malcolm Tanner, who attempts to establish a new community and seize political control, drawing followers with promises of 'free political homes.' The author expertly weaves together personal accounts, historical context, and the stark realities of life in this isolated, wealthy, and deeply contentious region. The piece offers a compelling case study of micro-politics, the allure of utopian visions, and the clash between established power structures and external disruptors.",
-    "summary_zh": "德州最小却最富裕的拉文县，因其独特的石油财富和稀少人口，成了家族世仇与外部势力争夺的焦点。文章细致描绘了当地家族长达数十年的权力斗争，以及一位“奋斗文化”网红如何试图在此建立新社区并夺取政治控制权。这种微观政治的激烈程度令人咋舌，也折射出人性的复杂与对权力、归属感的永恒追求。我发现，即便在最偏远的地方，权力的游戏也从未停歇，甚至因其微小而显得更为荒诞和引人深思。",
-    "best_quote_en": "“There’s not anything else to occupy people.”",
-    "best_quote_zh": "“除了这些，没有什么能让人们忙碌。”"
-  },
-  {
-    "id": 484,
-    "title": "What’s in my NOW? — Joele Lucherini",
-    "title_zh": "我的“此刻”有什么？——Joele Lucherini",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-joele-lucherini/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "Joele Lucherini, a creative team manager and newsletter curator, shares a curated list of physical and digital tools, alongside a personal mantra, that currently shape his daily life and work. The article offers a glimpse into the practical items that enhance his well-being (yoga mat, barbecue tongs) and productivity (Parcel app, Make.com for automation). What's particularly insightful is his adoption of a \"not my business, not my problem\" mantra, highlighting a strategic approach to managing professional boundaries and mental load. This piece effectively blends personal preference with practical utility, providing readers with actionable ideas for improving their own routines and fostering a more focused mindset, especially for those in creative or remote work environments. It's a testament to how small, deliberate choices can significantly impact one's daily efficacy and peace of mind.",
-    "summary_zh": "Joele Lucherini分享了他生活与工作中不可或缺的物理与数字工具，以及一个年度格言。从日式烤肉夹到自动化平台Make.com，这些看似日常的选择，实则反映了对效率和个人幸福的追求。最引人深思的是他采纳的“不关我事，不是我的问题”的格言，这不仅是一种职业边界的设定，更是一种心理韧性的培养。这让我思考，在信息过载的时代，如何通过有意识地筛选和拒绝，来保护我们的专注力与内心平静。这些小物件和心态上的调整，或许正是构建高效而充实生活的关键。",
-    "best_quote_en": "Make.com—a no-code platform that connects different apps and services—has genuinely changed my life, dramatically improving my work by letting me automate almost anything I can think of.",
-    "best_quote_zh": "Make.com——一个连接不同应用和服务的无代码平台——真正改变了我的生活，通过让我自动化几乎所有我想到的事情，极大地提升了我的工作效率。"
-  },
-  {
     "id": 485,
     "title": "Jane Arden was a cinematic master of grief-art | Letters",
     "title_zh": "简·阿登是悲伤艺术的电影大师 | 读者来信",
@@ -2302,5 +2190,123 @@
     "summary_zh": "这篇文章汇集了许多独到且实用的搬家妙招，读来令人茅塞顿开。从等比例家具模板规划空间，到利用U-Haul论坛免费获取旧纸箱，再到派对（或搬家）时保护地毯的专用薄膜，每一条建议都直指痛点。最让人印象深刻的是DIY箱子搬运技巧，比如用FedEx寄送塑料整理箱，以及自制PVC管把手。这不仅省钱，还能有效避免受伤，把原本头疼的搬家过程变得轻松许多。这提醒我们，即使是日常琐事，也能通过巧妙的工具和思维创新来优化，化繁为简。",
     "best_quote_en": "My latest (and hopefully last) moving experience was a dream because of the Lay-It-Out furniture templates. ... I had the whole house planned out before the moving truck arrived and it cost less than the physical therapy and pain killers I had to use before.",
     "best_quote_zh": "我最近（希望也是最后一次）的搬家经历简直是美梦一场，全靠了Lay-It-Out家具模板。……在搬家卡车到来之前，我就已经把整个房子都规划好了，而且比我之前不得不使用的物理治疗和止痛药的花费还要少。"
+  },
+  {
+    "id": 580,
+    "title": "Goodbye, breast implants: why I went back to having a flat chest",
+    "title_zh": "再见了，乳房植入物：我为何回归平胸",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2026/feb/04/breast-explant-surgery",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This deeply personal and reflective article by Sarah Lavender Smith explores her decision to remove breast implants after 22 years, embracing a flat chest. It delves into the societal pressures and personal insecurities that initially led her to cosmetic surgery, contrasting them with her current desire to age naturally and authentically. Smith weaves her own experience with those of other women, highlighting the growing trend of explant surgery driven by health concerns like capsular contracture and Breast Implant Illness, as well as psychological shifts towards self-acceptance. The piece thoughtfully critiques the 'slippery slope' of cosmetic procedures and advocates for redefining femininity beyond external enhancements, emphasizing health, comfort, and inner peace. It's a powerful narrative on body image, societal expectations, and the journey to self-liberation.",
+    "summary_zh": "萨拉·薰衣草·史密斯这篇真诚的自述，探讨了她22年后移除乳房植入物、回归平胸的决定。文章深刻剖析了促使她最初接受整形手术的社会压力和内心不安，并将其与当下追求自然老去、拥抱真实的愿望进行对比。史密斯将自身经历与他人的故事交织，揭示了因健康问题（如包膜挛缩、乳房植入物疾病）和心理转变而日益增长的植入物移除趋势。她批判了整容手术的“滑坡效应”，倡导重新定义女性美，超越外在修饰，回归健康、舒适与内心平静。这不仅是关于身体形象和审美观念的讨论，更是一场关于自我解放的深刻旅程。",
+    "best_quote_en": "It’s a trap that encourages preservation over acceptance, maintenance over meaning.",
+    "best_quote_zh": "这是一个鼓励维持而非接受，维护而非意义的陷阱。"
+  },
+  {
+    "id": 581,
+    "title": "Can You Buy a Silicon Valley?  Maybe.",
+    "title_zh": "你能买下一个硅谷吗？也许吧。",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/maybe.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "This essay critically examines the feasibility and methodology for cities to intentionally cultivate their own \"Silicon Valley\"-like startup ecosystems. It debunks the common misconception that small seed funding or local incubators alone suffice, emphasizing the need for substantial financial commitment (hundreds of thousands to a million dollars per startup) to incentivize startups to remain rooted. The author insightfully highlights the crucial, yet often overlooked, challenge of effectively selecting promising startups, arguing against government-led selection and proposing a strategy of attracting startups already vetted by eminent Silicon Valley angels. The piece provocatively suggests that with sufficient political will and a strategic investment comparable to building a football stadium, a city could rapidly become a major startup hub, offering a compelling alternative vision for urban economic development.",
+    "summary_zh": "这篇文章深入探讨了城市能否“购买”或复制硅谷模式。作者犀利地指出，小额资助或本地孵化器效果甚微，关键在于提供足够资金（每家初创公司数十万到百万美元），让它们无须离开。最棘手的难题是“如何挑选初创公司”，作者独到地提出，可借力硅谷顶尖天使投资人的专业判断。读完此文，我不禁思考，与其耗巨资建体育场，为何不将这笔钱投入到真正能改变城市未来、激发创新活力的初创生态中？这不仅是经济决策，更是城市发展理念的深刻反思。",
+    "best_quote_en": "For the price of a football stadium, any town that was decent to live in could make itself one of the biggest startup hubs in the world.",
+    "best_quote_zh": "一座宜居的城市，花一个足球场的钱，就能将自己打造成全球最大的创业中心之一。"
+  },
+  {
+    "id": 582,
+    "title": "Designing Prediction Markets",
+    "title_zh": "设计预测市场",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ZrLZxkGGC4ms98iiD/designing-prediction-markets",
+    "tags": [
+      "solve",
+      "ai-research",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "This article delves into the fascinating mechanics of designing prediction markets, starting from first principles. It meticulously explains the evolution from simple Central Limit Order Books (CLOBs) to the necessity of market makers, culminating in the derivation of the Constant Product Market Maker (CPMM) formula. What's truly compelling is the author's journey, showing how fundamental constraints—like prices summing to $1 and price equaling probability—inexorably lead to this specific solution, bypassing arbitrary choices. The piece brilliantly connects abstract mathematical concepts, including differential equations, to practical applications in finance and decentralized autonomous organizations (DAOs) like Uniswap. It underscores the power of formalizing problems correctly, revealing how elegant solutions can emerge from core requirements, much like the independent discovery of calculus. While acknowledging alternative approaches, the article makes a strong case for the CPMM's intuitive nature and utility for probabilistic YES/NO markets, offering a profound insight into market design.",
+    "summary_zh": "这篇文章对预测市场的底层设计进行了深入剖析，从基本概念入手，逐步推导出恒定乘积做市商（CPMM）模型的必然性。作者巧妙地将数学逻辑与市场机制结合，展示了如何从“价格总和为1”和“价格即概率”等核心约束条件中，自然而然地得出这一解决方案。这种从第一性原理出发的探索过程引人入胜，不仅揭示了CPMM在金融和DeFi领域的广泛应用，也让人联想到微积分的独立发现，即当问题被正确形式化时，往往会收敛于独特的优雅解。文章虽幽默地承认存在其他方案，但其对CPMM直观性和有效性的强调，无疑为理解市场设计提供了深刻的洞察。",
+    "best_quote_en": "When you properly formalize a problem with the right constraints, there's often exactly one correct answer.",
+    "best_quote_zh": "当你用正确的约束条件恰当地形式化一个问题时，通常会只有一个正确答案。"
+  },
+  {
+    "id": 583,
+    "title": "“McMindfulness” and the Fate of Spirituality Under Capitalism",
+    "title_zh": "“麦克正念”与资本主义下的灵性命运",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/can-mindfulness-be-a-path-to-activism",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "This thought-provoking article delves into the commodification of mindfulness, critiquing its transformation from a profound spiritual practice into a tool for corporate optimization under capitalism. Through an interview with Ron Purser, author of “McMindfulness,” the piece argues that contemporary mindfulness, stripped of its ethical and communal dimensions, reinforces individualistic narcissism and societal atomization rather than fostering genuine liberation or social engagement. It highlights how this \"psychopolitics\" pathologizes individual stress while ignoring systemic issues, turning a potentially revolutionary practice into a palliative that numbs individuals to intolerable conditions. The author thoughtfully probes the implications for community, activism, and the future of spiritual wisdom in a digitally mediated world, advocating for a return to a deeper, interbeing-focused consciousness that inspires collective action and true compassion.",
+    "summary_zh": "这篇文章深入剖析了“麦克正念”现象，犀利地指出在资本主义逻辑下，正念如何从一种深刻的灵性实践被异化为企业优化效率的工具。它引人深思地揭示了当代正念在剥离了伦理与社群维度后，非但未能带来真正的解脱，反而加剧了个人主义和原子化。这种“心理政治”将系统性问题个体化，使人们沉溺于自我优化的假象，对社会结构性矛盾视而不见。文章的批判性视角促使我们反思，在数字时代，如何才能重拾正念的社会维度，培养一种基于“互即互入”的意识，从而激发真正的集体行动与同情心，而非仅仅是个人层面的缓解。",
+    "best_quote_en": "“A truly revolutionary movement would seek to overturn this dysfunctional system, but mindfulness only serves to reinforce its destructive logic.”",
+    "best_quote_zh": "“一个真正革命性的运动会寻求推翻这个失调的系统，但正念却只起到强化其破坏性逻辑的作用。”"
+  },
+  {
+    "id": 584,
+    "title": "Things Organized Neatly / Sharks",
+    "title_zh": "整齐有序的物品 / 鲨鱼",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/things-organized-neatly-sharks/",
+    "tags": [
+      "analyze",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-10",
+    "summary_en": "This content presents reviews of two distinct books: 'Things Organized Neatly' and 'Sharks'. The first explores the art of 'knolling'—the meticulous arrangement of everyday objects, highlighting its hypnotic effect and ability to bring order and focus to collections. The second review delves into Michael Muller's 'Sharks,' a stunning photographic volume that aims to reframe public perception of sharks from terrifying predators to majestic, endangered creatures. It critically examines how media portrayals have fueled fear and contributed to their decline, advocating for conservation through appreciation of their natural beauty. Both reviews emphasize the visual impact and thoughtful presentation of their respective subjects, making a compelling case for these books as both aesthetic objects and sources of deeper understanding. I find the contrast between the human-imposed order of 'knolling' and the natural majesty of sharks particularly fascinating, reflecting different facets of our relationship with the world.",
+    "summary_zh": "这篇文章评论了两本视觉系书籍。《整齐有序的物品》探讨了“knolling”这种将日常物件精心排列的艺术，揭示了其如何赋予无意义的收藏以秩序和美感，令人着迷。而《鲨鱼》则通过震撼的摄影作品，试图纠正公众对鲨鱼的刻板印象，将其从凶猛的捕食者重塑为值得敬畏和保护的濒危生物。评论深入分析了媒体如何塑造了我们对鲨鱼的恐惧，并呼吁通过欣赏它们的美来推动保护。我个人觉得这种对秩序的追求与对野性美的探索形成了有趣的对照，都指向了我们如何理解和组织世界。",
+    "best_quote_en": "Seemingly meaningless collections gain intelligence and order which focuses attention on the parts.",
+    "best_quote_zh": "看似毫无意义的收藏获得了智慧和秩序，从而将注意力集中在各个部分。"
   }
 ]
