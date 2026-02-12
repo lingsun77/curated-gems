@@ -1,123 +1,5 @@
 [
   {
-    "id": 485,
-    "title": "Jane Arden was a cinematic master of grief-art | Letters",
-    "title_zh": "简·阿登是悲伤艺术的电影大师 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2026/jan/22/jane-arden-was-a-cinematic-master-of-grief-art",
-    "tags": [
-      "solve",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "This letter passionately advocates for Jane Arden's 1973 film, 'The Other Side of the Underneath,' as a seminal work of 'grief-art,' contrasting it with more recent, potentially exploitative 'grief-porn.' The author, Sean Kaye-Smith, highlights the film's groundbreaking nature as the sole British feature directed by a woman in the 1970s and its raw, unflinching exploration of \"women's pain.\" What's truly compelling is the film's apparent indifference to mainstream accolades, prioritizing emotional authenticity over commercial success. This piece makes a strong case for revisiting Arden's work, suggesting it offers a profound, unparalleled cinematic experience that challenges conventional notions of grief representation in film. It prompts reflection on the enduring power of art that dares to be genuinely unsettling.",
-    "summary_zh": "这封读者来信以其独特的视角，将简·阿登的电影《地底的另一面》推崇为一部真正的“悲伤艺术”杰作，巧妙地与时下可能被视为“悲伤色情”的作品形成对比。它不仅强调了这部电影在女性导演史上的里程碑意义，更赞扬其对“女性痛苦”的原始呈现。读来不禁让人深思，一部不为奖项所累、只为表达真实情感的艺术作品，其生命力与穿透力是何等强大。这封信激发了我对这部被遗忘的电影的强烈好奇，或许真正的艺术，正是那些敢于直面最深层痛苦，且不求回报的表达。",
-    "best_quote_en": "There is still nothing else like it, for the rawness of its emotions and the haunting quality of its visuals.",
-    "best_quote_zh": "在情感的原始性和视觉的萦绕感方面，至今仍无出其右。"
-  },
-  {
-    "id": 486,
-    "title": "How to Lose Time and Money",
-    "title_zh": "如何失去时间和金钱",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/selfindulgence.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "This essay offers a thought-provoking parallel between losing money and losing time, challenging conventional wisdom. It argues that while excessive spending is an obvious way to deplete wealth, bad investments are a far more insidious and common culprit. Similarly, the author contends that 'fake work' – tasks that feel productive but yield no real results – is a greater thief of time than outright leisure. The piece insightfully explains how our ingrained 'alarms' for self-indulgence are easily bypassed by activities that mimic virtuous effort, both financially and temporally. It's a compelling exploration of how modern complexities require us to develop new, more nuanced internal safeguards against subtle forms of waste, pushing readers to critically examine their financial and time management habits.",
-    "summary_zh": "这篇文章深刻剖析了金钱与时间的流失之道，指出其最危险的途径并非显而易见的挥霍或玩乐，而是隐蔽的“坏投资”和“假工作”。作者敏锐地观察到，我们大脑中防止过度享乐的警报，在新时代的复杂性中常常被伪装成“有价值”的行为所绕过。这让我反思，在追求效率和财富的当下，我们是否也深陷于看似忙碌却毫无产出的陷阱？真正的智慧，或许在于重新校准我们的内在警报系统，识别那些看似合理却悄然吞噬我们宝贵资源的陷阱。",
-    "best_quote_en": "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.",
-    "best_quote_zh": "失去时间最危险的方式不是花时间玩乐，而是花时间做假工作。"
-  },
-  {
-    "id": 487,
-    "title": "Are Short AI Timelines Really Higher-Leverage?",
-    "title_zh": "短期AI时间线真的具有更高杠杆吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "This research note critically examines the leverage of interventions aimed at mitigating AI takeover risk and enhancing the future's value, contingent on differing AI timeline scenarios (short, medium, long). The authors challenge the common assumption that shorter timelines inherently offer higher leverage due to perceived neglect or increased takeover risk. Instead, they introduce a nuanced framework that weighs the probability of AI timeline scenarios against the expected impact (leverage) of specific strategies within those scenarios. A key insight is that longer timelines allow for greater resource accumulation and strategic understanding, while shorter timelines might present more immediate, high-leverage opportunities for direct work against takeover risk. The analysis concludes that medium timelines (2035) might offer the highest default value for the future, complicating straightforward conclusions about which timeline is 'best' for intervention. The paper's strength lies in its attempt to quantify these complex trade-offs, though it acknowledges the speculative nature of its numerical estimations.",
-    "summary_zh": "这篇研究笔记深入探讨了在不同AI时间线情景下，AI风险干预的“杠杆效应”。文章挑战了短期时间线必然带来更高杠杆的普遍观点，认为这忽略了长期时间线在资源积累和战略理解上的优势。作者们提出了一个衡量干预策略预期影响的框架，并指出中期时间线（2035年）可能提供最高的未来默认价值。这促使我们重新思考，对于直接行动者和资助者而言，最优的干预时机和策略可能因具体情况而异。尽管量化分析具有不确定性，但其提出多维度权衡的思路极具启发性，鼓励我们超越直觉，进行更深层次的战略思考。",
-    "best_quote_en": "We think the most important point as a conceptual one (that we need to take into account the value of the future conditional on no takeover as well as reduction in takeover risk), rather than the quantitative analysis above.",
-    "best_quote_zh": "我们认为最重要的观点是概念性的（即我们需要同时考虑在没有AI接管的情况下未来的价值以及降低AI接管风险），而不是上述的定量分析。"
-  },
-  {
-    "id": 488,
-    "title": "It’s Time to Talk About Donald Trump’s Logorrhea",
-    "title_zh": "是时候谈谈唐纳德·特朗普的“言语失禁”了",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/its-time-to-talk-about-donald-trumps-logorrhea",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "This analytical piece from January 2026 critically examines Donald Trump's significantly increased verbal output during his second term, coining it \"logorrhea.\" The author, Susan B. Glasser, leverages a *Times* analysis showing a 245% increase in Trump's word count compared to his first term. Glasser argues this excessive, often incoherent talkativeness reveals his character flaws—lack of discipline, ignorance, vanity—and has tangible, alarming consequences in his second presidency, unlike his first where his words were often contained. The article highlights how his rambling is no longer just a social media spectacle but translates into policy and real-world actions, as exemplified by the 'Board of Peace' and his bizarre diplomatic exchanges. It also touches on the differing reactions to his behavior between an inured American public and stunned European leaders, questioning his fitness for office. The piece serves as a stark warning about the implications of unchecked presidential speech.",
-    "summary_zh": "这篇文章对特朗普第二任期内日益增长的“言语失禁”现象进行了深刻剖析。作者引用数据指出，其言语输出量较第一任期激增245%，这不仅仅是个人风格，更折射出其纪律性缺失、无知与自负。令人担忧的是，在第二任期，这些看似漫无边际的言论已不再是简单的推特争议，而是被转化为实际政策与行动，对国际关系和国内治理产生深远影响。欧洲领导人的震惊与美国公众的麻木形成鲜明对比，这不禁让人反思，当领导人的言行突破常规，我们该如何应对？这篇分析如同一记警钟，提醒我们言语的力量及其失控的潜在危险。",
-    "best_quote_en": "“It is remarkable how a man cannot summarize his thoughts in even the most general sort of way without betraying himself completely.”",
-    "best_quote_zh": "“一个人即使以最泛泛的方式概括自己的思想，也会彻底暴露自己，这真是非凡。”"
-  },
-  {
-    "id": 489,
-    "title": "Most Popular City/Europe Rail Travel Trends/Mexican Sites Admission Hikes",
-    "title_zh": "最受欢迎城市/欧洲铁路旅行趋势/墨西哥景点门票上涨",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/most-popular-city-europe-rail-travel-trends-mexican-sites-admission-hikes/",
-    "tags": [
-      "update",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "This content provides a concise yet insightful overview of recent travel trends, covering popular global destinations, North American rail travel habits in Europe, the surprising reluctance of experienced travelers to adopt AI for trip planning, and significant admission price hikes at Mexican archaeological sites. It highlights Bangkok's continued reign as the most visited city and the specific preferences of US/Canadian rail travelers, like the unexpected popularity of the Barcelona-Madrid corridor. The skepticism towards AI in travel planning, despite its growing presence, offers a fascinating counterpoint to broader tech adoption narratives. Furthermore, the analysis of Mexico's new pricing structure for historical sites reveals a potential shift in travel value propositions, prompting a reconsideration of destination choices. This collection of snippets is particularly valuable for industry professionals and avid travelers seeking quick updates and nuanced perspectives on the evolving global travel landscape.",
-    "summary_zh": "这篇内容精炼地捕捉了全球旅游业的几个关键动向。曼谷再次荣登最受欢迎城市榜首，这并不意外，但北美游客在欧洲铁路旅行中对巴塞罗那-马德里线路的偏爱，则出乎意料，揭示了细分市场的独特行为。更有趣的是，即便是经验丰富的旅行者也普遍不愿将行程规划全权交给AI，这无疑是对当前AI热潮的一次冷静反思，也提醒我们技术在某些领域仍无法取代人类的判断力。而墨西哥考古遗址门票的大幅上涨，则直接影响了旅行预算和价值感知，促使我重新审视旅行目的地的性价比。这些洞察对于理解当下和预判未来旅游趋势都极具参考价值。",
-    "best_quote_en": "Only 20 percent said they would feel comfortable letting AI design a complete trip itinerary based on their preferences.",
-    "best_quote_zh": "只有20%的人表示，他们会放心地让AI根据自己的偏好设计完整的旅行行程。"
-  },
-  {
     "id": 490,
     "title": "Jess Cartner-Morley on fashion: 2026 will be the year of the skirt – and no, it doesn’t have to be short",
     "title_zh": "Jess Cartner-Morley谈时尚：2026将是半身裙之年——而且不一定非得是短裙",
@@ -2308,5 +2190,123 @@
     "summary_zh": "这篇文章评论了两本视觉系书籍。《整齐有序的物品》探讨了“knolling”这种将日常物件精心排列的艺术，揭示了其如何赋予无意义的收藏以秩序和美感，令人着迷。而《鲨鱼》则通过震撼的摄影作品，试图纠正公众对鲨鱼的刻板印象，将其从凶猛的捕食者重塑为值得敬畏和保护的濒危生物。评论深入分析了媒体如何塑造了我们对鲨鱼的恐惧，并呼吁通过欣赏它们的美来推动保护。我个人觉得这种对秩序的追求与对野性美的探索形成了有趣的对照，都指向了我们如何理解和组织世界。",
     "best_quote_en": "Seemingly meaningless collections gain intelligence and order which focuses attention on the parts.",
     "best_quote_zh": "看似毫无意义的收藏获得了智慧和秩序，从而将注意力集中在各个部分。"
+  },
+  {
+    "id": 585,
+    "title": "A moment that changed me: I shaved off my hair – and immediately became an invisible woman",
+    "title_zh": "一个改变我的瞬间：我剃了头发——立刻变成了一个隐形女人",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/04/a-moment-that-changed-me-shaved-hair-became-invisible-woman",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "This deeply personal reflection explores the societal implications of female appearance, specifically hair, through the author's experience of shaving her head after childbirth. Initially seeking freedom from time-consuming haircare and the 'lovely lady' projection of motherhood, she quickly discovers a stark shift in how strangers perceive and interact with her. The article insightfully highlights the subtle yet pervasive privileges associated with conforming to conventional feminine aesthetics, revealing how a seemingly simple act of defiance can lead to social invisibility and a loss of preferential treatment. It's a compelling look at gender norms, societal expectations, and the unexpected power dynamics embedded in everyday interactions, offering a poignant commentary on appearance-based biases and the complex interplay between personal choice and public reception.",
+    "summary_zh": "这篇文章通过作者剃光头发的亲身经历，深刻探讨了女性外貌在社会中的隐形权力。起初是为了节省时间、摆脱“好妈妈”的刻板印象，她却意外发现社会对她的态度发生了巨大转变。这种从被优待到被忽视的落差，让我不禁思考，我们究竟在多大程度上被外表所定义？它不仅揭示了性别规范的束缚，更触及了日常互动中无处不在的偏见。一个简单的发型变化，竟能如此彻底地改变一个人在社会中的“可见度”，这无疑是对我们根深蒂固的审美偏好和价值判断的一次有力反思。",
+    "best_quote_en": "Dropping just one of the key markers of femininity meant strangers treated me very differently: being femme-presenting had meant getting help and approval – albeit with an occasional side serving of creepiness – while looking grrrr meant being ignored, or risking being labelled as stroppy.",
+    "best_quote_zh": "放弃了女性气质的一个关键标志，就意味着陌生人对待我的方式截然不同：呈现女性化曾意味着获得帮助和认可——尽管偶尔会带有一丝令人毛骨悚然的成分——而看起来“凶狠”则意味着被忽视，或者面临被贴上暴躁标签的风险。"
+  },
+  {
+    "id": 586,
+    "title": "What I've Learned from Hacker News",
+    "title_zh": "我从 Hacker News 学到了什么",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hackernews.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "This reflective essay by Paul Graham offers a candid look into the philosophy and challenges behind building and maintaining Hacker News. It delves into the delicate balance between growth and community dilution, highlighting the importance of user behavior over sheer numbers. Graham articulates a \"broken windows theory\" for online communities, emphasizing that preserving quality often means actively deterring negative interactions rather than merely reacting to them. He also explores strategies for managing content quality, differentiating between bad submissions and comments, and the evolving nature of online link aggregation. The piece concludes with a thoughtful consideration of community addictiveness and the responsibility of platform creators, offering valuable insights for anyone involved in online community management or platform design. It's a deeply personal and intellectually curious exploration of a unique corner of the internet.",
+    "summary_zh": "保罗·格雷厄姆这篇反思性文章，以其特有的坦诚，揭示了Hacker News背后的哲学与挑战。他深入探讨了社区成长与稀释的微妙平衡，强调用户行为远比用户数量重要。格雷厄姆提出的在线社区“破窗理论”令人深思，它提醒我们，维护社区质量需要积极引导行为，而非被动应对。文章中关于内容质量管理、不良提交与评论的区分，以及链接聚合演变趋势的讨论，都为在线社区运营者提供了宝贵启示。最后，他对社区成瘾性的担忧，更展现了一个平台创建者深沉的责任感。这不仅是对Hacker News的回顾，更是对整个互联网社区未来发展方向的深刻洞察。",
+    "best_quote_en": "The good things in a community site come from people more than technology; it's mainly in the prevention of bad things that technology comes into play.",
+    "best_quote_zh": "社区网站的优点更多地源于人而非技术；技术主要在阻止不良现象方面发挥作用。"
+  },
+  {
+    "id": 587,
+    "title": "Even the Hospitals Aren’t Safe in Iran",
+    "title_zh": "在伊朗，医院也并非安全之地",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/cora-engelbrecht-lede-iran-waits-for-war",
+    "tags": [
+      "analyze",
+      "politics",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "This article exposes the harrowing reality for medical workers and injured protesters in Iran, where hospitals have become extensions of the regime's security forces. It details how medical professionals are bravely forming secret networks to treat the wounded, often in clandestine locations, risking their own lives and freedom. The piece highlights the regime's brutal suppression of dissent, including targeting medical staff who bear witness to atrocities, and attempts to erase evidence of massacres. The personal accounts of doctors like Narges and Anush, who describe makeshift operating rooms and the horrors of war-like injuries, underscore the profound ethical dilemmas and dangers faced by those trying to uphold their Hippocratic oath amidst state-sponsored violence. It’s a chilling look at how a government weaponizes healthcare and the incredible resilience of those fighting for humanity.",
+    "summary_zh": "这篇文章揭露了伊朗医院的可怕现实，那里甚至医护人员和受伤的抗议者都面临生命威胁。政权将医院变为其镇压工具，医护人员冒着巨大风险，秘密成立网络救治伤员。读到Narges医生在街头救治伤者，Anush医生偷偷记录证据，我深感震撼。这不仅是对人道的践踏，更是对医者誓言的极致考验。文章展现了在极端压迫下，人性的光辉与抵抗的勇气，令人心痛又敬佩。",
+    "best_quote_en": "“We are fighting with a wooden spoon against a government that is armed to the teeth.”",
+    "best_quote_zh": "“我们正用木勺对抗一个全副武装的政府。”"
+  },
+  {
+    "id": 588,
+    "title": "What’s in my NOW? — Benoit",
+    "title_zh": "我的“此刻”有什么？— Benoit",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-benoit/",
+    "tags": [
+      "inspire",
+      "design",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "This piece offers a fascinating glimpse into Benoit's curated 'NOW' list, a personal selection of physical and digital tools, alongside an 'invisible' philosophy. What's particularly insightful is the emphasis on intentionality and the human experience in his choices. For instance, the return to a simple binder for reading highlights a desire to disconnect from digital noise, prioritizing tactile engagement and focus. His appreciation for the STAUB Dutch oven transcends mere utility, becoming a conduit for peaceful, shared experiences. The Hugo Boss coat, initially seeming like a luxury, is reframed through his mother's adage, emphasizing quality and care. Even his digital project, TheNewPrinter, is born from a 'vibe-coded' need to bring digital content into a more tangible, newspaper-like format. This isn't just a list of things; it's a window into a mindset that values slowness, quality, and a thoughtful interaction with both the physical and digital worlds.",
+    "summary_zh": "Benoit的“此刻”清单，与其说是物品罗列，不如说是他生活哲学的缩影。我特别欣赏他对“慢”和“质”的追求——从铸铁锅的慢炖，到回归纸质阅读的宁静，再到一件好大衣的经久不衰。这不仅仅是消费选择，更是一种对数字时代过度连接的反思与抵抗。他甚至将这种理念融入了个人项目“TheNewPrinter”，试图将数字内容带回纸质的温度。这让人不禁思考，在信息爆炸的当下，我们真正需要和珍视的，究竟是什么？这份清单，提供了一种有意识的生活方式样本。",
+    "best_quote_en": "“Quality stays, price vanishes”",
+    "best_quote_zh": "“质量永存，价格消逝”"
+  },
+  {
+    "id": 589,
+    "title": "How Genes Shape Your Risk Taking & Morals | Dr. Kathryn Paige Harden",
+    "title_zh": "基因如何塑造你的冒险精神和道德观 | 凯瑟琳·佩奇·哈登博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-genes-shape-your-risk-taking-and-morals-kathryn-paige-harden",
+    "tags": [
+      "update",
+      "leadership",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "领导管理",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-02-09",
+    "summary_en": "Dr. Kathryn Paige Harden offers a fascinating exploration into the intricate dance between genetics and environment, particularly how our genes predispose us to certain risk-taking behaviors and moral frameworks. The discussion moves beyond the simplistic 'nature vs. nurture' debate, delving into nuanced concepts like epigenetics, the impact of puberty, and sex-based differences in impulsivity and addiction. What I find particularly compelling is how the conversation extends to broader societal implications, touching on historical views of 'sin,' justice, and punishment. It challenges us to reconsider accountability and forgiveness through a biological lens, pushing the boundaries of our understanding of human behavior and societal structures. This analysis is crucial for anyone interested in psychology, behavioral science, or the philosophical underpinnings of justice and identity.",
+    "summary_zh": "凯瑟琳·佩奇·哈登博士的这期节目深入探讨了基因与环境如何共同塑造我们的冒险倾向和道德准则，这让我对人类行为的复杂性有了更深刻的理解。她超越了简单的“先天与后天”争论，触及了表观遗传学、青春期影响以及性别差异等细微之处。最引人深思的是，讨论延伸到社会层面，重新审视了罪恶、惩罚与宽恕的生物学基础。这不仅是心理学领域的洞见，更是对我们理解社会公正和个人身份认同的一次深刻挑战。",
+    "best_quote_en": "We discuss how genes interact with your upbringing to shape your level of risk-taking and morality.",
+    "best_quote_zh": "我们讨论基因如何与你的成长经历相互作用，从而塑造你的冒险程度和道德观。"
   }
 ]
