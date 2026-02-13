@@ -1,121 +1,5 @@
 [
   {
-    "id": 490,
-    "title": "Jess Cartner-Morley on fashion: 2026 will be the year of the skirt – and no, it doesn’t have to be short",
-    "title_zh": "Jess Cartner-Morley谈时尚：2026将是半身裙之年——而且不一定非得是短裙",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/jan/21/jess-cartner-morley-year-of-the-skirt-dont-have-to-be-short",
-    "tags": [
-      "update",
-      "lifestyle",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "This article posits that 2026 will mark the resurgence of skirts as a central fashion item, moving beyond their recent role as mere afterthoughts. The author, Jess Cartner-Morley, observes a generational shift towards shorter hemlines but emphasizes that the renewed focus on skirts isn't limited to minis. She astutely notes the broader trend towards separates over dresses, attributing this to a desire for versatility and restyling in a more conscious consumption era. The piece offers practical advice on skirt lengths and styles, highlighting brands that cater to different preferences, from modest A-lines to flattering flippy-hem designs. It's an insightful commentary on evolving fashion trends, blending personal observation with broader industry shifts, and offering actionable guidance for readers looking to refresh their wardrobe with this 'main character energy' garment.",
-    "summary_zh": "这篇文章断言2026年将是半身裙重回时尚C位的一年，我对此深以为然。作者敏锐地捕捉到时尚界从连衣裙转向独立单品的趋势，这不仅反映了年轻一代对短裙的偏爱，更深层的原因可能是我们对衣橱多功能性和可持续性的追求。她不仅预测了潮流，还提供了实用的选购建议，比如如何选择适合自己的裙长和款式，这让读者在了解趋势的同时也能找到实际的穿搭灵感。这种将个人洞察与市场分析相结合的写作方式，使得文章既有前瞻性又贴近生活，令人期待半身裙在未来如何重新定义时尚。",
-    "best_quote_en": "I wonder if this shift from dresses to separates is partly because as we try to shop less and focus on restyling what we already have, we lean into the enhanced scope for layering that comes with choosing mix-and-match separates over one-and-done dresses.",
-    "best_quote_zh": "我怀疑这种从连衣裙到独立单品的转变，部分原因在于我们试图减少购物，更专注于重新搭配已有的衣物，从而倾向于选择混搭的独立单品，而非一穿到底的连衣裙，这带来了更大的叠穿可能性。"
-  },
-  {
-    "id": 491,
-    "title": "Organic Startup Ideas",
-    "title_zh": "有机创业点子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/organic.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-24",
-    "summary_en": "This insightful piece by Paul Graham differentiates between 'organic' and 'made-up' startup ideas, advocating for the former, especially for young founders. Organic ideas stem from personal needs and experiences, exemplified by Apple and early Google, where founders built what they themselves desired. In contrast, 'made-up' ideas, like Viaweb, target perceived market needs without direct personal use. Graham argues that organic ideas are often overlooked because they initially seem like mere projects, not serious businesses, but they hold immense potential. He encourages aspiring founders to focus on fixing personal 'brokenness' in daily life, emphasizing that what seems like a 'toy' to others can often be a groundbreaking innovation. This perspective challenges conventional wisdom by prioritizing genuine problem-solving over market analysis for early-stage ideation.",
-    "summary_zh": "这篇文章深刻剖析了创业点子的两种来源：源于自身需求的“有机”点子和为他人设想的“人造”点子。作者Paul Graham力倡前者，认为最成功的创业往往源于创始人对自身痛点的解决。这让我反思，我们是否过于追求宏大叙事，而忽略了身边那些看似微不足道却充满潜力的“小”问题。那些被视为“玩具”的初始想法，可能正是颠覆性创新的萌芽。这篇文章启发我们，创业不应是刻意为之，而更像是一场对日常“不完美”的自然回应，其中蕴含着巨大的价值等待被发现。",
-    "best_quote_en": "The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?",
-    "best_quote_zh": "想出创业点子的最好方法是问自己一个问题：你希望有人为你做什么？"
-  },
-  {
-    "id": 492,
-    "title": "A Black Box Made Less Opaque (part 1)",
-    "title_zh": "黑箱不再不透明 (第一部分)",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/QRM3q9ZhLDZuxuDbz/a-black-box-made-less-opaque-part-1",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-24",
-    "summary_en": "This insightful analysis delves into the mechanistic interpretability of a small GPT-2 model using Sparse Autoencoders (SAEs). It meticulously explores how features activate and transform across model layers, revealing that while activation levels generally increase, the most prominent features shuffle, indicating dynamic internal representations. The author thoughtfully replicates pioneering work, making complex concepts accessible, and highlights critical findings such as the intuitive sense of activated features, the varying specificity of features across categories (e.g., Python, Math vs. Formal), and the intriguing possibility of syntax-driven activation. The self-reflective tone and explicit discussion of methodological refinements enhance its educational value, making it a valuable read for anyone seeking to demystify LLM internals without needing deep ML expertise. It effectively bridges the gap between cutting-edge research and broader understanding.",
-    "summary_zh": "这篇分析深入探讨了如何利用稀疏自编码器（SAEs）来解析小型GPT-2模型的内部机制。作者以一种引人入胜的方式，细致地展现了特征在模型层级间的激活与演变，揭示了模型如何动态地重构信息。最让我印象深刻的是，即使是小型模型，其内部特征也展现出惊人的直观性和对特定语法的敏感性。这不仅是对前沿研究的成功复刻，更是一次极佳的教学实践，让普通读者也能一窥AI“黑箱”的奥秘。文章的坦诚和对未来研究方向的展望，无疑会激发更多人对机械可解释性产生浓厚兴趣。",
-    "best_quote_en": "The analysis documented here represents an honest and earnest exploration of the MI fundamentals via the use of SAEs. While the results contained within are affirmative of well-researched ML principles, replicating that research and documenting it here, proved invaluable in furthering my understanding of, and interest in, the ML principles described herein.",
-    "best_quote_zh": "此处记录的分析代表了通过使用SAE对MI基础进行的真诚而认真的探索。尽管其中包含的结果证实了经过充分研究的机器学习原理，但复制该研究并在此处记录，对于加深我对此处描述的机器学习原理的理解和兴趣，被证明是无价的。"
-  },
-  {
-    "id": 493,
-    "title": "The Mayor of an Occupied City",
-    "title_zh": "被占领城市的市长",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-political-scene/the-mayor-of-an-occupied-city",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "This article offers a gripping, almost dystopian, look into Minneapolis under an unprecedented federal occupation by ICE, painting a stark picture of a city besieged by its own government. Mayor Jacob Frey finds himself in an impossible position, navigating a humanitarian crisis, escalating public fear, and a direct political confrontation with the Trump administration. The narrative highlights the profound human cost of such operations, from the shooting of civilians to the psychological toll on residents and local law enforcement. It exposes the breakdown of trust between federal and local authorities, and the chilling normalization of a 'war zone' environment in an American city. The piece is a powerful commentary on the weaponization of immigration policy and the challenges faced by local leaders caught in a national political battle, forcing us to question the limits of federal power and the resilience of local governance.",
-    "summary_zh": "这篇文章描绘了明尼阿波利斯市被联邦移民及海关执法局（ICE）“占领”的严峻景象，读来令人深思。市长雅各布·弗雷在联邦政府的重压下，努力维持城市秩序，却发现自己陷入了一场政治表演的中心。这种联邦与地方政府之间的冲突，不仅导致了居民的恐惧和不信任，也让执法人员疲惫不堪。最令人不安的是，这种“占领”似乎正在常态化，挑战着我们对权力边界和地方自治的理解。作为一个旁观者，我不禁思考，当政府不再是保护者，而是压迫者时，普通民众该如何自处？",
-    "best_quote_en": "“We cannot be at a place right now in America where we have two governmental entities that are literally fighting one another.”",
-    "best_quote_zh": "“我们不能让美国现在变成这样，两个政府实体竟然在字面上相互对抗。”"
-  },
-  {
-    "id": 494,
-    "title": "Book Freak #194: When Things Fall Apart",
-    "title_zh": "书呆子 #194: 当事物瓦解时",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-194-when-things-fall-apart/",
-    "tags": [
-      "solve",
-      "psychology",
-      "cybersecurity",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "网络安全",
-      "新手友好"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "This piece delves into Pema Chödrön's 'When Things Fall Apart,' offering a compelling Buddhist perspective on suffering and uncertainty. It challenges the conventional impulse to avoid pain, advocating instead for a radical embrace of 'groundlessness' and a move towards discomfort with curiosity and friendliness. The core principles of embracing uncertainty, engaging with pain, practicing self-compassion (Maitri), and recognizing the present moment as a teacher are profoundly insightful. The article's 'Try It Now' section provides actionable steps, making these abstract spiritual concepts tangible. It's a powerful guide for anyone navigating life's inevitable difficulties, providing a framework for transforming suffering into a path for awakening rather than an obstacle.",
-    "summary_zh": "这篇文章对佩玛·丘卓的《当事物瓦解时》进行了深刻解读，其佛教智慧提供了一种反直觉的苦难应对方式。它鼓励我们拥抱不确定性，以好奇和友善的心态走向痛苦，而非逃避。核心原则如接受无常、直面痛苦、实践慈悲以及将当下视为老师，都极具启发性。文末的实践指南更是将这些深奥的灵性教诲转化为日常可行的行动，读来令人深思。在变幻莫测的世事中，这不仅是理论，更是实用的心法，指引我们如何将苦难转化为觉醒的契机。",
-    "best_quote_en": "“Nothing ever goes away until it has taught us what we need to know. We run away from it, but the same problem just waits for us wearing new names and new faces.”",
-    "best_quote_zh": "“任何事情，除非它教会了我们所需知道的一切，否则它永远不会消失。我们逃避它，但同样的问题只会以新的名字和面孔等待着我们。”"
-  },
-  {
     "id": 495,
     "title": "Apple's Mistake",
     "title_zh": "苹果的错误",
@@ -2308,5 +2192,117 @@
     "summary_zh": "凯瑟琳·佩奇·哈登博士的这期节目深入探讨了基因与环境如何共同塑造我们的冒险倾向和道德准则，这让我对人类行为的复杂性有了更深刻的理解。她超越了简单的“先天与后天”争论，触及了表观遗传学、青春期影响以及性别差异等细微之处。最引人深思的是，讨论延伸到社会层面，重新审视了罪恶、惩罚与宽恕的生物学基础。这不仅是心理学领域的洞见，更是对我们理解社会公正和个人身份认同的一次深刻挑战。",
     "best_quote_en": "We discuss how genes interact with your upbringing to shape your level of risk-taking and morality.",
     "best_quote_zh": "我们讨论基因如何与你的成长经历相互作用，从而塑造你的冒险程度和道德观。"
+  },
+  {
+    "id": 590,
+    "title": "The look of love: what to wear for Valentine’s weekend",
+    "title_zh": "爱的造型：情人节周末穿什么",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/gallery/2026/feb/13/what-to-wear-valentines-day-weekend-womenswear-style-tips",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "This article offers fashion inspiration for Valentine's weekend, catering to various plans from romantic dates to 'Galentine's' gatherings or cozy nights in. While primarily a curated shopping guide featuring specific clothing and accessories with prices and brands, it subtly touches upon the desire to 'dress up' for special occasions. The insights are largely visual and product-driven, providing direct suggestions rather than deep fashion analysis. Its value lies in offering immediate, actionable style ideas for a specific event, making it useful for those seeking quick outfit solutions rather than broader fashion trends or historical context. It feels like a practical, albeit commercially-driven, style cheat sheet.",
+    "summary_zh": "这篇文章仿佛是为情人节周末量身定制的时尚速查表。它没有深入探讨时尚哲学，而是直接给出了具体的穿搭建议和品牌选择，无论是约会、闺蜜聚会还是宅家，都能找到合适的灵感。我发现它很巧妙地捕捉了那种“想要打扮一下”的小心思，虽然商业气息浓厚，但对于那些需要快速解决穿搭烦恼的人来说，无疑是实用且高效的指南。",
+    "best_quote_en": "Sometimes it’s just nice to dress up.",
+    "best_quote_zh": "有时，打扮一下就很好。"
+  },
+  {
+    "id": 591,
+    "title": "Startups in 13 Sentences",
+    "title_zh": "初创公司13条箴言",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/13sentences.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "新手友好"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "This insightful essay distills the essence of startup success into 13 concise principles, offering a pragmatic guide for aspiring founders. Paul Graham, drawing on his extensive experience, emphasizes user-centricity, rapid iteration, and financial prudence. What struck me most was the interconnectedness of these principles; for instance, launching fast directly aids in understanding users, which in turn informs product evolution. The advice to 'make a few users love you' rather than many semi-happy is a profound insight into cultivating genuine value. This isn't just a checklist, but a philosophical framework for navigating the inherent uncertainties of a startup journey, highlighting resilience and continuous learning as paramount. It's a testament to the idea that foundational wisdom often comes in simple, actionable truths.",
+    "summary_zh": "这篇精辟的文章将创业成功的精髓浓缩为13条原则，为有抱负的创始人提供了务实的指导。保罗·格雷厄姆凭借其丰富经验，强调以用户为中心、快速迭代和财务审慎。最让我印象深刻的是这些原则的内在联系；例如，快速启动直接有助于理解用户，进而推动产品演进。而“让少数用户真正喜爱你”而非让多数用户勉强满意，更是对创造真正价值的深刻洞察。这不仅仅是一份清单，更是一个应对创业不确定性的哲学框架，将韧性和持续学习置于首位。它有力地证明了，基石性的智慧往往蕴含于简洁而可操作的真理之中。",
+    "best_quote_en": "It's better to make a few people really happy than to make a lot of people semi-happy.",
+    "best_quote_zh": "与其让很多人半满意，不如让少数人真正开心。"
+  },
+  {
+    "id": 592,
+    "title": "“If We Don’t Have Free Speech, Then We Just Don’t Have a Free Country”",
+    "title_zh": "“如果我们没有言论自由，那我们就不可能拥有一个自由的国家”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/if-we-dont-have-free-speech-then-we-just-dont-have-a-free-country",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "This critical analysis from February 2026 examines Donald Trump's alleged second-term attempts to suppress free speech, contrasting his public claims as a free-speech champion with actions like trying to indict members of Congress for political expression and extensive pressure on media and protesters. The author argues that Trump's administration is systematically criminalizing dissent, drawing parallels to the 1798 Alien and Sedition Acts and highlighting the unprecedented nature of these actions in modern American history. The piece expresses alarm at the silence of many Republicans and chronicles numerous instances of alleged government overreach against journalists, protesters, and even state officials. It underscores the vital role of the First Amendment in protecting citizens against governmental abuse of power, urging vigilance despite small victories.",
+    "summary_zh": "这篇文章深刻剖析了特朗普第二任期内对言论自由的压制，揭示其言行不一之处。作者以1798年《外国人与煽动法案》为例，指出特朗普政府试图将政治异见刑事化的做法是史无前例的，这不禁让人深思：当权力凌驾于宪法之上，自由的边界将何去何从？共和党人的沉默令人担忧，而对媒体和抗议者的持续打压，更让人警醒。言论自由是民主的基石，若此基石动摇，国家的自由何以为继？这篇文章不仅是新闻报道，更是对美国民主未来走向的深切叩问。",
+    "best_quote_en": "“If we don’t have free speech, then we just don’t have a free country. It’s as simple as that.”",
+    "best_quote_zh": "“如果我们没有言论自由，那我们就不可能拥有一个自由的国家。就这么简单。”"
+  },
+  {
+    "id": 593,
+    "title": "Purification Bottles/Cheapest Flights From Each State/Next Eclipse",
+    "title_zh": "净水瓶/各州最便宜机票/下次日食",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/purification-bottles-cheapest-flights-from-each-state-next-eclipse/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "This content offers a collection of diverse, quick-bite travel and lifestyle insights. The analysis of purification bottles provides practical advice for travelers, highlighting different technologies and their suitability for various consumption levels. The Skyscanner flight data is particularly intriguing, revealing counter-intuitive and potentially budget-saving travel opportunities that challenge conventional wisdom. The eclipse reservation information serves as a timely heads-up for forward-thinking travelers, while the statistic on Norway's electric car adoption offers a glimpse into a potential future standard. Overall, the content is a valuable compilation for those seeking actionable tips and interesting facts across travel, sustainability, and unique experiences, though its brevity means it's more about sparking ideas than deep dives.",
+    "summary_zh": "这篇内容像一份精巧的旅行生活快讯，信息虽短，却颇具启发。净水瓶的实用建议，让人看到了旅行中兼顾健康与环保的可能。而Skyscanner的廉价航班数据，其反直觉的结果令人惊喜，仿佛在说，世界远比我们想象的要小，也更便宜。日食预订提醒则展现了对未来事件的洞察，而挪威电动车的数据，则让我们得以窥见未来社会发展的某种趋势。整体而言，它不仅提供了实用信息，更激发了对旅行、环保和未来生活的好奇与思考。",
+    "best_quote_en": "Who would have thought that the cheapest place to fly from Wisconsin would be Madrid, that from Arkansas it would be Athens, from Georgia it would be Vancouver, or that from Los Angeles it would be San Salvador?",
+    "best_quote_zh": "谁会想到从威斯康星州飞往马德里、从阿肯色州飞往雅典、从佐治亚州飞往温哥华，或者从洛杉矶飞往圣萨尔瓦多是最便宜的呢？"
+  },
+  {
+    "id": 594,
+    "title": "Essentials: The Science of Love, Desire & Attachment",
+    "title_zh": "核心要点：爱、欲望与依恋的科学",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-the-science-of-love-desire-and-attachment",
+    "tags": [
+      "learn",
+      "psychology",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "生活方式"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "This Huberman Lab Essentials episode delves into the complex interplay of psychology and biology in shaping human relationships, particularly focusing on desire, love, and attachment. It offers a fascinating exploration of how early childhood experiences can dictate adult romantic patterns, supported by discussions on brain systems and physiological responses. What truly captivates me is the blend of scientific rigor with practical tools for self-awareness and relationship improvement, making complex concepts accessible and actionable. The inclusion of potential supplement impacts on libido, while perhaps tangential, highlights the holistic approach to understanding human connection. This content provides valuable insights for anyone seeking to understand the foundational elements of their relational dynamics.",
+    "summary_zh": "本期节目深入探讨了爱、欲望与依恋的心理与生物学机制，这让我对人际关系的复杂性有了更深层次的理解。从童年依恋风格如何影响成人关系，到大脑系统和生理反应在情感联结中的作用，节目将科学研究与实用工具巧妙结合。我特别欣赏它不仅揭示了“为什么”，更提供了“如何做”的指导，比如通过自我觉察来改善关系模式。这种将硬科学与生活智慧融为一体的视角，无疑为我们理解和构建更健康的亲密关系提供了宝贵的钥匙。",
+    "best_quote_en": "I explain how childhood attachment styles can shape adult romantic relationships and how the brain and body systems influence emotional bonds.",
+    "best_quote_zh": "我解释了童年依恋风格如何塑造成年浪漫关系，以及大脑和身体系统如何影响情感纽带。"
   }
 ]
