@@ -1,121 +1,5 @@
 [
   {
-    "id": 495,
-    "title": "Apple's Mistake",
-    "title_zh": "苹果的错误",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/apple.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-25",
-    "summary_en": "This insightful essay critically examines Apple's App Store approval process in 2009, arguing that its rigid, hardware-centric approach is alienating developers and harming Apple's long-term reputation and innovation potential. The author posits that Apple misunderstands software development's iterative nature, treating apps like static media rather than evolving code. This leads to buggy user experiences and stifles developer creativity, pushing programmers into an 'abusive relationship' with the platform. The piece draws parallels with Microsoft's decline in attracting top talent due to perceived corporate 'evil' and highlights the strategic importance of developers for platform success, using examples like VisiCalc for Apple II. It provocatively suggests that Apple, once the 'Rebel Alliance,' now resembles the 'dictator' from its own iconic 1984 ad, advocating for an open alternative that empowers developers.",
-    "summary_zh": "这篇2009年的文章深刻剖析了苹果App Store审批流程的弊病，认为其僵化且以硬件为中心的方法正在疏远开发者，损害苹果的长期声誉和创新潜力。作者指出，苹果误解了软件迭代开发的本质，将应用视为静态媒体而非演进的代码，导致用户体验不佳，并扼杀开发者创造力。文章巧妙地将苹果与微软在吸引顶尖人才方面的衰落进行对比，强调开发者对平台成功的关键作用。读来令人深思，曾经的“反叛者”苹果，如今竟被比作其1984广告中的“独裁者”，这无疑是对其政策的辛辣讽刺，也引发了对开放生态的向往。",
-    "best_quote_en": "If Microsoft was the Empire, they were the Rebel Alliance. And it's largely because they got more of the best people that Google and Apple are doing so much better than Microsoft today.",
-    "best_quote_zh": "如果微软是帝国，那么他们就是反抗军。谷歌和苹果之所以比微软做得好得多，很大程度上是因为他们吸引了更多最优秀的人才。"
-  },
-  {
-    "id": 496,
-    "title": "Towards Sub-agent Dynamics and Conflict",
-    "title_zh": "迈向子智能体动力学与冲突",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/3S2KhQoKb8MpXury5/towards-sub-agent-dynamics-and-conflict",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-01-25",
-    "summary_en": "This thought-provoking piece delves into the concept of internal inconsistency within intelligent agents, proposing that preferences are not fixed but rather dynamic 'sub-agents' engaged in power struggles for cognitive salience. Building on a previous post, the author, Ashe Vazquez Nuñez, suggests that inconsistencies can protect against reward-hacking. The article illustrates this with a compelling example of Bob, a vegan family member, navigating conflicting preferences. It then explores potential modeling tools, such as hierarchical active inference and cultural evolution, to understand how these sub-agents organize into decision procedures and their impact on the overall agent. This perspective offers a fresh lens on agent foundations, moving beyond static preference models to a more fluid, conflict-driven internal landscape.",
-    "summary_zh": "这篇文章对智能体内部不一致性提出了引人深思的观点，认为偏好并非固定不变，而是动态的“子智能体”，它们在认知显著性上相互争夺权力。作者阿什·瓦斯克斯·努涅斯通过素食主义者鲍勃的例子，生动地阐释了这种内部冲突。我特别欣赏作者将偏好视为“权力斗争”的视角，这不仅揭示了智能体内部决策的复杂性，也为理解人类行为中的纠结与权衡提供了新的启发。这对于AI设计者来说，或许意味着需要构建更具弹性和适应性的智能体架构。",
-    "best_quote_en": "Preferences that are well-established and dominant are those that are often visible and are weighed highly; these define the \"fundamental\" makeup of the agent. Preferences can thus be said to interact dynamically and almost politically within their environment.",
-    "best_quote_zh": "那些根深蒂固且占主导地位的偏好，往往是显而易见且权重很高的；它们定义了智能体的“基本”构成。因此，可以说偏好在其环境中是动态且几乎是政治性地相互作用的。"
-  },
-  {
-    "id": 497,
-    "title": "Tucker Carlson’s Nationalist Crusade",
-    "title_zh": "塔克·卡尔森的民族主义十字军",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/02/02/tucker-carlsons-nationalist-crusade",
-    "tags": [
-      "analyze",
-      "politics",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2026-01-24",
-    "summary_en": "This article offers a deep, unsettling analysis of Tucker Carlson's evolution from a mainstream conservative pundit to a figure increasingly embracing and platforming openly racist and antisemitic tropes, culminating in his controversial interview with white nationalist Nick Fuentes. It meticulously traces Carlson's career trajectory, highlighting his calculated adaptability, from abandoning print journalism for cable news to aligning with Trump and subsequently forging his post-Fox News empire. The author critically examines Carlson's strategic embrace of populist nationalism, often cloaked in anti-capitalist rhetoric, to appeal to a disaffected base, and exposes the disturbing connections between his on-air narratives and far-right extremist ideologies, as evidenced by his former head writer's involvement in racist online forums. The piece concludes with a stark warning about Carlson's enduring influence, despite his descent into extremism, noting his access to power and vast audience reach, making him a significant, albeit concerning, force in contemporary American politics. It's a compelling exploration of media, ideology, and the mainstreaming of radical views.",
-    "summary_zh": "这篇文章深入剖析了塔克·卡尔森从主流保守派评论员堕落为公开拥抱种族主义和反犹主义的媒体人物。他与白人民族主义者尼克·富恩特斯的争议性访谈是其极端化的顶点。文章详细描绘了卡尔森精明的职业生涯转变，从迎合特朗普到离开福克斯新闻后建立自己的媒体帝国。作者批判性地揭示了卡尔森如何策略性地利用民粹民族主义和反资本主义言论，以吸引不满的受众，并曝光了他节目内容与极端右翼意识形态之间令人不安的联系。最令人警醒的是，即便卡尔森已深陷疯狂，他仍能接触到权贵，并拥有数百万听众，这无疑是对美国政治未来的一大挑战。这不仅是新闻，更是对当代社会思潮的深刻反思。",
-    "best_quote_en": "He has descended into madness, but he is speaking to millions.",
-    "best_quote_zh": "他已经陷入疯狂，但他却在对数百万人讲话。"
-  },
-  {
-    "id": 498,
-    "title": "A Clarification",
-    "title_zh": "一个澄清",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/a-clarification",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2017-12-16",
-    "summary_en": "This clarification addresses the nuance of tolerating controversial ideas versus tolerating 'jerks' in professional settings. The author emphasizes that while intolerance towards disruptive or bigoted individuals is beneficial for organizational output, society must foster an environment where controversial ideas can be freely discussed. This is crucial for progress, as many significant scientific advancements and societal changes began as unpopular opinions. The piece argues that free speech, even when used by 'jerks,' is a necessary mechanism for societal self-correction, enabling the eventual acceptance of once-heretical concepts like gay rights. It thoughtfully explores the difficulty of drawing the line between hate speech and genuinely challenging ideas, positing that future generations will likely judge many of our current beliefs as unethical, just as we judge past generations.",
-    "summary_zh": "这篇文章对“容忍争议性思想”与“容忍讨厌鬼”之间的区别进行了精彩的澄清。作者强调，尽管我们应该摒弃那些令人讨厌、带有偏见的人，但社会必须允许对争议性思想进行自由讨论，因为这是推动进步的关键。许多重大科学突破和社会变革都曾是少数派观点。言论自由，哪怕有时被滥用，也是社会自我修正的必要机制。这让我思考，在信息茧房日益固化的今天，如何平衡言论自由与避免仇恨蔓延，确实是一个深刻而难以解决的难题。",
-    "best_quote_en": "What I meant is simply that we need, as a society, to tolerate controversial ideas. The biggest new scientific ideas, and the most important changes to society, both start as extremely unpopular ideas.",
-    "best_quote_zh": "我的意思很简单，作为一个社会，我们需要容忍有争议的思想。最伟大的新科学思想和最重要的社会变革，都始于极不受欢迎的观点。"
-  },
-  {
-    "id": 499,
-    "title": "Essentials: Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
-    "title_zh": "核心要点：治疗、创伤处理及其他人生挑战 | 保罗·康蒂博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-therapy-treating-trauma-and-other-life-challenges-paul-conti",
-    "tags": [
-      "learn",
-      "medicine",
-      "psychology"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "心理学"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "This Huberman Lab episode, featuring Dr. Paul Conti, offers a deeply insightful exploration into the nature of trauma, its profound impact on the mind and body, and effective therapeutic approaches. What particularly strikes me is the nuanced discussion around guilt and shame as common aftermaths of traumatic experiences, highlighting the critical importance of processing these emotions for true healing. Dr. Conti provides practical, actionable advice on selecting a therapist and navigating the therapeutic journey, which is invaluable for anyone considering professional help. The segment on psychedelic-assisted therapy, including MDMA, is particularly forward-thinking, underscoring evolving perspectives in mental health treatment. This content doesn't just inform; it empowers individuals with knowledge and tools to confront and overcome life's significant psychological challenges, making it a vital resource for personal growth and understanding.",
-    "summary_zh": "本期Huberman Lab与保罗·康蒂博士的对谈，深入剖析了创伤的本质、其对身心的深远影响及有效的治疗路径。我特别欣赏其对创伤后内疚与羞耻感的细致讨论，这揭示了处理这些情绪对于真正疗愈的关键性。康蒂博士不仅提供了选择和有效利用治疗师的实用建议，更探讨了迷幻剂辅助疗法（包括MDMA）的潜力，这无疑为精神健康治疗带来了前瞻性的思考。这不仅仅是知识的传递，更是赋予人们应对心理挑战的工具和力量，极具启发意义。",
-    "best_quote_en": "We explain what trauma is and how it affects the mind and body, as well as the best treatment approaches to support recovery. We also discuss why guilt and shame often follow traumatic experiences and why processing trauma is essential for healing.",
-    "best_quote_zh": "我们解释了什么是创伤，它如何影响身心，以及支持康复的最佳治疗方法。我们还讨论了为什么内疚和羞耻常伴创伤经历，以及为什么处理创伤对治愈至关重要。"
-  },
-  {
     "id": 500,
     "title": "Readers reply: how can we learn from unrequited love?",
     "title_zh": "读者回复：我们如何从单相思中学习？",
@@ -2304,5 +2188,123 @@
     "summary_zh": "本期节目深入探讨了爱、欲望与依恋的心理与生物学机制，这让我对人际关系的复杂性有了更深层次的理解。从童年依恋风格如何影响成人关系，到大脑系统和生理反应在情感联结中的作用，节目将科学研究与实用工具巧妙结合。我特别欣赏它不仅揭示了“为什么”，更提供了“如何做”的指导，比如通过自我觉察来改善关系模式。这种将硬科学与生活智慧融为一体的视角，无疑为我们理解和构建更健康的亲密关系提供了宝贵的钥匙。",
     "best_quote_en": "I explain how childhood attachment styles can shape adult romantic relationships and how the brain and body systems influence emotional bonds.",
     "best_quote_zh": "我解释了童年依恋风格如何塑造成年浪漫关系，以及大脑和身体系统如何影响情感纽带。"
+  },
+  {
+    "id": 595,
+    "title": "‘The best I have owned’: 13 women’s winter jackets beloved by a dog walker, ski instructor and more",
+    "title_zh": "“我拥有过的最好的”：狗遛者、滑雪教练等13位女性钟爱的冬季夹克",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/feb/12/best-winter-jackets-women",
+    "tags": [
+      "solve",
+      "design",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "生活方式"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "This article offers a practical guide to women's winter jackets, featuring recommendations from diverse outdoor enthusiasts like a dog walker, ski instructor, and even a former Antarctic support staff worker. It stands out by providing real-world testimonials and highlighting specific features cherished by individuals who genuinely test these products in harsh conditions. The inclusion of sales information and affiliate links also adds immediate value for consumers looking to purchase. While the article is essentially a curated shopping list, its strength lies in leveraging authentic user experiences to inform purchasing decisions, making it more trustworthy than generic product roundups. The emphasis on durability and performance over mere aesthetics is a welcome insight for anyone seeking truly functional winter wear.",
+    "summary_zh": "这篇文章通过采访多位户外运动爱好者，如遛狗者和滑雪教练，提供了冬季女式夹克的实用推荐。它超越了普通的购物指南，通过真实用户体验来验证产品，并细致入微地提及了特定功能和折扣信息。这种以用户证言为核心的呈现方式，让内容更具说服力，也让读者能更好地理解不同夹克在极端条件下的表现。对我而言，这种基于真实体验的推荐，比单纯的产品介绍更有价值，它体现了实用性与耐用性在冬季装备中的重要性。",
+    "best_quote_en": "From a ski instructor to a former National Geographic Adventurer of the Year, our experts highlighted women’s winter jackets designed to last more than a few winters.",
+    "best_quote_zh": "从滑雪教练到前《国家地理》年度探险家，我们的专家们推荐的冬季女式夹克都旨在穿上不止几个冬天。"
+  },
+  {
+    "id": 596,
+    "title": "Keep Your Identity Small",
+    "title_zh": "保持你的身份小",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/identity.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-02-14",
+    "summary_en": "This essay offers a compelling and counter-intuitive explanation for why discussions on topics like politics and religion often devolve into unproductive arguments. The author posits that the core issue isn't the topics themselves, but rather that these subjects become deeply intertwined with people's identities. When a discussion challenges something central to one's identity, rational discourse is replaced by partisan defense. The most profound insight is the advice to \"keep your identity small\" – to deliberately avoid attaching too many labels or beliefs to one's self-concept. This isn't about apathy, but about cultivating a mental agility that allows for more objective thinking and fruitful engagement, even on contentious issues. It encourages a shift from identifying *as* something to identifying *with* a process, like scientific inquiry, which prioritizes evidence over dogma.",
+    "summary_zh": "这篇文章深刻剖析了为何政治和宗教话题的讨论常陷入僵局。作者独辟蹊径地指出，症结在于这些议题往往与个人身份深度绑定。一旦讨论触及身份认同，理性对话便让位于立场捍卫。最令人深思的建议是“保持你的身份小”——刻意减少自我认同的标签和信念。这并非鼓励冷漠，而是培养一种思想上的灵活性，从而在争议话题上也能保持客观，进行富有成效的交流。它促使我们从认同某种“是”转变为认同某种“过程”，比如科学探究，优先考虑证据而非教条。",
+    "best_quote_en": "If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible.",
+    "best_quote_zh": "如果人们无法清晰地思考任何已成为其身份一部分的事物，那么在其他条件相同的情况下，最好的计划就是尽可能少地让事物进入你的身份。"
+  },
+  {
+    "id": 597,
+    "title": "The Disappearance of Nancy Guthrie",
+    "title_zh": "南希·格思里失踪案",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-disappearance-of-nancy-guthrie",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-14",
+    "summary_en": "This article delves into the perplexing disappearance of Nancy Guthrie, mother of \"Today\" show anchor Savannah Guthrie, from her Tucson home. It meticulously details the ongoing investigation, including crucial doorbell camera footage revealing an armed intruder, the emotional pleas from the Guthrie family, and the challenges faced by law enforcement amidst public speculation and media frenzy. The author critically examines the flow of information, the impact of social media, and the delicate balance between public interest and investigative integrity, highlighting how the high-profile nature of the case both aids and complicates the search. The piece offers a compelling look at a baffling crime, the human element of a family in crisis, and the complex dynamics of modern crime investigation under intense public scrutiny. It also touches on the distinct cultural and environmental backdrop of Tucson, adding a unique layer to the narrative.",
+    "summary_zh": "南希·格思里失踪案不仅是失踪案，更是一面镜子，映照出高曝光度案件中媒体、公众与调查机构之间的复杂博弈。文章细致入微地描绘了调查过程的曲折，从门铃摄像头的关键线索到家人的心碎呼吁，每一个细节都令人揪心。作者对信息洪流中的真伪辨别、社交媒体的双刃剑效应进行了深刻反思。作为读者，我不禁思考，在信息爆炸的时代，我们如何平衡对真相的渴望与对隐私的尊重，以及如何在追逐热点的同时，不干扰到案件的公正调查。这不仅是一起案件，更是对社会心理和媒体伦理的拷问。",
+    "best_quote_en": "Leising described five reasons someone might commit a kidnapping: financial gain, ideology, domestic discord, exploitation (for example, sex trafficking), and “delusion,” or mental illness. One could not help wondering whether Savannah Guthrie’s prominence—at a time when President Donald Trump has spent the better part of a decade calling journalists “the enemy of the American people”—was a factor.",
+    "best_quote_zh": "莱辛描述了绑架的五个原因：经济利益、意识形态、家庭不和、剥削（例如，性贩运）和“妄想”或精神疾病。人们不禁要问，在唐纳德·特朗普总统在过去十年中大部分时间称记者为“美国人民的敌人”的时候，萨凡纳·格思里的显赫地位是否是一个因素。"
+  },
+  {
+    "id": 598,
+    "title": "Science & Tools of Learning & Memory | Dr. David Eagleman",
+    "title_zh": "学习与记忆的科学与工具 | 大卫·伊格曼博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/science-and-tools-of-learning-and-memory-david-eagleman",
+    "tags": [
+      "inspire",
+      "education",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "Dr. David Eagleman, a renowned neuroscientist, delves into the intricate mechanisms of neuroplasticity, memory formation, and perception. The discussion offers profound insights into how we can actively shape our brains to enhance learning, drawing connections between brain flexibility and skill acquisition. Eagleman also explores the fascinating interplay of time perception, dreaming, and the neuroscience behind societal polarization, providing actionable tools and frameworks for personal growth and understanding. This content is particularly valuable for those seeking to optimize their cognitive functions and gain a deeper, science-backed comprehension of human experience and behavior. His approach is both academic and practical, bridging complex neuroscience with everyday applicability.",
+    "summary_zh": "大卫·伊格曼博士的这期节目深入探讨了学习、记忆和感知，让我对大脑的适应性（神经可塑性）有了更深刻的理解。他不仅解释了记忆的形成与遗忘，还触及了时间感知的奥秘和梦境的意义，甚至从神经科学角度剖析了社会两极分化。最吸引我的是，节目中提供了许多基于科学的实用工具，这不仅仅是知识的传递，更是对如何优化自我、理解世界的深刻启发。它让我思考，我们如何能更好地利用大脑的潜力，以更开放的心态面对复杂的世界。",
+    "best_quote_en": "This episode provides science-based knowledge and practical tools you can use to enhance learning and better understand your experience of life in the past, present and future.",
+    "best_quote_zh": "本期节目提供了基于科学的知识和实用工具，你可以用它们来增强学习能力，更好地理解你过去、现在和未来的生活体验。"
+  },
+  {
+    "id": 599,
+    "title": "The Tim Ferriss Show Transcripts: Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears (#853)",
+    "title_zh": "蒂姆·费里斯秀访谈：乔丹·乔纳斯，《荒野求生》冠军——生存艺术、游牧部落的教训、以苦为乐的平静之道、如何应对凶猛狼獾以及为何不该拍摄攻击性灰熊（#853）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/02/12/jordan-jonas-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "This transcript of Tim Ferriss's interview with Jordan Jonas offers a fascinating deep dive into extreme survival, resilience, and finding purpose amidst hardship. Jonas, known for winning 'Alone' Season 6, shares captivating anecdotes from his years living with Siberian nomadic tribes, riding freight trains, and his experiences on the show. The discussion moves beyond mere adventure stories to explore profound philosophical questions, such as the nature of purpose, the importance of community, and the surprising wisdom found in ancient texts like 'The Gulag Archipelago' and the Serenity Prayer. Jonas's unique perspective, shaped by a challenging family history and a life lived on the edge of civilization, provides a compelling argument for embracing hardship as a path to peace and cultivating inner strength. The interview also touches on practical survival skills, the critical role of tools like his custom-designed axe, and the subtle yet powerful rhythms of a life unburdened by modern complexities, offering a rich tapestry of insights into human adaptability and the pursuit of a meaningful existence.",
+    "summary_zh": "蒂姆·费里斯对乔丹·乔纳斯的访谈深入探讨了极限生存、韧性与在困境中寻找意义。乔纳斯分享了在西伯利亚游牧部落生活、搭乘货运列车以及参加《荒野求生》的非凡经历。对话超越了冒险故事，触及了关于人生目标、社群重要性以及《古拉格群岛》和《宁静祷文》等古老智慧的深刻哲学思考。乔纳斯独特的人生视角，源于充满挑战的家族历史和边缘文明的生活，有力地论证了将苦难视为通往平静的途径，并培养内在力量。这次访谈不仅提供了生存技能的实用见解，也深刻展现了人类的适应能力和对有意义生活的追求，读来令人深思。",
+    "best_quote_en": "You have to have something deeper, and so forging a purpose.",
+    "best_quote_zh": "你必须拥有更深层的东西，所以要锻造一个目标。"
   }
 ]
