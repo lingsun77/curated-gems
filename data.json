@@ -1,123 +1,5 @@
 [
   {
-    "id": 500,
-    "title": "Readers reply: how can we learn from unrequited love?",
-    "title_zh": "读者回复：我们如何从单相思中学习？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/25/readers-replies-learn-unrequited-love",
-    "tags": [
-      "learn",
-      "education",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2026-01-25",
-    "summary_en": "This collection of reader responses offers a rich tapestry of perspectives on navigating and learning from unrequited love. Far from being a mere commiseration, the insights delve into the psychological underpinnings of intense, unreciprocated feelings, suggesting that such experiences can be powerful catalysts for self-discovery and growth. Readers explore themes of unconditional love versus transactional expectations, the role of idealization and projection, and practical strategies for moving on, including setting boundaries, pursuing new interests, and therapeutic reflection. The discussion highlights the importance of self-worth and the realization that true love should be enthusiastic and reciprocal. It challenges the notion of unrequited love as a purely negative experience, reframing it as an opportunity to understand one's own desires and capacity for love, ultimately leading to wiser choices and greater resilience.",
-    "summary_zh": "这篇文章汇集了读者们关于单相思的真知灼见，读来令人深思。它不仅仅是情感上的慰藉，更深入探讨了单相思背后的心理机制，指出这段经历可以是自我发现和成长的强大动力。读者们探讨了无条件之爱与交易式期待的差异，理想化和投射的作用，以及如何通过设定界限、培养新兴趣和进行心理治疗等方式来放下。我特别认同其中关于自我价值和选择真正爱自己的人的观点。单相思的痛苦固然真实，但若能从中学习，它也能成为我们理解自身、提升爱的智慧，并最终找到更健康关系的宝贵一课。这不仅仅是关于“如何克服”，更是关于“如何成长”。",
-    "best_quote_en": "You can grow attached to an unrequited love object as a response to psychological trauma. It could take many years of therapy and life experience to be able to “see” the deeper patterns that can shape the intense feelings of unrequited love.",
-    "best_quote_zh": "你可以因为心理创伤而依恋一个单相思的对象。可能需要多年的治疗和生活经验才能“看清”那些塑造强烈单相思感受的深层模式。"
-  },
-  {
-    "id": 501,
-    "title": "What Startups Are Really Like",
-    "title_zh": "创业公司的真实面貌",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/really.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "This insightful essay, derived from a 2009 Startup School talk, delves into the surprising realities of founding a startup, as revealed by over a hundred founders. It systematically breaks down 19 common surprises, ranging from the critical importance of co-founder relationships and the all-consuming nature of startup life, to the emotional roller-coaster, the unexpected fun, and the absolute necessity of persistence. A core insight is that most founders unconsciously benchmark startup life against a traditional job, leading to profound misjudgments about intensity, emotional swings, and the non-linear path to success. The piece offers invaluable, often counter-intuitive, lessons on everything from product development (start minimal, engage users, be willing to change ideas) to fundraising (expect the worst, investors can be clueless, luck plays a huge role). It's a candid and essential read for anyone contemplating or navigating the startup journey, emphasizing that the 'surprises' are often just realities that differ vastly from conventional work models.",
-    "summary_zh": "这篇文章基于对数百位创业者的调查，揭示了创业的19个真实面貌，颠覆了许多人对创业的固有认知。从联合创始人的重要性、创业对生活的全面侵占，到情绪的过山车、意想不到的乐趣和坚持不懈的关键作用，每一点都令人深思。我尤其被“创业与工作模式的根本差异”这一核心洞察所触动——我们常常不自觉地用打工的思维去衡量创业，这导致了无数的意外。文章也坦诚地指出了融资的残酷现实和运气的重要性。对于志在创业或身在其中的人，这篇深度剖析无疑是一剂清醒剂，提醒我们超越表象，拥抱创业的真实复杂性。",
-    "best_quote_en": "You haven't seen someone's true colors unless you've worked with them on a startup.",
-    "best_quote_zh": "你只有在与人共同创业时，才能看清他们的真面目。"
-  },
-  {
-    "id": 502,
-    "title": "Sunnyvale EA/LW/ACX meetup",
-    "title_zh": "森尼维尔 EA/LW/ACX 聚会",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/events/fEcvsiDn5G8tfY49x/sunnyvale-ea-lw-acx-meetup-1",
-    "tags": [
-      "guide",
-      "society",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "This content announces a casual meetup for the Effective Altruism (EA), LessWrong (LW), and Astral Codex Ten (ACX) communities in Sunnyvale, California. It provides essential logistical details like location, time, and contact information, emphasizing an open, come-and-go format. The event is clearly designed for community building and networking among individuals interested in these specific intellectual movements. While simple in its presentation, the value lies in facilitating real-world connection for a niche, intellectually-driven audience, offering a low-barrier opportunity for engagement. The post also thoughtfully addresses practicalities like rain contingency and what attendees might bring, ensuring a smooth experience.",
-    "summary_zh": "这篇帖子是关于森尼维尔EA/LW/ACX社区的一次线下聚会通知。它简洁明了地提供了活动的时间、地点等关键信息，并强调了随性参与的氛围。对我而言，这不仅是一次简单的社交活动，更是思想社群在线下建立连接、深化交流的宝贵机会。在数字时代，这种面对面的互动显得尤为重要，它能促进更深层次的理解与合作，而非仅仅停留在屏幕上的讨论。细节如雨天备案和建议携带物品，也体现了组织者的周到。",
-    "best_quote_en": "Come join when you can and leave when you want.",
-    "best_quote_zh": "想来就来，想走就走。"
-  },
-  {
-    "id": 503,
-    "title": "The Battle for Minneapolis",
-    "title_zh": "明尼阿波利斯之战",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/dispatch/the-battle-for-minneapolis",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-01-25",
-    "summary_en": "This dispatch from Minneapolis paints a chilling picture of a city under siege by federal agents, ostensibly for immigration enforcement, but clearly driven by political retribution. The author vividly describes the escalating tension, marked by civilian deaths, widespread protests, and a palpable sense of fear among residents, especially non-white citizens. What's particularly striking is the community's organized resistance, from general strikes to citizen patrols monitoring ICE movements, showcasing a deep-seated progressive activism rooted in the city's history. The narrative highlights the disturbing erosion of civil liberties, the federal government's disregard for local jurisdiction, and the weaponization of immigration policy. It's a stark look at how political power can be wielded to terrorize a population, and the resilience of a community fighting back.",
-    "summary_zh": "明尼阿波利斯正经历一场联邦特工的围困，这篇报道读来令人心寒。文章不仅揭示了移民执法背后的政治报复动机，更描绘了平民死亡、大规模抗议以及市民普遍的恐惧感。最引人深思的是，社区如何自发组织起来，从罢工到公民巡逻，展现出这座城市深厚的进步主义根基。民权被侵蚀，地方管辖权被无视，移民政策沦为政治工具——这一切都让人警醒。面对如此高压，市民的坚韧与反抗精神，无疑是这场“战役”中最动人的篇章。",
-    "best_quote_en": "“We have a paramilitary force in our city acting beyond the Constitution consistently. Clearly, they are just racially profiling people straight up, right? Complete violations of the Fourth Amendment, everywhere.”",
-    "best_quote_zh": "“我们城里有一支准军事部队，他们持续地超越宪法行事。显然，他们就是赤裸裸地进行种族貌相，对吗？到处都是对第四修正案的彻底侵犯。”"
-  },
-  {
-    "id": 504,
-    "title": "TeamLab Borderless / Listen to Whales / Kitchen drawer multitool",
-    "title_zh": "TeamLab Borderless / 聆听鲸鱼 / 厨房抽屉多功能工具",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/teamlab-borderless-listen-to-whales-kitchen-drawer-multitool/",
-    "tags": [
-      "solve",
-      "science",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-01-25",
-    "summary_en": "This collection of recommendations offers a delightful mix of experiences and practical tools, highlighting the diverse ways technology and creativity can enrich daily life. From the immersive art installations of TeamLab Borderless, which challenge traditional art perceptions and offer pure sensory joy, to Project CETI's innovative use of AI to understand whale communication, the pieces inspire awe and curiosity. The inclusion of practical gadgets like the Workpro 24-in-1 Multitool and MicroMags for travel underscores a focus on simplifying tasks and engaging children. Even a playful 'Correlation Experiment' and a useful iPhone storage cleaner demonstrate how thoughtful design and technology can solve problems or simply provide entertainment, making this a well-rounded and engaging set of recommendations.",
-    "summary_zh": "这组推荐文章如同一份生活探险指南，从东京TeamLab Borderless的沉浸式艺术体验，到Project CETI利用AI解读鲸鱼语言的科学前沿，无不展现着人类的好奇心和创造力。我尤其喜欢它在宏大叙事（如鲸鱼文化）与日常实用（如厨房多功能工具、iPhone清理器）之间找到了平衡。这种对新奇体验和实用主义的兼顾，正是现代生活所追求的。它不仅提供了解决问题的方法，更激发了我们对世界的好奇和探索欲，让人不禁思考科技与艺术如何更好地服务于生活。",
-    "best_quote_en": "Project CETI’s Listen to Whales website is an immersion into the codas and culture of cetaceans, inviting you to literally listen in on sperm whale family life and history. The project uses AI to listen to, decode, and translate sperm whale communication.",
-    "best_quote_zh": "Project CETI 的“聆听鲸鱼”网站让你沉浸在鲸目动物的尾声和文化中，邀请你亲身聆听抹香鲸的家庭生活和历史。该项目利用人工智能聆听、解码并翻译抹香鲸的交流。"
-  },
-  {
     "id": 505,
     "title": "Why I’m launching a feminist video games website in 2026",
     "title_zh": "我为什么要在2026年创办一个女权主义视频游戏网站",
@@ -2306,5 +2188,123 @@
     "summary_zh": "蒂姆·费里斯对乔丹·乔纳斯的访谈深入探讨了极限生存、韧性与在困境中寻找意义。乔纳斯分享了在西伯利亚游牧部落生活、搭乘货运列车以及参加《荒野求生》的非凡经历。对话超越了冒险故事，触及了关于人生目标、社群重要性以及《古拉格群岛》和《宁静祷文》等古老智慧的深刻哲学思考。乔纳斯独特的人生视角，源于充满挑战的家族历史和边缘文明的生活，有力地论证了将苦难视为通往平静的途径，并培养内在力量。这次访谈不仅提供了生存技能的实用见解，也深刻展现了人类的适应能力和对有意义生活的追求，读来令人深思。",
     "best_quote_en": "You have to have something deeper, and so forging a purpose.",
     "best_quote_zh": "你必须拥有更深层的东西，所以要锻造一个目标。"
+  },
+  {
+    "id": 600,
+    "title": "‘Not for ogling’: forget Titian, Botticelli and the male fantasists – only women can paint great female nudes",
+    "title_zh": "“不是为了窥视”：忘掉提香、波提切利和男性幻想家——只有女性才能画出伟大的女性裸体",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/feb/12/female-nude-self-portraits-women-yoko-ono-frida-kahlo-gentileschi-titian-botticelli",
+    "tags": [
+      "inspire",
+      "education",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-02-12",
+    "summary_en": "This article provocatively argues that only female artists can truly capture the essence of the female nude, free from the objectifying male gaze. It delves into the history of female artists, from Carolee Schneemann and Artemisia Gentileschi to contemporary figures like Emma Amos and Jenny Saville, who have reclaimed their bodies and narratives through self-portraits and other works. The piece highlights how these artists, often defying societal norms and artistic conventions, explore themes of aging, motherhood, disability, race, and sexuality, thereby reinventing the female nude as a powerful statement of agency and identity. It offers a compelling, albeit controversial, perspective on art history and feminist critique, suggesting a fundamental difference in artistic intent and outcome based on the artist's gender.",
+    "summary_zh": "这篇文章大胆宣称，只有女性艺术家才能真正描绘女性裸体，摆脱男性凝视的物化。它深入探讨了从卡罗尔·施内曼到艾玛·阿莫斯等女性艺术家如何通过自画像重塑叙事，挑战了艺术史中长期存在的男性主导视角。我发现这种视角转换极具启发性，它不仅关乎艺术创作本身，更是对女性主体性的一次深刻肯定。文章有力地证明，当女性掌握画笔，她们笔下的裸体不再是客体，而是充满力量和真理的表达。",
+    "best_quote_en": "Because when a female artist takes authority over depictions of her nudity, it can only be political. It is always a threat to the status quo.",
+    "best_quote_zh": "因为当一位女性艺术家掌握了描绘自身裸体的权力时，这必然是政治性的。它总是对现状的威胁。"
+  },
+  {
+    "id": 601,
+    "title": "After Credentials",
+    "title_zh": "凭证之后",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/credentials.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2026-02-15",
+    "summary_en": "This thought-provoking essay by Paul Graham critically examines the historical evolution and contemporary relevance of academic credentials, arguing that their importance has waned in the US due to the rise of smaller organizations and a market-driven focus on performance. Graham traces credentialism from ancient China's civil service exams to modern-day cram schools, highlighting how it was initially an advancement over nepotism but eventually became a system easily gamed by wealth. He posits that the shift towards a startup-centric economy, where individual performance is directly measurable and rewarded, offers a superior mechanism to prevent the intergenerational transmission of power. This insightful piece challenges conventional wisdom about education and career paths, suggesting that the market's efficiency in evaluating actual output is fundamentally reshaping how talent is identified and valued, moving beyond mere paper qualifications.",
+    "summary_zh": "这篇文章对学历凭证的价值进行了深刻的反思。作者从中国古代科举制度谈起，剖析了凭证制度的起源、演变及其固有的局限性，特别指出它如何被财富操纵。我特别认同作者提出的观点，即市场经济中小型企业的崛起，使得对实际绩效的衡量和奖励变得更为直接和高效，这不仅是对传统凭证制度的超越，更是打破了权力代际传递的有效途径。这让我不禁思考，在当今社会，我们是否过度依赖那些光鲜的“凭证”，而忽视了个人真正的能力和贡献？这不仅仅是教育体制的问题，更关乎整个社会如何评价和激励创新与实干。",
+    "best_quote_en": "Instead of trying to make credentials harder to hack, we can also make them matter less. Let's think about what credentials are for. What they are, functionally, is a way of predicting performance. If you could measure actual performance, you wouldn't need them.",
+    "best_quote_zh": "与其试图让凭证更难被破解，我们也可以让它们变得不那么重要。让我们思考一下凭证的作用是什么。从功能上讲，它们是预测表现的一种方式。如果你能衡量实际表现，你就不会需要它们。"
+  },
+  {
+    "id": 602,
+    "title": "The Epstein Files Reveal What Trump Knew",
+    "title_zh": "爱泼斯坦档案揭示特朗普所知",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-new-yorker-interview/the-epstein-files-reveal-what-trump-knew",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-02-13",
+    "summary_en": "This New Yorker interview with investigative journalist Julie K. Brown delves into the newly released Epstein files, particularly focusing on Donald Trump's early awareness and communication with police regarding Epstein in 2006. Brown, whose prior reporting was instrumental in reopening Epstein's case, critically assesses the chaotic and often redacted nature of the document release, questioning its true transparency. The discussion explores the complex relationship between Trump and Epstein, the motivations behind the belated document release, and the disturbing implications for other prominent figures like Bill Gates. Brown also offers a compelling, evidence-based argument against the official narrative of Epstein's suicide, highlighting inconsistencies and drawing on her extensive experience covering prisons. The interview underscores the systemic failures of the justice system across multiple administrations and the enduring trauma and frustration of the victims, whose names were carelessly exposed in the documents. It's a sobering look at how power, wealth, and systemic indifference allowed horrific crimes to persist.",
+    "summary_zh": "这篇《纽约客》访谈深入探讨了爱泼斯坦档案的最新披露，尤其是关于特朗普早在2006年就已知晓并与警方联系爱泼斯坦案情的细节。朱莉·K·布朗，这位曾推动重审爱泼斯坦案的调查记者，对文件发布的混乱和删节提出了尖锐批评，质疑其透明度。访谈揭示了特朗普与爱泼斯坦之间复杂的互动，探讨了文件迟迟公开的深层原因，以及比尔·盖茨等显赫人物牵涉其中的令人不安之处。布朗还基于其丰富的监狱报道经验，对爱泼斯坦自杀的官方说法提出了强有力的质疑，指出诸多不合逻辑之处。文章深刻反思了司法系统在多届政府下的失职，以及受害者们所承受的持续创伤和愤怒——他们的名字竟被随意泄露。这篇访谈令人警醒，展现了权力、财富与体制性冷漠如何共同促成了骇人听闻的罪行长期逍遥法外。",
+    "best_quote_en": "“I just think that it got to be such a big story. And, as you know, there’s been sort of a crack in the MAGA movement pertaining to this story. And you have people like Joe Rogan saying, 'Why aren’t they releasing it?' It just became this battle cry for people. In some ways, this is the one thing that America agrees on: that these files should be made public.”",
+    "best_quote_zh": "“我只是觉得，这成了一个太大的新闻。而且，如你所知，关于这个故事，MAGA运动内部也出现了一点裂痕。像乔·罗根这样的人都在说，‘他们为什么不公布？’这成了人们的战斗口号。在某些方面，这是美国人唯一达成共识的事情：这些文件应该公之于众。”"
+  },
+  {
+    "id": 603,
+    "title": "Build Muscle & Strength & Forge Your Life Path | Dorian Yates",
+    "title_zh": "塑造肌肉与力量，锻造人生之路 | 多里安·耶茨",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/build-muscle-and-strength-and-forge-your-life-path-dorian-yates",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "This content features an insightful interview with Dorian Yates, a legendary bodybuilder, delving into his high-intensity, low-volume training philosophy which promises significant fitness gains with minimal time commitment. Beyond the practical aspects of muscle building, the discussion thoughtfully transitions into broader life lessons, including discovering personal strengths, navigating life paths, and the psychological aspects of self-mastery and transforming challenges. Yates's journey from a troubled youth to a world champion, coupled with his candid views on psychedelics, cannabis, and longevity, offers a unique blend of practical advice and philosophical reflection, making it highly valuable for anyone seeking both physical improvement and personal growth. The content provides a compelling narrative of resilience and the pursuit of human potential.",
+    "summary_zh": "多里安·耶茨的这期访谈，不仅深入探讨了他标志性的高强度、低容量训练法，更超越了健身范畴，触及了人生选择、自我认知与心理转变的深层议题。从塑造体魄到锻造心智，耶茨的个人经历——从迷茫青年到世界冠军，再到对迷幻药和长寿的探索——展现了令人惊叹的韧性与开放性。这不仅仅是一堂关于肌肉增长的课，更是一场关于如何发现潜能、驾驭人生、并持续进化的哲学对话，对于追求身心平衡与个人成长的听众而言，无疑具有深刻的启发意义。",
+    "best_quote_en": "We also discuss how to determine your natural strengths and passions and select which life path is right for you.",
+    "best_quote_zh": "我们还讨论了如何确定你的天赋和热情，并选择适合你的人生道路。"
+  },
+  {
+    "id": 604,
+    "title": "Jordan Jonas, Champion of Alone — The Art of Survival, Lessons from Nomadic Tribes, Hardship as the Path to Peace, How to Handle Rogue Wolverines, and Why Not to Photograph Attacking Bears (#853)",
+    "title_zh": "乔丹·乔纳斯，《荒野独居》冠军——生存的艺术、游牧部落的教训、磨难通向平静的道路、如何对付凶猛的狼獾，以及为什么不该拍摄攻击你的熊（#853）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/02/11/jordan-jonas/",
+    "tags": [
+      "solve",
+      "leadership",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-02-11",
+    "summary_en": "This content delves into the extraordinary life and survival philosophy of Jordan Jonas, winner of 'Alone' Season 6. It's a fascinating exploration of resilience, adaptation, and finding peace amidst extreme hardship, drawing lessons from his unique experiences with nomadic Siberian tribes and his triumphant stint in the wilderness. The discussion extends beyond mere survival tactics, touching upon psychological fortitude, the tempering effect of reality on political extremism, and the profound wisdom gleaned from a life lived intimately with nature. Jonas's insights challenge conventional notions of 'home' and 'problem-solving,' offering a compelling narrative on self-reliance and the unexpected pathways to inner peace forged through adversity. It inspires a re-evaluation of modern comforts versus essential human capabilities.",
+    "summary_zh": "乔丹·乔纳斯的故事不仅仅是关于野外生存，更是一部关于人类韧性与精神成长的史诗。他从游牧部落和《荒野独居》中汲取的智慧，深刻揭示了磨难如何塑造我们，以及在极端环境中如何找到内心的平静。我尤其欣赏他关于“家”的定义——无论身在何处，你都已在家中，这是一种强大的内在力量。他的经历让我反思，现代生活中的许多“问题”或许只是我们脱离自然太久而产生的幻象。真正的解决之道，往往在于直面挑战，并从中汲取力量，而非一味逃避。这篇内容充满了对生命本真的探索和对现代人精神困境的深刻洞察。",
+    "best_quote_en": "When you're in the woods by yourself, whining isn't going to help. There's nobody else you can blame anything on. You'd literally better solve your problem or you're screwed.",
+    "best_quote_zh": "当你独自一人在森林里时，抱怨毫无帮助。你无法责怪任何人。你最好真的解决你的问题，否则你就完蛋了。"
   }
 ]
