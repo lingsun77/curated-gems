@@ -1,125 +1,5 @@
 [
   {
-    "id": 505,
-    "title": "Why I’m launching a feminist video games website in 2026",
-    "title_zh": "我为什么要在2026年创办一个女权主义视频游戏网站",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/games/2026/jan/26/why-im-launching-a-feminist-video-games-website-in-2026-mothership",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "This article is a passionate manifesto by Maddy Myers, a veteran games journalist, announcing the launch of 'Mothership,' a new feminist video games website. Myers critically assesses the current grim landscape of games journalism, characterized by layoffs, industry regression on diversity, and the pervasive 'manosphere' influence. She articulates a compelling need for a platform that caters to a diverse audience, focusing on gender and identity in gaming, offering critical analysis, and celebrating progress despite backlash. The piece effectively balances a critique of industry failures with an inspiring vision for a worker-owned, subscriber-supported alternative, demonstrating how personal conviction can drive entrepreneurial action in a challenging media environment. It's a powerful call to reclaim space and narrative in gaming for underrepresented voices.",
-    "summary_zh": "这篇文章是游戏记者Maddy Myers的宣言，宣布推出女权主义游戏网站“Mothership”。她批判了当前游戏新闻界的困境，包括裁员、行业在多样性方面的倒退，以及“男性沙文主义”的影响。Myers认为，急需一个关注游戏中的性别和身份、提供批判性分析并庆祝进步的平台。这篇文章巧妙地平衡了对行业失败的批判与对一个由员工拥有、订阅者支持的替代方案的鼓舞人心的愿景，展示了个人信念如何在充满挑战的媒体环境中推动创业行动。这无疑是为游戏领域中被忽视的声音夺回空间和话语权的有力号召。",
-    "best_quote_en": "Everything I just listed off in that paragraph speaks to an urgent need for something different. This is why I’m launching a gender and identity-focused gaming publication called Mothership.",
-    "best_quote_zh": "我刚才列出的所有内容都表明了对某种不同事物的迫切需求。这就是我创办一个关注性别和身份的游戏出版物Mothership的原因。"
-  },
-  {
-    "id": 506,
-    "title": "Persuade xor Discover",
-    "title_zh": "说服还是发现",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/discover.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "This essay provocatively dissects the fundamental tension between writing to persuade and writing to discover. The author argues that while most conventional writing aims to persuade, often involving 'social lies' and 'spin' to make ideas palatable, true intellectual discovery requires an unvarnished pursuit of truth, even if it offends. He illustrates this with an example of rewriting a controversial paragraph to be more agreeable, highlighting how such concessions, while seemingly harmless, can subtly corrupt the ideas themselves and lead the writer to self-deception. The core insight is that writing to discover demands shedding the impulse to pander, embracing conciseness, and allowing surprising, often uncomfortable, truths to emerge without compromise. This piece offers a compelling re-evaluation of the writer's primary objective.",
-    "summary_zh": "这篇文章深刻剖析了写作中“说服”与“发现”的内在冲突。作者指出，世俗的写作常以说服为目的，不惜掺入“社交谎言”或“包装”以迎合读者，但这会阻碍真正的思想探索。我特别认同他通过改写争议段落的例子，揭示了迎合读者如何不仅稀释了观点，甚至可能导致作者自我欺骗。真正的发现，在于不带偏见地探寻真相，即便它可能冒犯或不适。这促使我反思，在信息爆炸的时代，保持批判性思维和追求本真，比单纯的迎合或说服更为重要。",
-    "best_quote_en": "I think the goal of an essay should be to discover surprising things. That's my goal, at least. And most surprising means most different from what people currently believe. So writing to persuade and writing to discover are diametrically opposed.",
-    "best_quote_zh": "我认为一篇文章的目标应该是发现令人惊讶的事情。至少那是我的目标。而最令人惊讶的，意味着与人们当前所相信的截然不同。所以，写作是为了说服与写作是为了发现是截然对立的。"
-  },
-  {
-    "id": 507,
-    "title": "Do Federal Officials Really Have “Absolute Immunity”?",
-    "title_zh": "联邦官员真的拥有“绝对豁免权”吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/do-federal-officials-really-have-absolute-immunity",
-    "tags": [
-      "solve",
-      "politics",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "This article delves into the complex legal doctrine of \"absolute immunity\" for federal officials, particularly in the context of state-level investigations and prosecutions following controversial shootings by ICE and Border Patrol agents. Through an interview with legal expert Steve Vladeck, the piece illuminates the historical roots and current ambiguities of supremacy-clause immunity, tracing its origins to an 1890 Supreme Court decision. It critically examines the practical and political roadblocks states face when attempting to hold federal agents accountable, especially in an era where federal oversight mechanisms appear to be weakening. The discussion highlights the ideological clash between executive power and states' rights, and the severe limitations on federal remedies for constitutional violations. Ultimately, it underscores the urgent need for robust accountability, whether through state actions or legislative reform, to ensure constitutional rights are not rendered unenforceable.",
-    "summary_zh": "这篇文章深入探讨了联邦官员“绝对豁免权”的法律迷宫，尤其是在ICE和边境巡逻队枪击事件后，州级调查和起诉所面临的挑战。通过与法律专家史蒂夫·弗拉德克的对话，我发现这不仅仅是法律条文的僵硬，更是联邦权力与州权之间永恒的张力。在联邦问责机制似乎失效的当下，州政府的努力显得尤为关键。这不禁让人思考，当宪法权利的保障陷入真空时，我们该如何填补这一空白？这不仅是法律问题，更是关乎社会公正与权力制衡的深刻拷问。",
-    "best_quote_en": "My own preference, and I think the better reading of the Constitution, is that we’re better off with a uniform system of federal remedies, but if the choice is state remedies or nothing, then I think it’s just as clear that the answer should be at least in some cases, state remedies, or else the Constitution can’t be enforced at all.",
-    "best_quote_zh": "我个人倾向于，也是我认为对宪法更好的解读是，我们最好有一个统一的联邦补救体系，但如果选择是州级补救还是什么都没有，那么我认为答案同样清楚，至少在某些情况下，应该是州级补救，否则宪法根本无法执行。"
-  },
-  {
-    "id": 508,
-    "title": "Wealth Building",
-    "title_zh": "财富积累",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/wealth-building/",
-    "tags": [
-      "guide",
-      "economics",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "经济金融",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "This content offers a multi-faceted approach to wealth building, emphasizing long-term discipline over quick riches. It critiques common misconceptions, such as equating higher income with wealth, and champions the 'pay yourself first' philosophy. The insights are drawn from reviewing numerous financial guides, highlighting practical strategies like consistent saving (10% rule) and mindful spending through 'take-control budgeting.' The piece also introduces tools like Mint for comprehensive financial oversight, advocating for a single, real-time snapshot of all accounts. Crucially, it underscores the importance of saving over aggressive investing, the necessity of securing one's own financial future before others', and the often-overlooked psychological aspects of money management, like the power of delayed gratification and selfless giving. The inclusion of 'Money Rules' distills complex financial wisdom into accessible maxims, making it particularly valuable for those new to personal finance or seeking a concise refresher. It's a thoughtful compilation that prioritizes foundational habits and mental shifts for sustainable wealth.",
-    "summary_zh": "这篇关于财富积累的文章，读来令人深思。它不仅仅是关于赚钱，更关乎一种生活哲学和长期主义的实践。我特别欣赏其对“先支付自己”的强调，以及对传统预算观念的颠覆——“掌控式预算”的理念更贴近人性。文中推荐的Mint工具，其一站式财务概览功能，无疑是现代人管理复杂财务的利器。更深层次地，它触及了财富的心理层面，比如“给与”的重要性，以及在面对消费诱惑时“睡一晚”的智慧。这些看似简单的规则，实则蕴含着深刻的人生智慧，对于建立健康的金钱观和实现真正的财务自由，提供了极具价值的指引。",
-    "best_quote_en": "Before significant wealth will come your way and stay, you have to master the money you already control.",
-    "best_quote_zh": "在巨额财富向你走来并留下之前，你必须掌控你已经拥有的金钱。"
-  },
-  {
-    "id": 509,
-    "title": "E Pur Si Muove",
-    "title_zh": "E Pur Si Muove (然而它还在转动)",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/e-pur-si-muove",
-    "tags": [
-      "inspire",
-      "tech-trends",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "技术趋势",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2017-12-14",
-    "summary_en": "This thought-provoking essay argues that the increasing intolerance for controversial ideas in San Francisco, driven by an overzealous 'political correctness,' is stifling innovation and driving away top talent. The author, reflecting on a personal experience of feeling more comfortable discussing sensitive topics in Beijing than in the Bay Area, draws parallels to historical suppression of scientific thought. He posits that a truly innovative culture must tolerate even 'wacky' or 'bad' ideas, as breakthroughs often emerge from unconventional thinking. The piece critically examines how the fear of misinterpretation and the tendency to label individuals as 'heretics' rather than debating ideas themselves can prevent groundbreaking concepts, like Bitcoin or SpaceX, from ever taking root. It's a compelling call for intellectual openness and robust debate, even on uncomfortable subjects, to foster true progress.",
-    "summary_zh": "这篇文章深刻地指出，旧金山日益增长的对争议性观点的“政治正确”式不宽容，正在扼杀创新并导致人才流失。作者以在中国比在旧金山更能自由讨论敏感话题的亲身经历为例，引申至历史上对科学思想的压制。他认为，真正的创新文化必须容忍甚至看似“疯狂”或“糟糕”的想法，因为许多突破性发现最初都显得离经叛道。文章批判了将提出者视为“异端”而非辩论思想本身的风气，这无疑会阻碍比特币或SpaceX这类颠覆性创想的诞生。这无疑是对思想自由和开放辩论的强烈呼吁，即便面对令人不适的议题，也应如此，方能推动真正的进步。",
-    "best_quote_en": "You can’t tell which seemingly wacky ideas are going to turn out to be right, and nearly all ideas that turn out to be great breakthroughs start out sounding like terrible ideas. So if you want a culture that innovates, you can’t have a culture where you allow the concept of heresy—if you allow the concept at all, it tends to spread.",
-    "best_quote_zh": "你无法判断哪些看似古怪的想法最终会是正确的，几乎所有最终成为伟大突破的想法最初听起来都像是糟糕的主意。因此，如果你想要一种创新的文化，就不能有一种允许“异端”概念存在的文化——如果你允许这个概念存在，它就会倾向于蔓延。"
-  },
-  {
     "id": 510,
     "title": "Wednesday briefing: ​Can we turn around the growing school readiness crisis?",
     "title_zh": "周三简报：我们能否扭转日益严重的入学准备危机？",
@@ -2306,5 +2186,119 @@
     "summary_zh": "乔丹·乔纳斯的故事不仅仅是关于野外生存，更是一部关于人类韧性与精神成长的史诗。他从游牧部落和《荒野独居》中汲取的智慧，深刻揭示了磨难如何塑造我们，以及在极端环境中如何找到内心的平静。我尤其欣赏他关于“家”的定义——无论身在何处，你都已在家中，这是一种强大的内在力量。他的经历让我反思，现代生活中的许多“问题”或许只是我们脱离自然太久而产生的幻象。真正的解决之道，往往在于直面挑战，并从中汲取力量，而非一味逃避。这篇内容充满了对生命本真的探索和对现代人精神困境的深刻洞察。",
     "best_quote_en": "When you're in the woods by yourself, whining isn't going to help. There's nobody else you can blame anything on. You'd literally better solve your problem or you're screwed.",
     "best_quote_zh": "当你独自一人在森林里时，抱怨毫无帮助。你无法责怪任何人。你最好真的解决你的问题，否则你就完蛋了。"
+  },
+  {
+    "id": 605,
+    "title": "The 9 best winter boots for women to buy for life, vetted by pros who work outdoors",
+    "title_zh": "9款最佳女士冬季靴，由户外专业人士亲测，值得一生拥有",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/feb/15/best-winter-boots-women",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2026-02-15",
+    "summary_en": "This article offers a practical guide to selecting durable and comfortable winter boots for women, curated by individuals who spend significant time outdoors in challenging conditions. From a ski instructor to a dog sled musher and a former National Geographic 'Adventurer of the Year,' the expert testimonials provide authentic, real-world validation for each recommendation. What truly stands out is the emphasis on 'buy for life' quality, moving beyond fleeting trends to focus on long-term value and performance. It's a refreshingly grounded approach to product recommendations, highlighting the importance of functional gear in extreme environments and offering solutions for various winter needs, from athletic activities to extreme cold camping. The diverse range of boots, catering to different budgets and uses, ensures broad applicability for consumers seeking reliable winter footwear.",
+    "summary_zh": "这篇文章简直是冬季靴选购的宝典！它不仅仅是简单的产品推荐，而是汇集了户外专业人士的亲身经历和真诚评价，让人感觉非常可信。从滑雪教练到狗拉雪橇手，这些专家们用实际行动证明了这些靴子的耐用性和保暖性。我特别欣赏文章强调的“值得一生拥有”的理念，这在快时尚盛行的当下显得尤为珍贵。它提醒我们，投资一双高质量的冬季靴，不仅是对双脚的呵护，更是对生活品质的提升。无论是日常通勤还是极端户外，都能找到合适的选择，这让我在寒冬里对双脚的温暖有了更多期待。",
+    "best_quote_en": "I asked for recommendations for comfy, long-lasting boots from people who spend far more time outdoors than I do. They include a ski instructor, a dog sled musher and a former National Geographic “Adventurer of the Year.”",
+    "best_quote_zh": "我向那些比我花更多时间在户外的人征求了舒适、耐穿靴子的推荐。他们包括滑雪教练、狗拉雪橇手和前《国家地理》年度探险家。"
+  },
+  {
+    "id": 606,
+    "title": "Could VC be a Casualty of the Recession?",
+    "title_zh": "经济衰退下，风投是否会成为牺牲品？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/divergence.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-16",
+    "summary_en": "This insightful piece, penned in December 2008, critically examines the evolving relationship between venture capitalists (VCs) and startups during an economic recession. The author posits that unlike previous downturns where startup formation mirrored VC funding slumps, this recession might see a divergence. The core argument rests on the significantly reduced cost of launching a startup, driven by technological advancements like cheaper hardware, open-source software, free web marketing, and efficient programming languages. This shift means many internet startups can achieve profitability with minimal capital, rendering VC funding from a 'must-have' to a 'nice-to-have.' The article provocatively suggests that if founders increasingly find VCs 'not worth the trouble,' the entire VC industry could face irrelevance once the economy recovers, as founders might have already moved on to self-sustaining models. This analysis offers a compelling, forward-looking perspective on the potential disruption of traditional venture capital models.",
+    "summary_zh": "这篇2008年的文章对经济衰退背景下风投与初创公司的关系进行了深刻剖析。作者大胆预测，与以往不同，这次衰退可能导致初创公司数量不减反增，而风投的地位却岌岌可危。核心论点在于，技术进步已将创业成本降至前所未有的低点，使得许多初创公司无需大量外部资金即可实现盈利。这让我不禁思考，当生存不再依赖外部输血，创新者是否真的能摆脱资本的束缚？文章警示风投，如果创始人普遍认为他们“不值得麻烦”，那么待经济复苏时，风投可能会发现自己已被时代抛弃。这不仅是对风投模式的挑战，更是对未来创业生态的一次深刻预言。",
+    "best_quote_en": "If founders decide VCs aren't worth the trouble, that could be bad for VCs. When the economy bounces back in a few years and they're ready to write checks again, they may find that founders have moved on.",
+    "best_quote_zh": "如果创始人觉得风投不值得麻烦，那对风投来说可能很糟糕。当经济几年后反弹，他们准备再次开支票时，可能会发现创始人已经另辟蹊径了。"
+  },
+  {
+    "id": 607,
+    "title": "The Trial of Gisèle Pelicot’s Rapists United France and Fractured Her Family",
+    "title_zh": "吉赛尔·佩利科的强奸犯审判：团结法国，分裂她的家庭",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/03/02/the-trial-of-gisele-pelicots-rapists-united-france-and-fractured-her-family",
+    "tags": [
+      "analyze",
+      "psychology",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-02-15",
+    "summary_en": "This profound article delves into the harrowing and complex aftermath of Gisèle Pelicot's mass rape trial, where fifty-one men, including her husband Dominique, were convicted. Beyond the sensational headlines, the piece meticulously unpacks the devastating impact on Pelicot's family, particularly the stark divergence in coping mechanisms and narratives between Gisèle and her children, Caroline and David. Gisèle, hailed as a feminist icon, finds solace in reclaiming her agency and forging a new life, even as she struggles to reconcile with her children's differing experiences and suspicions of incest. The article masterfully portrays the psychological intricacies of trauma, memory, and denial, highlighting how each family member grapples with their version of truth. It's a deeply moving exploration of an impossible dilemma: how to make suffering coexist within a fractured family, and how public perception often simplifies the messy realities of personal tragedy. The tension between Gisèle's dignified resilience and Caroline's raw demand for recognition of her own potential victimhood offers a critical lens into the multifaceted nature of healing and justice.",
+    "summary_zh": "这篇文章深入剖析了吉赛尔·佩利科（Gisèle Pelicot）大规模强奸案审判的复杂余波，不仅仅是法律上的胜利，更是一场家庭内部的“海啸”。吉赛尔作为受害者和新的女性主义象征，努力在创伤后重建生活，但她与子女们对真相和创伤的叙事分歧，令人深思。特别是女儿卡罗琳对乱伦的怀疑，以及母亲在法庭上未能坚定支持的痛苦，展现了家庭内部的断裂。文章细致描绘了记忆、否认和创伤心理的微妙之处，以及社会对受害者的简化期待。它让我不禁反思，当个人疗愈与家庭成员的痛苦经验相冲突时，何为真正的“正义”和“团结”？",
+    "best_quote_en": "“I think anger and hatred destroy everything. I prefer to remain dignified and keep my distance. That’s just the way I am, really.”",
+    "best_quote_zh": "“我想愤怒和仇恨会摧毁一切。我宁愿保持尊严，保持距离。我就是这样的人。”"
+  },
+  {
+    "id": 608,
+    "title": "How to Overcome Addiction to Substances or Behaviors | Dr. Keith Humphreys",
+    "title_zh": "如何克服物质或行为成瘾 | 凯斯·汉弗莱斯博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-overcome-addiction-to-substances-or-behaviors-keith-humphreys",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "Dr. Keith Humphreys, a leading expert from Stanford, provides a comprehensive and deeply insightful exploration into the multifaceted world of addiction. This content transcends mere symptom discussion, delving into genetic predispositions, various addictive substances and behaviors, and critically, the evidence-based pathways to recovery. What truly resonates is the nuanced discussion around emerging treatments like psychedelics alongside established programs such as AA, offering a balanced perspective on addiction as a complex interplay of biology, psychology, and social factors rather than a moral failing. The practical tools for communication and overcoming addiction, coupled with a forward-looking view on policy and social media's role, make this an invaluable resource for anyone seeking to understand or combat addiction, reflecting a genuine commitment to actionable help.",
+    "summary_zh": "凯斯·汉弗莱斯博士对成瘾的深入剖析令人印象深刻。他不仅探讨了酒精、阿片类药物等具体成瘾物质，更触及了遗传、社会行为乃至新兴疗法如迷幻药的广阔领域。我特别欣赏他对成瘾并非性格缺陷，而是复杂生物心理社会问题的强调，这为理解和治疗成瘾提供了更具同情心和有效性的视角。内容中提供的实用工具和对政策的思考，让这不仅仅是一次知识的传递，更是一份对成瘾者及其家属的深刻关怀与指导。",
+    "best_quote_en": "Anyone interested in making better choices for their health and/or seeking to avoid or overcome addictions ought to benefit from this episode.",
+    "best_quote_zh": "任何有兴趣为自身健康做出更好选择，和/或寻求避免或克服成瘾的人，都应该从这一集中受益。"
+  },
+  {
+    "id": 609,
+    "title": "The Tim Ferriss Show Transcripts: Tim McGraw — Starting Late with a $20 Guitar, Selling 100M+ Records, and 30+ Years of Creative Longevity (#852)",
+    "title_zh": "蒂姆·费里斯秀访谈：蒂姆·麦格劳——20美元吉他迟起步，唱片销量过亿，以及30多年创作生命力（#852）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/02/05/tim-mcgraw-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This transcript of an interview with country music icon Tim McGraw offers a fascinating deep dive into his career longevity, personal challenges, and philosophies on creativity and life. Beyond the impressive statistics of his 100M+ record sales, McGraw candidly discusses his unconventional start in music, the pivotal role his wife, Faith Hill, played in his sobriety, and his journey through multiple surgeries to maintain his physically demanding stage presence. The conversation also touches upon his complex relationship with his biological father, Tug McGraw, and the profound impact of that discovery on his life. Ferriss skillfully extracts insights on navigating the music industry, the importance of self-direction, and the distinction between seizing opportunities and resisting temptations. It's a compelling narrative of resilience, self-awareness, and the enduring power of hope and kindness.",
+    "summary_zh": "蒂姆·麦格劳的访谈不仅是其音乐生涯的里程碑回顾，更是一场关于生命、毅力与自我发现的深刻对话。他坦诚分享了从20美元吉他起步的草根经历，妻子费丝·希尔如何成为他戒酒路上的磐石，以及在身体伤痛中如何坚持舞台表演。最触动人心的是他与生父之间复杂却充满希望的连接，这无疑塑造了他独特的韧性。这场对话不仅揭示了艺术成长中的抉择与挑战，也强调了自我掌控、拒绝诱惑和保持谦逊善良的重要性。这是一段关于如何在喧嚣中坚守本心，并在生活中不断寻找“希望”的动人故事。",
+    "best_quote_en": "If everything else is gone, if you've got hope, you've still got a chance.",
+    "best_quote_zh": "如果其他一切都消失了，只要你还有希望，你就仍有机会。"
   }
 ]
