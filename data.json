@@ -1,121 +1,5 @@
 [
   {
-    "id": 510,
-    "title": "Wednesday briefing: ​Can we turn around the growing school readiness crisis?",
-    "title_zh": "周三简报：我们能否扭转日益严重的入学准备危机？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2026/jan/28/wednesday-briefing-can-we-turn-around-the-growing-school-readiness-crisis",
-    "tags": [
-      "update",
-      "education",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "This article delves into the escalating \"school readiness crisis\" in England and Wales, highlighting a significant disconnect between parental expectations and the foundational skills children possess upon entering primary school. Drawing on a Kindred² survey, it reveals nearly 40% of children lack basic self-care and social skills, leading to substantial lost teaching time. The piece attributes this crisis to rising living costs, reduced early years services (like Sure Start), and pervasive screen use among young children, which impacts language, attention, and motor skills. It critically examines the long-term implications for educational outcomes and teacher morale, while advocating for clearer, non-judgmental guidance for parents. The article's strength lies in its data-driven approach and its nuanced exploration of a complex societal issue, moving beyond blame to seek actionable solutions for early childhood development.",
-    "summary_zh": "这篇文章深入探讨了英国日益严重的“入学准备危机”，指出家长预期与孩子入学时的实际能力之间存在巨大差距。近四成儿童缺乏基本自理和社交技能，导致教学时间大量流失。文章分析了生活成本上涨、早期教育服务削减以及屏幕过度使用等深层原因，并强调了早期发展对孩子未来的关键作用。我特别欣赏作者在分析问题时避免指责家长，而是呼吁提供清晰、非评判性的指导。这不仅是教育问题，更是社会公平和儿童福祉的体现，需要全社会共同关注和解决。",
-    "best_quote_en": "“This isn’t about blaming and shaming parents. It’s about acknowledging that there is a genuine gap in understanding about what being school ready actually means – and then getting that information out clearly and early.”",
-    "best_quote_zh": "“这无关指责或羞辱父母。这关乎承认在‘入学准备’的真正含义上存在理解上的差距——然后清晰、及早地传达这些信息。”"
-  },
-  {
-    "id": 511,
-    "title": "Post-Medium Publishing",
-    "title_zh": "后媒介时代出版业",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/publishing.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "This insightful piece from 2009 critically dissects the publishing industry's long-held misconception: that they sell 'content.' The author provocatively argues that publishers historically sold the 'medium' (paper, vinyl, film) and that content was merely a byproduct, priced by format, not quality. With the advent of digital, the medium evaporates, leaving publishers with nothing to sell. The essay explores why consumers pay for information (e.g., stock tips, Bloomberg terminals) but rarely for general 'content' like news or music, drawing parallels to iTunes as a 'tollbooth' rather than a content seller. It foresees a future where content is largely free, monetized indirectly through advertising, concerts, or embodied in premium physical forms, challenging traditional business models and urging a focus on new forms enabled by technology rather than clinging to old revenue streams. The analysis remains strikingly relevant over a decade later.",
-    "summary_zh": "这篇2009年的文章对出版业的核心商业模式进行了颠覆性剖析。作者独到地指出，出版商卖的从来不是“内容”，而是“媒介”——纸张、唱片等。当数字时代来临，媒介消解，出版业赖以生存的基础也随之瓦解。文章深入探讨了为何人们愿意为“信息”（如股票建议）付费，却不愿为“内容”（如新闻、音乐）买单，并预言了内容免费化、通过间接方式（广告、演出）或实体化（奢华杂志、体验式影院）盈利的未来。它不仅是对传统出版业的深刻反思，更是对所有内容创作者和平台在数字时代如何定位自身价值的启发性思考，其洞察力至今仍未过时。",
-    "best_quote_en": "The reason they make less money now is that people don't need as much paper.",
-    "best_quote_zh": "他们现在赚的钱少了，是因为人们不再需要那么多纸了。"
-  },
-  {
-    "id": 512,
-    "title": "Contra Sam Harris on Free Will",
-    "title_zh": "驳萨姆·哈里斯的自由意志论",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/tnSagkAADcjRRtbAu/contra-sam-harris-on-free-will",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "This essay critically examines Sam Harris's denial of free will, proposing a compatibilist definition rooted in a 'deliberative algorithm.' The author argues that free will isn't about ultimate authorship or escaping determinism, but rather about the conscious, causal process of weighing reasons, evaluating options, and acting based on one's values. By dissecting Harris's arguments, such as the 'conscious witness' analogy and the 'could have done otherwise' thought experiment, the author demonstrates that the everyday experience of free will aligns with a scientifically grounded, albeit constrained, decision-making mechanism. The analysis provocatively suggests that without this algorithmic understanding of free will, concepts like moral responsibility, accountability, and the distinction between choice and reflex become incoherent, leaving a 'free-will-shaped hole' in our understanding of human agency. It's a thoughtful and nuanced engagement with a complex philosophical debate.",
-    "summary_zh": "这篇文章深入探讨了自由意志这一古老议题，挑战了萨姆·哈里斯的观点，提出了一种基于“审慎算法”的兼容论自由意志。作者巧妙地将自由意志定义为一种有意识的、能动的决策过程，而非超脱因果链的神秘力量。读来令人深思的是，作者不仅驳斥了哈里斯的“意识只是旁观者”论调，更通过剖析日常选择与病理案例，有力论证了这种算法式自由意志在道德、法律及人类体验中的核心作用。它让我重新思考，我们日常感受到的“选择”并非幻觉，而是大脑中实实在在的因果作用，这对理解人类能动性至关重要。",
-    "best_quote_en": "Free will, as I've described it, exists the way beliefs exist. If you shrunk down in a Magic School Bus you wouldn’t find beliefs stored in labeled containers in the brain. But beliefs are real, right? They're what we call a certain functional capacity of the brain. Free will is similar. It's the name for what's happening when a system weighs reasons, considers alternatives, and selects among them.",
-    "best_quote_zh": "自由意志，正如我所描述的，其存在方式与信念的存在方式类似。如果你乘坐魔法校车缩小进入大脑，你不会在贴有标签的容器里找到信念。但信念是真实的，对吧？它们是我们称之为大脑某种功能能力的东西。自由意志也类似。它是一个系统权衡理由、考虑替代方案并从中进行选择时所发生的事情的名称。"
-  },
-  {
-    "id": 513,
-    "title": "Why an Agnostic Animal-Rights Activist Went to Seminary",
-    "title_zh": "为什么一个不可知论的动物权利活动家去了神学院",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/why-an-agnostic-animal-rights-activist-went-to-seminary",
-    "tags": [
-      "inspire",
-      "society",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "This insightful interview explores Wayne Hsiung's unexpected journey from a radical animal rights activist to a seminary student. Hsiung, an agnostic, reflects on the limitations of purely secular activism, particularly its inability to foster sustained identity, community, and shared moral purpose. He argues that traditional religious institutions, with their established scaffolding of shared narratives, rituals, and physical spaces, offer a crucial framework for building resilient social movements. The article delves into the inherent human need for divine purpose and moral community, suggesting that progressive movements, and even churches themselves, can find renewed vitality by embracing a broader, more muscular form of compassion that extends to the vulnerable, including animals. It's a thought-provoking piece that challenges conventional views on activism and the role of faith in social change.",
-    "summary_zh": "一个不可知论的动物权利活动家竟选择进入神学院，这听起来有些匪夷所思，但韦恩·熊的经历却引人深思。他发现，纯粹的世俗运动难以维系长久的认同感和道德凝聚力。宗教机构提供的共同叙事、仪式和社区空间，恰恰是构建强大社会运动的基石。文章探讨了人类对神圣目的和道德社区的深层需求，并提出进步运动甚至教会本身，都可以通过拥抱更广阔的同情心（包括对动物的关怀）来重获生机。这不仅是对传统活动模式的反思，也为信仰在社会变革中的作用提供了新的视角。",
-    "best_quote_en": "I think the most powerful and most obvious next iteration for this expansion of our moral boundaries is other sentient beings.",
-    "best_quote_zh": "我认为，扩展我们道德边界的最强大、最明显的下一步，就是关注其他有感知能力的生命。"
-  },
-  {
-    "id": 514,
-    "title": "Irving Harper: Works in Paper / Where’s Warhol?",
-    "title_zh": "欧文·哈珀：纸上作品 / 沃霍尔在哪里？",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/irving-harper-works-in-paper-wheres-warhol/",
-    "tags": [
-      "learn",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "This article reviews two distinct art books: 'Irving Harper: Works in Paper' and 'Where's Warhol?'. The first highlights the extraordinary paper sculptures of renowned furniture designer Irving Harper, showcasing his hidden artistic genius beyond his professional work. It emphasizes how a simple material like paper can be transformed into complex, imaginative art, inspiring readers to appreciate creativity in unexpected forms. The second book, 'Where's Warhol?', offers a playful, 'Where's Waldo'-style visual puzzle. It cleverly integrates Andy Warhol into iconic historical and art scenes, inviting readers to engage with art history through discovery and observation. Both reviews celebrate different facets of artistic expression and engagement, from profound personal creation to interactive art history, making them valuable for art enthusiasts and those seeking creative inspiration.",
-    "summary_zh": "这篇文章评论了两本截然不同的艺术书籍。欧文·哈珀的《纸上作品》揭示了这位家具设计大师不为人知的纸雕艺术天赋，其作品将日常材料升华为令人惊叹的艺术品，这着实令人思考：真正的创造力是否总在不经意间绽放？而《沃霍尔在哪里？》则以一种轻松有趣的方式，将安迪·沃霍尔融入历史与艺术场景，这种互动式的艺术探索，让艺术史变得触手可及。两本书都以独特视角展现了艺术的魅力，一本是深沉的个人创作，一本是活泼的文化互动，共同提醒我们艺术无处不在，形式多样。",
-    "best_quote_en": "The image remains in the mind even after closing the book as a quiet and powerful document of a humble genius who gave shape to his imagination with the simplest of resources.",
-    "best_quote_zh": "合上书后，那幅画面依然萦绕脑海，它以一种安静而有力的方式记录了一位谦逊的天才，他用最简单的资源塑造了自己的想象力。"
-  },
-  {
     "id": 515,
     "title": "You be the judge: should my husband stop expecting me to come to all his family gatherings?",
     "title_zh": "你来评判：我丈夫是否应该停止期待我参加他所有的家庭聚会？",
@@ -2300,5 +2184,119 @@
     "summary_zh": "蒂姆·麦格劳的访谈不仅是其音乐生涯的里程碑回顾，更是一场关于生命、毅力与自我发现的深刻对话。他坦诚分享了从20美元吉他起步的草根经历，妻子费丝·希尔如何成为他戒酒路上的磐石，以及在身体伤痛中如何坚持舞台表演。最触动人心的是他与生父之间复杂却充满希望的连接，这无疑塑造了他独特的韧性。这场对话不仅揭示了艺术成长中的抉择与挑战，也强调了自我掌控、拒绝诱惑和保持谦逊善良的重要性。这是一段关于如何在喧嚣中坚守本心，并在生活中不断寻找“希望”的动人故事。",
     "best_quote_en": "If everything else is gone, if you've got hope, you've still got a chance.",
     "best_quote_zh": "如果其他一切都消失了，只要你还有希望，你就仍有机会。"
+  },
+  {
+    "id": 610,
+    "title": "I confessed a deplorable secret about motherhood to a friend – and it changed my life | Polly Hudson",
+    "title_zh": "我向朋友坦白了一个关于母亲身份的可悲秘密——它改变了我的人生 | 波莉·哈德森",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/03/motherhood-secret-if-i-had-legs-id-kick-you",
+    "tags": [
+      "solve",
+      "society",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "Polly Hudson's article profoundly explores the often-unspoken struggles of early motherhood, sparked by the 'mum noir' film 'If I Had Legs I’d Kick You'. She candidly shares her own devastating epiphany of regretting motherhood shortly after birth, a feeling intensified by societal pressures to experience only bliss. The piece highlights the critical importance of honesty and open dialogue about the challenging, monotonous, and identity-erasing aspects of being a new mother. Hudson argues that suppressing these truths does a disservice to other women, advocating for a more realistic portrayal of motherhood that encompasses its complex spectrum of emotions, from despair to joy. Her personal confession to a friend, met with understanding rather than judgment, proved transformative, underscoring the power of shared experience and validation in navigating this profound life change.",
+    "summary_zh": "波莉·哈德森的这篇文章，以一部“妈妈黑色电影”为引，坦诚揭示了新手妈妈们不为人知的挣扎与内心冲突。她直言不讳地分享了自己初为人母时的“可怕错误”感，以及社会对母亲“必须幸福”的无形压力。这种真诚的剖析，让我深思：我们是否剥夺了女性公开谈论母职阴暗面的权利？作者与朋友的坦白经历，获得了理解而非评判，这不仅治愈了她，也点亮了我们：真实的声音，才能带来真正的连接与支持。母爱并非只有光鲜一面，承认其复杂性，才是对所有母亲最大的尊重与赋能。",
+    "best_quote_en": "There’s a lot of shame. You don’t want to feel like you don’t love your child, but there is a grief around becoming a mother, because you lose part of yourself that you will never, ever, ever, ever, ever get back. And that’s OK. It’s OK to grieve that – in fact, we should. Because it’s a before and an after.",
+    "best_quote_zh": "有很多羞耻感。你不想觉得自己不爱自己的孩子，但成为母亲伴随着一种悲伤，因为你失去了自己的一部分，而这部分你将永远、永远、永远、永远、永远找不回来。没关系。为之悲伤是可以的——事实上，我们应该这样做。因为这是一个“之前”和“之后”。"
+  },
+  {
+    "id": 611,
+    "title": "The High-Res Society",
+    "title_zh": "高分辨率社会",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/highres.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-17",
+    "summary_en": "This essay critically examines the historical shift from large, hierarchical organizations dominating society to a future shaped by fluid networks of smaller, autonomous units. The author provocatively argues that the 'bigger-is-better' paradigm, which held sway for millennia, is now being inverted, particularly by the rise of technology startups. This shift is not merely economic but deeply social, challenging established traditions and power structures. The piece offers a compelling, future-focused perspective on how ambitious individuals are increasingly drawn to startups rather than traditional corporations, and how this trend, though currently niche, could fractally expand to redefine the global economy and societal norms. It also thoughtfully addresses why this transformation is not universally adopted, highlighting the social impedance in societies valuing hierarchy over agility.",
+    "summary_zh": "这篇文章深刻剖析了社会组织模式从大型科层制向小型、自治网络演变的趋势，并提出“大即是好”的千年法则正在被颠覆。作者的洞察力令人信服，特别是他强调了科技创业公司如何成为这一变革的先锋。这不仅仅是经济效率的转变，更是一种深层的社会重构，挑战着根深蒂固的传统。我尤其欣赏作者对未来图景的描绘：一个由无数充满活力的创业单元构成的“高分辨率社会”。这种思维方式不仅启发我们重新思考职业选择，更促使我们反思社会结构如何适应这种新型的、去中心化的增长模式。",
+    "best_quote_en": "For the future, the trend to bet on seems to be networks of small, autonomous groups whose performance is measured individually. And the societies that win will be the ones with the least impedance.",
+    "best_quote_zh": "未来，值得关注的趋势似乎是小型、自主群体的网络，它们的绩效将单独衡量。而获胜的社会将是阻力最小的社会。"
+  },
+  {
+    "id": 612,
+    "title": "NEST: Nascent Encoded Steganographic Thoughts",
+    "title_zh": "NEST: 初生编码隐写思想",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MZPfAEMyQtbSyfpe9/nest-nascent-encoded-steganographic-thoughts",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-17",
+    "summary_en": "This insightful analysis delves into the nascent capabilities of Large Language Models (LLMs) to perform steganographic encoding, specifically distinguishing it from concepts like dog-whistling, ciphered reasoning, and gaslighting. The author rigorously tests frontier models on steganographic tasks, finding that while they fail at complex math problems with hidden encodings, they show promising 'nascent ability' in simpler counting tasks. Claude Opus 4.5, for instance, achieved high per-number accuracy in acrostic-based numerical encoding. The paper also highlights intriguing model behaviors, such as GPT-5.2's refusal of steganographic instructions while partially complying. The author speculates on 'parasitic stego CoT' in multi-agent AI systems, offering a novel perspective on how hidden reasoning might emerge. This work provides critical insights into the evolving landscape of LLM capabilities and the challenges for AI safety and monitoring.",
+    "summary_zh": "这篇分析深入探讨了大型语言模型（LLMs）进行隐写编码的萌芽能力，并将其与“狗哨”、加密推理和煤气灯效应等概念明确区分开来。作者通过对前沿模型进行严格的隐写任务测试，发现它们在复杂的数学隐写问题上表现不佳，但在简单的计数任务中展现出“初步能力”，例如Claude Opus 4.5在基于离合诗的数字编码中取得了很高的准确率。文章还揭示了模型有趣的表现，如GPT-5.2在拒绝隐写指令的同时又部分遵守。作者对多智能体AI系统中的“寄生隐写思维链”进行了推测，为隐藏推理的产生提供了新颖的视角。这项工作为LLM能力演进及其对AI安全监控的挑战提供了重要见解。",
+    "best_quote_en": "My impression is that current models cannot maintain reasoning accuracy under the constraint of simultaneous steganographic encoding.",
+    "best_quote_zh": "我的印象是，当前模型在同时进行隐写编码的约束下，无法保持推理的准确性。"
+  },
+  {
+    "id": 613,
+    "title": "What the Royal Family’s Links to Slavery Mean in the Age of Epstein",
+    "title_zh": "王室与奴隶制的联系在爱泼斯坦时代意味着什么",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-uk/what-the-royal-familys-links-to-slavery-mean-in-the-age-of-epstein",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-16",
+    "summary_en": "This compelling analysis draws a disturbing parallel between the British Royal Family's historical entanglement with the transatlantic slave trade and Prince Andrew's recent association with Jeffrey Epstein. It critically examines the monarchy's consistent attempts to distance itself from accountability, both for past atrocities and contemporary scandals, by framing individual actions as separate from the institution. The article highlights how figures like the Duke of York, both in the 17th century with the Royal African Company and in the 21st century with Epstein, embody a pattern of exploitation and the commodification of human lives, often under the guise of royal patronage. It argues that the Crown's continuity inherently links its past to its present, making the 'de-royalling' of individuals like Prince Andrew an ultimately futile exercise in historical erasure. The piece challenges readers to confront the uncomfortable truth that the power and privilege associated with royalty have historically been intertwined with systems of oppression and silence.",
+    "summary_zh": "这篇文章深刻剖析了英国王室在奴隶贸易和爱泼斯坦事件中的角色，令人不寒而栗。作者巧妙地将17世纪约克公爵在皇家非洲公司中的作为，与当代安德鲁王子卷入爱泼斯坦丑闻相提并论，揭示了王室试图将个人行为与机构责任剥离的持续模式。这种“去王室化”的尝试，在我看来，不过是历史性逃避责任的又一例证。文章最终迫使我们思考，王权的核心是否始终与某种形式的压迫和沉默共生，并质疑这种延续性本身。这不仅仅是关于历史，更是关于权力、责任和我们如何面对那些令人不安的遗产。",
+    "best_quote_en": "It is not a coincidence that, through the centuries, people who are objectified for their bodies and blood set out to objectify others in turn, whether through the ministrations of the Royal African Company or Jeffrey Epstein’s e-mail account. It is not a mistake to draw a line from that Duke of York to this Duke of York. It is what the Crown asks us to do every day. It is simply to accept the premise that there are Dukes of York at all.",
+    "best_quote_zh": "通过几个世纪，那些因其身体和血统而被物化的人，反过来也会物化他人，无论是通过皇家非洲公司的服务，还是杰弗里·爱泼斯坦的电子邮件账户，这并非巧合。将那个约克公爵与这个约克公爵联系起来并非错误。这正是王室每天要求我们做的。这仅仅是接受约克公爵本身就存在的这个前提。"
+  },
+  {
+    "id": 614,
+    "title": "Fertilizer",
+    "title_zh": "肥料与园艺工具",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/fertilizer/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究"
+    ],
+    "date": "2026-02-16",
+    "summary_en": "This piece offers a fascinating exploration into unconventional gardening practices and essential tools. The segment on utilizing urine as a 'liquid gold' fertilizer is particularly intriguing, challenging conventional notions of waste and highlighting its historical and practical applications, supported by scientific insights into pathogen safety and nutrient delivery. It provides actionable advice on dilution and application, making a compelling case for its efficiency in plant growth. The subsequent reviews of various pruning tools—Fiskars PowerGear, Fiskars Micro-Tip Snip, and Felco Pruners—offer practical guidance for gardeners. Each tool is evaluated for its ergonomic design, specific utility (from heavy-duty to precision work), and overall value, reflecting a deep understanding of gardening needs. This collection of insights goes beyond mere product reviews, fostering a more resourceful and efficient approach to gardening.",
+    "summary_zh": "这篇文章对园艺实践提出了新颖的视角，尤其令人着迷的是将尿液作为“液体黄金”肥料的探讨。它不仅颠覆了我们对废物的传统认知，还通过科学论证其安全性与高效性，提供了具体的应用方法，这无疑是对可持续生活方式的一种启发。随后对多款修剪工具的深度评测，从人体工学到具体用途，都体现了作者对园艺细节的独到见解。读罢此文，我不仅对园艺有了更开阔的思路，也对如何更巧妙地利用资源产生了浓厚兴趣，这远不止是工具推荐，更是一种生活智慧的传递。",
+    "best_quote_en": "Applying urine to leaves, not roots, is its most effective use, according to Paul William. 'Foliar feeding is much more efficient at stimulating plant growth than fertilizing via the root system only,' he says. 'The leaves respond within hours ofthe application.'",
+    "best_quote_zh": "据保罗·威廉说，将尿液施用于叶片而非根部，是其最有效的利用方式。他说：“叶面施肥在刺激植物生长方面比仅通过根系施肥效率高得多。”“叶片在施用后数小时内就会有反应。”"
   }
 ]
