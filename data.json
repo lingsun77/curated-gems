@@ -1,123 +1,5 @@
 [
   {
-    "id": 515,
-    "title": "You be the judge: should my husband stop expecting me to come to all his family gatherings?",
-    "title_zh": "你来评判：我丈夫是否应该停止期待我参加他所有的家庭聚会？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/jan/29/you-be-the-judge-should-my-husband-stop-expecting-me-to-come-to-all-his-family-gatherings",
-    "tags": [
-      "solve",
-      "society",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "This article presents a compelling domestic dispute between Chloe, who values her independence and personal space, and Edwin, whose large Colombian family is central to his identity. The core conflict arises from Edwin's expectation for Chloe to attend all family gatherings, which Chloe perceives as thoughtless and formal, especially given her past trauma and independent nature. Edwin, conversely, views her attendance as a symbol of their unity and inclusion, feeling embarrassed when she's absent. The piece insightfully highlights how differing family backgrounds and attachment styles profoundly impact relationship dynamics, especially concerning social obligations and the need for personal boundaries. It's a nuanced look at the tension between individual needs and partner expectations, offering valuable lessons on communication and empathy in relationships.",
-    "summary_zh": "这篇文章呈现了一场引人深思的家庭冲突，核心在于伴侣双方对家庭参与的不同期待。Chloe渴望独立空间，而Edwin则希望她能融入他庞大的家庭。这不仅仅是简单的喜好差异，更深层地反映了各自的成长经历和依恋模式如何塑造了他们对“家庭”和“伴侣”的理解。读完不禁让人思考，在亲密关系中，我们如何平衡自我需求与伴侣的期望，以及原生家庭对个人行为模式的深远影响。这不只是一场争论，更是对理解与包容的深刻探讨。",
-    "best_quote_en": "When I ask her to come to family events, it’s not about wheeling her out like a prop. It’s about inclusion, showing everyone that I have my person and that she’s part of us.",
-    "best_quote_zh": "当我让她来参加家庭活动时，这并不是把她像道具一样推出去。这是关于包容，向所有人展示我拥有我的伴侣，而她是我们的一部分。"
-  },
-  {
-    "id": 516,
-    "title": "The List of N Things",
-    "title_zh": "N件事列表",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nthings.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "This insightful essay deconstructs the ubiquitous 'list of N things' format, prevalent in popular media and even academic writing. The author provocatively argues that its popularity stems from its inherent simplicity for both readers and writers: it provides an explicit, compartmentalized structure that reduces cognitive load, offers fault tolerance, and is easy to generate, especially under pressure. While acknowledging its utility for genuinely cataloging independent items, the piece critically examines its limitations, particularly its dishonesty when claiming exhaustiveness and its inherent restriction on genuine new thought and dynamic exploration—the very essence of a true essay. The analogy to a 'cheeseburger of essay forms' is particularly apt, highlighting its reliability for both the uninspired writer and the skeptical reader, yet underscoring its lack of intellectual ambition. The author’s critique extends to the traditional five-paragraph essay, exposing its hidden 'list of N things' structure and the disservice of not openly teaching its strengths and weaknesses to new writers.",
-    "summary_zh": "这篇文章对随处可见的“N件事列表”体裁进行了鞭辟入里的剖析。作者独到地指出，这种格式之所以流行，在于其为读者和作者都提供了极大的便利：结构清晰、易于消化、抗错性强，且便于快速产出。然而，其核心洞察在于批判这种格式对深度思考的限制，它像一个预设好的容器，阻碍了思想的自由流动和真正新颖观点的生成。将它比作“散文界的芝士汉堡”，不仅形象地描绘了它的普及性和低风险性，也暗示了其在思想深度上的平庸。我特别欣赏作者对传统五段式作文的解构，揭示了其本质上也是一种“N件事列表”，并呼吁更坦诚地教授其优缺点，这无疑是对写作教育的一次深刻反思。",
-    "best_quote_en": "The greatest weakness of the list of n things is that there's so little room for new thought. The main point of essay writing, when done right, is the new ideas you have while doing it.",
-    "best_quote_zh": "N件事列表最大的弱点在于它几乎没有产生新思想的空间。真正好的散文写作，其核心在于你在写作过程中所产生的新想法。"
-  },
-  {
-    "id": 517,
-    "title": "The Cruel Conditions of ICE’s Mojave Desert Detention Center",
-    "title_zh": "ICE莫哈韦沙漠拘留中心的残酷条件",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-cruel-conditions-of-ices-mojave-desert-detention-center",
-    "tags": [
-      "analyze",
-      "medicine",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "This article exposes the horrific medical neglect and inhumane conditions at ICE's California City Detention Facility, arguing that these cruelties are intentionally weaponized to coerce self-deportations. Through harrowing personal accounts of detainees like Karam, Roque Campos, and Viera Reyes, the piece details systemic denial of medication, delayed medical appointments, and unsanitary living conditions, leading to severe health deterioration and psychological distress. It critically examines the role of CoreCivic, a for-profit prison company, in operating the facility in alleged violation of state and local laws, driven by revenue motives. The analysis also highlights the federal administration's punitive approach to immigration, creating an environment where ICE staff feel emboldened to act aggressively without accountability, transforming civil detention into a 'torture chamber.' The article raises profound questions about human rights, corporate ethics, and governmental oversight in the context of immigration enforcement.",
-    "summary_zh": "这篇文章揭露了ICE加州城拘留中心令人发指的医疗忽视和非人道待遇，指出这些残酷条件被蓄意用作强迫被拘留者“自我遣返”的武器。通过卡拉姆、罗克·坎波斯和维埃拉·雷耶斯等被拘留者的悲惨经历，文章详细描述了系统性的医疗药物拒绝、医疗预约延误以及不卫生的生活条件，导致严重的健康恶化和心理困扰。它深入探讨了营利性监狱公司CoreCivic在涉嫌违反州和地方法律的情况下运营该设施的角色，其背后是巨大的经济利益驱动。文章还批判了联邦政府对移民采取的惩罚性措施，这种政策助长了ICE工作人员肆无忌惮的侵略性行为，使民事拘留中心沦为“人间地狱”。这引发了对移民执法中人权、企业伦理和政府监管的深刻反思。",
-    "best_quote_en": "“California City is extraordinarily isolated, it is extraordinarily brutal and cruel, it is extraordinarily deprived of adequate medical care.”",
-    "best_quote_zh": "“加州城极度孤立，极度残酷和残忍，极度缺乏足够的医疗保障。”"
-  },
-  {
-    "id": 518,
-    "title": "What’s in my NOW? — Jayme Boucher",
-    "title_zh": "我现在的“NOW”是什么？— Jayme Boucher",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-jayme-boucher/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "This piece offers a delightful glimpse into Jayme Boucher's current fascinations, spanning physical objects, digital tools, and an impactful 'invisible' philosophy. What's compelling isn't just the curated list, but the personal narrative woven through each recommendation—from the joy of gifting Penzy's Spices to the therapeutic gaze upon a wave study, or the covetous acquisition of a Le Creuset braiser. Digitally, her appreciation for Dungeon Scrawl and the insightful writings of Hanif Abdurraqib reveal a blend of creative escapism and intellectual engagement. The overarching theme, crystallized by the quote \"Now will never come again,\" provides a poignant reminder of presence and intentionality. It's a testament to how seemingly disparate interests can coalesce into a meaningful reflection of one's current self, offering readers both practical suggestions and a subtle nudge towards mindful living.",
-    "summary_zh": "Jayme Boucher的“NOW”清单，与其说是一份推荐，不如说是一面映射当下心境的镜子。从厨房里的香料与奢华厨具，到数字世界的D&D地图工具和文学洞察，再到那句“当下不复再来”的哲思，每一项都流露出她对生活的热爱与对细节的考究。这不仅仅是物品与工具的罗列，更是她个人价值观和生活哲学的生动体现。它提醒我们，真正的“现在”是由我们选择投入精力、感受喜悦的那些瞬间所构成的，充满着发现与创造的可能。",
-    "best_quote_en": "“Now will never come again.”",
-    "best_quote_zh": "“当下不复再来。”"
-  },
-  {
-    "id": 519,
-    "title": "The Merge",
-    "title_zh": "融合",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-merge",
-    "tags": [
-      "inspire",
-      "design",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2017-12-07",
-    "summary_en": "This thought-provoking piece challenges the conventional understanding of the 'singularity' or 'merge' between humans and machines, arguing that it's not a future event but a gradual process already underway. The author compellingly illustrates how our daily lives are intertwined with algorithms that subtly dictate our behaviors and thoughts, highlighting the invisible yet profound influence of AI. The article delves into the inevitability of superhuman AI and genetic enhancement, urging a shift from human arrogance to a pragmatic view of co-evolution. It posits that a 'merge' is not only probable but perhaps the most desirable outcome for humanity's survival and dominance, advocating for global coordination to navigate this transformative era. The personal reflection on attention hacking as a 'sugar epidemic' adds a poignant and relatable dimension to the broader technological discourse.",
-    "summary_zh": "这篇文章对人类与机器的“融合”提出了深刻见解，认为这并非未来科幻，而是正在发生的渐进过程。作者以个人化的视角，剖析了算法如何悄然塑造我们的行为与思维，令人警醒。它不仅探讨了超人类AI和基因增强的必然性，更呼吁我们放弃人类中心主义的傲慢，积极思考如何与AI共存。文章提出，“融合”或许是人类生存的最佳路径，并强调全球协作应对这一变革的紧迫性。末尾对“注意力黑客”的个人反思，更是触动人心，令人深思数字时代对我们心智的深远影响。",
-    "best_quote_en": "We will be the first species ever to design our own descendants. My guess is that we can either be the biological bootloader for digital intelligence and then fade into an evolutionary tree branch, or we can figure out what a successful merge looks like.",
-    "best_quote_zh": "我们将是第一个设计自己后代的物种。我猜测，我们要么成为数字智能的生物引导程序，然后淡出进化树的一个分支，要么我们能找出成功的融合是什么样子。"
-  },
-  {
     "id": 520,
     "title": "Pregnant, 19 and facing down a mutiny: how did Mary Ann Patten steer her way into seafaring lore?",
     "title_zh": "怀孕、19岁、面临兵变：玛丽·安·帕滕如何驾驭航海传奇？",
@@ -2298,5 +2180,121 @@
     "summary_zh": "这篇文章对园艺实践提出了新颖的视角，尤其令人着迷的是将尿液作为“液体黄金”肥料的探讨。它不仅颠覆了我们对废物的传统认知，还通过科学论证其安全性与高效性，提供了具体的应用方法，这无疑是对可持续生活方式的一种启发。随后对多款修剪工具的深度评测，从人体工学到具体用途，都体现了作者对园艺细节的独到见解。读罢此文，我不仅对园艺有了更开阔的思路，也对如何更巧妙地利用资源产生了浓厚兴趣，这远不止是工具推荐，更是一种生活智慧的传递。",
     "best_quote_en": "Applying urine to leaves, not roots, is its most effective use, according to Paul William. 'Foliar feeding is much more efficient at stimulating plant growth than fertilizing via the root system only,' he says. 'The leaves respond within hours ofthe application.'",
     "best_quote_zh": "据保罗·威廉说，将尿液施用于叶片而非根部，是其最有效的利用方式。他说：“叶面施肥在刺激植物生长方面比仅通过根系施肥效率高得多。”“叶片在施用后数小时内就会有反应。”"
+  },
+  {
+    "id": 615,
+    "title": "Campaign urges NHS to improve diagnosis of potentially life-threatening childbirth condition",
+    "title_zh": "英国国民医疗服务体系（NHS）被敦促改进对潜在致命分娩并发症的诊断",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/18/campaign-nhs-diagnosis-childbirth-condition-placenta-accreta",
+    "tags": [
+      "analyze",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-02-18",
+    "summary_en": "This article sheds light on the critical issue of placenta accreta spectrum (PAS) within the NHS, prompted by Amisha Adhia's harrowing experience of near-fatal misdiagnosis. It highlights a systemic failure in recognizing and managing a condition whose prevalence is rising due to increased C-sections and IVF, yet remains under-diagnosed. The piece powerfully argues for improved diagnostic protocols and specialist training, emphasizing the life-saving impact of early intervention. The personal narrative underscores the emotional toll on patients, revealing a healthcare system struggling to adapt to evolving obstetric challenges. It's a compelling call to action for policy makers and medical professionals to address a significant gap in maternal care, ultimately advocating for better patient safety and outcomes.",
+    "summary_zh": "读完Amisha Adhia的故事，心中五味杂陈。一位母亲的生死经历，揭示了NHS在诊断胎盘植入方面的系统性缺陷。随着剖腹产和试管婴儿的增多，这种潜在致命的并发症日益普遍，但医疗体系的响应却滞后。这不仅仅是一个医疗失误，更是对患者声音的忽视和对生命风险的低估。她的勇敢发声，无疑是对整个医疗体系的当头棒喝，敦促我们深思如何改进孕产妇护理，确保每一位准妈妈都能得到及时、准确的诊断和救治。这篇报道不仅传递了信息，更传递了一种对生命负责的沉重呼唤。",
+    "best_quote_en": "“I am alive today because Dr Otigbah recognised the danger and acted. I was repeatedly told that I had almost zero risk of placenta accreta as my placenta was high up, rather than low lying. But it was there and it was deeply invasive. I was reassured into danger. I was carrying a condition that could have killed us both. I felt unheard. I thought I was going to die.”",
+    "best_quote_zh": "“我今天能活着，是因为Otigbah医生认识到了危险并采取了行动。我被反复告知，我的胎盘位置较高，几乎没有胎盘植入的风险。但它确实存在，而且侵入性很深。我被安抚着走向危险。我身怀的状况可能要了我们俩的命。我觉得我的声音没有被听到。我以为我要死了。”"
+  },
+  {
+    "id": 616,
+    "title": "The Other Half of \"Artists Ship\"",
+    "title_zh": "“艺术家交付”的另一半",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/artistsship.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-02-18",
+    "summary_en": "This insightful essay critically examines the often-overlooked costs associated with organizational 'checks' or procedures, arguing that while intended to prevent mistakes, they frequently lead to massive inefficiencies, increased expenses, and stifle innovation. The author provides compelling examples, from supplier solvency checks to software procurement committees and government regulations like Sarbanes-Oxley, demonstrating how these mechanisms paradoxically achieve the opposite of their intended purpose. A particularly engaging point is the impact on programmers, who thrive on rapid deployment and are severely demotivated by bureaucratic hurdles. The piece provocatively suggests that good programmers value the ability to 'ship' so highly they'd sacrifice significant compensation, underscoring a profound disconnect between corporate control mechanisms and creative output. This analysis compels a re-evaluation of organizational friction and its true economic and human cost.",
+    "summary_zh": "这篇文章深刻剖析了企业和组织中普遍存在的“检查”机制，指出其看似谨慎，实则往往带来巨大的隐性成本和效率低下。作者通过供应商审核、软件采购审批乃至政府监管等案例，揭示了这些旨在规避错误的流程，反而可能导致高昂的代价，甚至扼杀创新。尤其令人深思的是对程序员群体的影响：优秀开发者渴望快速交付，层层审批不仅降低效率，更磨灭了他们的创造热情。文章的结论振聋发聩：如果你不让“艺术家交付”，你就留不住艺术家。这促使我们反思，组织管理中的“安全”与“效率”之间，是否存在更明智的平衡点。",
+    "best_quote_en": "Steve Jobs's famous maxim 'artists ship' works both ways. Artists aren't merely capable of shipping. They insist on it. So if you don't let people ship, you won't have any artists.",
+    "best_quote_zh": "史蒂夫·乔布斯那句著名的格言“艺术家交付”是双向的。艺术家不仅仅有能力交付。他们坚持要交付。所以如果你不让人们交付，你就不会拥有任何艺术家。"
+  },
+  {
+    "id": 617,
+    "title": "Statistical Literacy",
+    "title_zh": "统计素养",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/uJqxbwKzXrQau2cCH/statistical-literacy",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-18",
+    "summary_en": "This article delves into the elusive concept of \"statistical literacy,\" defining it not as a mastery of statistical tools but as an intuitive understanding of process variation and the comparative influence of different sources of variation. The author provocatively argues that this mindset, akin to the historical shift from dogmatic theology to rationalism, represents an emerging \"spirit of empiricism\" that subordinates reason to indeterminism and outcome study. It highlights how statistical illiteracy can lead to misinterpretations of causality and an overemphasis on deterministic thinking, even among educators. The piece calls for a cultural shift in training to cultivate this essential skill, positing it as a crucial developmental milestone for navigating an increasingly data-driven world. The author's candid admission of still grappling with the concept adds a compelling layer of intellectual honesty.",
+    "summary_zh": "这篇文章探讨了“统计素养”这一难以捉摸的概念，认为它并非统计工具的掌握，而是对过程变异及其来源影响的直观理解。作者大胆提出，这是一种新兴的“经验主义精神”，将理性置于不确定性和结果研究之下，正如历史上的理性主义兴起。我深以为然，在数据爆炸的时代，这种思维方式确实是洞察世界、做出明智决策的关键。文章揭示了统计素养缺失如何导致对因果关系的误判和对确定性的过度执着，甚至在教育领域也普遍存在。这不仅是对个人认知能力的挑战，更是对社会文化和教育体系的反思。培养统计素养，或许是未来几个世纪文明演进的重要标志。",
+    "best_quote_en": "The spirit of Empiricism, by which I understand not any class of definite doctrines or criticisms, but rather a certain cast of thought, or bias of reasoning, which will during the next three centuries gain a marked ascendancy worldwide.",
+    "best_quote_zh": "经验主义精神，我所理解的并非任何一类明确的教条或批评，而是一种特定的思维模式，一种推理偏见，它将在未来三个世纪里在全球范围内获得显著的主导地位。"
+  },
+  {
+    "id": 618,
+    "title": "Remembering the Filmmaker Frederick Wiseman",
+    "title_zh": "缅怀电影制作人弗雷德里克·怀斯曼",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/culture/the-front-row/why-frederick-wiseman-was-the-greatest-documentary-filmmaker-ever",
+    "tags": [
+      "analyze",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-17",
+    "summary_en": "This piece offers a profound tribute to Frederick Wiseman, hailed as the greatest documentary filmmaker. It delves into his extraordinary six-decade career, highlighting his unique approach to nonfiction filmmaking where he meticulously probed the intricate power dynamics within social and political institutions. The author emphasizes Wiseman's intellectual rigor, his ability to transform raw observation into a quasi-literary exploration, and his pioneering use of early cinéma vérité technology. What's truly compelling is the insight into how Wiseman, despite his objective lens, infused his personal vision and intellectual curiosity into every frame, creating an unparalleled cinematic archive of real-time social phenomena. His films, often lengthy and deeply analytical, stand as a testament to his unwavering commitment to uncovering the hidden structures that govern human experience, making his work not just documentation but a profound act of intellectual engagement.",
+    "summary_zh": "这篇文章是对纪录片大师弗雷德里克·怀斯曼的深刻缅怀。作者不仅赞颂了他六十年间近乎偏执的创作生涯，更深入剖析了他如何以独特的视角和方法，将非虚构电影提升至艺术与思想的殿堂。怀斯曼的伟大在于他不仅记录了机构的运作，更是在其中注入了强烈的个人思考和哲学深度，如福柯般解剖权力与知识的交织。他的作品不仅仅是影像，更是对社会肌理的细致观察与批判性反思，让人不禁思考，真正的艺术是否就是这种将生命与创作全然融合的极致投入。",
+    "best_quote_en": "Wiseman brought intellectual form to nonfiction through the single word “institutions,” a concept that carried the philosophical heft of the contemporaneous work of Michel Foucault; Wiseman similarly probed the intersections of systems of knowledge and power, and drew attention to the physical authority that ultimately backs up the abstract determinations of administrative rules.",
+    "best_quote_zh": "怀斯曼通过“机构”一词为非虚构作品赋予了知识形式，这个概念承载着与米歇尔·福柯同时期作品相同的哲学分量；怀斯曼也同样探究了知识和权力体系的交汇点，并关注了最终支持行政规则抽象决定的实体权威。"
+  },
+  {
+    "id": 619,
+    "title": "Batmanga Vol. 1 / Vader",
+    "title_zh": "蝙蝠侠漫画卷1 / 达斯·维德",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/batmanga-vol-1-vader/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-02-17",
+    "summary_en": "This content provides a dual review of two distinct graphic novels: Jiro Kuwata's 'Batmanga Vol. 1' and Marvel's 'Vader: Star Wars Darth Vader Vol. 1'. The Batmanga review highlights its campy, humorous, 1960s-style Japanese take on Batman, emphasizing its unique art style and how it effectively uses Batman's detective skills. It's noted for being a fresh perspective for those familiar only with modern Batman. The Vader review delves into the graphic novel's exploration of Darth Vader's perspective immediately after the events of 'A New Hope', focusing on his quest for vengeance and demotion by the Emperor. Both reviews praise the artwork and storytelling, offering insights into each comic's value for fans of their respective franchises. It's fascinating how both titles reinterpret iconic characters through different cultural and narrative lenses, offering a rich experience for comic enthusiasts.",
+    "summary_zh": "这篇文章评论了两部截然不同的漫画：日本的《蝙蝠侠漫画卷1》和漫威的《达斯·维德：星球大战达斯·维德卷1》。《蝙蝠侠漫画》以其上世纪60年代的日式幽默和侦探元素独树一帜，令人耳目一新。而《维德》则深入探讨了《新希望》事件后维德的复仇与失势，从反派视角重构经典故事，充满张力。两部作品都通过独特的艺术风格和叙事手法，为读者带来了对经典角色全新的理解和体验，这无疑是对漫画创作多样性的一次精彩呈现。",
+    "best_quote_en": "If you’re a fan of manga or Batman, or hopefully both, you owe it to yourself to check this out. / Much of what happened prior to this book is referenced here by taking out Luke and inserting Vader into the scenes as everything is told from his perspective.",
+    "best_quote_zh": "如果你是漫画或蝙蝠侠的粉丝，或者两者皆是，你都应该去看看。/ 之前发生的大部分事件都在这本书中被提及，通过将卢克替换为维德，所有故事都从他的视角展开。"
   }
 ]
