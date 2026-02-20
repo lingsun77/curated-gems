@@ -1,123 +1,5 @@
 [
   {
-    "id": 525,
-    "title": "What Kate Saw in Silicon Valley",
-    "title_zh": "凯特在硅谷的所见所闻",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kate.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-01-31",
-    "summary_en": "This piece offers a fascinating, almost ethnographic, perspective on Silicon Valley's startup culture through the fresh eyes of an architect, Kate Courteau. Her observations, ranging from the high failure rate of startups and the necessity of rapid iteration to the 'scrappy' nature of founders and the pervasive tech-centric environment, provide a candid snapshot of the ecosystem. It's particularly insightful to see how ingrained traits like adaptability and resourcefulness, often undervalued elsewhere, are celebrated here. The author's commentary further amplifies these points, suggesting that startup culture isn't just a subculture but potentially a leading indicator of future work paradigms. The contrast with the 'normal' world, as perceived by an architect, highlights the unique demands and rewards of the startup journey, making this a valuable reflection for anyone interested in entrepreneurship.",
-    "summary_zh": "这篇文章通过一位建筑师凯特·库尔托的视角，为我们描绘了一幅生动的硅谷创业文化图景。她对创业公司高失败率、快速迭代的必要性、创始人“不修边幅”的特质以及技术渗透的观察，读来令人深思。我特别欣赏作者对“scrappy”（不修边幅但充满韧性）这一特质的解读，它揭示了在硅谷被推崇而在其他领域可能被忽视的宝贵品质。这不仅是对创业生态的一次深度剖析，更让我反思了传统工作模式与未来趋势的对比，或许创业文化 indeed 是一种前瞻性的社会指标。",
-    "best_quote_en": "Starting a startup is like science in that you have to follow the truth wherever it leads.",
-    "best_quote_zh": "创办一家初创公司就像科学一样，你必须追随真理，无论它将你引向何方。"
-  },
-  {
-    "id": 526,
-    "title": "Senior Researcher - MIT AI Risk Initiative",
-    "title_zh": "麻省理工学院AI风险计划高级研究员",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/miMetJGhsGBEyxJFe/senior-researcher-mit-ai-risk-initiative",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-30",
-    "summary_en": "This content outlines a senior researcher position at the MIT AI Risk Initiative, a critical role focused on understanding and mitigating the multifaceted risks associated with advanced AI capabilities. The initiative aims to provide actionable insights for policymakers, industry, and civil society by developing a risk repository, incident tracker, and mitigation database. The researcher will lead systematic reviews, conduct surveys, and translate complex findings into practical decision-support tools. This position is vital for shaping responsible AI development, addressing information gaps in risk management, and fostering a safer technological future. The emphasis on interdisciplinary collaboration and stakeholder engagement highlights the complexity and importance of the work.",
-    "summary_zh": "麻省理工学院AI风险计划正在招聘一名高级研究员，以应对AI能力快速发展带来的关键风险。这份内容详细描述了该职位，它不仅仅是一份工作，更是站在科技前沿，通过严谨的研究和跨领域合作，为AI风险管理提供决策支持。这不仅关乎技术发展，更关乎社会福祉与未来安全，对于构建负责任的AI生态系统具有深远意义。我对此类能将前瞻性研究转化为实际影响的工作充满敬意。",
-    "best_quote_en": "As AI capabilities rapidly advance, we face critical information gaps in effective AI risk management: What are the risks from AI, which are most important, and what are the critical gaps in response?",
-    "best_quote_zh": "随着人工智能能力的迅速发展，我们在有效的人工智能风险管理方面面临关键的信息空白：人工智能的风险是什么，哪些最重要，以及应对中的关键空白是什么？"
-  },
-  {
-    "id": 527,
-    "title": "Miami’s Haitian Community Braces for Deportations",
-    "title_zh": "迈阿密海地社区面临驱逐出境的威胁",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/miamis-haitian-community-braces-for-deportations",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-01-30",
-    "summary_en": "This deeply moving piece highlights the precarious situation of Miami's Haitian community as the Trump Administration plans to terminate Temporary Protected Status (TPS). It masterfully weaves personal narratives with the broader political and historical context, emphasizing the profound contributions of Haitian immigrants to American society and the catastrophic consequences of forced repatriation to a nation grappling with severe humanitarian crises and political instability. The article critically examines the shifting political stances of US administrations towards Haitian immigrants, revealing a pattern of broken promises and the weaponization of immigration policy. It's a poignant exploration of resilience, fear, and the relentless pursuit of human dignity against a backdrop of systemic uncertainty and political maneuvering. The personal stories, like Corinne's, underscore the immense human cost of these policies, transforming abstract political decisions into tangible struggles for survival and future aspirations.",
-    "summary_zh": "这篇文章深刻揭示了迈阿密海地社区所面临的严峻困境，特朗普政府终止“临时保护身份”（TPS）的计划，让数十万海地移民的未来悬而未决。作者巧妙地将个人故事与宏大的政治及历史背景交织，不仅凸显了海地移民对美国社会的巨大贡献，也警示了强制遣返对一个深陷人道主义危机和政治动荡的国家将带来何等灾难。读罢，我深感政策的冷酷与人性的温暖形成鲜明对比，那些为生活拼搏、为梦想奋斗的个体，在政治博弈中显得如此脆弱，却又如此坚韧。这不仅仅是一篇报道，更是对我们如何定义“家园”与“人权”的深刻拷问。",
-    "best_quote_en": "“We are not a status. We are human beings.”",
-    "best_quote_zh": "“我们不是一种身份。我们是人。”"
-  },
-  {
-    "id": 528,
-    "title": "Gar’s Tips & Tools – Issue #208",
-    "title_zh": "Gar 的小贴士与工具 – 第208期",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-208/",
-    "tags": [
-      "solve",
-      "design",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-01-30",
-    "summary_en": "This issue of Gar's Tips & Tools offers a delightful potpourri of content, ranging from the mesmerizing world of Asian street food videos and the historical significance of chickens to practical insights on tools and homesteading. The analysis reveals a keen eye for both the whimsical and the utilitarian, highlighting the joy of discovery whether through observing intricate cooking techniques, evaluating top-rated tools, or exploring unconventional art methods like CMYK spray painting. The inclusion of tips on firewood and food preservation further underscores a theme of practical living and making the most of resources. It's a collection that celebrates curiosity, craftsmanship, and the small, impactful hacks that enhance daily life, appealing to a diverse audience interested in both niche fascinations and actionable advice.",
-    "summary_zh": "这期《Gar 的小贴士与工具》内容丰富，从亚洲街头美食的奇妙世界到工具测评，再到生活小窍门，读来颇有启发。我特别喜欢作者对日常观察的独特视角，比如从街头小吃中联想到鸡的历史，或是将CMYK印刷原理应用于喷漆艺术。这不仅仅是信息的罗列，更是一种对生活充满好奇和探索精神的体现。文章中的工具推荐和实用生活建议，让人感受到一种“动手创造”和“智慧生活”的乐趣，非常适合那些追求实用性和趣味性兼具的读者。",
-    "best_quote_en": "There’s a particular kind of joy that comes from misusing a perfectly respectable technology.",
-    "best_quote_zh": "有一种特殊的乐趣，来自于“误用”一项本应受到尊重的技术。"
-  },
-  {
-    "id": 529,
-    "title": "American Equity",
-    "title_zh": "美国股权",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/american-equity",
-    "tags": [
-      "inspire",
-      "economics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "经济金融",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2017-11-27",
-    "summary_en": "This thought-provoking piece proposes a radical economic model: distributing an annual share of US GDP to every adult citizen, termed 'American Equity.' The author argues this would foster collective alignment towards national prosperity, provide a fairer economic foundation, and mitigate wealth concentration exacerbated by automation. Drawing parallels with historical land grants and the joint-stock company model, the idea is presented as a new social contract designed to eliminate poverty and enhance societal well-being. While acknowledging significant challenges like funding and immigration policy implications, the essay advocates for an innovative approach to ensure long-term US leadership and a more equitable distribution of wealth in the modern economy. It challenges conventional thinking on economic incentives and societal structure.",
-    "summary_zh": "这篇内容大胆地提出“美国股权”构想，即每年向每位美国成年公民分配一定比例的GDP。作者深思熟虑地指出，此举不仅能凝聚全民共同追求国家繁荣，还能有效应对自动化带来的财富集中问题，重塑社会契约。尽管面临移民政策、资金来源等现实挑战，但其旨在消除贫困、提升社会凝聚力的愿景，无疑为我们理解未来经济模式提供了崭新视角。这不仅是经济分配的创新，更是一场关于社会价值观和国家发展方向的深刻探讨。",
-    "best_quote_en": "I believe that owning something like a share in America would align all of us in making the country as successful as possible—the better the country does, the better everyone does—and give more people a fair shot at achieving the life they want.",
-    "best_quote_zh": "我相信，拥有一份像美国股权这样的东西，将使我们所有人团结起来，共同努力使国家尽可能地成功——国家越好，每个人就越好——并让更多人有公平的机会实现他们想要的生活。"
-  },
-  {
     "id": 530,
     "title": "The Trouble with the Segway",
     "title_zh": "赛格威的困境",
@@ -2294,5 +2176,123 @@
     "summary_zh": "Marcus Baw的这份“NOW”清单，与其说是一份工具推荐，不如说是一扇窥探其高效思维的窗户。他不仅分享了提升生活和工作效率的实用物品，从厨房小工具到数字剪贴板管理，更以哲思的深度探讨了“规则”的本质。这种将日常优化与深刻反思相结合的视角，让我看到一个创新者如何通过精选工具和批判性思考来构建其独特的世界。这份清单超越了简单的产品罗列，它是一种生活哲学和工作智慧的体现。",
     "best_quote_en": "Rules are for the obedience of fools and the guidance of the wise.",
     "best_quote_zh": "规则是供愚者服从，智者借鉴的。"
+  },
+  {
+    "id": 625,
+    "title": "The best women’s waterproof jackets in the UK for every type of adventure, tested",
+    "title_zh": "英国最佳女士防水夹克：各种探险活动的测评推荐",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2024/dec/15/best-womens-waterproof-jackets",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-02-19",
+    "summary_en": "This comprehensive review rigorously tests and evaluates a range of women's waterproof jackets available in the UK, catering to diverse needs from casual coffee runs to demanding mountain expeditions. The expert tester, with over a decade of experience, provides detailed insights into each jacket's performance regarding waterproofing, breathability, fit, and environmental considerations. The analysis cleverly categorizes recommendations by budget, activity type (e.g., mountains, packable, breathability, skiing), and overall value, offering practical guidance for consumers. What truly elevates this piece is its commitment to real-world testing in challenging British weather, alongside an ethical approach to donating tested items. The discussion on hydrostatic head ratings and material technologies like Gore-Tex versus proprietary solutions adds significant educational value, empowering readers to make informed purchasing decisions based on genuine utility and performance rather than just brand hype. It's a valuable resource for anyone seeking reliable outdoor gear.",
+    "summary_zh": "这篇英国女士防水夹克测评深入且实用，作者凭借十余年的户外装备测试经验，在恶劣的英国天气中对多款夹克进行了实地考察。文章不仅细致地评估了每款夹克的防水性、透气性、版型和环保特性，更巧妙地根据预算和活动需求进行了分类推荐。我尤其欣赏其对静水压等级和不同防水技术（如Gore-Tex）的解释，这不仅提供了消费指导，也提升了读者的专业知识。这种结合了实际应用、专业知识和环保考量的测评，对于追求户外性能和可持续性的消费者来说，无疑是一份宝贵的指南。",
+    "best_quote_en": "In the words of Alfred Wainwright, “there is no such thing as bad weather, only unsuitable clothing”.",
+    "best_quote_zh": "用阿尔弗雷德·温赖特的话来说，“没有坏天气这回事，只有不合适的衣服”。"
+  },
+  {
+    "id": 626,
+    "title": "A Fundraising Survival Guide",
+    "title_zh": "募资生存指南",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fundraising.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "争议观点"
+    ],
+    "date": "2026-02-20",
+    "summary_en": "This essay offers a brutally honest, yet highly practical, guide to navigating the treacherous waters of startup fundraising. It delves into the inherent inefficiencies and psychological biases within the venture capital ecosystem, emphasizing that fundraising is not merely about convincing investors but a high-stakes survival game. The author, drawing from extensive experience at Y Combinator, provides actionable strategies such as managing expectations, prioritizing product development over fundraising distractions, adopting conservative and flexible financial approaches, and cultivating independence. Critically, it highlights how investor indecisiveness and herd mentality can paralyze startups, urging founders to treat fundraising as a dangerous process requiring distinct survival techniques. This piece is invaluable for any founder seeking to understand the harsh realities and strategic maneuvers necessary to secure funding without letting the process destroy their company.",
+    "summary_zh": "这篇募资生存指南深刻揭示了创业公司融资的残酷现实，远非表面光鲜。作者以Y Combinator的视角，犀利地指出风投市场的非效率性和投资者的人性弱点，强调募资本身就是一场高风险的生存战。文章提出的降低预期、专注产品、灵活应对等策略，不仅是战术指导，更是对创业者心态的重塑。我尤其欣赏其对“不被投资者需要”的独立精神的推崇，这才是真正的力量源泉。募资过程中的心理博弈和决策挑战，足以让任何创业者深思，并从中汲取宝贵的经验教训。",
+    "best_quote_en": "Startups don't win by getting great funding rounds, but by making great products. So finish raising money and get back to work.",
+    "best_quote_zh": "创业公司不是靠获得大额融资轮次取胜，而是靠打造出色的产品。所以，完成融资后，就赶紧回去工作。"
+  },
+  {
+    "id": 627,
+    "title": "The Problem of Counterevidence and the Futility of Theodicy",
+    "title_zh": "反证据问题与神正论的徒劳",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oYdwXBA2jB48X4Dny/the-problem-of-counterevidence-and-the-futility-of-theodicy",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-20",
+    "summary_en": "This piece delves into a crucial epistemological principle, leveraging probability theory to argue against the efficacy of theodicy. The author astutely demonstrates that any attempt to reconcile an omnibenevolent, omniscient, and omnipotent God with the existence of evil, by introducing a theodicy, merely shifts the improbability rather than resolving it. Using the Law of Total Probability, the article rigorously proves that if the coexistence of God and evil is highly improbable, and a theodicy makes it appear probable, then the theodicy itself must be highly improbable. This analytical rigor provides a compelling intellectual tool to cut through complex philosophical arguments, highlighting that true reduction of improbability requires new evidence, not just more elaborate explanations. It's a fascinating application of mathematical logic to a deeply philosophical problem, offering a fresh perspective on an age-old debate.",
+    "summary_zh": "这篇文章以精辟的洞察力，运用概率论的严谨逻辑，有力地驳斥了神正论的有效性。作者通过数学推导，揭示了任何试图调和全善、全知、全能上帝与邪恶存在的理论，都不过是将“不可能”从一个地方转移到另一个地方。这种将深奥哲学问题转化为清晰数学论证的方法令人耳目一新，它提醒我们，真正的理解与进步需要的是实证，而非无休止的解释。读罢此文，我对理性思维的力量和其在哲学辩论中的应用有了更深刻的体会，也对人类试图理解世界本质的努力感到由衷的敬佩。",
+    "best_quote_en": "The problem of evil is ultimately a problem of counterevidence. The reality doesn’t look like what the theory predicts. Therefore, the theory is quite likely wrong. Simple as that.",
+    "best_quote_zh": "邪恶问题最终是一个反证据问题。现实与理论预测不符。因此，该理论很可能是错误的。就这么简单。"
+  },
+  {
+    "id": 628,
+    "title": "Trump Is Still Deporting People Wherever He Wants",
+    "title_zh": "特朗普仍在随心所欲地驱逐人民",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/trump-is-still-deporting-people-wherever-he-wants",
+    "tags": [
+      "solve",
+      "politics",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-02-19",
+    "summary_en": "This article provides a critical examination of the Trump administration's controversial practice of deporting non-citizens to 'third countries'—nations with which deportees often have no connection. Through an interview with law professor Ahilan Arulanantham, the piece dissects the legal loopholes exploited by the administration, such as sending individuals to countries like Cameroon where they face imprisonment until agreeing to return to their home countries, often with risk of persecution. The analysis highlights how the Supreme Court's decisions, or lack thereof, have strained federal courts by effectively enabling these practices and leading to a surge of individual habeas petitions. It critically evaluates the tension between legal obligations for due process and the administration's actions, revealing a systemic challenge to immigration law and judicial oversight. The intellectual curiosity lies in understanding the complex interplay between executive power, judicial interpretation, and the human rights implications of these policies.",
+    "summary_zh": "这篇文章深入探讨了特朗普政府将非公民驱逐到“第三国”的争议性做法，揭示了其如何规避法律、利用漏洞。法律专家阿希兰·阿鲁拉南瑟姆教授的访谈，不仅剖析了这种做法的非法性，更揭示了最高法院在此问题上的立场如何加剧了联邦法院的负担。这种将寻求庇护者送往可能面临迫害的国家的行为，无疑是对国际人道主义原则的挑战。我深思，当法律与权力博弈，受害的往往是那些最无助的个体，而司法体系的应对方式，将深远影响一个国家的法治精神与人权底线。",
+    "best_quote_en": "The law on this is that a noncitizen gets to elect the country to which they will be deported in the event of an order of removal after a deportation hearing.",
+    "best_quote_zh": "法律规定，非公民在驱逐听证会后，若被下达驱逐令，有权选择被驱逐到哪个国家。"
+  },
+  {
+    "id": 629,
+    "title": "Lodging Hacks/Unusual Tours/Better Asia Nomad Options",
+    "title_zh": "住宿技巧/不寻常的旅行/更好的亚洲数字游民选择",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/lodging-hacks-unusual-tours-better-asia-nomad-options/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-02-19",
+    "summary_en": "This content offers practical, actionable advice for travelers and digital nomads. It uniquely compiles lodging hacks that go beyond common knowledge, providing specific strategies like leveraging metro proximity for cheaper stays. The article also highlights niche travel opportunities with Young Pioneer Tours, catering to adventurous individuals seeking truly off-the-beaten-path experiences. Furthermore, it delivers timely updates on airline alliances that enhance connectivity for loyalty members and, crucially, sheds light on the evolving landscape of digital nomad visas in Southeast Asia. This latter point is particularly valuable, as it addresses a significant pain point for remote workers seeking long-term, legal residency in popular low-cost destinations, showcasing a critical shift from informal arrangements to structured visa programs.",
+    "summary_zh": "这篇文章为旅行者和数字游民提供了极其实用的策略。它不仅汇集了鲜为人知的住宿省钱妙招，例如利用地铁沿线降低住宿成本，还介绍了像Young Pioneer Tours这样专注于探险和非常规目的地的旅行社。更重要的是，文章更新了航空公司的联盟动态，为常旅客提供了更多便利。最引人深思的是，它深入分析了东南亚数字游民签证政策的演变，从过去的“睁一只眼闭一只眼”到如今各国积极推出专属签证，这不仅反映了全球工作模式的转变，也预示着数字游民合法化和规范化的大趋势。这对于渴望在异国长期居住和工作的我而言，无疑是极具启发性的洞察。",
+    "best_quote_en": "When booking a hotel or apartment, stay somewhere near a metro stop well removed from the main tourist zone if you’ll be in a popular city. The rates are almost significantly lower for the lodging, but by extension for restaurants and grocery stores too.",
+    "best_quote_zh": "当预订酒店或公寓时，如果你在一个热门城市，选择一个远离主要旅游区但靠近地铁站的地方。住宿费用几乎会显著降低，而且餐馆和杂货店的价格也会随之更便宜。"
   }
 ]
