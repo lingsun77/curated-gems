@@ -1,119 +1,5 @@
 [
   {
-    "id": 530,
-    "title": "The Trouble with the Segway",
-    "title_zh": "赛格威的困境",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/segway.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-02-01",
-    "summary_en": "This insightful piece dissects the spectacular failure of the Segway, attributing its downfall not to technical shortcomings but to a critical misjudgment of human psychology and social perception. The author brilliantly posits that the Segway rider appears 'smug' due to the effortless nature of the device, eliciting negative reactions from observers who perceive a lack of effort. This contrasts sharply with other personal vehicles like motorcycles or even a self-made 'Eunicycle,' which, despite similar ease, convey an impression of engagement. The analysis extends this critique to the company itself, suggesting that its easy access to funding allowed it to operate in a bubble, detached from real-world user feedback and the crucial social dynamics that ultimately doomed the product. It's a fascinating case study in product design beyond pure utility, highlighting the often-overlooked emotional and social dimensions of adoption.",
-    "summary_zh": "这篇文章深入剖析了赛格威（Segway）的失败，其核心洞见在于，问题并非技术本身，而是对人类心理和社会感知的严重误判。作者精辟地指出，骑乘赛格威的轻松感让使用者显得“自鸣得意”，从而激起了旁观者的负面情绪。这种“不劳而获”的形象是其难以普及的关键。更深一层，公司早期融资的顺利反而成了“盲点”，使其脱离了真实的市场反馈，未能及早发现并解决这一致命的社会接受度问题。读来令人深思，产品设计远不止于功能，更要融入社会语境与情感共鸣。",
-    "best_quote_en": "The reason you look like a dork riding a Segway is that you look smug. You don't seem to be working hard enough.",
-    "best_quote_zh": "你骑赛格威看起来像个笨蛋的原因是，你看起来很自鸣得意。你似乎没有足够努力。"
-  },
-  {
-    "id": 531,
-    "title": "How does reasoning affect Ethical/Moral task results?",
-    "title_zh": "推理如何影响伦理/道德任务结果？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/q8ZWCKZd24wDrGX7p/how-does-reasoning-affect-ethical-moral-task-results",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-01",
-    "summary_en": "This article explores a counter-intuitive finding: increased reasoning in AI models, specifically Claude Haiku 4.5, correlates with a decrease in accuracy on ethical and moral tasks. The author experimented with various prompting styles—direct intuition, chain-of-thought, Devil's advocate, and two-pass reflection—across three benchmarks (ETHICS, MoralChoice, MORABLES). The surprising result suggests that deeper deliberation might lead to lower confidence and accuracy, particularly with adversarial prompting styles. While acknowledging limitations like potential data leakage and single-model testing, this preliminary research raises crucial questions about how we evaluate and encourage ethical reasoning in advanced AI. It prompts further investigation into optimal reasoning elicitation methods and the true nature of 'ethical' AI performance.",
-    "summary_zh": "这篇文章提出了一个令人费解的发现：AI模型（特指Claude Haiku 4.5）在伦理道德任务中，推理能力的增强反而与准确率的下降相关。这与我们直觉中“思考越多越好”的认知相悖，引发了对AI道德推理机制的深刻反思。也许，过度的“思考”或特定形式的“推理”并非总能导向更好的道德判断，尤其是在面对模棱两可的复杂情境时。这迫使我们重新审视AI的“道德”究竟是如何形成的，以及我们应如何引导其进行有效的伦理决策。",
-    "best_quote_en": "The main result I uncovered from this evaluation was that there is a correlation with reasoning increase and moral/ethical task accuracy decrease.",
-    "best_quote_zh": "我从这次评估中发现的主要结果是，推理能力的增加与道德/伦理任务准确率的下降之间存在关联。"
-  },
-  {
-    "id": 532,
-    "title": "ICE’s Assault on a Minnesota School District",
-    "title_zh": "ICE 对明尼苏达州某学区的冲击",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/ices-assault-on-a-minnesota-school-district",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-01-31",
-    "summary_en": "This article offers a chilling, first-hand account of the profound impact of ICE operations on a Minnesota school district, transforming educators into frontline defenders against an indiscriminate terror campaign. It meticulously details how the constant threat of deportation has fractured families, instilled pervasive fear among students and parents, and forced schools to adapt with emergency protocols like remote learning and parental authority delegation forms. The narrative powerfully highlights the resilience and moral courage of school staff who physically interpose themselves between federal agents and children, while also exposing the deep psychological toll on a community living under siege. The piece critically evaluates the lack of reasonable engagement from ICE, emphasizing the humanitarian crisis unfolding in detention centers and the broader implications for civil liberties and community safety.",
-    "summary_zh": "这篇文章读来令人心痛，揭示了ICE行动如何将一个明尼苏达州的学区推入混乱，教育工作者们被迫成为抵御无差别恐怖行动的先锋。它细致地描绘了驱逐出境的持续威胁如何撕裂家庭，在学生和家长中植入了普遍的恐惧，并迫使学校采取紧急措施，如远程学习和父母授权委托书。最让我震撼的是，文中教育者们挺身而出，用身体阻挡联邦特工与儿童，这种勇气与绝望并存的画面久久不能散去。这不仅仅是对移民政策的控诉，更是对人性、社区韧性以及政府权力边界的深刻反思。",
-    "best_quote_en": "“Kids look to us to be the strong figures, but you can be strong and afraid,” Kuhlman told me. “I was saying, ‘Yep, I’m scared, too, but when you’re inside our building, we will keep you safe. They are not coming in here. This is your space.’ ”",
-    "best_quote_zh": "“孩子们把我们看作是坚强的人物，但你也可以是既坚强又害怕的，”库尔曼告诉我。“我说，‘是的，我也很害怕，但当你们在我们学校里时，我们会保护你们的安全。他们不会进来。这是你们的空间。’”"
-  },
-  {
-    "id": 533,
-    "title": "Book Freak #195: Eight Million Ways to Happiness",
-    "title_zh": "书呆子 #195: 八百万种幸福之道",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-195-eight-million-ways-to-happiness/",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-01-31",
-    "summary_en": "This piece delves into Hiroko Yoda's 'Eight Million Ways to Happiness,' a spiritual guide rooted in Japan's Shinto, Buddhism, and mountain mysticism. It's fascinating how the book reframes spirituality not as an abstract dogma, but as an integral, practical part of daily life, mirroring the Japanese concept of 'kami' being present everywhere. The core principles highlight the diverse paths to meaning, the seamless integration of spiritual practices into secular routines, our interconnectedness with nature, and the transformative potential of grief. The actionable advice provided, such as observing nature or creating small daily rituals, makes these profound concepts accessible. This analysis underscores the book's ability to offer ancient wisdom as a toolkit for modern reconnection and healing, moving beyond conventional religious frameworks to a more holistic understanding of well-being. It's a compelling exploration of how cultural traditions can offer universal lessons for navigating contemporary challenges.",
-    "summary_zh": "这本书探讨了日本古老精神传统——神道、佛教和山岳神秘主义——如何为现代生活提供治愈与重连的实用智慧。它最引人入胜之处在于，将“八百万神明”的观念转化为“八百万种幸福之道”，揭示了精神实践并非高高在上，而是能无缝融入日常，甚至在悲伤中找到指引。这种将宏大哲学落地为具体行动的思路，比如观察自然、建立微小仪式，令人深思。它提供了一种非教条化的视角，鼓励我们从文化深处汲取力量，重新发现与自我、与自然的连接。我尤其欣赏它对“悲伤”的解读，将其视为一个可能开启新认知的入口，而非简单避开的痛苦。",
-    "best_quote_en": "“When you visit a shrine, you don’t have to believe or disbelieve. You don’t have to swear any kind of loyalty, or refuse any affiliations.”",
-    "best_quote_zh": "“当你参观神社时，你无需相信或不相信。你无需宣誓任何形式的忠诚，也无需拒绝任何归属。”"
-  },
-  {
-    "id": 534,
-    "title": "Essentials: Using Play to Rewire & Improve Your Brain",
-    "title_zh": "要点：利用游戏重塑和改善你的大脑",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-using-play-to-rewire-and-improve-your-brain",
-    "tags": [
-      "guide",
-      "programming",
-      "science"
-    ],
-    "tags_zh": [
-      "指导",
-      "编程开发",
-      "科学研究"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "This Huberman Lab episode offers a compelling argument for the lifelong benefits of play, moving beyond its traditional association with childhood. The analysis delves into how play actively engages specific neural circuits and neurochemicals, creating an optimal, low-stakes environment for learning and cognitive exploration. What's particularly insightful is the emphasis on adults deliberately reintroducing play into their lives to enhance cognitive flexibility and creative thinking. This isn't just about recreation; it's a profound tool for neuroplasticity, suggesting that structured and unstructured play can genuinely rewire the brain. The episode effectively bridges neuroscience with practical, actionable advice, making a strong case for integrating playful mindsets and activities into daily adult life for sustained brain health and adaptability. It challenges the conventional view of adult responsibilities versus the perceived triviality of play.",
-    "summary_zh": "胡伯曼实验室的这期节目深入探讨了“玩”对大脑的深远影响，远不止于童年。它揭示了游戏如何激活特定脑回路和神经化学物质，为学习和认知探索提供了一个低风险的理想环境。最引人入胜的是，节目强调成年人应有意识地将游戏重新引入生活，以增强认知灵活性和创造性思维。这不仅是娱乐，更是促进神经可塑性的强大工具，表明无论是结构化还是非结构化的游戏都能有效地重塑大脑。它挑战了我们对成年人责任与玩乐之间关系的传统认知，提供了一个令人耳目一新的视角。",
-    "best_quote_en": "Play is a powerful yet often overlooked tool for shaping the brain across the entire lifespan, not just during childhood.",
-    "best_quote_zh": "游戏是一个强大却常被忽视的工具，它能塑造贯穿我们整个生命周期的大脑，而不仅仅是在童年时期。"
-  },
-  {
     "id": 535,
     "title": "‘Adjustments must be made’: how to live well after mid-life",
     "title_zh": "“必须做出调整”：中年后如何活出精彩",
@@ -2294,5 +2180,117 @@
     "summary_zh": "这篇文章为旅行者和数字游民提供了极其实用的策略。它不仅汇集了鲜为人知的住宿省钱妙招，例如利用地铁沿线降低住宿成本，还介绍了像Young Pioneer Tours这样专注于探险和非常规目的地的旅行社。更重要的是，文章更新了航空公司的联盟动态，为常旅客提供了更多便利。最引人深思的是，它深入分析了东南亚数字游民签证政策的演变，从过去的“睁一只眼闭一只眼”到如今各国积极推出专属签证，这不仅反映了全球工作模式的转变，也预示着数字游民合法化和规范化的大趋势。这对于渴望在异国长期居住和工作的我而言，无疑是极具启发性的洞察。",
     "best_quote_en": "When booking a hotel or apartment, stay somewhere near a metro stop well removed from the main tourist zone if you’ll be in a popular city. The rates are almost significantly lower for the lodging, but by extension for restaurants and grocery stores too.",
     "best_quote_zh": "当预订酒店或公寓时，如果你在一个热门城市，选择一个远离主要旅游区但靠近地铁站的地方。住宿费用几乎会显著降低，而且餐馆和杂货店的价格也会随之更便宜。"
+  },
+  {
+    "id": 630,
+    "title": "Jess Cartner-Morley on fashion: brighten the winter gloom with accessories that add personality",
+    "title_zh": "Jess Cartner-Morley谈时尚：用个性配饰点亮冬日沉闷",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/feb/18/jess-cartner-morley-on-fashion-brighten-winter-with-accessories-scarf-gloves",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "AI研究"
+    ],
+    "date": "2026-02-18",
+    "summary_en": "This article, by Jess Cartner-Morley, offers a refreshing perspective on winter fashion, moving beyond mere functionality to emphasize personal expression through accessories. Drawing inspiration from unexpected style icons like Miss Bianca from 'The Rescuers' and Michelle Obama, Cartner-Morley argues that scarves, hats, and gloves, chosen with intention and in vibrant colors, can transform an otherwise utilitarian winter wardrobe into something joyful and distinctive. The piece cleverly frames these small additions not just as fashion statements, but as a rebellion against the 'drudgery' of logistical dressing, injecting personality into everyday routines. It's an insightful take that encourages readers to find creative freedom even in the most practical aspects of their attire, suggesting that style is less about grand garments and more about thoughtful details.",
+    "summary_zh": "这篇文章以一种出人意料的视角，从动画角色Miss Bianca和前第一夫人Michelle Obama身上汲取灵感，探讨了如何在沉闷的冬季穿搭中注入个性。作者Jess Cartner-Morley巧妙地指出，即使在功能性主导的寒冷季节，通过精心选择的配饰——如色彩鲜艳的围巾和手套——也能让整体造型焕发活力，表达自我。这不仅仅是关于时尚，更是关于在日常琐碎中寻找乐趣和创造力，用小小的点缀抵抗冬日的单调。读来令人深思，并跃跃欲试。",
+    "best_quote_en": "If a mouse can command an international rescue agency in a pillbox hat, you can up your style game for the morning commute.",
+    "best_quote_zh": "如果一只老鼠都能戴着药盒帽指挥国际救援机构，你也能为早晨的通勤提升你的时尚品味。"
+  },
+  {
+    "id": 631,
+    "title": "The Pooled-Risk Company Management Company",
+    "title_zh": "汇集风险的公司管理公司",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/prcmc.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-02-21",
+    "summary_en": "This essay critically examines the traditional startup founder's dilemma: the desire for freedom and security versus the relentless demands of running a business. It challenges the notion that founders must perpetually manage their creations, proposing an intriguing concept of a 'pooled-risk company management company.' The author posits that such an entity, by pooling revenues and managing multiple companies, could offer founders the ultimate blend of security and freedom. What’s truly fascinating is the reveal that this seemingly utopian structure already exists in the form of public company acquisitions, albeit with the caveat of market fickleness. The piece offers a nuanced perspective on revenue generation and acquisition, suggesting that profitability is key to leveraging the 'pooled-risk' benefits of the public market. It's a thought-provoking reframe of the startup lifecycle, prompting founders to consider long-term goals beyond just the initial 'liquidity event.'",
+    "summary_zh": "这篇文章对创业者追求自由与安全的固有矛盾进行了深刻剖析。作者大胆提出“汇集风险的公司管理公司”这一概念，认为通过整合收益和专业管理，能为创始人带来梦寐以求的自由与保障。更引人深思的是，作者揭示了这种理想模式实际上就是上市公司的并购行为，尽管市场变幻莫测。这让我重新思考了创业的终极目标，盈利不仅是生存之道，更是实现长期自由与安全的关键。这不仅仅是关于退出的策略，更是对创业者心智模式的一次颠覆。",
+    "best_quote_en": "David isn't mistaken in saying you should start a company to live off its revenues. The mistake is thinking this is somehow opposed to starting a company and selling it. In fact, for most people the latter is merely the optimal case of the former.",
+    "best_quote_zh": "大卫说你应该创办一家公司来靠其收入生活，这没错。错误在于认为这与创办公司并出售它之间存在某种对立。事实上，对大多数人来说，后者仅仅是前者的最佳情况。"
+  },
+  {
+    "id": 632,
+    "title": "LessWrong's goals overlap HowTruthful's",
+    "title_zh": "LessWrong 的目标与 HowTruthful 的目标重叠",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/nD7FwEXEBAw9hGvzh/lesswrong-s-goals-overlap-howtruthful-s",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-02-21",
+    "summary_en": "This piece delves into the unexpected synergy between LessWrong, a community focused on rationality and improving reasoning, and HowTruthful, a personal project designed to track the epistemic status of individual thoughts and connect them as evidence. The author, Bruce Lewis, recounts his journey from discovering LessWrong after a layoff from Google/Fitbit to realizing the profound overlap in their foundational goals. He highlights HowTruthful's unique approach to organizing evidence and distinguishing between private and public opinions, emphasizing its potential for enhancing individual and collective reasoning. The article serves as a compelling testament to the enduring human quest for truth and better decision-making, even amidst the dominant discourse of AI risk on platforms like LessWrong. It's a fascinating look at how personal projects can align with broader intellectual movements, driven by a shared commitment to rigorous thought.",
+    "summary_zh": "这篇文章探讨了 LessWrong 和 HowTruthful 之间意想不到的契合点。作者 Bruce Lewis 在经历谷歌裁员后，发现了 LessWrong 这个专注于理性和提升推理能力的社区，并意识到其目标与自己开发的 HowTruthful 项目——一个旨在追踪思想认知状态并将其作为证据关联起来的工具——高度重叠。这种不期而遇的发现令人着迷，它不仅仅是个人的项目分享，更是对人类追求真理和优化决策这一深层需求的共鸣。尽管 LessWrong 上 AI 风险的讨论占据主导，但文章有力地证明了对普遍真理和理性思考的探索依然是其核心价值，这让我对个人创造力与社群智慧的结合充满期待。",
+    "best_quote_en": "I came here and saw on the about page, \"dedicated to improving human reasoning and decision-making\". Wow! This is my place!",
+    "best_quote_zh": "我来到这里，在关于页面上看到，“致力于改进人类的推理和决策”。哇！这就是我的归属！"
+  },
+  {
+    "id": 633,
+    "title": "The E.P.A. Rescinds a Landmark Finding",
+    "title_zh": "美国环保局撤销一项里程碑式裁定",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-epa-rescinds-a-landmark-finding",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-02-20",
+    "summary_en": "This article critically examines the Trump Administration's decision to rescind the EPA's \"endangerment finding\" on greenhouse gases, framing it as a regressive move despite overwhelming scientific consensus. While acknowledging the immediate setback, the author offers a nuanced perspective, arguing that this action doesn't signify a complete defeat for climate action. Instead, it highlights a broader shift in the climate fight, driven by the increasing economic viability of clean energy globally. The piece suggests that future climate efforts will likely focus less on regulatory workarounds and more on accelerating the clean energy transition, underscoring the fossil fuel industry's underlying anxiety. It's a thought-provoking analysis that balances dismay over policy with optimism for technological and economic progress.",
+    "summary_zh": "特朗普政府撤销环保局对温室气体的“危害认定”，这无疑是气候行动的一大倒退。然而，文章巧妙地指出，这并非“大结局”。它揭示了气候斗争重心已悄然转移：随着清洁能源在全球范围内的经济优势日益凸显，未来的努力将更多地聚焦于技术与市场驱动的转型，而非仅仅依赖政策法规。这让我深思，真正的变革往往源于底层经济逻辑的改变，而不仅仅是政治意志。这种洞察力为气候行动描绘了一幅更为复杂却也更具希望的图景。",
+    "best_quote_en": "But it’s not, in fact, game over for future climate action, and understanding why allows for a more nuanced picture of where the climate fight actually stands now.",
+    "best_quote_zh": "但这并非意味着未来的气候行动已经结束，理解其原因能让我们对气候斗争的现状有一个更细致的认识。"
+  },
+  {
+    "id": 634,
+    "title": "Book Freak #197: The Denial of Death",
+    "title_zh": "书痴 #197: 否认死亡",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-197-the-denial-of-death/",
+    "tags": [
+      "solve",
+      "psychology",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "设计创意"
+    ],
+    "date": "2026-02-20",
+    "summary_en": "This analysis of Ernest Becker's \"The Denial of Death\" profoundly explores the human condition, arguing that the terror of mortality is the fundamental driver of human behavior, rather than Freudian concepts. It introduces compelling ideas like \"character armor\" and \"immortality projects\" to explain how individuals and societies cope with existential anxiety. The content offers a fascinating lens through which to view everything from personal ambition to global conflict. The \"Try It Now\" section provides actionable prompts for self-reflection, making these complex psychological theories surprisingly accessible and personally relevant. It challenges readers to confront their deepest fears and re-evaluate their motivations, offering a path to greater self-awareness and a more authentic existence beyond the \"vital lie.\"",
+    "summary_zh": "贝克尔的《否认死亡》深刻剖析了人类行为的根本动因——对死亡的恐惧。它颠覆了传统心理学观点，提出“性格盔甲”和“不朽工程”等概念，解释了我们如何构建意义来对抗虚无。这篇文章不仅提供了理论框架，更通过实用的反思练习，引导读者直面内心的死亡焦虑，审视自我驱动力。读后让人不禁思考，我们所追求的一切，是否仅仅是那场“不朽工程”的延伸？这种洞察力无疑能帮助我们更清醒地活在当下，超越那“重要的谎言”。",
+    "best_quote_en": "“The irony of man’s condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”",
+    "best_quote_zh": "“人类境况的讽刺之处在于，最深层的需求是摆脱对死亡和毁灭的焦虑；但正是生命本身唤醒了这种焦虑，因此我们不得不退缩，无法完全地活着。”"
   }
 ]
