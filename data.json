@@ -1,115 +1,5 @@
 [
   {
-    "id": 535,
-    "title": "‘Adjustments must be made’: how to live well after mid-life",
-    "title_zh": "“必须做出调整”：中年后如何活出精彩",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/science/2026/feb/01/adjustments-live-well-after-mid-life-psychotherapist-frank-tallis",
-    "tags": [
-      "solve",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2026-02-01",
-    "summary_en": "This insightful interview with psychotherapist Frank Tallis, author of 'Wise,' delves into the often-overlooked psychological challenges of aging well beyond mid-life. Tallis provocatively argues that our modern culture's denial of death and relentless pursuit of youth are detrimental, leading to 'immortality projects' and a shrinking capacity for internal processing. He advocates for embracing 'terror management' through acceptance, internal integration, and reconnecting with our unconscious. The piece compellingly highlights the dangers of outsourcing self-discovery to external sources like AI or gurus, emphasizing the unique, personal journey of individuation. It's a profound call to cultivate inner awareness and make necessary adjustments to live authentically as we age, urging a return to contemplative moments amidst digital distraction.",
-    "summary_zh": "法兰克·塔利斯在访谈中深刻剖析了中年后如何优雅老去。他指出，现代社会对衰老和死亡的逃避，以及对青春的盲目追逐，实则阻碍了我们与内在自我的连接。塔利斯强调，我们需要接受生命的必然性，并通过“恐惧管理”和个体化过程，重拾对无意识的关注。文章警示我们切勿将自我探索的任务外包给人工智能或他人，而是应在喧嚣中为内省留出空间。这不仅是对个人成长的呼唤，更是对数字时代下人类心智健康的反思，读来引人深思。",
-    "best_quote_en": "“You can’t cling to outmoded ways of being. Adjustments must be made, or you will find yourself living a life that doesn’t match the reality of your physical condition and circumstance.”",
-    "best_quote_zh": "“你不能固守过时的方式。必须做出调整，否则你会发现自己过的生活与你的身体状况和环境现实不符。”"
-  },
-  {
-    "id": 536,
-    "title": "Ramen Profitable",
-    "title_zh": "拉面盈利",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ramenprofitable.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "This essay by Paul Graham introduces and elaborates on the concept of \"ramen profitable\" for startups. It defines it as generating just enough revenue to cover founders' living expenses, contrasting it with traditional profitability. Graham argues that this early stage of profitability offers several key advantages: it buys time, frees founders from investor dependence, improves negotiation terms with investors, boosts team morale by making the venture feel 'real,' and crucially, allows founders to focus on product development rather than constant fundraising distractions. He cautions against mistaking ramen profitability as the ultimate goal or a justification for becoming a consulting firm, emphasizing it's a means to survive and grow towards being a product company. The piece offers a practical, founder-centric perspective on early-stage startup survival and strategic positioning.",
-    "summary_zh": "保罗·格雷厄姆的这篇关于“拉面盈利”的文章，不仅清晰定义了这一概念——即初创公司营收仅够支付创始人生活开销，更深刻阐述了其对初创公司生存与发展的战略意义。它不仅仅是财务上的小胜利，更是为创始人争取了宝贵的时间，摆脱了对投资者的过度依赖，提升了士气，并让创始人能专注于核心产品而非频繁融资。文章提醒我们，拉面盈利是过程而非终点，其核心价值在于提供了一条通往更大成功的生存之路，避免了过早死亡。这让我反思，很多时候，我们过于追求宏大目标，却忽略了如何度过最艰难的初期，格雷厄姆提供了极具洞察力的实用策略。",
-    "best_quote_en": "The main significance of this type of profitability is that you're no longer at the mercy of investors. If you're still losing money, then eventually you'll either have to raise more or shut down. Once you're ramen profitable this painful choice goes away.",
-    "best_quote_zh": "这种盈利模式的主要意义在于，你不再受投资者的摆布。如果你仍在亏损，那么最终你将不得不再次融资或关闭公司。一旦你达到拉面盈利，这种痛苦的选择就不复存在了。"
-  },
-  {
-    "id": 537,
-    "title": "I finally fixed my footwear",
-    "title_zh": "我终于解决了我的鞋子问题",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/6R3Y5WKvw2q6c5gF9/i-finally-fixed-my-footwear",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "This piece offers a surprisingly insightful and humorous personal account of resolving chronic footwear discomfort. The author details a 20-year struggle with ill-fitting shoes due to wrong size, material, and shape, eventually finding liberation through wide-toebox, breathable options. Beyond the practical advice, the article delves into a deeper philosophical reflection on normalized discomfort in daily life, prompting readers to question other unspoken pains they might be enduring. It's a relatable narrative that blends self-deprecating humor with practical solutions and a touch of existential inquiry, making it more than just a guide to buying shoes.",
-    "summary_zh": "这篇看似关于鞋子的文章，实则触及了一个更深层的人类体验：我们如何习惯性地忍受不适。作者以幽默而真诚的笔触，分享了20年穿错鞋的痛苦经历，最终通过选择正确尺码、透气材料和宽楦鞋获得了“解放”。这不禁让人思考，生活中还有多少我们习以为常的“小痛苦”，其实是可以被解决的。它不仅是选鞋指南，更是一次自我审视的邀请，引人深思。",
-    "best_quote_en": "Do yourself a favor, go buy a pair of cheap (~40 euros or so) wide toebox shoes, and try them on. It is, and I cannot emphasize this enough, liberating.",
-    "best_quote_zh": "帮自己一个忙，去买一双便宜的（大约40欧元左右）宽楦鞋，然后试穿一下。这，我怎么强调都不为过，是解放。"
-  },
-  {
-    "id": 538,
-    "title": "Why the D.H.S. Disaster in Minneapolis Was Predictable",
-    "title_zh": "明尼阿波利斯国土安全部灾难为何是可预测的",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/02/09/why-the-dhs-disaster-in-minneapolis-was-predictable",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-02-01",
-    "summary_en": "This article critically examines the Department of Homeland Security's (DHS) operations in Minneapolis, specifically focusing on ICE and Border Patrol's conduct during 'Operation Metro Surge.' It argues that the aggressive and seemingly unconstitutional actions, including the killing of two US citizens and the targeting of refugees, were predictable given the agencies' long history of operating with fewer constraints than typical law enforcement. The piece highlights the administration's dismissal of legal norms, the politicization of federal agencies, and the alarming implications for civil liberties. It suggests that the unchecked power granted to DHS since its inception has culminated in a dangerous erosion of accountability and a direct challenge to the rule of law, extending border enforcement tactics into the heartland.",
-    "summary_zh": "这篇文章深刻剖析了国土安全部在明尼阿波利斯的行动，特别是ICE和边境巡逻队在“地铁突击行动”中的表现。作者认为，这些激进甚至违宪的行为，包括射杀美国公民和针对难民，是可预见的，因为这些机构长期以来在比普通执法机构更少的限制下运作。文章揭示了政府对法律规范的漠视，联邦机构的政治化，以及对公民自由的严峻影响。读来令人深思，这不仅仅是地方事件，更是对法治根基的动摇，边境执法模式正蔓延至全国。",
-    "best_quote_en": "For decades, ICE and Border Patrol have operated with fewer constitutional constraints than typical law-enforcement agencies when they conduct searches and make arrests; in instances of abuse, oversight has tended to be far more lax, leading to a culture of freewheeling unaccountability.",
-    "best_quote_zh": "几十年来，ICE和边境巡逻队在进行搜查和逮捕时，所受到的宪法限制比普通执法机构要少；在滥用职权的情况下，监督往往也更为松懈，导致了一种放任自流、无人负责的文化。"
-  },
-  {
-    "id": 539,
-    "title": "Maintenance manifesto / Funeral for a tree / Budget earbuds",
-    "title_zh": "维护宣言 / 树的葬礼 / 平价耳塞",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/maintenance-manifesto-funeral-for-a-tree-budget-earbuds/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "AI研究"
-    ],
-    "date": "2026-02-01",
-    "summary_en": "This collection of short pieces offers a diverse array of insights, from the philosophical to the practical. Stewart Brand's 'Maintenance Manifesto' is particularly thought-provoking, reframing the mundane act of maintenance into a fundamental aspect of civilization and personal fulfillment. It challenges conventional thinking by suggesting that maintenance can be a source of joy and learning, rather than a dreaded chore. The 'Funeral for a Tree' piece is a poignant exploration of grief and transformation through art, showcasing how loss can inspire creative expression. Finally, the practical review of 'Budget noise-canceling earbuds' provides a relatable solution to a common consumer problem, emphasizing value and functionality over brand loyalty. Together, these pieces highlight the richness of everyday experiences and the varied ways we can find meaning, solve problems, and appreciate the world around us.",
-    "summary_zh": "这组文章内容丰富，从哲学思考到实用建议，引人深思。斯图尔特·布兰德的“维护宣言”尤为独特，它将日常的维护工作提升到文明和个人满足的层面，令人耳目一新。这让我反思，我们是否低估了那些看似琐碎的日常？“树的葬礼”则以艺术的方式处理悲伤与转化，展现了失去如何激发创造力，非常感人。而平价降噪耳塞的推荐则回归生活，提供了实用的解决方案，提醒我们价值并非总与价格挂钩。这些文章共同描绘了生活的多元面貌，鼓励我们在日常中发现意义和解决之道。",
-    "best_quote_en": "Turns out civilization is basically varieties of maintenance. Stewart Brand’s books famously change people’s minds, and this one changed my mind. I now look forward to my maintenance duties, and I learned some how to do it better from this book.",
-    "best_quote_zh": "原来文明基本上就是各种形式的维护。斯图尔特·布兰德的书以改变人们的思想而闻名，而这本书改变了我的想法。我现在期待我的维护职责，并且从这本书中学到了一些如何做得更好的方法。"
-  },
-  {
     "id": 540,
     "title": "‘Menopause gold rush’? Boom in hi-tech products as stigma starts to recede",
     "title_zh": "“更年期淘金热”？随着污名开始消退，高科技产品蓬勃发展",
@@ -2292,5 +2182,123 @@
     "summary_zh": "贝克尔的《否认死亡》深刻剖析了人类行为的根本动因——对死亡的恐惧。它颠覆了传统心理学观点，提出“性格盔甲”和“不朽工程”等概念，解释了我们如何构建意义来对抗虚无。这篇文章不仅提供了理论框架，更通过实用的反思练习，引导读者直面内心的死亡焦虑，审视自我驱动力。读后让人不禁思考，我们所追求的一切，是否仅仅是那场“不朽工程”的延伸？这种洞察力无疑能帮助我们更清醒地活在当下，超越那“重要的谎言”。",
     "best_quote_en": "“The irony of man’s condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”",
     "best_quote_zh": "“人类境况的讽刺之处在于，最深层的需求是摆脱对死亡和毁灭的焦虑；但正是生命本身唤醒了这种焦虑，因此我们不得不退缩，无法完全地活着。”"
+  },
+  {
+    "id": 635,
+    "title": "‘I don’t want to micromanage my body’: how the adjustable waistband became a way to regain control",
+    "title_zh": "“我不想对我的身体进行微观管理”：可调节腰带如何成为重获掌控感的方式",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/feb/18/i-dont-want-to-micromanage-my-body-how-the-adjustable-waistband-became-a-way-to-regain-control",
+    "tags": [
+      "solve",
+      "society",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-02-18",
+    "summary_en": "This article thoughtfully explores the resurgence and deeper significance of adjustable waistbands in clothing, moving beyond mere comfort to touch upon themes of body positivity, sustainability, and personal agency. It highlights how fluctuating body sizes, common for women throughout their adult lives, make rigid sizing impractical and often demoralizing. The piece cleverly connects this fashion trend to broader societal shifts, such as the post-pandemic desire for adaptability and the fashion industry's returns problem. By weaving in historical context and expert opinions, the author elevates what might seem like a trivial topic into a commentary on how clothing can empower individuals to feel more at ease in their own skin, rather than being dictated by static fashion norms. It's a compelling argument for flexible design as a form of self-care and a step towards genuine body diversity.",
+    "summary_zh": "这篇文章深入探讨了可调节腰带的回归及其超越舒适度的深层意义，触及了身体积极性、可持续性和个人自主性等主题。它巧妙地将这一时尚趋势与后疫情时代对适应性的渴望以及时尚行业的退货问题联系起来，展现了服装如何赋能个体，使其在不断变化的身体中重获掌控感。这种设计不仅解决了实际需求，更是一种温柔的反叛，对抗了僵化的时尚标准，让人不禁思考，真正的舒适与风格，是否应始于对身体的理解和尊重，而非一味迎合潮流。",
+    "best_quote_en": "When the world feels unpredictable, we gravitate toward clothing that offers longevity and personal agency. Adaptability and adjustability suddenly became essential in a post-pandemic world.",
+    "best_quote_zh": "当世界变得不可预测时，我们会倾向于选择那些能提供持久性和个人自主权的服装。在后疫情时代，适应性和可调节性突然变得至关重要。"
+  },
+  {
+    "id": 636,
+    "title": "Cities and Ambition",
+    "title_zh": "城市与抱负",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cities.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-02-22",
+    "summary_en": "This essay provocatively explores how different cities subtly, yet powerfully, shape and reflect human ambition. The author argues that cities act as filters, attracting individuals whose aspirations align with the dominant 'message' of that urban environment—be it wealth in New York, intelligence in Cambridge, or power in Silicon Valley. He challenges the notion that strong-willed individuals can transcend their surroundings, suggesting instead that environment plays a far more significant role than commonly assumed, citing historical examples like the concentration of artistic talent in Florence. The piece also delves into the evolving nature of ambition itself, noting how 'hipness' and 'physical attractiveness' have gained prominence, while 'social class' has faded, and 'economic power' now increasingly correlates with technological influence rather than sheer wealth. Ultimately, the essay serves as a compelling guide for ambitious individuals, suggesting that choosing the right city can be as crucial as choosing a career path, especially in fields where peer interaction and a supportive ecosystem are vital.",
+    "summary_zh": "这篇文章深入探讨了城市如何以其独特“信息”塑造并吸引抱负各异的人们。作者认为，与其说个人意志能超越环境，不如说城市氛围对抱负的形成和发展起着决定性作用，如纽约的财富、剑桥的智慧、硅谷的权力。文章不仅分析了不同城市所传递的价值观，更对“抱负”本身的内涵进行了历史性的反思，指出“时尚”和“外貌”的重要性日益凸显，而经济权力也正从单纯的财富积累转向技术影响力。这不禁让我思考，我们所处的环境，究竟是我们的助推器，还是无形的桎梏？选择一座与自身抱负同频的城市，或许是实现宏大目标的关键一步。",
+    "best_quote_en": "No matter how determined you are, it's hard not to be influenced by the people around you. It's not so much that you do whatever a city expects of you, but that you get discouraged when no one around you cares about the same things you do.",
+    "best_quote_zh": "无论你多么坚定，都很难不被周围的人影响。与其说你做了城市期望你做的事，不如说当周围没有人关心你所关心的事情时，你会感到沮丧。"
+  },
+  {
+    "id": 637,
+    "title": "Multiple Independent Semantic Axes in Gemma 3 270M",
+    "title_zh": "Gemma 3 270M中多个独立的语义轴",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/LgSwswkRi8HHvzvz2/multiple-independent-semantic-axes-in-gemma-3-270m",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-22",
+    "summary_en": "This insightful analysis delves into the internal representations of the Gemma 3 270M model, building on previous work that identified an abstract-social vs. concrete-physical axis. Using SAEs, the author moves beyond merely detecting this axis to understanding its feature-level composition. A key finding is that this abstract/concrete distinction is not monolithic but composed of feature clusters that emerge through processing layers. More surprisingly, the study reveals that while other semantic axes (like social/nonsocial and formal/informal) also exist, they maintain independent representational features even when intuitively related. This suggests large language models might organize information along multiple, distinct semantic dimensions rather than collapsing them into a single, overarching structure. The work offers a fascinating glimpse into the internal mechanisms of LLMs, prompting further questions about why models maintain such independence and whether this is a genuine structural property or an artifact of experimental design.",
+    "summary_zh": "这篇分析深入探讨了Gemma 3 270M模型内部表征，发现抽象/具体语义轴并非单一特征，而是由多个特征簇在不同处理层中逐渐构建。更引人深思的是，研究揭示了模型中存在多个独立的语义轴，即使在直观上相关的概念（如正式/非正式与抽象/具体）之间，其表征特征也互不重叠。这挑战了我们对模型如何组织信息的直觉，提出了一个有趣的问题：大型语言模型是否真的通过多维度的独立语义轴来理解世界，而非将所有相关概念归结于一个单一的结构？这为我们理解LLM的内部运作机制提供了宝贵的线索，也激发了对模型深层认知结构的进一步探索。",
+    "best_quote_en": "I expected overlap and instead found independence, which changed my interpretation from ‘one axis represented multiple ways’ to ‘independent dimensions.’",
+    "best_quote_zh": "我预期会有重叠，结果却发现了独立性，这改变了我最初的解读，从“一个轴以多种方式呈现”转变为“独立的维度”。"
+  },
+  {
+    "id": 638,
+    "title": "Donald Trump’s Pantomime United Nations",
+    "title_zh": "唐纳德·特朗普的联合国闹剧",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/donald-trumps-pantomime-united-nations",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-02-21",
+    "summary_en": "This article critically examines the establishment and initial meeting of Donald Trump's 'Board of Peace,' portraying it as a self-aggrandizing vanity project designed to supplant the United Nations. The author highlights the fawning praise Trump received, the vague goals and funding mechanisms, and the glaring omissions regarding the grim realities in Gaza, for which the board ostensibly exists. It delves into the geopolitical implications, suggesting Trump's initiative threatens to undermine the existing international system and the U.S.'s traditional role as its linchpin, while other powers seem unwilling or unable to fill the void. The piece thoughtfully dissects the motivations of participating countries and the skepticism of traditional allies, concluding that while absurd, the Board of Peace might gain traction due to the White House's commitment, posing a significant challenge to global multilateralism.",
+    "summary_zh": "这篇文章对特朗普设立的“和平委员会”进行了辛辣的批判，将其描绘成一场以个人虚荣为中心的闹剧，意在取代联合国。作者深刻揭示了该委员会的运作模式——充斥着对特朗普的谄媚，目标模糊，资金来源不明，并且对加沙地带的严峻现实避而不谈。这不仅仅是一个政治表演，它更深层次地威胁着现有国际体系的根基，以及美国曾扮演的支柱角色。其他大国似乎也无意或无力填补这一空白，这让我不禁思考，当旧秩序被挑战，新秩序又如此荒诞时，国际政治将走向何方？这篇分析令人深思，展现了对全球治理未来走向的担忧。",
+    "best_quote_en": "“As absurd as it is, it’s also the only game in town.”",
+    "best_quote_zh": "“尽管它荒谬至极，但它也是唯一的选择。”"
+  },
+  {
+    "id": 639,
+    "title": "Best Case Scenarios / Unloop / Craft Supply Bin",
+    "title_zh": "最佳情景 / 解环 / 工艺用品收纳盒",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/best-case-scenarios-unloop-craft-supply-bin/",
+    "tags": [
+      "learn",
+      "psychology",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-02-15",
+    "summary_en": "This piece offers a diverse collection of insights, ranging from forward-looking podcasts to practical productivity hacks and product recommendations. The 'Best Case Scenarios' podcast section is particularly thought-provoking, inviting experts to envision optimistic futures across various domains, which is a refreshing departure from common dystopian narratives. The 'Unloop' tool for self-discovery through pattern mapping presents an innovative approach to personal growth, emphasizing understanding over judgment. Additionally, the article provides actionable tech tips like enhancing Mac's drag-and-drop functionality with 'Dropover,' leveraging RSS feeds for Substack newsletters, and an ingenious 'Notes to Self' email folder strategy for knowledge management. The inclusion of a specific craft supply bin recommendation rounds out the practical advice, making this a useful compilation for anyone looking to optimize their workflow, engage with future-oriented thinking, or simply find better ways to organize their life.",
+    "summary_zh": "这篇文章汇集了多领域的精妙洞察，从展望未来的播客到实用的效率工具，再到巧妙的生活小物件。我特别欣赏“最佳情景”播客的理念，它鼓励我们跳出悲观预测，积极构想科技与社会的美好未来，这本身就是一种启发。而“Unloop”行为模式分析工具，则以一种非评判的方式引导自我探索，这对于个人成长而言，无疑是极具价值的。此外，文章还分享了如Mac文件拖放优化、RSS订阅Substack以及“Notes to Self”邮件文件夹等实用技巧，这些都能有效提升日常工作和学习效率。整体而言，这篇文章像是一个充满惊喜的宝库，总能找到一些意想不到的智慧或便利。",
+    "best_quote_en": "These are not predictions, but visions of what we can aim for in order to make them real.",
+    "best_quote_zh": "这些不是预测，而是我们为实现它们而可以努力的目标愿景。"
   }
 ]
