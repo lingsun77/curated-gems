@@ -1,123 +1,5 @@
 [
   {
-    "id": 540,
-    "title": "‘Menopause gold rush’? Boom in hi-tech products as stigma starts to recede",
-    "title_zh": "“更年期淘金热”？随着污名开始消退，高科技产品蓬勃发展",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2026/feb/01/menopause-gold-rush-experts-warn-of-brands-cashing-in-on-womens-symptoms",
-    "tags": [
-      "analyze",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-02-01",
-    "summary_en": "This article insightfully examines the burgeoning 'menopause economy,' characterized by a surge in high-tech products and investments aimed at menopausal women. While acknowledging the positive shift in destigmatizing menopause and attracting much-needed investment in women's health, it critically questions the rapid expansion of unregulated products and the potential for overhyped solutions. The piece highlights the tension between innovation and consumer protection, emphasizing the need for scientific backing, transparent evidence, and reliable guidance in a market susceptible to misinformation. It ultimately advocates for caution, advising consumers to prioritize evidence-based solutions and professional advice over 'magic bullet' products, urging a more grounded approach to managing menopause.",
-    "summary_zh": "这篇文章探讨了“更年期经济”的崛起，高科技产品和投资涌入这一长期被忽视的市场。我深以为然，更年期话题从禁忌走向公开，这本身就是社会进步。然而，文章也尖锐地指出，这种“淘金热”可能伴随着监管不足和夸大宣传，消费者面临信息不对称的风险。这引人深思：当市场发现新的商机时，如何平衡创新与消费者权益保护？真正的价值在于科学证据和可靠的指导，而非短暂的营销泡沫。我们必须警惕那些承诺“灵丹妙药”的产品，回归到以证据为基础的健康管理。",
-    "best_quote_en": "“I wouldn’t advise anyone to rush out and buy anything. For those still having periods, tracking devices like Oura Rings or basic period trackers can be useful. And a simple handheld fan might actually be the best cooling solution. But I would be wary of anything marketed specifically as a ‘menopause relief’ product unless it’s backed by solid evidence.”",
-    "best_quote_zh": "“我不会建议任何人急于购买任何东西。对于那些仍在经期的女性来说，像Oura Rings或基本的经期追踪器可能很有用。一个简单的手持风扇实际上可能是最好的降温方案。但我会警惕任何专门作为‘更年期缓解’产品销售的东西，除非它有坚实的证据支持。”"
-  },
-  {
-    "id": 541,
-    "title": "Maker's Schedule, Manager's Schedule",
-    "title_zh": "创作者日程与管理者日程",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/makersschedule.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-02-03",
-    "summary_en": "This insightful essay by Paul Graham dissects the fundamental conflict between two distinct scheduling paradigms: the 'maker's schedule' and the 'manager's schedule.' Graham elegantly articulates how creative professionals, such as programmers and writers, require large, uninterrupted blocks of time for deep work, making traditional hourly meetings profoundly disruptive. Conversely, managers thrive on fragmented, appointment-driven days. The piece brilliantly highlights the hidden costs of meetings for makers, extending beyond the meeting itself to include a 'cascading effect' on morale and ambition. What I find particularly compelling is the proposed solution of 'office hours' to bridge this divide, allowing makers to compartmentalize interruptions without sacrificing productivity. This analysis offers a crucial framework for understanding and optimizing workplace dynamics, advocating for empathy and structural adjustments to foster innovation.",
-    "summary_zh": "这篇文章深刻剖析了“创作者日程”与“管理者日程”的根本冲突，读来令人豁然开朗。我个人深有体会，作为一名内容创作者，任何一次被打断都可能导致思绪中断、半日无功。格雷厄姆巧妙地揭示了会议对创作者的隐性成本，远不止占用时间，更在于破坏心流和工作士气。他提出的“办公时间”模式，旨在模拟管理者日程的便利性，同时保护创作者的大块专注时间，这种平衡的智慧值得所有团队管理者深思。这不仅是时间管理技巧，更是对不同工作模式的尊重与理解，对于构建高效且人性化的工作环境至关重要。",
-    "best_quote_en": "For someone on the maker's schedule, having a meeting is like throwing an exception. It doesn't merely cause you to switch from one task to another; it changes the mode in which you work.",
-    "best_quote_zh": "对于遵循创作者日程的人来说，开会就像抛出一个异常。它不仅仅是让你从一项任务切换到另一项任务；它改变了你的工作模式。"
-  },
-  {
-    "id": 542,
-    "title": "The Adolescence is Already Here",
-    "title_zh": "青春期已然来临",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/p9SQLxybtX2yq6j4R/the-adolescence-is-already-here",
-    "tags": [
-      "solve",
-      "ai-research",
-      "programming",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "编程开发",
-      "未来预测"
-    ],
-    "date": "2026-02-03",
-    "summary_en": "This thought-provoking article argues that humanity is already experiencing the 'adolescence of technology,' a dangerous transition period where AI's subtle, indirect effects are shaping our cognitive processes and social interactions, even with current models. While agreeing with Dario Amodei's concerns about powerful future AI, the author contends that voluntary dependence on present-day LLMs is already leading to a quiet atrophy of human capacities like independent thinking, problem-solving, and even genuine connection. Through personal anecdotes from academia, family life, and her own writing, she illustrates how convenience-driven reliance on AI, though seemingly harmless, erodes our tolerance for uncertainty and critical judgment. The piece provocatively asks if we are noticing what we are trading away, one convenience at a time, and offers practical, albeit small, strategies to reclaim human agency, such as embracing friction in learning and writing. It's a compelling and urgent call to reflect on the present impact of AI on our human intelligence and autonomy.",
-    "summary_zh": "这篇文章深刻指出，我们已经身处“技术青春期”，人工智能的间接影响正悄然改变我们的思维和人际关系。作者通过教育、家庭和个人写作的生动案例，揭示了对AI工具的过度依赖如何悄无声息地侵蚀着人类独立思考和解决问题的能力。她没有着眼于未来AI的宏大风险，而是聚焦当下，质疑我们是否在享受便利的同时，正逐渐放弃那些使我们成为“人”的核心能力。这篇分析引人深思，促使我们反思在日常生活中，为了效率和便捷，我们究竟付出了怎样的代价，以及我们是否还有选择的余地。",
-    "best_quote_en": "I am less worried about a hypothetical future in which AI surpasses human intelligence than I am about a present in which humans are steadily relinquishing the capacities that make intelligence, both individual and collective, matter.",
-    "best_quote_zh": "我不太担心AI超越人类智慧的假设性未来，我更担心的是当下，人类正在稳步放弃那些使个体和集体智慧变得重要的能力。"
-  },
-  {
-    "id": 543,
-    "title": "Inside Russia’s Secret Campaign of Sabotage in Europe",
-    "title_zh": "俄罗斯在欧洲秘密破坏行动的内幕",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/02/09/to-build-a-fire",
-    "tags": [
-      "analyze",
-      "politics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "This deeply unsettling article exposes Russia's extensive and sophisticated campaign of sabotage across Europe, primarily leveraging vulnerable individuals as 'single-use agents.' It meticulously details how GRU military intelligence recruits unsuspecting youths, often Ukrainian refugees, for acts ranging from propaganda to arson and even potential assassination plots. The piece highlights the strategic brilliance and cynical ruthlessness of this hybrid warfare tactic: using disposable agents to sow discord, disrupt supply lines to Ukraine, and exhaust European law enforcement, all while maintaining plausible deniability. The narrative, centered on the tragic case of Daniil Bardadim, a young Ukrainian coerced into committing arson, serves as a chilling illustration of the human cost and the insidious nature of these operations, revealing a 'swarm tactic' designed to create widespread unease and test the resilience of democratic societies. It's a stark reminder of the evolving threats in modern conflict.",
-    "summary_zh": "这篇文章揭示了俄罗斯在欧洲利用“一次性特工”进行秘密破坏活动的惊人内幕。它不仅详细描述了GRU如何招募易受影响的年轻人（包括乌克兰难民）执行从宣传到纵火等任务，更深刻地展现了这种混合战术的阴险与高效。读后不禁思考，当国家间的冲突不再局限于传统战场，而是渗透到社会肌理，利用人性的脆弱和对金钱的渴望时，我们该如何识别并抵御这种无形却致命的威胁？这不仅是对欧洲安全体系的挑战，也是对现代社会道德底线的拷问，令人不寒而栗。",
-    "best_quote_en": "“There’s nothing inherently new, or even all that Russian, about using proxies in statecraft or war. But, what is noteworthy is the scale—and the audacity.”",
-    "best_quote_zh": "“这些行为的目的是为了散布不确定性、恐惧和不信任。国家显得无能为力。人们开始怀疑，看看我们身边发生的一切，都是因为我们卷入了这场战争，而这场战争实际上可能并不是——或者不应该是——我们的战争。”"
-  },
-  {
-    "id": 544,
-    "title": "Gloves",
-    "title_zh": "手套",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gloves/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "This article offers practical recommendations for various types of gloves, addressing common needs from kitchen safety to extreme weather protection and general heavy-duty work. The insights are derived from personal experiences of users, highlighting specific product features and their real-world performance. It's fascinating how a simple item like a glove can have such specialized designs to mitigate risks, enhance comfort, or improve efficiency across diverse tasks. The emphasis on durability, dexterity, and protection against cuts, cold, or abrasions makes this a valuable resource for anyone seeking reliable hand protection, underscoring the importance of choosing the right tool for the job. The anecdotes provide a compelling narrative for each recommendation, making the advice feel trustworthy and relatable.",
-    "summary_zh": "这篇文章汇集了多款手套的实用推荐，从厨房防割到严寒保暖，再到重型作业防护，几乎涵盖了日常生活中对双手保护的各种需求。我特别欣赏作者们结合亲身经历的分享，这让每款手套的优点和适用场景都变得生动而可信。选择一双合适的手套，不仅是工具，更是对手部安全的投资，看完这些，我开始重新审视自己手套箱里的那些旧手套了。",
-    "best_quote_en": "The problem is keeping my work gloves with me at all times. I’ve tried putting grommets in the gloves and clipping them with a carabiner, but this isn’t as easy as it sounds and is a pain to do all over again when a glove gets lost or worn out.",
-    "best_quote_zh": "问题在于如何让我的工作手套随时都在身边。我试过在手套上打孔，然后用登山扣夹住，但这听起来没那么容易，而且当手套丢失或磨损时，重新做一遍会很麻烦。"
-  },
-  {
     "id": 545,
     "title": "A different kind of girls’ weekend: adventure and creativity in Carmarthenshire",
     "title_zh": "一种与众不同的姐妹周末：卡马森郡的冒险与创意",
@@ -2300,5 +2182,125 @@
     "summary_zh": "这篇文章汇集了多领域的精妙洞察，从展望未来的播客到实用的效率工具，再到巧妙的生活小物件。我特别欣赏“最佳情景”播客的理念，它鼓励我们跳出悲观预测，积极构想科技与社会的美好未来，这本身就是一种启发。而“Unloop”行为模式分析工具，则以一种非评判的方式引导自我探索，这对于个人成长而言，无疑是极具价值的。此外，文章还分享了如Mac文件拖放优化、RSS订阅Substack以及“Notes to Self”邮件文件夹等实用技巧，这些都能有效提升日常工作和学习效率。整体而言，这篇文章像是一个充满惊喜的宝库，总能找到一些意想不到的智慧或便利。",
     "best_quote_en": "These are not predictions, but visions of what we can aim for in order to make them real.",
     "best_quote_zh": "这些不是预测，而是我们为实现它们而可以努力的目标愿景。"
+  },
+  {
+    "id": 640,
+    "title": "Katherine Ryan has had a facelift at 42. Why do I feel betrayed? | Polly Hudson",
+    "title_zh": "凯瑟琳·瑞安42岁做了拉皮手术。我为何感到被背叛？| 波莉·哈德逊",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/feb/17/katherine-ryan-facelift-comedian-famous-women",
+    "tags": [
+      "analyze",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-02-17",
+    "summary_en": "This thought-provoking article delves into the complex emotions of a fan, Polly Hudson, grappling with comedian Katherine Ryan's decision to undergo a facelift at 42. Hudson, who admires Ryan's radical honesty and perceived shared values regarding aging gracefully, feels a sense of betrayal and judgment. The piece intelligently dissects the parasocial relationship between celebrities and their audience, highlighting the often-unrealistic expectations placed on public figures to conform to certain ideals. It explores the societal pressures on women concerning aging and beauty, juxtaposing Ryan's personal choice with the author's own journey of acceptance. The article's strength lies in its candid exploration of these conflicting feelings, offering a nuanced perspective on body autonomy, celebrity influence, and the personal struggles with self-image in a youth-obsessed culture. It challenges readers to reflect on their own projections onto public figures and the commercialization of anti-aging solutions.",
+    "summary_zh": "这篇文章深刻剖析了粉丝波莉·哈德逊面对喜剧演员凯瑟琳·瑞安42岁做拉皮手术时的复杂情感。哈德逊曾以为瑞安是她抵抗衰老压力的同盟，因此感到被背叛和评判。文章巧妙地揭示了名人与观众之间寄生式社会关系的脆弱性，以及我们对公众人物的非理性期待。它迫使我们反思，在以年轻为美的社会中，我们如何将个人价值观投射到他人身上，并质疑这种“背叛感”是否源于我们自身对衰老和美的焦虑。这不仅是关于一个名人的选择，更是对当代女性困境和身体自主权的一次深刻探讨。",
+    "best_quote_en": "She didn’t have a facelift for me. She didn’t ask anybody to form this vaguely creepy attachment to her – that was all me. We may convince ourselves of the opposite, but the famous women we enjoy have no obligation to us. It’s not their duty to set standards, or be positive role models: they owe us nothing. Her face, and body, are her business.",
+    "best_quote_zh": "她做拉皮手术不是为了我。她也没有要求任何人对她产生这种略显怪异的依恋——那完全是我自己的想法。我们或许会说服自己相信相反的情况，但我们喜欢的著名女性对我们没有任何义务。她们没有责任设定标准，也不是必须成为积极的榜样：她们什么都不欠我们。她的脸，她的身体，都是她自己的事。"
+  },
+  {
+    "id": 641,
+    "title": "Disconnecting Distraction",
+    "title_zh": "断开干扰",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/distraction.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-02-23",
+    "summary_en": "This essay critically examines the insidious nature of digital distractions, particularly the internet, in hindering productivity. The author, reflecting on personal struggles with procrastination, illustrates how modern technology, unlike traditional time sinks, actively seeks to distract users and evolves constantly, making avoidance challenging. A key insight is the comparison of digital addiction to a 'sentient adversary,' highlighting the need for proactive, visible strategies rather than mere rules. The proposed solution involves creating a physical separation by using a dedicated 'internet-only' computer, which, though seemingly drastic, effectively reclaims the primary workstation for focused work. This approach leverages the friction of physical movement to foster greater awareness and control over online time, offering a compelling case for environmental design in managing digital habits.",
+    "summary_zh": "这篇随笔深刻剖析了数字干扰，尤其是互联网，对生产力的隐蔽侵蚀。作者以亲身经历揭示了现代技术如何主动引诱用户，且干扰形式不断演变，使得抵制愈发困难。我特别认同将数字成瘾比作“有意识的对手”这一观点，它强调了主动且可见的策略远比单纯的规则有效。文中提出通过物理隔离——使用一台专门的“上网电脑”——来解决问题，这看似极端，却巧妙地利用了行动上的不便来增强自我意识，进而重塑工作习惯。这不仅是关于技术管理，更是关于如何通过环境设计来夺回专注力，引人深思。",
+    "best_quote_en": "Addictive things have to be treated as if they were sentient adversaries—as if there were a little man in your head always cooking up the most plausible arguments for doing whatever you're trying to stop doing.",
+    "best_quote_zh": "上瘾的事物必须被当作有意识的对手来对待——仿佛你脑中有一个小人，总在为你试图停止的行为炮制最合理的借口。"
+  },
+  {
+    "id": 642,
+    "title": "Was It Owl a Dream?",
+    "title_zh": "这只猫头鹰是梦吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kFiQciPym6DQdWJJ2/was-it-owl-a-dream-1",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-23",
+    "summary_en": "This post critically examines the phenomenon of \"subliminal learning\" in large language models, where models purportedly learn concepts by being fine-tuned on unrelated tokens. The author, an experienced ML researcher, attempts to replicate and interpret the findings of a previous paper by Zur et al. using mechanical interpretability tools like logit lens. Contrary to the initial hypothesis that specific \"entangled tokens\" cause this learning, the author's experiments with Llama 3.2 1B suggest that the numeric tokens associated with subliminal learning do not show the expected logit increases across model layers. This implies that the proposed entanglement mechanism might be flawed, and the observed correlations could be artifacts of noise rather than meaningful processing. It's a fascinating look into the challenges of interpreting complex AI behaviors and questioning established findings in a nascent field.",
+    "summary_zh": "这篇文章深入探讨了大型语言模型中“潜意识学习”的机制，即模型通过看似无关的token进行微调来学习概念。作者作为一名经验丰富的机器学习研究员，试图用机械可解释性工具重现并验证此前研究的发现。出人意料的是，他的实验结果挑战了“纠缠token”导致学习的假设，发现那些数字token的logit值并未如预期般在模型层中上升。这暗示了所谓的纠缠机制可能存在缺陷，观察到的相关性或许只是噪音而非有意义的处理。这不禁让人思考，在AI领域，我们对模型内部运作的理解是否还停留在表面，以及如何更严谨地验证那些看似神奇的AI现象。",
+    "best_quote_en": "I don’t think any of this is conclusive. I haven’t proven anything- just waived my hands in a (hopefully) meaningful direction. I think my results are suggestive that these so called entangled tokens are not actually entangled in any meaningful way, and subliminal learning probably doesn’t work through them.",
+    "best_quote_zh": "我认为这些都不具决定性。我没有证明任何事情——只是（希望）朝着一个有意义的方向挥了挥手。我认为我的结果表明，这些所谓的纠缠token实际上并没有以任何有意义的方式纠缠在一起，潜意识学习可能也不是通过它们起作用的。"
+  },
+  {
+    "id": 643,
+    "title": "An Olympic Final Worthy of a Rivalry",
+    "title_zh": "一场配得上竞争的奥运决赛",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/sports/sporting-scene/an-olympic-final-worthy-of-a-rivalry",
+    "tags": [
+      "learn",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-22",
+    "summary_en": "This article masterfully captures the intense drama and underlying significance of the U.S. vs. Canada men's Olympic gold-medal hockey game. Beyond the thrilling overtime victory for the U.S., it delves into the complex interplay of national pride, sportsmanship, and rivalry. The author skillfully highlights how such a high-stakes competition, while politically charged, ultimately transcends jingoism to become a testament to individual perseverance and collective excellence. It’s a compelling exploration of how sports can foster a healthy sense of national identity and provide a stage for athletes to achieve personal redemption and inspire unity, reminding us that rivalry, when rooted in mutual respect, can elevate everyone involved.",
+    "summary_zh": "这篇文章精彩地捕捉了美加奥运冰球决赛的紧张氛围与深层意义。它不仅仅是关于一场激动人心的加时赛胜利，更深入探讨了国家自豪感、体育精神和竞争关系之间复杂的互动。作者巧妙地指出，尽管赛事带有政治色彩，但最终超越了狭隘的沙文主义，成为个人坚韧不拔和集体卓越的证明。这让我反思，体育如何能培养健康的国家认同感，并为运动员提供一个实现自我救赎和凝聚人心的舞台。这种基于尊重的竞争，确实能让所有参与者都得到升华。",
+    "best_quote_en": "But the game and the Olympics as a whole serve as a reminder that national pride isn’t always a bad thing. It can be a source of resilience, and a wellspring of improvement.",
+    "best_quote_zh": "但这场比赛和整个奥运会都在提醒我们，民族自豪感并非总是坏事。它可以是韧性的源泉，也是进步的动力。"
+  },
+  {
+    "id": 644,
+    "title": "Retro Recomendo: Sleep",
+    "title_zh": "复古推荐：睡眠",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-sleep/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-02-22",
+    "summary_en": "This 'Retro Recomendo' article offers a curated selection of practical, low-cost solutions to common sleep problems, ranging from noise cancellation to natural wake-up aids and even mattress shopping tips. It stands out by presenting personal endorsements for products like brown noise apps, silicone earplugs, NSDR tracks, and a wake-up light, each addressing a specific facet of sleep improvement. The article's value lies in its actionable advice and the aggregation of diverse, yet effective, hacks. It's particularly useful for individuals seeking immediate, tangible ways to enhance their sleep quality without significant investment, reflecting a thoughtful approach to everyday well-being.",
+    "summary_zh": "这篇文章以“复古推荐”的形式，提供了一系列改善睡眠的实用小妙招。它不仅推荐了诸如助眠音、耳塞、NSDR引导等直接提升睡眠质量的方法，还巧妙地涵盖了如唤醒灯和床垫选购等周边建议。最吸引人的是，这些都是作者们亲身实践并认可的低成本方案，读来让人觉得既新颖又可靠，对于追求生活品质、希望改善睡眠的读者而言，无疑是一份充满价值的指南。",
+    "best_quote_en": "Non-Sleep Deep Rest (NSDR), also known as yoga nidra, induces deep relaxation while maintaining awareness. If you’re too tired to nap but can’t fall asleep, I’ve found that one of these free 9-minute NSDR tracks produces a similar restorative effect.",
+    "best_quote_zh": "非睡眠深度休息（NSDR），也被称为瑜伽 Nidra，能在保持意识清醒的同时诱导深度放松。如果你太累了无法小憩但又睡不着，我发现这些免费的9分钟NSDR音轨能产生类似的恢复效果。"
   }
 ]
