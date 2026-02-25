@@ -1,117 +1,5 @@
 [
   {
-    "id": 550,
-    "title": "‘It’s an opportunity for bonding’  – my quest to become a Black dad who can do his daughters’ hair",
-    "title_zh": "“这是增进感情的机会”——我作为一名能给女儿们打理头发的黑人父亲的探索之旅",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/feb/05/black-dad-daughters-hair-barbershop-salon-night",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "This article delves into a Black father's journey to master his daughters' curly hair care, highlighting a common challenge for many Black men whose hair experiences are often limited to barbershops. The author, Lanre Bakare, confronts his 'hair ignorance' with the help of stylist Jennie Roberts, uncovering fundamental mistakes in technique and product use. Beyond practical tips, the piece thoughtfully explores the deeper cultural significance of Black hair, the prevalent 'hair trauma' experienced by many Black and mixed-race individuals, and the powerful bonding opportunity that hair care presents for fathers and daughters. It's a poignant exploration of cultural identity, gender roles, and the quiet revolution of Black fathers stepping up to embrace this intimate aspect of family life, transforming a source of frustration into a moment of connection and pride.",
-    "summary_zh": "这篇文章触及了一个深具文化意义的议题：一位黑人父亲学习打理女儿卷发的过程。它不仅提供了实用的美发技巧，更深刻地揭示了黑人社区中围绕头发的文化创伤和性别角色认知。父亲们通过学习护发，不仅减轻了伴侣的负担，更重要的是，这成为他们与女儿建立深厚情感联结的桥梁。这不仅仅是关于头发，更是关于身份认同、家庭纽带和打破传统观念的温柔革命。读完后，我深感这种父女间的亲密互动，超越了简单的日常护理，升华为一种充满爱与理解的仪式。",
-    "best_quote_en": "“A lot of them understood the significance of hair and the fact that it is an opportunity for bonding and they just wanted to be more involved.”",
-    "best_quote_zh": "“他们中的许多人都明白头发的意义，也明白这是一个增进感情的机会，他们只是想更多地参与进来。”"
-  },
-  {
-    "id": 551,
-    "title": "Why Twitter is a Big Deal",
-    "title_zh": "为什么Twitter如此重要",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/twitter.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "This insightful piece from April 2009 brilliantly identifies Twitter's core innovation not as a social network, but as a novel messaging protocol where recipients aren't specified. The author astutely points out the rarity of successful new protocols, placing Twitter in the esteemed company of TCP/IP, SMTP, and HTTP. What's particularly striking is the observation that Twitter, despite being a private company's protocol, managed to spread widely precisely because its founders were initially slow to monetize or over-control it, allowing it to feel like an open, public utility. This perspective offers a profound understanding of network effects and the delicate balance between innovation, ownership, and user adoption, a lesson still highly relevant for today's platform builders. It makes one wonder if early restraint is often a hidden superpower for disruptive technologies.",
-    "summary_zh": "这篇2009年的文章深刻剖析了Twitter成功的核心——它是一个新型的、不指定接收者的消息协议。作者将Twitter与TCP/IP、SMTP等基础协议并列，强调了其作为私有公司协议的独特性。最令人深思的是，早期不急于变现反而让Twitter得以像公共基础设施一样迅速普及，这揭示了平台发展中“放手”的重要性。它让我反思，对于颠覆性创新而言，克制和开放或许是比短期盈利更重要的战略。这种洞察力在今天看来依然具有极强的指导意义。",
-    "best_quote_en": "But Twitter is a protocol owned by a private company. That's even rarer. Curiously, the fact that the founders of Twitter have been slow to monetize it may in the long run prove to be an advantage.",
-    "best_quote_zh": "但Twitter是一个由私人公司拥有的协议。这甚至更为罕见。奇怪的是，Twitter的创始人迟迟未能将其变现，从长远来看可能被证明是一个优势。"
-  },
-  {
-    "id": 552,
-    "title": "Is Note-taking a favor or a burden to my future-self?",
-    "title_zh": "笔记是给未来自己的帮助还是负担？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/5pu8oAia9dRst2Ejz/is-note-taking-a-favor-or-a-burden-to-my-future-self",
-    "tags": [
-      "solve",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "This thought-provoking piece delves into the often-overlooked dichotomy of note-taking: is it a valuable aid for our future selves or an accumulating burden? The author candidly admits to being a 'lousy notetaker' despite prolific output, highlighting the common pitfall of amassing information without immediate purpose or structure. The core insight is that effective note-taking isn't about volume or tool-centric solutions, but rather about 'thinking more now' – proactively processing information to make it actionable. It challenges the conventional wisdom of simply capturing everything, suggesting that each note can become a 'debt' if not integrated or put into practice, much like learning soft skills or 'Murphyjitsu' for problem-solving. This article resonates deeply with anyone struggling to transform raw information into usable knowledge, offering a critical perspective on knowledge management.",
-    "summary_zh": "这篇文章深刻探讨了笔记的悖论：它究竟是未来的资产，还是当下的负债？作者以自身经历为例，坦承自己虽然笔记量大，却鲜少真正影响重要决策，这引发了我对“知识管理”本质的思考。核心观点在于，有效的笔记并非越多越好，也不是工具所能解决的，关键在于“现在就多思考”，即时加工信息，使其具备行动力。这颠覆了传统“先存起来再说”的习惯，提醒我们每一条笔记都可能成为一笔“债务”，除非我们能将其内化并付诸实践。它促使我反思自己的笔记习惯，不再盲目囤积，而是追求质量与即时应用。",
-    "best_quote_en": "Every node in your knowledge graph is a debt. Every link doubly so. The more you have, the more in the red you are.",
-    "best_quote_zh": "你的知识图谱中的每个节点都是一笔债务。每个链接更是双倍的债务。你拥有的越多，你就越是赤字。"
-  },
-  {
-    "id": 553,
-    "title": "How Jeff Bezos Brought Down the Washington Post",
-    "title_zh": "杰夫·贝佐斯如何搞垮《华盛顿邮报》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
-    "tags": [
-      "update",
-      "politics",
-      "startup-funding",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "创业融资",
-      "争议观点"
-    ],
-    "date": "2026-02-04",
-    "summary_en": "This deeply personal and critical analysis by a long-time Washington Post insider dissects the decline of the esteemed newspaper under Jeff Bezos's ownership. Initially hailed as a savior, Bezos's commitment appears to have wavered, leading to massive layoffs, a diminished newsroom, and a perceived shift in journalistic integrity. The author meticulously details instances of strategic missteps, controversial leadership appointments, and Bezos's apparent appeasement of political figures, all contributing to what is portrayed as a 'self-inflicted brand destruction.' The piece laments the loss of talent and the erosion of the Post's former glory, contrasting its fate with the successful transformation of the New York Times. It concludes by proposing a nonprofit model for the Post, funded by Bezos, as a potential path to redemption, challenging him to live up to his initial promise rather than presiding over the institution's demise. The emotional weight of the narrative is palpable, reflecting the profound disappointment and sorrow of those who dedicated their lives to the paper.",
-    "summary_zh": "这篇文章由《华盛顿邮报》资深人士撰写，痛陈贝佐斯掌舵下报社的衰落。曾经的“救世主”如今被指责为导致报社大规模裁员、新闻编辑室萎缩、公信力受损的罪魁祸首。作者细数战略失误、争议性人事任命以及贝佐斯疑似对政治人物的讨好，字里行间充满了对报社“自我毁灭”的痛心。读来令人深思：一个曾经辉煌的媒体巨头，如何在资本逐利与新闻理想的博弈中走向衰败？作者最后提出的非营利化建议，既是对贝佐斯初心的呼唤，也映射出媒体行业在数字时代面临的深层困境。这不仅仅是关于一家报纸的故事，更是对新闻业未来走向的深刻反思。",
-    "best_quote_en": "“It’s not a business that just disappears into the muck of venture capitalism. It’s a business that is essential to the survival of the Republic, for Christ’s sake. So you don’t fuck around with it like that.”",
-    "best_quote_zh": "“这不是一个会消失在风险资本泥潭里的生意。这是一个对共和国的生存至关重要的生意，看在上帝的份上。所以你不能那样胡搞。”"
-  },
-  {
-    "id": 554,
-    "title": "What’s in my NOW? — Gearóid (Ged) Carroll",
-    "title_zh": "我的“此刻”有什么？— Gearóid (Ged) Carroll",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-gearoid-ged-carroll-2/",
-    "tags": [
-      "guide",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-02-04",
-    "summary_en": "Ged Carroll, a strategy consultant for creative and ad agencies, shares a curated list of physical, digital, and 'invisible' tools that enhance his productivity and daily life. The 'physical' section highlights durable, well-designed items like a hand-stitched leather wallet and a cost-effective 4K monitor. Digitally, he champions Milanote for creative collaboration and points to The Economist's GitHub data journalism as a valuable resource. Most intriguingly, the 'invisible' section introduces the 'TCREI' framework for crafting effective LLM prompts, emphasizing task, context, reference, evaluation, and iteration. This piece offers practical recommendations and a thoughtful approach to leveraging technology and tools, reflecting a keen eye for both utility and underlying principles.",
-    "summary_zh": "Ged Carroll分享了他的“此刻”所用工具，从耐用的实体物品到高效的数字辅助，再到富有洞察力的LLM提示框架。我特别欣赏他将物理世界的实用与数字世界的创新相结合，尤其是TCREI提示框架，它不仅提供了即时解决方案，更启发我们如何系统性地优化与AI的互动。这不仅仅是工具推荐，更是一种生活和工作哲学的体现，强调了实用性、设计感和持续迭代的重要性。",
-    "best_quote_en": "The memorable phrase: Thoughtfully Creating Really Excellent Inputs stands for Task: the persona that the LLM should assume and format that you want the output to look like, Context: give it the background information that it needs, Reference materials: give the LLM examples or existing materials that show what good looks like. (Not always applicable for abstract tasks), Evaluate: review the output, did the LLM understand what you wanted from your inputs?, Iterate: Refine your prompt: If the output isn’t right, try again by adding more details, rephrasing, or adjusting your request.",
-    "best_quote_zh": "令人难忘的短语：TCREI（Thoughtfully Creating Really Excellent Inputs）代表任务：LLM应扮演的角色以及你希望输出的格式；上下文：提供LLM所需的背景信息；参考资料：提供LLM示例或现有材料，以展示优秀成果是怎样的。（并非总适用于抽象任务）；评估：审查输出，LLM是否理解了你的输入意图？；迭代：优化你的提示：如果输出不正确，通过添加更多细节、重新措辞或调整请求来再次尝试。"
-  },
-  {
     "id": 555,
     "title": "‘The children are not safe here’: the Nigerian couple fighting infanticide",
     "title_zh": "“孩子们在这里不安全”：尼日利亚夫妇与杀婴陋习抗争",
@@ -2304,5 +2192,121 @@
     "summary_zh": "Tony Wyss-Coray 博士关于年轻血液和运动血液中抗衰老因子的研究引人深思。文章不仅探讨了器官衰老速率的差异和生物年龄的精确测量，更揭示了通过运动、日晒、禁食和社交等生活方式干预，可以显著提升这些“青春蛋白”的水平，从而恢复大脑和身体的活力，甚至延长寿命。这不仅仅是科学发现，更是一种生活哲学，启发我们重新审视日常习惯对生命质量的深远影响。",
     "best_quote_en": "We discuss how different organs age at different rates and how to accurately measure biological aging. We also discuss the specific proteins found in blood when we are young and that are increased by things such as exercise, sunlight exposure, short-term fasting, specific foods and social connection that can significantly increase vitality, restore youthful functioning of the brain and body and potentially increase lifespan.",
     "best_quote_zh": "我们讨论了不同器官如何以不同速度衰老以及如何准确测量生物年龄。我们还讨论了年轻血液中发现的特定蛋白质，以及运动、阳光照射、短期禁食、特定食物和社交联系等因素如何增加这些蛋白质，从而显著提升活力，恢复大脑和身体的年轻功能，并可能延长寿命。"
+  },
+  {
+    "id": 650,
+    "title": "Be Good",
+    "title_zh": "行善",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/good.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-02-25",
+    "summary_en": "Paul Graham's \"Be Good\" offers a compelling, counter-intuitive argument that benevolence is not merely an ethical stance but a potent, practical business strategy, especially for startups. He challenges the conventional wisdom that profit must be the immediate focus, suggesting that by prioritizing user needs and 'making something people want' without initial concern for monetization, companies can build immense value and loyalty. Graham illustrates this with examples like Craigslist and early Google, which operated with a 'charity-like' ethos, ultimately achieving astounding success. He posits that being 'good' fosters morale, attracts talent and external support, and critically, acts as an unwavering compass for decision-making in the chaotic startup environment. The essay thoughtfully dissects how large companies like Microsoft lost their 'goodness' and consequently their innovative edge, advocating for 'Don't be evil' as an 'elixir of corporate youth.' This piece is a fascinating exploration of the strategic power of altruism in capitalism, urging founders to embrace a mission-driven approach for long-term resilience and impact.",
+    "summary_zh": "保罗·格雷厄姆的《行善》一文，以其反直觉的洞见，深刻阐释了“善”不仅是道德准则，更是创业成功的核心策略。他挑战了传统上将盈利置于首位的观念，提出通过优先满足用户需求、创造人们真正需要的产品，即使初期不急于变现，也能构建出巨大的价值和忠诚度。文章以Craigslist和早期谷歌为例，展现了“慈善式”运营模式如何带来惊人成功。行善能提升团队士气，吸引顶尖人才和外部支持，更重要的是，它能在复杂多变的创业环境中提供清晰的决策指南。这篇充满智慧的文章，让我不禁思考，在追求商业成功的道路上，我们是否真的能将利他主义作为最强大的武器？它提醒我们，真正的力量可能源于无私的奉献。",
+    "best_quote_en": "Being good is a particularly useful strategy for making decisions in complex situations because it's stateless. It's like telling the truth. The trouble with lying is that you have to remember everything you've said in the past to make sure you don't contradict yourself. If you tell the truth you don't have to remember anything, and that's a really useful property in domains where things happen fast.",
+    "best_quote_zh": "行善在复杂情境下是一种特别有用的决策策略，因为它不依赖于状态。这就像说真话一样。说谎的麻烦在于你必须记住过去说过的一切，以确保不会自相矛盾。如果说真话，你就不必记住任何东西，这在事物发展迅速的领域是一个非常有用的特性。"
+  },
+  {
+    "id": 651,
+    "title": "The Iron Kaleidoscope",
+    "title_zh": "铁万花筒",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ZeDY64pvusZQzjRqJ/the-iron-kaleidoscope",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-02-25",
+    "summary_en": "This piece, \"The Iron Kaleidoscope,\" delves into the overwhelming complexity and recursive nature of perception, likening it to a powerful, almost sentient kaleidoscope. It explores how deep engagement with such intricate systems can lead to a \"maddening multiplication of space\" and challenge conventional understanding. The author suggests that a new \"grammar\" is needed to describe these phenomena, hinting at the limitations of human cognition when faced with unfathomable realities. The narrative evokes a sense of both wonder and dread, portraying a world where familiar patterns give way to illegible prophecies and the known becomes more terrifying than the unknown. It's a philosophical meditation on the boundaries of perception and the human struggle to comprehend systems that defy easy categorization, leaving one to ponder the implications of such 'unthinkable thoughts' on our reality.",
+    "summary_zh": "这篇《铁万花筒》引人深思，它将世界的复杂性描绘成一个自我增殖的万花筒，每一次凝视都带来意识的无限扩张与迷失。作者精妙地探讨了在面对超越人类理解范畴的系统时，我们心智的局限与挣扎。那种对“已知”而非“未知”的恐惧，以及对“即将发生”却又“不可证伪”的强大存在的敬畏，令人不寒而栗。这不仅仅是对复杂性的哲学探讨，更是对人类感知边界的深刻反思，读来让人久久不能平静，思考我们所见世界的真实性与可理解性。",
+    "best_quote_en": "It is not the unknown that will get to them. It is the fear of the well-known, what their own eyes have seen. It is the fear, more specifically, of the imminent: of an artefact, not irrelevant, but outside the affordances of mind, like some high dimensional galleon or space ship: vast, omnipotent, barely illuminated, not properly in view, and potentially—unfalsifiably—armed to the teeth.",
+    "best_quote_zh": "让他们感到恐惧的，并非未知。而是已知，是他们亲眼所见之物。更具体地说，是那种迫在眉睫的恐惧：一个并非无关紧要，却又超乎心智承受范围的造物，如同某种高维的帆船或宇宙飞船：浩瀚无垠，无所不能，若隐若现，难以窥全，且可能——无法证伪地——全副武装。"
+  },
+  {
+    "id": 652,
+    "title": "The Russians Turning to Google Maps in Search of Missing Soldiers",
+    "title_zh": "俄罗斯人转向谷歌地图寻找失踪士兵",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-russians-turning-to-google-maps-in-search-of-missing-soldiers",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-24",
+    "summary_en": "This article offers a poignant and deeply unsettling look into the human cost of the Ukraine war, specifically focusing on the desperate measures Russian families take to find missing soldiers. It brilliantly highlights the ironic role of Google Maps—a tool typically used for mundane navigation or consumer reviews—as a last resort for families circumventing state censorship and official silence. The piece critiques Russia's information control, contrasting the government's efforts to suppress data with the decentralized, collective knowledge generated by ordinary citizens on platforms like Google Maps. The intellectual curiosity lies in observing how digital tools, designed for connection and transparency, are repurposed in a conflict zone to uncover grim truths. It’s a powerful testament to human resilience and ingenuity in the face of profound tragedy and systemic obfuscation, prompting reflection on the evolving nature of information warfare and grassroots resistance.",
+    "summary_zh": "这篇文章揭示了乌克兰战争背后令人心碎的人性代价，尤其是俄罗斯家庭为寻找失踪士兵而采取的绝望手段。我深感震撼于谷歌地图这种日常工具，在信息被严格控制的环境下，竟成了普通人突破审查、追寻真相的“最后希望”。文章不仅批判了俄罗斯的信息压制，更展现了数字时代下，个体如何在看似微不足道的角落，集体构建起对抗官方叙事的非官方信息网络。这不仅是技术异用，更是人性在极端困境中挣扎求存的深刻写照，令人不禁思考，当国家机器试图抹去真相时，普通人的执着与数字工具的结合，能爆发出何等强大的力量。",
+    "best_quote_en": "Google Maps allows us to annotate collectively and to create a new kind of common knowledge about the world.",
+    "best_quote_zh": "谷歌地图允许我们集体标注，创造一种关于世界的全新共有知识。"
+  },
+  {
+    "id": 653,
+    "title": "The Art of Finding Dory / Jellyfish: A Natural History",
+    "title_zh": "寻找多莉的艺术 / 水母：自然史",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-art-of-finding-dory-jellyfish-a-natural-history/",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-02-24",
+    "summary_en": "This article presents reviews of two distinct, yet equally captivating, books that celebrate the wonders of the aquatic world and human creativity. 'The Art of Finding Dory' offers an unparalleled look into the meticulous, four-year production process behind Pixar's animated film, revealing the deep research and artistic dedication required to bring an underwater world to life. It's a fascinating testament to the blend of science and imagination in animation. 'Jellyfish: A Natural History,' on the other hand, dives into the enigmatic lives of jellyfish, presenting a trove of astonishing facts about their biology, ecology, and surprising resilience. The reviewer highlights mind-boggling details like the immortal jellyfish and the sheer scale of some species, making a compelling case for the book's ability to utterly engross its readers. Both reviews effectively convey the unique value proposition of their respective books, appealing to different facets of curiosity.",
+    "summary_zh": "这篇文章评论了两本引人入胜的书，一本深入探讨皮克斯动画《海底总动员2：寻找多莉》幕后的艺术与科学，展现了创作团队四年来的匠心与投入，让人不禁感叹动画制作的奇妙。另一本《水母：自然史》则揭示了水母这种无脑无心的生物令人惊叹的生命奇迹，从“不朽水母”到剧毒箱水母，每个事实都颠覆认知。读完这两篇评论，我强烈感受到知识的广阔与生命的奥秘，也体会到优秀书籍如何能将读者带入一个全新的世界，无论是艺术的想象还是自然的真实，都令人神往。",
+    "best_quote_en": "Once you read The Art of Finding Dory you will understand what a true labor of love the journey was.",
+    "best_quote_zh": "一旦你读了《寻找多莉的艺术》，你就会明白这段旅程是多么真挚的热爱之作。"
+  },
+  {
+    "id": 654,
+    "title": "Essentials: Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
+    "title_zh": "要点：利用科学工具优化您的锻炼计划 | Jeff Cavaliere",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究"
+    ],
+    "date": "2026-02-19",
+    "summary_en": "This Huberman Lab episode, featuring strength coach Jeff Cavaliere, offers a highly practical and science-backed guide to optimizing exercise programs. It delves into foundational aspects like structuring workouts, effective warm-ups, injury prevention, and nutrition without strict calorie counting. The discussion provides actionable tools and principles, such as the 'Cavaliere Test' for muscularity, grip strength for recovery assessment, and the plate method for nutrition. What makes this particularly valuable is the blend of Cavaliere's clinical expertise as a physical therapist with Huberman's scientific rigor, translating complex physiological concepts into accessible, implementable strategies for anyone seeking to enhance their fitness and overall health. It's a compelling resource for those looking to move beyond fads and build a sustainable, effective exercise regimen.",
+    "summary_zh": "这期Huberman Lab节目邀请了Jeff Cavaliere，深入探讨了如何科学有效地优化锻炼计划。内容涵盖了从训练结构、热身、伤病预防到实用营养原则等多个方面。我特别欣赏其将复杂的生理学知识转化为可操作工具的策略，如“Cavaliere测试”和餐盘法。这不仅仅是健身建议，更是将专业知识与日常实践相结合的典范，对于希望系统性提升健康和体能的人来说，无疑是一份极具价值的指南。",
+    "best_quote_en": "Jeff's science-based approach offers clear, actionable guidance for anyone looking to improve fitness, physique and overall health.",
+    "best_quote_zh": "Jeff的科学方法为任何希望改善体能、体格和整体健康的人提供了清晰、可操作的指导。"
   }
 ]
