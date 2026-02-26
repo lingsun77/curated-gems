@@ -1,119 +1,5 @@
 [
   {
-    "id": 555,
-    "title": "‘The children are not safe here’: the Nigerian couple fighting infanticide",
-    "title_zh": "“孩子们在这里不安全”：尼日利亚夫妇与杀婴陋习抗争",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/05/the-children-are-not-safe-here-the-nigerian-couple-fighting-infanticide",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "This deeply moving and thought-provoking article chronicles the extraordinary efforts of Olusola and Chinwe Stevens, a Nigerian couple who have dedicated their lives to rescuing and raising children targeted by infanticide due to archaic superstitions. The piece expertly weaves together the personal stories of survivors like Esther and Godiya with the broader socio-cultural challenges of combating deeply entrenched beliefs in remote Nigerian communities. It highlights the Stevens' unwavering commitment, the complexities of reintegration, and the delicate balance between preserving cultural identity and safeguarding human life. The article also critically examines the sustainability challenges of their Vine Heritage Home Foundation, including funding, governance, and the unintended consequence of its growing size. It's a powerful narrative on resilience, compassion, and the enduring struggle against harmful traditions, urging readers to consider the systemic issues that perpetuate such practices.",
-    "summary_zh": "这篇文章深刻地揭示了尼日利亚夫妇奥卢索拉和钦威·史蒂文斯与杀婴陋习抗争的非凡故事。他们创办的“葡萄藤遗产之家”收养了被视为不祥之兆的孩子们，这些孩子因迷信传统而面临生命威胁。文章通过幸存者的视角，展现了这对夫妇的无私奉献，以及将这些孩子重新融入社区所面临的巨大挑战。它也引人深思，在对抗根深蒂固的文化信念时，如何平衡传统与人道。文章还批判性地探讨了该机构在资金和管理上的困境，以及这种家庭式运营模式的未来不确定性。这不仅仅是一个关于慈善的故事，更是一个关于社会变革、信仰冲突和人权保障的复杂案例。",
-    "best_quote_en": "“He said, ‘Can you permit me? Let me call my pastor friend so he can come and pick up the child.’ So he called me, and we went to the community and took her.”",
-    "best_quote_zh": "“他说，‘你能允许我吗？让我打电话给我的牧师朋友，他可以过来接走这个孩子。’于是他给我打了电话，我们去了那个社区，把她带走了。”"
-  },
-  {
-    "id": 556,
-    "title": "The Founder Visa",
-    "title_zh": "创始人签证",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/foundervisa.html",
-    "tags": [
-      "solve",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "This piece from April 2009 argues for a 'Founder Visa' as the most impactful, cost-free government policy to boost U.S. startup creation. The author contends that the primary bottleneck isn't tax policy but immigration restrictions on talented founders. By allowing 10,000 startup founders annually, leveraging investor validation to define 'startup,' the U.S. could generate thousands of new companies and, crucially, more jobs for Americans. The proposal highlights the economic multiplier effect of entrepreneurship, suggesting that such a policy would not only enhance innovation but also elevate the legislator who champions it. It's a compelling, market-driven solution to a persistent economic challenge.",
-    "summary_zh": "这篇2009年的文章提出“创始人签证”的构想，认为这是美国政府刺激创业最有效且零成本的政策。作者洞察到，真正的瓶颈不在于税收或法规，而是未能吸引全球顶尖的创业人才。每年引入一万名创始人，并由市场投资者来定义“初创企业”，不仅能催生数千家新公司，更能为美国创造大量就业。这无疑是利用市场力量解决国家经济增长问题的高明之策，值得深思。",
-    "best_quote_en": "The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.",
-    "best_quote_zh": "政府能做的，以增加这个国家初创企业数量的最大一件事，是一项不花钱的政策：为初创企业创始人设立一种新的签证类别。"
-  },
-  {
-    "id": 557,
-    "title": "AI benchmarking has a Y-axis problem",
-    "title_zh": "AI基准测试存在Y轴问题",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/EWfGf8qA7ZZifEAxG/ai-benchmarking-has-a-y-axis-problem-1",
-    "tags": [
-      "solve",
-      "ai-research",
-      "programming",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "编程开发",
-      "数据驱动"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "This insightful analysis critically examines the limitations of current AI benchmarking methodologies, arguing that plotting benchmark scores over time without natural, proportional units leads to misleading interpretations of AI progress. The author highlights how 'grab-bag' benchmarks, composed of subjectively weighted tasks, create warped projections of true capability, making it impossible to reliably infer progress rates, absolute capabilities, or meaningful trends. Instead, the piece advocates for focusing on direct real-world quantities, tracking key milestones, and critically evaluating benchmark units. It challenges the common practice of extrapolating trends from squishy metrics, urging a more rigorous and less scalar-driven approach to understanding AI development. The article prompts a re-evaluation of how we measure and communicate AI advancement.",
-    "summary_zh": "这篇分析深刻指出当前AI基准测试的Y轴问题，即缺乏自然单位的评分曲线容易误导我们对AI进展的判断。作者认为，拼凑式基准测试的主观任务权重扭曲了真实能力映射，导致我们无法准确推断进展速度或绝对能力。与其过度依赖这些模糊指标，不如关注实际量化数据和关键里程碑。这促使我们反思如何更严谨、更少地将复杂进展简化为单一数字，对AI评估方式提出了重要的批判性审视。",
-    "best_quote_en": "But that math doesn’t actually tell you anything real unless the scores have natural units. Most don’t.",
-    "best_quote_zh": "但除非分数有自然单位，否则这些数学计算并不能告诉你任何真实情况。大多数都没有。"
-  },
-  {
-    "id": 558,
-    "title": "Donald Trump Already Knows the 2026 Election Is “Rigged”",
-    "title_zh": "唐纳德·特朗普早已知道2026年大选是“被操纵的”",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-already-knows-the-2026-election-is-rigged",
-    "tags": [
-      "analyze",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "This analytical piece from February 2026 critically examines Donald Trump's preemptive claims of a \"rigged\" 2026 midterm election. The author, Susan B. Glasser, argues that Trump's rhetoric, far from being mere bluster, represents a deliberate and escalating strategy to undermine democratic processes, building on his actions post-2020. The article highlights how key Republican figures now echo or enable his challenges to election integrity, contrasting with the institutional resistance he faced previously. Glasser emphasizes that the question is no longer *if* Trump will attempt to delegitimize future elections, but *how*. The piece serves as a stark warning about the fragility of democratic norms and the potential for a leader to weaponize distrust to maintain power, detailing specific actions taken or proposed by his administration and allies to control election outcomes.",
-    "summary_zh": "这篇文章对特朗普在2026年中期选举前就宣称选举“被操纵”的言论进行了深刻分析。作者苏珊·B·格拉瑟敏锐地指出，这并非空穴来风，而是特朗普一以贯之、不断升级的策略，旨在从根本上动摇民主根基。她担忧地观察到，与2020年时面临的内部抵制不同，如今共和党内部已形成了一种默许甚至助长的氛围。文章不仅仅是报道，更像是一面镜子，映照出民主制度在面对持续性挑战时的脆弱性。读完不禁让人深思，当政治人物公然挑战常识与法治时，我们作为公民应如何捍卫来之不易的民主价值。",
-    "best_quote_en": "The question at this point is not if—it’s how.",
-    "best_quote_zh": "此时此刻，问题已不是“是否会发生”，而是“将如何发生”。"
-  },
-  {
-    "id": 559,
-    "title": "Travel Dollar Destinations/Bedbugs Tracking/Worldwide Rent Prices",
-    "title_zh": "旅行目的地美元价值/臭虫追踪/全球租金价格",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/travel-dollar-destinations-bedbugs-tracking-worldwide-rent-prices/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "This content offers a multi-faceted exploration of international travel and living costs, providing practical insights for budget-conscious individuals. It intelligently identifies destinations where the US dollar retains strong purchasing power, leveraging economic factors like currency pegs and exchange rate oddities. The inclusion of a bedbug tracking registry highlights a common traveler concern, offering a useful, albeit geographically limited, solution. Furthermore, the global rent price visualization and digital nomad report analysis provide valuable context for understanding living expenses and remote work opportunities worldwide. The author's critical assessment of the digital nomad report, particularly regarding tax implications, demonstrates a keen analytical eye, making this piece not just informative but also thought-provoking for anyone considering international relocation or travel.",
-    "summary_zh": "这篇文章巧妙地将旅行预算、住宿安全和全球生活成本融为一体，为读者提供了多维度的实用信息。作者不仅指出了美元保值目的地，还洞察了数字游民报告的潜在盲点，尤其是对税务考量的批判性分析，展现了深刻的洞察力。这些内容对于那些寻求高性价比旅行、关注住宿质量或是考虑全球化生活方式的人来说，无疑是极具价值的参考，引发我们对国际生活成本和机遇的深思。",
-    "best_quote_en": "Still, it’s fun to gasp at rates in NYC, Singapore, and London, then realize you could live large for less than $1,000 in Rio, Bogota, Cairo, or Bangalore.",
-    "best_quote_zh": "仍然，当你看到纽约、新加坡和伦敦的租金价格时会倒吸一口凉气，然后意识到在里约、波哥大、开罗或班加罗尔，你每月花不到1000美元就能过上优渥生活。"
-  },
-  {
     "id": 560,
     "title": "Epstein said he was ‘asked everyday’ for advice on #MeToo: ‘So many guys reaching out to me’",
     "title_zh": "爱泼斯坦自称每天都被人咨询#MeToo相关建议：‘太多人找我’",
@@ -2308,5 +2194,123 @@
     "summary_zh": "这期Huberman Lab节目邀请了Jeff Cavaliere，深入探讨了如何科学有效地优化锻炼计划。内容涵盖了从训练结构、热身、伤病预防到实用营养原则等多个方面。我特别欣赏其将复杂的生理学知识转化为可操作工具的策略，如“Cavaliere测试”和餐盘法。这不仅仅是健身建议，更是将专业知识与日常实践相结合的典范，对于希望系统性提升健康和体能的人来说，无疑是一份极具价值的指南。",
     "best_quote_en": "Jeff's science-based approach offers clear, actionable guidance for anyone looking to improve fitness, physique and overall health.",
     "best_quote_zh": "Jeff的科学方法为任何希望改善体能、体格和整体健康的人提供了清晰、可操作的指导。"
+  },
+  {
+    "id": 655,
+    "title": "From sacred sisters to hyper-sexualised models: PhotoVogue festival – in pictures",
+    "title_zh": "从神圣姐妹到过度性感的模特：PhotoVogue节——图片展",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/feb/26/sacred-sisters-hyper-sexualised-models-photovogue-festival-milan-fashion-week",
+    "tags": [
+      "analyze",
+      "society",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "This article offers a compelling visual and thematic journey through the PhotoVogue festival, showcasing diverse female perspectives in photography. It critically examines how women express themselves and are perceived, juxtaposing traditional roles with modern challenges. The piece highlights powerful narratives from various artists, including Afghan women's resilience, Indian female bodybuilders defying norms, and models navigating Italy's hyper-sexualized beauty industry. It's a thought-provoking exploration of identity, representation, and societal pressures on women globally, revealing both vulnerability and strength through the lens of contemporary photography. The festival appears to be a crucial platform for addressing complex issues surrounding womanhood and visibility in an increasingly fragile world.",
+    "summary_zh": "PhotoVogue节的图片报道深刻地展示了女性身份的多元与挣扎。从阿富汗女性的韧性到印度健美运动员对传统的挑战，再到意大利模特业的物化，每一幅作品都引人深思。这不仅仅是摄影展，更是对全球女性处境的视觉评论，揭示了她们在表达自我、对抗压迫中的力量与脆弱。这些影像仿佛在低语，女性的可见性与权利，在当下社会中是多么珍贵而又岌岌可危。",
+    "best_quote_en": "Rather than reducing Afghan women to symbols of victimhood, she finds complexity and endurance.",
+    "best_quote_zh": "她没有将阿富汗女性简化为受害者符号，而是从中发现了复杂性和坚韧不拔。"
+  },
+  {
+    "id": 656,
+    "title": "Why There Aren't More Googles",
+    "title_zh": "为什么没有更多的谷歌出现",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/googles.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "This insightful essay challenges the common narrative surrounding Google's independence, arguing that it wasn't a deep sense of purpose but rather acquirers' undervaluation that prevented early buyouts. The author extends this critique to venture capitalists, portraying them as surprisingly conservative and risk-averse, particularly towards genuinely novel ideas. They are depicted as operating on outdated models, driven by consensus and large-sum investments, thus missing out on the most transformative startups. This creates a significant funding gap for promising early-stage companies that need moderate investment rather than multi-million dollar Series A rounds. The piece concludes by highlighting this 'stupidity equals opportunity' scenario, predicting that new, bolder investors will emerge to fill this void, ultimately leading to more 'Googles' in the future.",
+    "summary_zh": "这篇文章深刻剖析了为什么像谷歌这样的颠覆性公司难以复制。作者犀利指出，谷歌之所以能保持独立，并非源于其崇高使命感，而是收购方低估了其价值。更令人深思的是，风险投资（VC）被描绘成一群出人意料的保守派，他们因循守旧、害怕真正的新颖想法，错失了那些最具潜力的早期项目。这种保守主义在市场中留下了一个巨大的投资空白，为那些需要适度资金而非巨额融资的初创企业带来了挑战。我个人认为，这种对VC运作模式的批判非常到位，它揭示了传统金融思维如何阻碍创新。但同时，作者也看到了机遇：这种“愚蠢”会催生新的、更具冒险精神的投资者来填补空白，最终推动更多“谷歌”的诞生，这无疑是市场自我修正的希望。",
+    "best_quote_en": "The reason there aren't more Googles is not that investors encourage innovative startups to sell out, but that they won't even fund them.",
+    "best_quote_zh": "没有更多谷歌的原因，并非投资者鼓励创新型初创公司出售，而是他们根本就不会资助这些公司。"
+  },
+  {
+    "id": 657,
+    "title": "Strategic nuclear war twice as likely to occur by accident than by AI decisions according to new study",
+    "title_zh": "新研究：战略核战争因意外发生的可能性是因AI决策发生的两倍",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/DwxJpWDoHHvvYupWh/strategic-nuclear-war-twice-as-likely-to-occur-by-accident",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "This analysis critically dissects a recent study claiming accidental nuclear war is twice as likely due to human error than AI decisions, revealing significant methodological flaws. The author meticulously exposes how the study's 'accident' mechanic, designed to simulate fog of war, was inherently biased towards escalation, often forcing AI models into nuclear war scenarios that were then misrepresented as AI's 'willingness.' This leads to a powerful critique of how such flawed research, amplified by sensationalist media, distorts public perception and policy debates around AI safety, particularly in military applications. The piece passionately argues against this 'detachment from reality,' advocating for nuanced discussions on AI's role in de-escalation rather than succumbing to fear-mongering based on poor data. It highlights the dangerous consequences of misinformation, emphasizing that the 'accidental fallout of misinformation about AI' might pose a greater risk than the AI systems themselves.",
+    "summary_zh": "这篇评论深入剖析了一项声称AI引发核战可能性低于人为事故的研究，并揭示其方法论上的严重缺陷。我深感担忧的是，研究中模拟“意外”的机制实则带有强烈的升级偏向，将AI模型“推入”核战，却被解读为AI的“意愿”。这种有缺陷的研究，经由媒体的煽动性报道，极大地误导了公众对AI军事应用的认知，甚至可能影响政策制定。我赞同作者的观点，这种“脱离现实”的夸大宣传，不仅阻碍了对AI在去风险化中潜在作用的理性探讨，更制造了比AI本身更大的“信息意外”风险。这种现象值得我们警惕，并呼吁社会进行一次深刻的认知纠偏。",
+    "best_quote_en": "But this pitchfork rhetoric has consequences. We had a study where a game, set up such that aggression correlated with win rates and including mechanics forcing aggressive jumps multiple times across the games, still had the participating AIs' maximum aggression stop short of nuclear use on population centers in over 95% of the games played. And yet the picture the public and policymakers absorbed was literally the exact opposite.",
+    "best_quote_zh": "但这种煽动性言论是有后果的。我们看到一项研究，其游戏设置使得攻击性与胜率相关，并包含多次强制性攻击升级机制，即便如此，参与的AI在超过95%的游戏中，其最大攻击性也未能达到对人口中心使用核武器的程度。然而，公众和政策制定者所吸收到的图景却与此截然相反。"
+  },
+  {
+    "id": 658,
+    "title": "Donald Trump’s State of the Union Was Long and Wrong",
+    "title_zh": "唐纳德·特朗普的国情咨文又长又错",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-state-of-the-union-was-long-and-wrong",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-02-25",
+    "summary_en": "Susan B. Glasser critiques Donald Trump's State of the Union address, highlighting its excessive length and lack of substantive content. She argues that despite Trump's characteristic triumphalism and claims of national success, his speech failed to address pressing issues or offer coherent policy explanations. Glasser points out the disconnect between Trump's optimistic rhetoric and his declining approval ratings, suggesting his approach as a 'pitchman' rather than a 'persuader' is failing to resonate with a disillusioned public. The analysis underscores the performative nature of Trump's presidency, where spectacle often overshadows policy, and questions the enduring relevance of such lengthy, self-congratulatory political rituals in a polarized political landscape. It's a sharp, critical look at the intersection of political rhetoric and public perception.",
+    "summary_zh": "格拉泽的评论犀利地指出，特朗普的国情咨文不仅冗长，而且内容空洞，充满了其一贯的胜利主义论调，却未能解决实际问题。我深感其“推销员而非说服者”的定位，精准捕捉了其政治传播的本质。在民意低迷的背景下，这种脱离现实的自我吹嘘，不仅无法凝聚共识，反而可能加剧民众的疏离感。这篇分析不仅是对一场演讲的批判，更是对一种政治风格及其效力深刻的反思，引人深思政治表演与实际治理之间的鸿沟。",
+    "best_quote_en": "The problem for Trump at such a moment is that he’s not a persuader; he’s a pitchman, the kind of salesman who transmits in exclamation points all the fantastic, terrific, unbelievable features of the new car that he wants you to buy.",
+    "best_quote_zh": "特朗普在这样的时刻面临的问题是，他不是一个说服者；他是一个推销员，那种用感叹号来传递他想让你购买的新车所有奇妙、了不起、令人难以置信的特点的销售员。"
+  },
+  {
+    "id": 659,
+    "title": "What’s in my NOW? — Eric Goebelbecker",
+    "title_zh": "我的NOW中有什么？— 埃里克·戈贝尔贝克尔",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-eric-goebelbecker/",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-02-25",
+    "summary_en": "This piece offers a fascinating glimpse into the curated tools and philosophical underpinnings of Eric Goebelbecker, a multi-faceted individual spanning sci-fi authorship, CTO work, and dog training. What truly stands out is his deliberate choice of tools that prioritize control, quality, and a certain retro charm over modern convenience—be it the FiiO JM21 for focused listening, the meticulously restored IBM Model M keyboard, or the DRM-free Moon+ Reader. This isn't just a list of gadgets; it's a statement about intentional living and working in a hyper-connected world. His 'invisible' section, referencing Santayana, elevates the article beyond mere product recommendations, revealing a deeper motivation for his alternative history sci-fi: learning from the past to shape the future. It implicitly challenges readers to consider their own 'NOW' and the conscious choices behind their tools and philosophies.",
+    "summary_zh": "这篇文章让我看到了埃里克·戈贝尔贝克尔这位多面手（科幻作家、CTO、训犬师）如何精心选择工具，并思考其背后的哲学。他偏爱那些能提供掌控感、高质量且带有一丝复古韵味的产品，而非一味追求现代便捷。这不仅仅是工具推荐，更是一种关于在高度互联世界中有意识地生活和工作的宣言。尤其是他引用桑塔亚那名言的“无形”部分，揭示了他创作另类历史科幻小说的深层动机：从历史中学习以塑造未来。这引发了我对个人“当下”以及我们所做选择背后深层意义的思考，非常有启发性。",
+    "best_quote_en": "Listening to music and podcasts free from interruptions and distractions is something we lost around 2008. I wanted that back.",
+    "best_quote_zh": "不受干扰和分心地听音乐和播客，是我们在2008年左右失去的东西。我想要找回那种感觉。"
   }
 ]
