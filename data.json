@@ -1,121 +1,5 @@
 [
   {
-    "id": 560,
-    "title": "Epstein said he was ‘asked everyday’ for advice on #MeToo: ‘So many guys reaching out to me’",
-    "title_zh": "爱泼斯坦自称每天都被人咨询#MeToo相关建议：‘太多人找我’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/06/epstein-files-metoo",
-    "tags": [
-      "analyze",
-      "society",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "This article uncovers newly released files revealing Jeffrey Epstein's involvement in advising men accused during the #MeToo movement. It highlights how Epstein, despite being a convicted sex offender, became a perverse confidant for powerful figures like Michael Wolff, Peggy Siegal, and Lawrence Krauss, who sought to blunt the movement's impact or navigate their own accusations. The exchanges expose a chilling network of elites strategizing to undermine #MeToo, with Epstein often offering cynical counsel. It's a disturbing look into how deeply entrenched power structures attempted to resist accountability, showcasing Epstein's self-perception as a 'wise man' in a 'mad' world, and the complicity of others in seeking his warped perspective. The article makes one question the integrity of those who turned to him for guidance, despite his known past.",
-    "summary_zh": "这篇文章揭示了爱泼斯坦在#MeToo运动中扮演的令人不安的角色。一个已定罪的性犯罪者，竟成了迈克尔·沃尔夫、佩吉·西格尔和劳伦斯·克劳斯等权势人物的“顾问”，这本身就是对道德底线的嘲讽。这些邮件往来不仅暴露了爱泼斯坦的扭曲心态，更令人深思的是，那些寻求他帮助的精英们，究竟是出于无知还是心照不宣地认同了他的价值观？这无疑是对#MeToo运动所追求的公正和问责的一次深刻挑战，也让人对权力圈层的道德腐朽感到震惊。",
-    "best_quote_en": "“with all these guys getting busted for harassment , i have moved slightly up on the repuation ladder and have been asked everday for advice etc,” Epstein bragged in a November 2017 email.",
-    "best_quote_zh": "“随着这些家伙因骚扰被抓，我的声誉似乎略有提升，每天都有人找我咨询建议等，”爱泼斯坦在2017年11月的一封邮件中吹嘘道。"
-  },
-  {
-    "id": 561,
-    "title": "Five Founders",
-    "title_zh": "五位创始人",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/5founders.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-02-07",
-    "summary_en": "This essay offers a fascinating, almost intimate, look into the minds of five highly influential startup founders through the lens of a seasoned investor. The author doesn't just list names; he dissects *why* these individuals—Steve Jobs, TJ Rodgers, Larry & Sergey, Paul Buchheit, and Sam Altman—left such a profound impact, not only on the industry but personally on his own thinking and advice to new startups. The insights into Jobs' design philosophy, Rodgers' candid pragmatism, Google's hacker-centric approach, Buchheit's 'love-over-like' user strategy, and Altman's sheer force of will are particularly compelling. It's a masterclass in identifying the nuanced qualities that elevate certain founders to legendary status, offering invaluable lessons for anyone navigating the startup ecosystem. The personal anecdotes lend a powerful authenticity to the analysis.",
-    "summary_zh": "这篇文章以一位资深投资人的视角，深入剖析了五位极具影响力的创业公司创始人。它不仅仅是简单列举名字，更深挖了乔布斯的设计理念、罗杰斯的务实坦率、谷歌的黑客文化、布赫海特的“让少数用户狂热喜爱”策略，以及奥特曼的强大意志力。作者通过个人经历和对这些人物的深刻理解，揭示了他们如何塑造了创业文化并影响了他对新公司的指导。读来令人深思，仿佛置身于硅谷的智慧殿堂，对创业精神有了更具象和深刻的认识，这些洞察对任何创业者或投资者都弥足珍贵。",
-    "best_quote_en": "What I learned from meeting Sama is that the doctrine of the elect applies to startups. It applies way less than most people think: startup investing does not consist of trying to pick winners the way you might in a horse race. But there are a few people with such force of will that they're going to get whatever they want.",
-    "best_quote_zh": "我从认识萨姆中学到的是，精英主义适用于创业公司。它的适用程度远低于大多数人的想象：创业投资并非像赛马一样试图挑选赢家。但确实有少数人拥有如此强大的意志力，他们会得到他们想要的一切。"
-  },
-  {
-    "id": 562,
-    "title": "Voting Results for the 2024 Review",
-    "title_zh": "2024年回顾投票结果",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/uk48L6j28iiAyvPKJ/voting-results-for-the-2024-review",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-07",
-    "summary_en": "This post announces the voting results for LessWrong's 2024 Annual Review, highlighting the top 50 posts out of nearly 5,000 written. It details the review process, acknowledging key reviewers like Vanessa Kosoy and Zack Davis for their unique contributions. The operational aspects, such as the weighting of 'Strong Vote power,' are briefly mentioned. The core of the content is a ranked list of the top 50 posts, predominantly focusing on AI alignment, existential risk, rationality, and philosophical topics. Joe Carlsmith notably secured the top spot and had multiple entries in the top 50, underscoring his significant influence within the LessWrong community. The article serves as a valuable index for discovering influential and highly-regarded discussions from the past year within this specific intellectual community.",
-    "summary_zh": "这篇文章公布了LessWrong社区2024年度回顾的投票结果，列出了近5000篇帖子中脱颖而出的前50名。它详细介绍了评审流程，并特别提到了Vanessa Kosoy和Zack Davis等评论员的独特贡献。核心内容是前50名帖子的排名，大部分围绕人工智能对齐、生存风险和理性主义等话题。Joe Carlsmith表现突出，不仅位居榜首，还有多篇文章入选前50，这无疑巩固了他在社区中的思想领袖地位。这份榜单对于希望深入了解LessWrong社区过去一年中最具影响力和价值的讨论的用户来说，是一份极佳的指南。",
-    "best_quote_en": "Among many other positive qualities, one thing I especially appreciate about Vanessa's reviews is that Vanessa has an opinionated, coherent worldview, and the subjects of her reviews aren't strongly correlated with the kinds posts other reviewers tend to focus on.",
-    "best_quote_zh": "在众多优点中，我尤其欣赏瓦妮莎评论的一点是，她拥有一个有主见、连贯的世界观，并且她的评论主题与大多数其他评论员倾向关注的帖子类型没有强烈的关联性。"
-  },
-  {
-    "id": 563,
-    "title": "Ben Shapiro Is Waging Battle Inside the MAGA Movement",
-    "title_zh": "本·夏皮罗正在MAGA运动内部发动战争",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-new-yorker-interview/ben-shapiro-is-waging-battle-inside-the-maga-movement",
-    "tags": [
-      "learn",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "This interview with Ben Shapiro offers a fascinating, if at times frustrating, window into the internal ideological struggles within the MAGA movement and the broader conservative landscape. Shapiro, known for his sharp rhetoric, navigates his conditional support for Donald Trump, acknowledging Trump's moral failings and corruption while justifying his votes based on a binary choice against perceived worse alternatives. The most compelling insights emerge from his candid criticisms of figures like Tucker Carlson and Candace Owens for promoting antisemitic conspiracy theories, revealing a significant fault line within the right. His nuanced definition of antisemitism, distinguishing it from legitimate criticism of Israeli policy, is particularly thought-provoking. The interview also touches on the weaponization of 'enemies of the people' rhetoric and the perceived political 'death spiral' where both sides accuse the other of undermining democratic institutions. Shapiro's perspective, while rooted in his conservative principles, highlights the complex ethical compromises and strategic calculations many conservatives are making in the current political climate.",
-    "summary_zh": "本·夏皮罗的这次访谈深刻揭示了MAGA运动内部的意识形态冲突，以及他本人在支持特朗普与批评其道德缺失之间的挣扎。他直言不讳地抨击了塔克·卡尔森和坎迪斯·欧文斯散布反犹阴谋论，这无疑是保守派内部一道深刻的裂痕。夏皮罗对反犹主义的精确定义，以及他对于政治两极化导致“政治死亡螺旋”的担忧，都引人深思。虽然他的观点扎根于保守主义，但这种在原则与现实之间权衡的复杂性，确实反映了当前美国政治生态的某种无奈与妥协。",
-    "best_quote_en": "I think that the left routinely underestimates what’s done by the left, whereas I think I’m being pretty accurate in that I think both sides are routinely violating the rules and that’s why we are in sort of a political death spiral.",
-    "best_quote_zh": "我认为左派经常低估左派所做的事情，而我认为我相当准确地认为双方都在例行公事地违反规则，这就是我们陷入政治死亡螺旋的原因。"
-  },
-  {
-    "id": 564,
-    "title": "Book Freak #196: The Art of Spending Money",
-    "title_zh": "书呆子 #196: 花钱的艺术",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-196-the-art-of-spending-money/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "This piece, an insightful distillation of Morgan Housel's 'The Art of Spending Money,' challenges conventional notions of wealth. It argues that true financial freedom lies not in accumulation, but in using money to cultivate autonomy, meaning, and joy. The analysis critically examines core principles such as prioritizing 'freedom over luxury,' avoiding the 'losing game' of social comparison, and valuing 'experiences over possessions.' It also advocates for strategic, 'extravagant spending on what you love' while ruthlessly cutting what doesn't serve you. The actionable 'Try It Now' section provides concrete steps for readers to reassess their spending habits, making this a highly practical guide for anyone seeking a more mindful and fulfilling relationship with their finances. It's a refreshing perspective that encourages introspection beyond mere budgeting.",
-    "summary_zh": "这篇文章是对《金钱心理学》作者新作《花钱的艺术》的精辟解读。它颠覆了我们对财富的传统认知，指出真正的富裕并非累积，而是将金钱作为工具，购买自由、意义和快乐。我特别欣赏其强调“自由而非奢华”以及“体验胜过物质”的观点，这无疑触及了现代消费主义的核心弊病。内容提供的实用练习，如审视过去消费、削减无益开支，并思考“足够”的定义，都极具启发性。它引导我们跳脱攀比，回归内心，以更智慧、更负责任的态度对待金钱，从而活出更充实的人生。",
-    "best_quote_en": "There are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of status to measure yourself against others. Many people aspire for the former but spend their life chasing the latter.",
-    "best_quote_zh": "金钱有两种用法。一种是将其作为工具，过上更好的生活。另一种是将其作为衡量地位的标尺，与他人比较。许多人渴望前者，却终其一生追逐后者。"
-  },
-  {
     "id": 565,
     "title": "For Valentine's Day, we asked 18 women for the best gifts they ever got",
     "title_zh": "情人节特辑：我们采访了18位女性，了解她们收到的最佳礼物",
@@ -2312,5 +2196,123 @@
     "summary_zh": "这篇文章让我看到了埃里克·戈贝尔贝克尔这位多面手（科幻作家、CTO、训犬师）如何精心选择工具，并思考其背后的哲学。他偏爱那些能提供掌控感、高质量且带有一丝复古韵味的产品，而非一味追求现代便捷。这不仅仅是工具推荐，更是一种关于在高度互联世界中有意识地生活和工作的宣言。尤其是他引用桑塔亚那名言的“无形”部分，揭示了他创作另类历史科幻小说的深层动机：从历史中学习以塑造未来。这引发了我对个人“当下”以及我们所做选择背后深层意义的思考，非常有启发性。",
     "best_quote_en": "Listening to music and podcasts free from interruptions and distractions is something we lost around 2008. I wanted that back.",
     "best_quote_zh": "不受干扰和分心地听音乐和播客，是我们在2008年左右失去的东西。我想要找回那种感觉。"
+  },
+  {
+    "id": 660,
+    "title": "We must protect young people from online harms | Letters",
+    "title_zh": "我们必须保护年轻人免受网络危害 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2026/feb/26/we-must-protect-young-people-from-online-harms",
+    "tags": [
+      "learn",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "This collection of letters powerfully underscores the urgent and multifaceted issue of online harms, particularly misogyny, impacting young people. While acknowledging the online world's positive aspects like connection and support, the contributors highlight the systemic flaws in platform design that allow hate to proliferate. A key insight is that simple age bans are insufficient; comprehensive solutions must include stronger regulation, algorithmic transparency, and platform accountability. The discussion extends beyond girls, with a psychotherapist pointing out the lack of positive male role models in single-parent families, making boys susceptible to toxic online masculinity. This piece thoughtfully engages with the complexities, advocating for youth inclusion in policy-making and challenging readers to confront both the digital and societal roots of these problems. It's a critical read for anyone concerned with digital well-being and youth development.",
+    "summary_zh": "这组读者来信深刻揭示了网络危害，尤其是厌女症，对年轻一代造成的深远影响。文章超越了简单的“禁令”思维，指出平台设计缺陷才是核心问题。一位心理治疗师的观点令人深思：单亲家庭中男性榜样的缺失，可能使男孩更容易受到有毒网络男性气质的影响。这不仅关乎女性，也关乎整个社会如何塑造健康的性别观念。我们必须认识到，保护年轻人需要多维度的策略，包括科技监管、教育引导，以及更重要的，让年轻人参与到解决方案的制定中来。这不只是一场技术战，更是一场价值观的保卫战。",
+    "best_quote_en": "If we are serious about addressing mental health challenges among young people, we must include them in the discussion and demand far greater responsibility from the platforms that shape their lives.",
+    "best_quote_zh": "如果我们认真对待年轻人的心理健康挑战，就必须让他们参与讨论，并要求塑造他们生活的平台承担更大的责任。"
+  },
+  {
+    "id": 661,
+    "title": "Some Heroes",
+    "title_zh": "一些英雄",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/heroes.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-02-27",
+    "summary_en": "This essay delves into the author's personal definition of a 'hero,' moving beyond mere admiration to those who genuinely influence actions and embody specific virtues. The author identifies two core qualities in his heroes: an almost excessive dedication to their work and absolute honesty, which he defines as never pandering to an audience. He presents a diverse list of individuals, from NFL player Jack Lambert to Leonardo da Vinci and Steve Jobs, each illustrating these virtues in their unique fields. The analysis offers a fascinating glimpse into the values that shape creative and intellectual pursuits, suggesting that true impact stems from relentless passion and unyielding integrity. It challenges conventional notions of heroism, highlighting the often-subversive nature of those who prioritize their craft and truth over popular acclaim. The inclusion of a machine, the Spitfire, as a 'lens of heroes,' further expands the definition, emphasizing how collective dedication can imbue an object with heroic significance.",
+    "summary_zh": "这篇文章探讨了作者心中“英雄”的独特定义，超越了单纯的钦佩，而是那些能真正影响其行为、并展现出非凡特质的人物。作者的英雄们都具备两个核心品质：对工作近乎偏执的投入和绝对的真诚——即不迎合他人。从橄榄球运动员杰克·兰伯特到达·芬奇、乔布斯，这份多元名单揭示了塑造创造力和智慧的价值观，暗示真正的影响力源于不懈的热情和坚不可摧的正直。它挑战了传统的英雄观，突显了那些将手艺和真理置于大众认可之上的颠覆性本质。甚至将“喷火”战斗机也列为英雄，这拓宽了英雄的定义，展现了集体奉献如何赋予物件英雄般的意义，引人深思。",
+    "best_quote_en": "When I thought about what it meant to call someone a hero, it meant I'd decide what to do by asking what they'd do in the same situation. That's a stricter standard than admiration.",
+    "best_quote_zh": "当我思考将某人称为英雄意味着什么时，它意味着我将通过询问他们在相同情况下会怎么做来决定我该怎么做。这比钦佩更严格。"
+  },
+  {
+    "id": 662,
+    "title": "What I Got From 1.5 Years In Slightly-Competitive Debate",
+    "title_zh": "我在竞争性辩论中度过的1.5年学到了什么",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xkFLbcknoDaJXsQiH/what-i-got-from-1-5-years-in-slightly-competitive-debate",
+    "tags": [
+      "guide",
+      "society",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-02-27",
+    "summary_en": "This reflective piece explores the profound personal and intellectual growth derived from participating in \"slightly-competitive debate.\" The author challenges the common perception that competitive debate is antithetical to truth-seeking, arguing instead that it acts as an \"ideology-vaccine,\" fostering intellectual rigor, argument literacy, and, crucially, humility. Through vivid anecdotes and conceptual frameworks like \"epistemic kata,\" the author illustrates how being forced to argue both sides of an issue, even those one strongly opposes, can defang virulent memes, highlight the gap between 'feeling right' and 'being right,' and cultivate a deeper understanding of values. It's a compelling argument for the transformative power of structured argumentation, emphasizing that the true value lies in the cultivation of a robust community of practice.",
+    "summary_zh": "这篇反思性文章深入探讨了参与“略有竞争性辩论”带来的巨大个人和智力成长。作者挑战了竞争性辩论与寻求真相相悖的普遍看法，反而提出它是一种“意识形态疫苗”，培养了智力严谨性、论证素养，以及最重要的——谦逊。通过生动的轶事和概念框架，作者阐明了被迫为某一议题的两面辩论（即使是自己强烈反对的观点）如何能消除有害的模因，揭示“感觉正确”与“真正正确”之间的差距，并培养对价值观的更深理解。这是一个关于结构化论证变革力量的引人入胜的论点，强调了其真正价值在于培养一个强大的实践社群。",
+    "best_quote_en": "Debate is not the art of fatuous rhetoric. It is one of few things where, even modulo selection effects, I think it reliably makes people smarter to do it somewhat seriously for a few years.",
+    "best_quote_zh": "辩论并非空洞修辞的艺术。它是少数几件我认为能可靠地让人变得更聪明的事情之一，即便考虑到选择效应，只要认真投入几年。"
+  },
+  {
+    "id": 663,
+    "title": "The Media Merger You Should Actually Care About",
+    "title_zh": "你应该真正关注的媒体合并案",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-media-merger-you-should-actually-care-about",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "This article delves into the complex and politically charged Nexstar-Tegna merger, an under-the-radar deal with significant implications for the U.S. local news landscape. It critically examines the role of the FCC under Brendan Carr, highlighting how regulatory power is being wielded in unexpected ways, often aligning with Trumpian objectives, despite nominal free-market rhetoric. The analysis reveals the intricate interplay of corporate interests, political ideologies, and media control, moving beyond simple partisan divides to expose the nuanced motivations behind various stakeholders' positions. It’s a fascinating look at how seemingly minor regulatory decisions can shape the future of local journalism, media diversity, and even the broader political discourse, revealing the surprising coalitions and contradictions within conservative thought regarding government intervention.",
+    "summary_zh": "这篇文章深入剖析了Nexstar-Tegna媒体合并案，这桩看似低调的交易，实则对美国地方新闻格局影响深远。它揭示了在特朗普政府影响下，联邦通信委员会（FCC）如何以出人意料的方式运用监管权力，尽管口头上宣扬自由市场，实际行动却常与特朗普的政治目标不谋而合。文章不仅展示了企业利益、政治意识形态与媒体控制之间错综复杂的互动，还超越了简单的党派界限，揭示了各方利益相关者背后微妙的动机。读罢，我不禁思考，在信息爆炸的时代，地方媒体的独立性和多样性究竟该如何维护，而那些看似微不足道的监管决策，又将如何悄然重塑我们的新闻生态与政治话语。",
+    "best_quote_en": "The conservative Washington Examiner has rightly described the ownership-cap debate as “one of the most consequential and least understood regulatory decisions” of this moment.",
+    "best_quote_zh": "保守派的《华盛顿观察家报》恰如其分地将所有权上限的辩论描述为“当下最重要且最不为人理解的监管决策之一”。"
+  },
+  {
+    "id": 664,
+    "title": "Best Hotel Values/Reserved Seat Tactics/Fastest-growing Tourism Destinations",
+    "title_zh": "最佳酒店价值/预留座位策略/增长最快的旅游目的地",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/best-hotel-values-reserved-seat-tactics-fastest-growing-tourism-destinations/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-02-26",
+    "summary_en": "This article offers a practical, multi-faceted look at current travel trends and challenges. It identifies top value destinations based on Expedia data, offering actionable insights for budget-conscious travelers. The piece also delves into the frustrating reality of airline seat selection, providing a candid, problem-solving perspective on navigating hidden costs and stress. Furthermore, it highlights emerging tourism hotspots like Brazil and Egypt, backed by UN data, giving readers an update on global travel shifts. The critique of Disney Parks' high costs serves as a relatable contrast, reinforcing the value proposition of alternative, more affordable travel. Overall, it's a valuable resource for anyone looking to optimize their travel experiences, blending data-driven insights with practical advice.",
+    "summary_zh": "这篇文章以一种引人入胜的方式，揭示了当前旅行领域的几个关键趋势。它不仅基于数据推荐了高性价比的酒店目的地，为精打细算的旅行者提供了实用的选择，更犀利地剖析了航空公司预留座位的“潜规则”，让人感同身受。全球旅游增长最快目的地的洞察，则拓宽了我们的视野。而对迪士尼高昂费用的吐槽，更是引发了对旅行价值的深思。这不仅仅是信息，更是一种智慧，指引我们如何在日益复杂的旅行环境中做出更明智的决策。",
+    "best_quote_en": "Do some research so you don’t pay up in advance if the plane is half full, but perhaps pony up again to avoid a middle seat for 12 hours on a full flight.",
+    "best_quote_zh": "做些功课，如果飞机半满就不要提前付钱，但如果航班满员，为了避免12小时的中间座位，也许值得再次掏钱。"
   }
 ]
