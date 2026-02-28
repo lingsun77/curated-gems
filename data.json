@@ -1,117 +1,5 @@
 [
   {
-    "id": 565,
-    "title": "For Valentine's Day, we asked 18 women for the best gifts they ever got",
-    "title_zh": "情人节特辑：我们采访了18位女性，了解她们收到的最佳礼物",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2025/nov/27/best-gifts-ideas-for-women",
-    "tags": [
-      "learn",
-      "design",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-02-04",
-    "summary_en": "This article thoughtfully curates a list of Valentine's Day gift ideas for women, uniquely sourced from the personal experiences of 18 women who share the 'best gifts they ever got.' Moving beyond generic product placements, the piece delves into the sentimental and practical value of each item, offering insights into why these gifts resonated so deeply. It covers a diverse range of categories from home goods and fashion to beauty and tech, emphasizing personalized touches and understanding the recipient's specific needs and desires. The inclusion of direct quotes from the women themselves adds authenticity and emotional depth, making the recommendations feel genuine and relatable. This approach transforms a typical gift guide into a rich resource for anyone seeking to give a truly meaningful present.",
-    "summary_zh": "这篇文章以一种非常走心的方式，汇集了18位女性亲身分享的“最佳礼物”，为情人节送礼提供了独到见解。它不仅仅是商品罗列，更深入探讨了每件礼物的实用价值和情感意义，让人感受到送礼的艺术在于理解和用心。从家居、时尚到美妆和科技，礼物种类繁多，但核心都在于个性化和对收礼人需求的精准把握。我特别喜欢文中引用的真实故事，它们赋予了每件礼物生命和温度，让这份指南变得既实用又充满人情味，启发读者如何送出真正能触动人心的礼物。",
-    "best_quote_en": "“It’s not something you’d think to get for yourself, especially if you’re not a techie person like me. I just got the newest one and the picture-taking is incredible.”",
-    "best_quote_zh": "“这不是你会想到给自己买的东西，特别是如果你像我一样不擅长科技。我刚买了最新款，拍照功能简直不可思议。”"
-  },
-  {
-    "id": 566,
-    "title": "Relentlessly Resourceful",
-    "title_zh": "不懈的足智多谋",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/relres.html",
-    "tags": [
-      "learn",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略"
-    ],
-    "date": "2026-02-08",
-    "summary_en": "This essay by Paul Graham distills the essence of a successful startup founder into two powerful words: \"relentlessly resourceful.\" He argues against the common misconception that 'hapless' simply means unlucky, redefining it as passive, and positions relentless resourcefulness as its active antithesis. Graham insightfully differentiates this quality from mere relentlessness or active curiosity, suggesting it's uniquely suited for navigating the external obstacles inherent in startups, unlike the internal struggles of creative fields. The piece provocatively suggests that the limiting factor for the number of startups isn't economic, but the pool of individuals possessing this trait, which, surprisingly, can often be cultivated. It’s a compelling call to action for aspiring founders and investors alike, offering a concise and actionable metric for evaluating potential.",
-    "summary_zh": "保罗·格雷厄姆将成功创业者的核心特质凝练为“不懈的足智多谋”，这种洞察力深邃而引人深思。他不仅重新定义了“不幸”的被动性，更将其对立面——不懈的足智多谋——描绘成创业者主动应对外部挑战的必备品。我特别欣赏他区分了这种特质与纯粹的毅力或好奇心，这精准地抓住了创业与艺术创作的本质差异。文章提出创业数量的限制在于具备此特质的人才池，而非经济因素，这让我对人才培养和创业教育有了新的思考。这不仅是给创业者的指南，也是给投资人的一个清晰的判断标准，极具启发性。",
-    "best_quote_en": "“Make something people want” is the destination, but “Be relentlessly resourceful” is how you get there.",
-    "best_quote_zh": "“做出人们想要的东西”是目的地，但“不懈地足智多谋”才是你到达目的地的方式。"
-  },
-  {
-    "id": 567,
-    "title": "It Is Reasonable To Research How To Use Model Internals In Training",
-    "title_zh": "研究如何利用模型内部机制进行训练是合理的",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/G9HdpyREaCbFJjKu5/it-is-reasonable-to-research-how-to-use-model-internals-in",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-02-08",
-    "summary_en": "This piece thoughtfully argues for the necessity of researching the integration of AI model internals into the training process, a concept often controversially labeled as a 'forbidden technique' within the AGI safety community. Neel Nanda, the author, challenges the prevailing skepticism by highlighting existing research efforts and the potential benefits for AGI safety, particularly in developing models that align with human intent in complex scenarios. The article dissects various methods of incorporating interpretability into training, such as adding probe scores to loss functions or altering model internals, and addresses concerns about potential fragility or the undermining of auditing capabilities. Nanda posits that understanding these mechanisms is crucial for advancing AI safety, advocating for continued research to empirically determine their efficacy and risks rather than dismissing them outright. It's a compelling call for nuanced exploration in a critical and often polarizing field.",
-    "summary_zh": "作者Neel Nanda深刻探讨了将AI模型内部机制融入训练过程的合理性与必要性。在AGI安全社区中，这常被视为“禁忌技术”，但Nanda通过论证其对齐模型的潜在价值，挑战了这种普遍的担忧。文章细致分析了多种内部机制的运用方式及其可能面临的风险，并强调了通过实证研究而非简单否定来探索这些复杂问题的紧迫性。我个人认为，这种对前沿且具争议性研究领域的开放态度至关重要，它鼓励我们深入理解而非盲目排斥，这对于AI的长期安全发展是不可或缺的。",
-    "best_quote_en": "Everything we do in model training involves taking some proxy for desired behavior and applying optimization pressure to it. The current convention is that this is fine to do for the model's behavior, bad to do for the chain of thought, and no one can be bothered with the internals. But I see no fundamental reason behaviour should be fine and internals should be forbidden, this depends on empirical facts we don’t yet know.",
-    "best_quote_zh": "我们在模型训练中所做的一切，都涉及选取所需行为的某种代理并施加优化压力。当前的惯例是，对模型行为这样做没问题，对思维链这样做不好，而没人费心去处理内部机制。但我认为，行为可以而内部机制却被禁止，这没有根本原因，它取决于我们尚不了解的经验事实。"
-  },
-  {
-    "id": 568,
-    "title": "A Bridge to Venezuela",
-    "title_zh": "通往委内瑞拉的桥梁",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-weekend-essay/a-bridge-to-venezuela",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-02-07",
-    "summary_en": "This essay offers a poignant, on-the-ground look at Cúcuta, the Colombian border city, serving as a critical gateway to Venezuela. The author, Daniel Alarcón, masterfully blends personal experience with historical context and current events, revealing the complex, often tragic, human stories behind the Venezuelan exodus. He highlights the city's unique socio-economic fabric, deeply intertwined with its neighbor, and the profound shift from a time when Colombians sought prosperity in Venezuela to the current crisis where millions flee in the opposite direction. Alarcón's narrative is rich with vivid descriptions and unsettling encounters, from the ambiguous border on Simón Bolívar bridge to the harrowing tales of 'los caminantes' and the pervasive fear that still grips Venezuelans. The piece critically examines the geopolitical implications, the failure of international aid, and the normalization of violence and desperation, leaving the reader with a deep sense of the region's fragility and the enduring human spirit amidst immense adversity. It's a powerful exploration of a crisis often reduced to statistics, bringing it back to the individual lives affected.",
-    "summary_zh": "这篇深度报道以哥伦比亚边境城市库库塔为视角，揭示了委内瑞拉危机的复杂人性层面。作者巧妙地将个人经历与历史背景交织，描绘了边境的模糊与危险，以及数百万委内瑞拉人背井离乡的悲惨现实。他通过对“步行者”的描述和对当地居民的访谈，展现了经济崩溃、政治压迫和人道主义紧急状况如何深刻影响着普通人的生活。文章不仅是对地缘政治冲突的观察，更是对人类韧性与脆弱性的深刻反思，读来令人心生沉重，对这片土地的未来充满忧虑。",
-    "best_quote_en": "“Because anyone who decides to walk for twenty days, thirty days, forty days to leave their country is doing it because there is no hope.”",
-    "best_quote_zh": "“因为任何一个决定步行二三十甚至四十天离开自己国家的人，都是因为他们已经没有任何希望了。”"
-  },
-  {
-    "id": 569,
-    "title": "How Dopamine & Serotonin Shape Decisions, Motivation & Learning | Dr. Read Montague",
-    "title_zh": "多巴胺与血清素如何塑造决策、动机与学习 | Read Montague博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-dopamine-serotonin-shape-decisions-motivation-and-learning-read-montague",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "Dr. Read Montague offers a fascinating exploration into the intricate roles of dopamine and serotonin in human cognition and behavior. He delves beyond common misconceptions, revealing how these neurotransmitters drive motivation, shape learning through 'reward prediction error,' and influence decision-making in contexts ranging from foraging to social media use. The discussion critically examines the impact of SSRIs and high-engagement, low-effort activities on dopamine pathways, and thoughtfully considers how AI is revolutionizing our understanding of brain function. Montague's insights challenge simplistic views, highlighting the complex interplay of these chemicals in conditions like Parkinson's, ADHD, and even trauma, making a compelling case for a nuanced understanding of our internal reward systems and their broader implications for well-being and societal trends.",
-    "summary_zh": "Read Montague博士对多巴胺和血清素在人类决策、动机和学习中的深层作用进行了引人入胜的剖析。他不仅澄清了我们对这些神经递质的常见误解，更揭示了它们如何通过“奖赏预测误差”驱动学习，并影响从觅食到社交媒体使用的各种行为。我特别欣赏他对SSRI和低努力高参与活动如何改变多巴胺回路的批判性思考，以及AI在脑科学研究中的革新性应用。这不仅仅是生物化学知识的普及，更是对人类行为模式、心理健康乃至社会现象深层机制的哲学式反思。",
-    "best_quote_en": "Dopamine is not about pleasure, it's about prediction error: the difference between what you expect to happen and what actually happens.",
-    "best_quote_zh": "多巴胺并非关乎愉悦，它关乎预测误差：即你预期会发生什么与实际发生什么之间的差异。"
-  },
-  {
     "id": 570,
     "title": "‘The right has won the family’: my relentless search for lefty mommy bloggers",
     "title_zh": "“右翼赢得了家庭”：我无休止地寻找左翼妈妈博主",
@@ -2314,5 +2202,125 @@
     "summary_zh": "这篇文章以一种引人入胜的方式，揭示了当前旅行领域的几个关键趋势。它不仅基于数据推荐了高性价比的酒店目的地，为精打细算的旅行者提供了实用的选择，更犀利地剖析了航空公司预留座位的“潜规则”，让人感同身受。全球旅游增长最快目的地的洞察，则拓宽了我们的视野。而对迪士尼高昂费用的吐槽，更是引发了对旅行价值的深思。这不仅仅是信息，更是一种智慧，指引我们如何在日益复杂的旅行环境中做出更明智的决策。",
     "best_quote_en": "Do some research so you don’t pay up in advance if the plane is half full, but perhaps pony up again to avoid a middle seat for 12 hours on a full flight.",
     "best_quote_zh": "做些功课，如果飞机半满就不要提前付钱，但如果航班满员，为了避免12小时的中间座位，也许值得再次掏钱。"
+  },
+  {
+    "id": 665,
+    "title": "Jess Cartner-Morley on fashion: the quarter-zip is the breakout star of 2026 – and I think I know why",
+    "title_zh": "Jess Cartner-Morley谈时尚：四分之一拉链衫是2026年的 breakout star——我想我知道为什么",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/feb/25/quarter-zip-sweater-trend-womenswear-jess-cartner-morley-style",
+    "tags": [
+      "inspire",
+      "society",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-02-25",
+    "summary_en": "Jess Cartner-Morley observes the unexpected resurgence of the quarter-zip sweater as a fashion staple for 2026, transcending its former association with office workers and politicians to become a favorite of pop stars and supermodels. The author speculates this trend reflects a broader cultural shift towards comfort and familiarity in an increasingly volatile world, moving away from shock-value fashion. The piece highlights how the quarter-zip's versatility allows for diverse styling, especially in womenswear, pairing it with unexpected items like bias-cut skirts or shorts. This analysis resonates because it connects a seemingly trivial fashion trend to deeper societal anxieties, offering a compelling explanation for its sudden ubiquity and broad appeal. It’s a fascinating look at how fashion mirrors the zeitgeist.",
+    "summary_zh": "Jess Cartner-Morley 敏锐地捕捉到四分之一拉链衫在2026年意外走红的现象，从政客和上班族的专属，一跃成为明星超模的新宠。我特别喜欢她将这种时尚回潮归因于社会对舒适和熟悉的渴望，这不仅是对时尚界浮夸风的反叛，也反映了我们身处动荡世界中寻求慰藉的心理。这种从微观时尚单品洞察宏观社会情绪的视角，真是引人入胜，让人不禁思考，时尚与时代精神的连接竟能如此深刻。",
+    "best_quote_en": "When politics feels febrile, the economy wobbly and the news relentlessly alarming, fashion clings to comfort and conservatism. The quarter-zip is cosy without being childish, sturdy but not claustrophobic. You zip it up when you want to feel contained; you unzip it when you want to breathe.",
+    "best_quote_zh": "当政治动荡不安，经济摇摇欲坠，新闻警报不断时，时尚便会紧紧抓住舒适和保守。四分之一拉链衫既舒适又不幼稚，结实却不压抑。当你想要被包裹时，就拉上拉链；当你想要呼吸时，就解开拉链。"
+  },
+  {
+    "id": 666,
+    "title": "How to Disagree",
+    "title_zh": "如何有效地表达异议",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disagree.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-02-28",
+    "summary_en": "This essay brilliantly dissects the common pitfalls and higher forms of disagreement, providing a hierarchical framework that moves from mere name-calling to sophisticated refutation. It offers a crucial lens for evaluating online discourse, highlighting how structural changes in communication have amplified disagreement, not necessarily anger. The author's distinction between various levels, from ad hominem attacks to refuting a central point, is incredibly insightful, serving as both a diagnostic tool for readers and a guide for writers. It encourages a shift towards more constructive and intellectually honest engagement, arguing that mastering the art of disagreement not only improves conversations but also fosters a more civil and happier communicative environment. This piece resonates deeply, especially in an era rife with superficial and often aggressive online exchanges, urging us to elevate our discourse.",
+    "summary_zh": "这篇文章深刻剖析了异议的七个层级，从人身攻击到核心论点驳斥，为我们理解和参与线上讨论提供了一个绝佳的框架。作者指出，网络交流方式的结构性变化导致异议增多，但并非意味着人们更愤怒，这让我深思。通过明确区分不同层级的异议，文章不仅帮助读者辨别低质量的辩论，也鼓励写作者提升自己的论证水平。它强调了有效表达异议的重要性，认为这不仅能改善对话质量，更能促进一个更理性、更愉快的沟通环境。在当前网络言论纷繁复杂的背景下，这份洞见显得尤为珍贵，促使我们反思如何在表达不同意见时，保持智慧与风度。",
+    "best_quote_en": "If we're all going to be disagreeing more, we should be careful to do it well.",
+    "best_quote_zh": "如果我们注定要更多地表达异议，那么我们应该小心谨慎，确保做得好。"
+  },
+  {
+    "id": 667,
+    "title": "Mindscapes and Mind Palaces",
+    "title_zh": "心灵景观与思维宫殿",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/q6tHknvLyGX5g8PaC/mindscapes-and-mind-palaces",
+    "tags": [
+      "analyze",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-02-28",
+    "summary_en": "This content explores diverse, often vivid, personal metaphors people use to describe the internal workings of their minds, contrasting the concept of a 'mindscape' with the more structured 'mind palace.' Contributors offer unique analogies, from an ocean with floating ideas to a tornado of words, a filing room, a dartboard, or a library. The discussion highlights the highly individual and sometimes baffling nature of internal mental representation, particularly concerning memory, thought organization, and even emotional processing. It reveals how some struggle with such visualization while others find elaborate, deeply personal systems. The insights underscore the subjective experience of cognition and memory, suggesting that while some envision complex internal structures, others perceive a more chaotic or abstract mental space. It's a fascinating glimpse into the phenomenology of thought.",
+    "summary_zh": "这段内容深入探讨了人们如何以生动的比喻来描绘自己内心世界的运作方式，从“心灵景观”到“思维宫殿”，各种比喻层出不穷。有人觉得大脑像一片漂浮着想法的海洋，有人则描述为文字的龙卷风、档案室、飞镖盘或图书馆。这些个人化的描述揭示了认知和记忆体验的极度主观性，以及我们如何尝试理解和组织内在的混乱或秩序。它让我思考，我们每个人内在的“地图”究竟有多么不同，这本身就是一种深刻的自我探索。",
+    "best_quote_en": "My mind is a tornado full of letters and words at the edge of a cliff. My thoughts are formed by leaning over the side of the cliff and picking words from the tornado.",
+    "best_quote_zh": "我的大脑就像悬崖边上一个充满字母和单词的龙卷风。我的想法是通过倾身越过悬崖，从龙卷风中挑选词语而形成的。"
+  },
+  {
+    "id": 668,
+    "title": "The Ellison Media Empire Grows Again",
+    "title_zh": "埃里森媒体帝国的再次扩张",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-ellison-media-empire-grows-again",
+    "tags": [
+      "analyze",
+      "politics",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-02-27",
+    "summary_en": "This insightful analysis delves into the intricate and politically charged landscape of media consolidation, specifically focusing on the Ellison family's growing influence. The author meticulously traces the journey of the Warner Bros. Discovery acquisition, highlighting how political maneuvering, particularly by former President Trump, has shaped the outcomes. The piece critically examines the implications of such concentrated media ownership, particularly the potential for biased news coverage and the erosion of journalistic integrity, as exemplified by the Ellison-era CBS News. It also provocatively compares the situation to Viktor Orbán's Hungary, underscoring the broader democratic concerns. The article thoughtfully critiques the perception of Netflix as a 'good suitor,' revealing that even its acquisition would have represented a significant consolidation of power, albeit with a different cultural veneer. Ultimately, it paints a concerning picture of antitrust enforcement under the current political climate, where ideological alignment appears to supersede genuine competition concerns.",
+    "summary_zh": "这篇文章深刻剖析了媒体帝国扩张背后的政治博弈与深远影响。作者以埃里森家族对华纳兄弟探索频道的收购案为例，揭示了权力如何干预市场，以及媒体整合对新闻独立性的潜在威胁。尤其令人担忧的是，埃里森家族对哥伦比亚广播公司新闻频道的“特朗普化”改造，不禁让人联想到匈牙利式的媒体生态。尽管Netflix曾被视为“好买家”，但其收购同样意味着权力的高度集中。文章批判性地指出，在当前政治环境下，反垄断执法似乎已屈从于政治意愿，而非真正维护市场公平。这种趋势无疑是对民主和言论自由的警示，值得我们警惕和深思。",
+    "best_quote_en": "Indeed, as I see it, no one should get to own two powerful national news networks, regardless of their politics.",
+    "best_quote_zh": "在我看来，无论政治立场如何，任何个人都不应拥有两个强大的全国性新闻网络。"
+  },
+  {
+    "id": 669,
+    "title": "Book Freak #198: How We Know What Isn’t So",
+    "title_zh": "书呆子 #198: 我们如何知道并非如此",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-198-how-we-know-what-isnt-so/",
+    "tags": [
+      "learn",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-27",
+    "summary_en": "This analysis delves into Thomas Gilovich's 'How We Know What Isn’t So,' a book that meticulously dissects the cognitive biases leading us to erroneous beliefs. It brilliantly argues that our false convictions stem not from outright irrationality, but from flawed rational processes applied to incomplete information. Key insights include our propensity to find patterns in randomness, the pervasive influence of confirmation bias where we scrutinize disconfirming evidence more harshly, and the false consensus effect that inflates our sense of shared beliefs. The book also highlights our superior ability to generate plausible theories over rigorously testing them. The 'Try It Now' section offers practical, actionable steps to challenge one's own beliefs, fostering critical thinking and intellectual humility. This book is a crucial read for anyone seeking to understand the psychological underpinnings of human error and improve their decision-making processes.",
+    "summary_zh": "吉洛维奇的《我们如何知道并非如此》一书深入剖析了人类认知偏差如何导致错误信念。我特别欣赏它指出，这些错误并非源于纯粹的非理性，而是不完整的理性推理。书中强调了我们大脑对模式的过度解读、证实性偏见的无处不在，以及高估他人与我们观点一致的“虚假共识效应”。最发人深省的是，我们擅长提出理论却不擅长严谨验证。其“立即尝试”部分提供了极具操作性的方法来审视自身信念，这对于培养批判性思维和保持心智开放至关重要。这本书提醒我们，保持怀疑精神和自我反思是认知升级的必经之路。",
+    "best_quote_en": "For desired conclusions, we ask ourselves, ‘Can I believe this?’, but for unpalatable conclusions we ask, ‘Must I believe this?’",
+    "best_quote_zh": "对于我们渴望的结论，我们会问自己，‘我能相信这个吗？’；但对于令人不快的结论，我们却会问，‘我必须相信这个吗？’"
   }
 ]
