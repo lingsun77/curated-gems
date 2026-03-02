@@ -1,115 +1,5 @@
 [
   {
-    "id": 575,
-    "title": "Jess Cartner-Morley on fashion: lift your winter look with a pop of white",
-    "title_zh": "Jess Cartner-Morley谈时尚：用一抹白色点亮你的冬日造型",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/feb/04/jess-cartner-morley-on-fashion-lift-winter-look-pop-of-white",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "AI研究"
-    ],
-    "date": "2026-02-04",
-    "summary_en": "This article from Jess Cartner-Morley offers a refreshing perspective on winter fashion, advocating for the strategic use of white to uplift cold-weather ensembles. It cleverly frames white as a natural mood enhancer, akin to snowdrops or a squeeze of lemon, suggesting it brightens not just an outfit but also one's outlook during the dreary winter months. The piece provides actionable styling tips, from white ankle boots to subtle white socks or a peek of a white shirt, emphasizing how these small touches can create visual interest and lighten heavy winter layers. It thoughtfully balances aspirational fashion with practical advice, making high-fashion concepts accessible and encouraging readers to experiment with color to combat seasonal gloom. The advice feels both personal and universal, offering a simple yet effective way to inject vibrancy into an otherwise muted wardrobe.",
-    "summary_zh": "这篇文章巧妙地将时尚与冬日情调融合，建议用一抹白色来点亮沉闷的冬装。作者将白色比作雪花或柠檬，不仅能提亮造型，更能提振冬日的精神。它提供了实用的搭配技巧，比如白色短靴、袜子或衬衫内搭，让这些小细节为厚重的冬装增添活力。这种将色彩心理学融入日常穿搭的思路，既有时尚洞察力，又充满了积极的生活哲学，读来令人心生暖意。",
-    "best_quote_en": "A pop of snowy white is the best boost you can give an outfit right now. White is to January what rust and orange are to October: a colour pulled from nature to remind us of the best bits of the season.",
-    "best_quote_zh": "一抹雪白的点缀是你现在能给服装最好的提振。白色之于一月，正如锈色和橙色之于十月：一种从自然中汲取的色彩，提醒我们季节中最美好的部分。"
-  },
-  {
-    "id": 576,
-    "title": "Why TV Lost",
-    "title_zh": "电视为何失败",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/convergence.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-02-10",
-    "summary_en": "This insightful essay from March 2009 presciently argues that computers, not TV, would win the 'convergence' battle, effectively replacing traditional television. The author identifies four key forces: the Internet's open platform fostering rapid innovation, Moore's Law driving bandwidth improvements, the superior convenience offered by digital piracy (even over free content), and most powerfully, the rise of social applications. The latter transformed computers from niche devices for 'nerds' and gamers into essential tools for everyone, including grandmas and teenagers, driven by the innate human desire for connection. The piece critically examines how traditional TV networks, clinging to outdated synchronous and local broadcast models, failed to adapt to this shift. It concludes with a call for new companies to challenge the old guard, highlighting the Internet's power to dissolve broadcast media's cornerstones and empower content creators, ultimately predicting a future where entertainment formats are radically reimagined by imaginative minds.",
-    "summary_zh": "这篇2009年的文章极具前瞻性，精准预言了电脑将取代电视，而非简单的“融合”。它深入剖析了互联网的开放性、摩尔定律、盗版的便捷性，以及最重要的——社交应用的崛起，如何共同推动了这一变革。作者指出，社交需求让电脑从极客工具变为大众必需品，而传统电视业因固守同步和地域限制的旧模式而错失良机。读来不禁让人感慨，十多年前的洞察力竟能如此精准地描绘我们今日的数字生活，对于任何想理解媒体变迁的人，这都是一篇值得反复咀嚼的佳作。",
-    "best_quote_en": "Facebook killed TV. That is wildly oversimplified, of course, but probably as close to the truth as you can get in three words.",
-    "best_quote_zh": "Facebook扼杀了电视。当然，这过于简化了，但在三个词中，这大概是你能找到的最接近真相的说法了。"
-  },
-  {
-    "id": 577,
-    "title": "Monday AI Radar #12",
-    "title_zh": "星期一 AI 雷达 #12",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Myi3KDeNamrJoe2Ey/monday-ai-radar-12",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-10",
-    "summary_en": "This 'Monday AI Radar' issue offers a compelling snapshot of the accelerating AI landscape, particularly focusing on recursive self-improvement and its profound implications. The author effectively synthesizes diverse perspectives on frontier models like Claude Opus 4.6 and GPT-5.3-Codex, highlighting their rapid development and the challenges in evaluating their capabilities and risks. What truly stands out is the exploration of AI's societal impact, from cybersecurity dilemmas to the economic effects on productivity, and the urgent need for robust governance strategies. The piece thoughtfully navigates the sci-fi-like realities of AI advancement with a call for grounded, technocratic policymaking, making it a crucial read for anyone tracking AI's exponential trajectory and its complex societal integration.",
-    "summary_zh": "本期“星期一 AI 雷达”深入探讨了 AI 递归式自我改进的惊人进展及其深远影响。文章不仅更新了前沿模型（如 Claude Opus 4.6 和 GPT-5.3-Codex）的最新动态，更深刻分析了评估其能力与风险的困境，令人不禁思考人类如何驾驭这股科技洪流。从网络安全到经济生产力，再到治理策略的迫切需求，作者以冷静的笔触描绘了 AI 带来的科幻般现实，并呼吁以务实的技术官僚主义来应对。这不仅仅是信息聚合，更是对未来走向的深刻洞察与反思。",
-    "best_quote_en": "The intelligence explosion has begun: AI is meaningfully accelerating its own development. Dean Ball considers what’s happening now and where we’re headed soon.",
-    "best_quote_zh": "智能爆炸已经开始：人工智能正在有意义地加速自身发展。迪恩·鲍尔思考了现在正在发生的事情以及我们很快将走向何方。"
-  },
-  {
-    "id": 578,
-    "title": "The Woman Behind Japan’s Rightward Shift",
-    "title_zh": "日本右倾化背后的女人",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-woman-behind-japans-rightward-shift",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-02-10",
-    "summary_en": "This article delves into the political landscape of Japan following Sanae Takaichi's unprecedented victory as the country's first female Prime Minister, securing a supermajority for the LDP. Through an interview with Harvard professor Andrew Gordon, the analysis explores the factors contributing to Japan's rightward shift, including Takaichi's populist appeal, the co-option of far-right sentiment, and a hawkish stance against China. The discussion critically examines her economic policies, immigration views, and the potential for institutional changes, drawing parallels and distinctions with global populist trends. It also thoughtfully addresses the complexities of her being a female leader with anti-feminist views, highlighting the nuanced internal debates within Japanese society regarding identity versus action in politics. The piece offers a compelling look at the forces shaping modern Japanese governance and its international relations.",
-    "summary_zh": "高市早苗作为日本首位女首相，以压倒性胜利带领自民党获得超级多数席位，这无疑是日本政治史上的一个里程碑。文章通过与哈佛教授的对话，深入剖析了日本社会右倾化的深层原因，高市的民粹主义魅力、对极右翼情绪的吸纳以及对华强硬立场都值得深思。她作为一位持反女权主义立场的女性领导者，其崛起本身就充满了矛盾与张力，这不仅反映了日本政治的复杂性，也引发了关于身份与政策之间关系的广泛讨论。这场选举的结果及其潜在影响，将是观察日本未来走向的关键窗口。",
-    "best_quote_en": "There is no question that it is absolutely part of the story. And the surprising success of the far-right Sanseito Party in last summer’s House of Councillors election, which determines the makeup of the upper house of parliament, seemed to come from their xenophobic, hard-line, anti-immigrant, anti-foreigner attitude, which is of a piece with what we see not only in this country, but in a growing number of countries.",
-    "best_quote_zh": "毫无疑问，这绝对是故事的一部分。去年夏天，极右翼参政党在参议院选举中出人意料的成功，似乎源于其排外、强硬、反移民、反外国人的态度，这与我们不仅在本国，而且在越来越多的国家所看到的情况如出一辙。"
-  },
-  {
-    "id": 579,
-    "title": "Moving",
-    "title_zh": "搬家",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/moving/",
-    "tags": [
-      "solve",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意"
-    ],
-    "date": "2026-02-09",
-    "summary_en": "This article offers an ingenious collection of practical tips and unconventional tools for simplifying the often-dreaded process of moving. From life-sized furniture cut-outs for spatial planning to a U-Haul Box Exchange forum for free recycled boxes, and even specialized carpet film for protection during parties (or moving), the insights are remarkably actionable. The piece culminates with clever strategies for DIY box handling, including using plastic totes via FedEx and crafting custom box handles from PVC pipe. What's particularly compelling is the emphasis on cost-effectiveness and injury prevention, transforming a typically stressful event into a more manageable, even enjoyable, experience. It's a testament to how small innovations and shared resources can make a significant difference in everyday challenges.",
-    "summary_zh": "这篇文章汇集了许多独到且实用的搬家妙招，读来令人茅塞顿开。从等比例家具模板规划空间，到利用U-Haul论坛免费获取旧纸箱，再到派对（或搬家）时保护地毯的专用薄膜，每一条建议都直指痛点。最让人印象深刻的是DIY箱子搬运技巧，比如用FedEx寄送塑料整理箱，以及自制PVC管把手。这不仅省钱，还能有效避免受伤，把原本头疼的搬家过程变得轻松许多。这提醒我们，即使是日常琐事，也能通过巧妙的工具和思维创新来优化，化繁为简。",
-    "best_quote_en": "My latest (and hopefully last) moving experience was a dream because of the Lay-It-Out furniture templates. ... I had the whole house planned out before the moving truck arrived and it cost less than the physical therapy and pain killers I had to use before.",
-    "best_quote_zh": "我最近（希望也是最后一次）的搬家经历简直是美梦一场，全靠了Lay-It-Out家具模板。……在搬家卡车到来之前，我就已经把整个房子都规划好了，而且比我之前不得不使用的物理治疗和止痛药的花费还要少。"
-  },
-  {
     "id": 580,
     "title": "Goodbye, breast implants: why I went back to having a flat chest",
     "title_zh": "再见了，乳房植入物：我为何回归平胸",
@@ -2316,5 +2206,123 @@
     "summary_zh": "这期Huberman Lab节目深入探讨了光线对人体健康的深远影响，我发现它将复杂的生物学机制与实用的健康优化策略完美结合。从改善睡眠到调节荷尔蒙，再到红光疗法对皮肤和视力的益处，节目提供了大量基于科学的建议。最吸引我的是，它不仅解释了“为什么”，更提供了“怎么做”的具体工具和协议。这期内容让我重新审视了日常光照的重要性，意识到光线不仅是视觉感知，更是强大的生物调节器，对提升整体身心健康具有不可估量的价值。",
     "best_quote_en": "I explain the biological mechanisms behind these light-based therapies and offer practical tools that listeners can use to improve both their mental and physical well-being.",
     "best_quote_zh": "我解释了这些基于光的疗法背后的生物学机制，并提供了听众可以用来改善身心健康的实用工具。"
+  },
+  {
+    "id": 675,
+    "title": "A New Venture Animal",
+    "title_zh": "一种新的风险投资动物",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ycombinator.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-03-02",
+    "summary_en": "This insightful essay by Paul Graham, penned in 2008 and revised in 2013, fundamentally redefines Y Combinator's role, moving beyond the simplistic 'seed funding' label. Graham masterfully uses the analogy of scaling animals to illustrate how YC operates in a distinct ecological niche, far removed from traditional VCs. He argues that YC's primary value isn't merely capital, but intensive, hands-on support for nascent startups, akin to a 'steam catapult' launching an aircraft. This deep dive into the mechanics of early-stage venture building highlights the disproportionate need for 'help' over 'money' at the very beginning, a critical distinction for founders and investors alike. The piece also provocatively suggests that YC creates new deal flow rather than competing for existing slices, fundamentally altering the venture landscape. It's a compelling read for anyone interested in the evolution of startup ecosystems and the true value proposition of accelerators.",
+    "summary_zh": "保罗·格雷厄姆这篇2008年的文章，深刻地剖析了Y Combinator的本质，超越了“种子基金”的简单定义。他以生物进化的巧妙比喻，阐明YC并非传统风投的替代品，而是一种在全新生态位中诞生的“新物种”。文章核心在于强调，在初创企业最脆弱的早期阶段，YC提供的并非仅仅是资金，更是密集且实践性极强的指导与支持，如同“蒸汽弹射器”般助推创业者起飞。这让我反思，真正的价值创造往往在于识别并满足那些被传统模式忽视的、比例失衡的需求。这不仅是对YC模式的自我解读，更是对整个风险投资行业演变趋势的精辟洞察，对于理解创新生态系统如何自我演化极具启发性。",
+    "best_quote_en": "YC represents a new, smaller kind of animal—so much smaller that all the rules are different.",
+    "best_quote_zh": "YC代表了一种新的、更小的动物——小到所有的规则都不同了。"
+  },
+  {
+    "id": 676,
+    "title": "If ‘bad guys’ don't pause, do you?",
+    "title_zh": "如果“坏人”不停手，你会停吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/cZKiSszN2abbqK5xN/if-bad-guys-don-t-pause-do-you",
+    "tags": [
+      "solve",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-03-02",
+    "summary_en": "This thought-provoking piece delves into the complex ethical dilemma surrounding AI development, particularly in the context of a perceived 'AI race' between 'good guys' and 'bad guys.' It presents a scenario where an AI company CEO, aiming to be a 'good guy,' seeks a policy to navigate this landscape. The core insight lies in the tension between pausing development for safety and the risk of falling behind malicious actors who won't pause. The content forces readers to confront the strategic implications of AI governance, highlighting that inaction or excessive caution might inadvertently cede control to those with less ethical intentions. It's a critical examination of proactive versus reactive approaches in a high-stakes technological arms race.",
+    "summary_zh": "这篇短文提出了一个深刻的AI伦理困境：面对“坏人”的步步紧逼，追求安全的“好人”是否应该暂停AI发展？它巧妙地构建了一个政策制定场景，揭示了在AI军备竞赛中，过于保守可能反而将主导权拱手让给不择手段的竞争者。文章引人深思，促使我们跳出简单的善恶二元论，去权衡风险与机遇，以及如何在全球AI治理中保持战略主动性，这不仅是技术问题，更是对人类智慧和决心的考验。",
+    "best_quote_en": "If we keep scaling ahead of 'bad guys', we can try make and distribute a safer version of the most advanced AI than what those other 'bad guys' would make.",
+    "best_quote_zh": "如果我们持续领先于“坏人”进行扩展，我们就能尝试制造和分发比那些“坏人”所制造的更安全的、最先进的AI版本。"
+  },
+  {
+    "id": 677,
+    "title": "What Ayatollah Ali Khamenei Meant to Iran, and What Comes Next",
+    "title_zh": "阿亚图拉·阿里·哈梅内伊对伊朗意味着什么，以及接下来会发生什么",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-ayatollah-ali-khamenei-meant-to-iran-and-what-comes-next",
+    "tags": [
+      "inspire",
+      "politics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-03-01",
+    "summary_en": "This article delves into the immediate aftermath of Ayatollah Ali Khamenei's reported assassination, exploring the profound implications for Iran's political landscape and regional stability. It provides a historical overview of Khamenei's rise to power and his complex legacy, marked by both staunch support and widespread dissent. The analysis critically examines the internal divisions within Iran regarding its identity as an Islamic state versus a republic, and how these tensions are exacerbated by the current crisis. Furthermore, it probes the potential scenarios for succession, ranging from a security-dominated consolidation to fragmentation, and assesses the weakening of Iran's regional 'axis of resistance'. The piece thoughtfully considers how this event, occurring amidst escalating conflict, could reshape not only Iran but the broader Middle East and global security dynamics.",
+    "summary_zh": "这篇深度分析文章探讨了哈梅内伊遇刺后的伊朗局势，其影响力不容小觑。作者以独特的视角回顾了哈梅内伊的政治生涯，并对伊朗未来的权力真空进行了富有洞察力的预测。文章不仅揭示了伊朗社会内部关于“伊斯兰”与“共和”身份的深刻矛盾，更进一步分析了地区盟友在此关键时刻的反应，这让我不禁思考，一个失去核心仲裁者的国家将如何应对内外交困的挑战。这不仅仅是伊朗的转折点，也可能预示着中东地缘政治格局的新一轮剧变。",
+    "best_quote_en": "Khamenei functioned 'as the ultimate mediator among competing factions. Without that arbiter, succession becomes a negotiation among élites taking place under wartime pressure.'",
+    "best_quote_zh": "哈梅内伊曾是“各竞争派系间的终极调解人。没有这位仲裁者，继任就变成了精英们在战时压力下的谈判。”"
+  },
+  {
+    "id": 678,
+    "title": "Free sports TV / Hot and cold face wand / Best pencil",
+    "title_zh": "免费体育电视 / 冷热面部按摩棒 / 最佳铅笔",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-sports-tv-hot-and-cold-face-wand-best-pencil/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究"
+    ],
+    "date": "2026-03-01",
+    "summary_en": "This collection of recommendations offers a diverse range of practical solutions and insightful perspectives for everyday life. From an ingenious hack for free sports TV using a digital antenna to a therapeutic hot and cold face wand for relaxation and pain relief, the content highlights clever tools and personal upgrades. Particularly engaging are the sections on \"26 Useful Concepts for 2026,\" which provide mental models for navigating modern complexities, and \"Prompt Therapy,\" exploring AI chatbots as personalized self-help companions. The inclusion of a searchable database for past recommendations adds significant value, transforming casual advice into an actionable resource. The pieces collectively underscore the value of smart choices and innovative approaches to improve well-being and efficiency.",
+    "summary_zh": "这组推荐文章涵盖了从免费电视到个人护理，再到思维模型和AI疗法的广泛实用建议。我特别喜欢“26个有用概念”中那些洞察人性和社会运作的智慧，以及“提示疗法”中AI作为个人成长伙伴的潜力。这些内容不仅提供了具体的工具和方法，更启发我们以更聪明、更有效的方式应对生活挑战，将日常小物件与深刻的人生哲学巧妙结合，体现了发现价值和解决问题的乐趣。",
+    "best_quote_en": "If you want more agency, ask yourself what you’d do if you had ten times more agency — then do it.",
+    "best_quote_zh": "如果你想要更多的自主权，问问自己如果拥有十倍的自主权你会怎么做——然后就去做。"
+  },
+  {
+    "id": 679,
+    "title": "The Most Effective Weight Training, Cardio & Nutrition for Women | Dr. Lauren Colenso-Semple",
+    "title_zh": "女性最有效的力量训练、有氧运动和营养 | Lauren Colenso-Semple 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/the-most-effective-weight-training-cardio-and-nutrition-for-women-lauren-colenso-semple",
+    "tags": [
+      "guide",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-16",
+    "summary_en": "Dr. Lauren Colenso-Semple, a leading expert in muscle physiology and nutrition, provides a comprehensive guide to optimized fitness for women. She meticulously breaks down resistance training and cardiovascular programs, exploring how they might differ from men's regimens and offering actionable advice on program design, exercise selection, and repetition ranges. The discussion extends to crucial physiological considerations like menstrual cycles, menopause, and hormonal contraception, debunking common myths surrounding women's fitness and nutrition, such as the effects of fasting and cortisol. This content is invaluable for anyone seeking to understand the science-backed best practices for women's strength building and overall health, offering a nuanced perspective that challenges conventional wisdom and empowers informed decision-making.",
+    "summary_zh": "Lauren Colenso-Semple 博士的这期内容简直是女性健身的百科全书。她不仅深入浅出地讲解了力量训练和有氧运动的科学原理，还特别针对女性生理周期、更年期等独特因素给出了实用建议，彻底打破了许多健身误区。听完感觉对女性身体的理解更深了一层，也更加明白如何科学、高效地进行训练和营养管理。这不只是一堂健身课，更是对女性健康和赋能的一次深刻探讨，令人受益匪浅。",
+    "best_quote_en": "Throughout the episode Dr. Lauren Colenso-Semple dispels common myths about women's fitness and nutrition such as the impact of fasting, cortisol, weight vests and more.",
+    "best_quote_zh": "在整期节目中，Lauren Colenso-Semple 博士驳斥了关于女性健身和营养的常见误区，例如禁食、皮质醇、负重背心等的影响。"
   }
 ]
