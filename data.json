@@ -1,123 +1,5 @@
 [
   {
-    "id": 580,
-    "title": "Goodbye, breast implants: why I went back to having a flat chest",
-    "title_zh": "再见了，乳房植入物：我为何回归平胸",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2026/feb/04/breast-explant-surgery",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-02-04",
-    "summary_en": "This deeply personal and reflective article by Sarah Lavender Smith explores her decision to remove breast implants after 22 years, embracing a flat chest. It delves into the societal pressures and personal insecurities that initially led her to cosmetic surgery, contrasting them with her current desire to age naturally and authentically. Smith weaves her own experience with those of other women, highlighting the growing trend of explant surgery driven by health concerns like capsular contracture and Breast Implant Illness, as well as psychological shifts towards self-acceptance. The piece thoughtfully critiques the 'slippery slope' of cosmetic procedures and advocates for redefining femininity beyond external enhancements, emphasizing health, comfort, and inner peace. It's a powerful narrative on body image, societal expectations, and the journey to self-liberation.",
-    "summary_zh": "萨拉·薰衣草·史密斯这篇真诚的自述，探讨了她22年后移除乳房植入物、回归平胸的决定。文章深刻剖析了促使她最初接受整形手术的社会压力和内心不安，并将其与当下追求自然老去、拥抱真实的愿望进行对比。史密斯将自身经历与他人的故事交织，揭示了因健康问题（如包膜挛缩、乳房植入物疾病）和心理转变而日益增长的植入物移除趋势。她批判了整容手术的“滑坡效应”，倡导重新定义女性美，超越外在修饰，回归健康、舒适与内心平静。这不仅是关于身体形象和审美观念的讨论，更是一场关于自我解放的深刻旅程。",
-    "best_quote_en": "It’s a trap that encourages preservation over acceptance, maintenance over meaning.",
-    "best_quote_zh": "这是一个鼓励维持而非接受，维护而非意义的陷阱。"
-  },
-  {
-    "id": 581,
-    "title": "Can You Buy a Silicon Valley?  Maybe.",
-    "title_zh": "你能买下一个硅谷吗？也许吧。",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/maybe.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-02-11",
-    "summary_en": "This essay critically examines the feasibility and methodology for cities to intentionally cultivate their own \"Silicon Valley\"-like startup ecosystems. It debunks the common misconception that small seed funding or local incubators alone suffice, emphasizing the need for substantial financial commitment (hundreds of thousands to a million dollars per startup) to incentivize startups to remain rooted. The author insightfully highlights the crucial, yet often overlooked, challenge of effectively selecting promising startups, arguing against government-led selection and proposing a strategy of attracting startups already vetted by eminent Silicon Valley angels. The piece provocatively suggests that with sufficient political will and a strategic investment comparable to building a football stadium, a city could rapidly become a major startup hub, offering a compelling alternative vision for urban economic development.",
-    "summary_zh": "这篇文章深入探讨了城市能否“购买”或复制硅谷模式。作者犀利地指出，小额资助或本地孵化器效果甚微，关键在于提供足够资金（每家初创公司数十万到百万美元），让它们无须离开。最棘手的难题是“如何挑选初创公司”，作者独到地提出，可借力硅谷顶尖天使投资人的专业判断。读完此文，我不禁思考，与其耗巨资建体育场，为何不将这笔钱投入到真正能改变城市未来、激发创新活力的初创生态中？这不仅是经济决策，更是城市发展理念的深刻反思。",
-    "best_quote_en": "For the price of a football stadium, any town that was decent to live in could make itself one of the biggest startup hubs in the world.",
-    "best_quote_zh": "一座宜居的城市，花一个足球场的钱，就能将自己打造成全球最大的创业中心之一。"
-  },
-  {
-    "id": 582,
-    "title": "Designing Prediction Markets",
-    "title_zh": "设计预测市场",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ZrLZxkGGC4ms98iiD/designing-prediction-markets",
-    "tags": [
-      "solve",
-      "ai-research",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2026-02-11",
-    "summary_en": "This article delves into the fascinating mechanics of designing prediction markets, starting from first principles. It meticulously explains the evolution from simple Central Limit Order Books (CLOBs) to the necessity of market makers, culminating in the derivation of the Constant Product Market Maker (CPMM) formula. What's truly compelling is the author's journey, showing how fundamental constraints—like prices summing to $1 and price equaling probability—inexorably lead to this specific solution, bypassing arbitrary choices. The piece brilliantly connects abstract mathematical concepts, including differential equations, to practical applications in finance and decentralized autonomous organizations (DAOs) like Uniswap. It underscores the power of formalizing problems correctly, revealing how elegant solutions can emerge from core requirements, much like the independent discovery of calculus. While acknowledging alternative approaches, the article makes a strong case for the CPMM's intuitive nature and utility for probabilistic YES/NO markets, offering a profound insight into market design.",
-    "summary_zh": "这篇文章对预测市场的底层设计进行了深入剖析，从基本概念入手，逐步推导出恒定乘积做市商（CPMM）模型的必然性。作者巧妙地将数学逻辑与市场机制结合，展示了如何从“价格总和为1”和“价格即概率”等核心约束条件中，自然而然地得出这一解决方案。这种从第一性原理出发的探索过程引人入胜，不仅揭示了CPMM在金融和DeFi领域的广泛应用，也让人联想到微积分的独立发现，即当问题被正确形式化时，往往会收敛于独特的优雅解。文章虽幽默地承认存在其他方案，但其对CPMM直观性和有效性的强调，无疑为理解市场设计提供了深刻的洞察。",
-    "best_quote_en": "When you properly formalize a problem with the right constraints, there's often exactly one correct answer.",
-    "best_quote_zh": "当你用正确的约束条件恰当地形式化一个问题时，通常会只有一个正确答案。"
-  },
-  {
-    "id": 583,
-    "title": "“McMindfulness” and the Fate of Spirituality Under Capitalism",
-    "title_zh": "“麦克正念”与资本主义下的灵性命运",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/can-mindfulness-be-a-path-to-activism",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-02-10",
-    "summary_en": "This thought-provoking article delves into the commodification of mindfulness, critiquing its transformation from a profound spiritual practice into a tool for corporate optimization under capitalism. Through an interview with Ron Purser, author of “McMindfulness,” the piece argues that contemporary mindfulness, stripped of its ethical and communal dimensions, reinforces individualistic narcissism and societal atomization rather than fostering genuine liberation or social engagement. It highlights how this \"psychopolitics\" pathologizes individual stress while ignoring systemic issues, turning a potentially revolutionary practice into a palliative that numbs individuals to intolerable conditions. The author thoughtfully probes the implications for community, activism, and the future of spiritual wisdom in a digitally mediated world, advocating for a return to a deeper, interbeing-focused consciousness that inspires collective action and true compassion.",
-    "summary_zh": "这篇文章深入剖析了“麦克正念”现象，犀利地指出在资本主义逻辑下，正念如何从一种深刻的灵性实践被异化为企业优化效率的工具。它引人深思地揭示了当代正念在剥离了伦理与社群维度后，非但未能带来真正的解脱，反而加剧了个人主义和原子化。这种“心理政治”将系统性问题个体化，使人们沉溺于自我优化的假象，对社会结构性矛盾视而不见。文章的批判性视角促使我们反思，在数字时代，如何才能重拾正念的社会维度，培养一种基于“互即互入”的意识，从而激发真正的集体行动与同情心，而非仅仅是个人层面的缓解。",
-    "best_quote_en": "“A truly revolutionary movement would seek to overturn this dysfunctional system, but mindfulness only serves to reinforce its destructive logic.”",
-    "best_quote_zh": "“一个真正革命性的运动会寻求推翻这个失调的系统，但正念却只起到强化其破坏性逻辑的作用。”"
-  },
-  {
-    "id": 584,
-    "title": "Things Organized Neatly / Sharks",
-    "title_zh": "整齐有序的物品 / 鲨鱼",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/things-organized-neatly-sharks/",
-    "tags": [
-      "analyze",
-      "design",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-10",
-    "summary_en": "This content presents reviews of two distinct books: 'Things Organized Neatly' and 'Sharks'. The first explores the art of 'knolling'—the meticulous arrangement of everyday objects, highlighting its hypnotic effect and ability to bring order and focus to collections. The second review delves into Michael Muller's 'Sharks,' a stunning photographic volume that aims to reframe public perception of sharks from terrifying predators to majestic, endangered creatures. It critically examines how media portrayals have fueled fear and contributed to their decline, advocating for conservation through appreciation of their natural beauty. Both reviews emphasize the visual impact and thoughtful presentation of their respective subjects, making a compelling case for these books as both aesthetic objects and sources of deeper understanding. I find the contrast between the human-imposed order of 'knolling' and the natural majesty of sharks particularly fascinating, reflecting different facets of our relationship with the world.",
-    "summary_zh": "这篇文章评论了两本视觉系书籍。《整齐有序的物品》探讨了“knolling”这种将日常物件精心排列的艺术，揭示了其如何赋予无意义的收藏以秩序和美感，令人着迷。而《鲨鱼》则通过震撼的摄影作品，试图纠正公众对鲨鱼的刻板印象，将其从凶猛的捕食者重塑为值得敬畏和保护的濒危生物。评论深入分析了媒体如何塑造了我们对鲨鱼的恐惧，并呼吁通过欣赏它们的美来推动保护。我个人觉得这种对秩序的追求与对野性美的探索形成了有趣的对照，都指向了我们如何理解和组织世界。",
-    "best_quote_en": "Seemingly meaningless collections gain intelligence and order which focuses attention on the parts.",
-    "best_quote_zh": "看似毫无意义的收藏获得了智慧和秩序，从而将注意力集中在各个部分。"
-  },
-  {
     "id": 585,
     "title": "A moment that changed me: I shaved off my hair – and immediately became an invisible woman",
     "title_zh": "一个改变我的瞬间：我剃了头发——立刻变成了一个隐形女人",
@@ -2324,5 +2206,121 @@
     "summary_zh": "Lauren Colenso-Semple 博士的这期内容简直是女性健身的百科全书。她不仅深入浅出地讲解了力量训练和有氧运动的科学原理，还特别针对女性生理周期、更年期等独特因素给出了实用建议，彻底打破了许多健身误区。听完感觉对女性身体的理解更深了一层，也更加明白如何科学、高效地进行训练和营养管理。这不只是一堂健身课，更是对女性健康和赋能的一次深刻探讨，令人受益匪浅。",
     "best_quote_en": "Throughout the episode Dr. Lauren Colenso-Semple dispels common myths about women's fitness and nutrition such as the impact of fasting, cortisol, weight vests and more.",
     "best_quote_zh": "在整期节目中，Lauren Colenso-Semple 博士驳斥了关于女性健身和营养的常见误区，例如禁食、皮质醇、负重背心等的影响。"
+  },
+  {
+    "id": 680,
+    "title": "Jailed for losing a pregnancy: how progress on El Salvador’s harsh anti-abortion law is unravelling",
+    "title_zh": "因流产而入狱：萨尔瓦多严苛堕胎法案的进展如何功亏一篑",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/mar/02/el-salvador-bukele-anti-abortion-laws-women-criminalised-obstetric-crisis-miscarriage-rights",
+    "tags": [
+      "analyze",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-03-02",
+    "summary_en": "This article critically examines the alarming regression of women's reproductive rights in El Salvador, focusing on how President Nayib Bukele's 'state of exception' has dismantled hard-won progress. It highlights the disturbing trend of women being criminalized for obstetric emergencies, often facing severe charges like aggravated homicide. The piece masterfully weaves together individual narratives with broader systemic issues, revealing how constitutional protections are suspended, leading to detention without due process and a climate of fear among medical and legal professionals. The insights into the intentionality (or lack thereof) of these 'unintended consequences' and the broader regional erosion of women's rights are particularly thought-provoking, painting a grim picture of authoritarianism's impact on vulnerable populations.",
+    "summary_zh": "萨尔瓦多在女性生殖权利上的倒退令人心寒。布克尔总统的“例外状态”不仅扼杀了来之不易的进步，更将女性因产科紧急情况而入狱的现象推向新高。文章揭示了宪法保护的瓦解、正当程序的缺失，以及医护和法律界在恐惧中噤声的现实。这种对人权的漠视，无论是“无意之果”还是专制代价，都令人深思其对社会公正和个体尊严的深远影响。它不仅是萨尔瓦多的问题，更是全球范围内女性权利面临挑战的一个缩影。",
+    "best_quote_en": "“Now it is detention first, investigation later, often without meaningful access to legal defence.”",
+    "best_quote_zh": "“现在是先拘留，后调查，往往没有有效的法律辩护。”"
+  },
+  {
+    "id": 681,
+    "title": "Trolls",
+    "title_zh": "喷子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/trolls.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-03-03",
+    "summary_en": "This essay critically examines the phenomenon of \"trolling\" in online forums, particularly within hacker culture. It meticulously dissects the evolution of the term, distinguishing between the original meaning of deliberate provocation and the broader contemporary definition encompassing general asshole-like behavior. The author thoughtfully attributes trolling to four primary causes: psychological distance afforded by anonymity, the social awkwardness prevalent in tech communities, intellectual incompetence leading to facile negativity, and the permissive culture of certain forums. The piece then shifts to practical solutions, using News.YC as a case study to demonstrate how explicit guidelines, community self-policing, and technical tweaks (like karma systems) can effectively combat trolling and maintain high-quality discourse. It's a fascinating look at the sociology of online communities and the constant battle to preserve intellectual spaces.",
+    "summary_zh": "这篇文章深入剖析了网络论坛中“喷子”现象的成因与应对之道。作者以其敏锐的洞察力，将喷子行为归结为匿名带来的距离感、技术社群的社交特质、知识上的无能以及论坛文化的影响。最引人深思的是，它不仅停留在批判，更以News.YC为例，展现了如何通过规则制定、社区自治和技术辅助来积极构建一个高质量的讨论环境。这不只是对网络行为的分析，更是对如何塑造健康数字公共空间的深刻思考，对于任何致力于社区建设的人来说，都具有极高的参考价值。",
+    "best_quote_en": "There's a sort of Gresham's Law of trolls: trolls are willing to use a forum with a lot of thoughtful people in it, but thoughtful people aren't willing to use a forum with a lot of trolls in it. Which means that once trolling takes hold, it tends to become the dominant culture.",
+    "best_quote_zh": "喷子有一种格雷欣法则：喷子愿意使用有很多有思想的人的论坛，但有思想的人不愿意使用有很多喷子的论坛。这意味着一旦喷子行为盛行，它往往会成为主导文化。"
+  },
+  {
+    "id": 682,
+    "title": "Monday AI Radar #15",
+    "title_zh": "星期一AI雷达 #15",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/LihodhGu4T5Anpnuj/monday-ai-radar-15",
+    "tags": [
+      "update",
+      "ai-research",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-03-03",
+    "summary_en": "This edition of the \"Monday AI Radar\" delves into a critical turning point for the AI industry, sparked by a conflict between the Department of War and Anthropic. The analysis explores the profound implications for trust in American AI, the viability of the industry, and the global AI landscape, including the potential demise of the American AI Exports Program. Beyond this central conflict, the radar touches upon a wide array of AI developments: insightful thoughts on AI agents, new releases like Nano Banana 2, and the ongoing debate between compute and algorithmic improvements. It also critically examines AI's growing capabilities in mathematics and programming, the philosophical debate around AI consciousness, and strategic considerations for AI governance and biorisk. The piece thoughtfully synthesizes diverse perspectives, offering a comprehensive yet critical overview of the rapidly evolving AI ecosystem, highlighting both technical advancements and geopolitical tensions.",
+    "summary_zh": "本期“星期一AI雷达”深入剖析了美国战争部与Anthropic之间的冲突，这标志着AI行业的一个关键转折点。我深感此次事件对美国AI的国际信任、行业前景乃至AI出口计划的潜在终结都带来了不可逆转的损害。文章不仅关注这一地缘政治风暴，还涵盖了AI代理的深刻见解、新模型的发布（如Nano Banana 2）、算力与算法进步的辩论，以及AI在数学和编程领域的最新进展。更引人深思的是，它还探讨了AI意识的哲学争议和AI治理的战略考量。这篇分析以其广阔的视野和批判性思维，为我们描绘了一个充满挑战与机遇的AI时代图景，令人深思。",
+    "best_quote_en": "This is the most important thing that’s happened in AI for a long time and it’s gravely concerning. These are dark times and the road ahead just got more difficult.",
+    "best_quote_zh": "这是AI领域长期以来发生的最重要的事情，它令人深感担忧。这些是黑暗的时刻，前方的道路变得更加艰难。"
+  },
+  {
+    "id": 683,
+    "title": "Can Donald Trump Win a War with Iran If He Can’t Explain Why He Started It?",
+    "title_zh": "如果唐纳德·特朗普无法解释开战原因，他能打赢与伊朗的战争吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/can-donald-trump-win-a-war-with-iran-if-he-cant-explain-why-he-started-it",
+    "tags": [
+      "learn",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-03-02",
+    "summary_en": "This incisive analysis dissects Donald Trump's bewildering and contradictory justifications for initiating a new war with Iran, highlighting the administration's muddled objectives ranging from regime change to dismantling a nuclear program he previously declared 'obliterated.' The author critically questions the feasibility of winning a war when its rationale and definition of victory remain so opaque and shifting. What I found particularly striking was the portrayal of Trump's apparent detachment, pivoting from grave matters of war to trivial discussions of White House decor, suggesting a profound lack of seriousness or a calculated strategy to claim victory regardless of outcomes. The piece also explores potential motivations behind this sudden hawkish shift, including a desire to capitalize on Iran's post-2023 vulnerabilities and a legacy-driven pursuit of regime change, ultimately painting a picture of a leader whose personal whims and political calculations override coherent strategy.",
+    "summary_zh": "这篇文章深刻剖析了特朗普对伊朗开战理由的混乱与矛盾，令人不禁思考：一个连战争目的都无法清晰阐述的领导人，如何能指望取得胜利？我特别注意到作者笔下特朗普的冷漠，他能从严肃的战争话题迅速转向白宫装修，这不仅体现了其个人风格，更可能是一种无论结果如何都能宣称胜利的策略。文章还探讨了此次军事行动背后更深层次的动机，例如利用伊朗的脆弱性以及其对“名垂青史”的渴望。这篇分析揭示了政治领导人的个人意志与国家战略之间可能存在的巨大鸿沟，引人深思。",
+    "best_quote_en": "Can the U.S. win a war of its choosing when it cannot explain why it chose to fight or what, exactly, victory would mean?",
+    "best_quote_zh": "如果美国无法解释其为何选择开战，也无法明确胜利的定义，它能打赢一场自己选择的战争吗？"
+  },
+  {
+    "id": 684,
+    "title": "E-Books",
+    "title_zh": "电子书",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/e-books/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "business-model",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "商业模式",
+      "数据驱动"
+    ],
+    "date": "2026-03-02",
+    "summary_en": "This article, though dated, offers a fascinating snapshot of the early digital reading landscape, highlighting various platforms and strategies for accessing e-books and digital content. It covers everything from public library integrations with services like Overdrive, to free archives like Project Gutenberg, and even niche services for bite-sized reading (DailyLit) and tech subscriptions (Safari Books Online). What's particularly insightful is the emphasis on discoverability and convenience, showcasing how early adopters navigated a fragmented digital ecosystem. The piece also touches on the emerging trend of digital magazines and long-form journalism, pointing to Instapaper and Long Form as key players. It's a valuable historical document, illustrating the foundational technologies and user behaviors that shaped today's ubiquitous digital reading experience, and a reminder of how quickly tech evolves while core user needs for access and convenience remain constant.",
+    "summary_zh": "这篇旧文像一扇窗，让我窥见了数字阅读初期的生态，从公共图书馆的Overdrive到Project Gutenberg的免费宝藏，再到DailyLit的碎片化阅读和Safari Books Online的专业订阅，应有尽有。最引人深思的是，它展示了早期用户如何在碎片化的数字世界中寻找内容，追求便利。文章还提到了数字杂志和长篇报道的兴起，Instapaper和Long Form等平台的出现，都预示着数字阅读的未来。读罢此文，我不仅看到了技术演进的轨迹，更感受到了用户对内容获取和便捷阅读的永恒需求，仿佛在与过去的探索者进行一场跨时空对话。",
+    "best_quote_en": "Another convergence of several cool tools that merge to form a new level of cool tool.",
+    "best_quote_zh": "多种酷工具的又一次融合，共同形成了一个全新水平的酷工具。"
   }
 ]
